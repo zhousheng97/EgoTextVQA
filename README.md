@@ -35,5 +35,24 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 - The QAs emphasize scene text comprehension, but **only about half invoke the exact scene text**. 
 - The situations cover both **indoor and outdoor** activities.
 - Detailed **timestamps and categories of the questions** are provided to facilitate **real-time QA** and model analysis.
+ 
+<p align="center">
+<img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/dataset-comparision.png" alt="Sample Image" width="900">
+</p>
 
-  
+## 🎨 Dataset Examples
+
+
+## 📝 Evaluation
+
+
+## 📈 Experiment Results
+- Evaluation results of MLLMs on EgoTextVQA-Outdoor.
+<p align="center">
+<img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/model-evaluation-1.png" alt="Sample Image" width="900">
+</p>
+
+- Evaluation results of MLLMs on EgoTextVQA-Indoor.
+<p align="center">
+<img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/model-evaluation-2.png" alt="Sample Image" width="900">
+</p>
