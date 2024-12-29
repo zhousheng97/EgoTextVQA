@@ -25,6 +25,7 @@
 EgoTextVQA applies to **multiple images** and **video MLLMs**. 🎉
 
 ---
+
 ## 🔥 Update
 - `2025.xx.xx` We are very proud to launch ✨**EgoTextVQA**✨, a novel and rigorously constructed benchmark for egocentric QA assistance involving scene text!
 
@@ -35,10 +36,36 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 - The QAs emphasize scene text comprehension, but **only about half invoke the exact scene text**. 
 - The situations cover both **indoor and outdoor** activities.
 - Detailed **timestamps and categories of the questions** are provided to facilitate **real-time QA** and model analysis.
- 
-<p align="center">
-<img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/dataset-comparision.png" alt="Sample Image" width="900">
-</p>
+
+<details>
+  <summary>QA examples of different question categories.</summary>
+  
+  <p align="center">
+  <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/qa-example.png" alt="Sample Image" width="500">
+  </p>
+
+</details>
+
+
+<details>
+  <summary>Dataset analysis.</summary>
+  
+  <p align="center">
+  <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/dataset-analysis.png" alt="Sample Image" width="500">
+  </p>
+
+</details>
+
+
+<details>
+  <summary>Dataset comparision.</summary>
+  
+  <p align="center">
+  <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/dataset-comparision.png" alt="Sample Image" width="900">
+  </p>
+
+</details>
+
 
 **License**:
 ```
