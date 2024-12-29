@@ -41,18 +41,40 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 </p>
 
 ## 🎨 Dataset Examples
+- **Examples on EgoTextVQA-Outdoor.**
+<p align="center">
+<img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/result-outdoor.png" alt="Sample Image" width="900">
+</p>
 
+- **Examples on EgoTextVQA-Indoor.**
+<p align="center">
+<img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/result-indoor.png" alt="Sample Image" width="900">
+</p>
 
-## 📝 Evaluation
+## 📝 Evaluation Pipeline
+📍 Extract Frames and Subtitles:
 
+📍Prompt:
+
+📍 Evaluation:
+
+📍 Leaderboard:
+ 
+The evaluation code and needed files can be found [link](https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/logo.png)  
 
 ## 📈 Experiment Results
-- Evaluation results of MLLMs on EgoTextVQA-Outdoor.
+- **Evaluation results of MLLMs on EgoTextVQA-Outdoor.**
 <p align="center">
 <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/model-evaluation-1.png" alt="Sample Image" width="900">
 </p>
 
-- Evaluation results of MLLMs on EgoTextVQA-Indoor.
+
+- **Evaluation results of MLLMs on EgoTextVQA-Indoor.**
 <p align="center">
-<img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/model-evaluation-2.png" alt="Sample Image" width="900">
+<img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/model-evaluation-1.png" alt="Sample Image" width="900">
 </p>
+
+
+
+## ✨ Citation
+
