@@ -40,6 +40,15 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/dataset-comparision.png" alt="Sample Image" width="900">
 </p>
 
+**License**:
+```
+EgoTextVQA is only used for academic research. Commercial use in any form is prohibited.
+The copyright of all videos belongs to the video owners.
+If there is any infringement in EgoTextVQA, please email xxx and we will remove it immediately.
+Without prior approval, you cannot distribute, publish, copy, disseminate, or modify EgoTextVQA in whole or in part.
+You must strictly comply with the above restrictions.
+```
+
 ## 🎨 Dataset Examples
 <details>
   <summary>Examples on EgoTextVQA-Outdoor.</summary>
