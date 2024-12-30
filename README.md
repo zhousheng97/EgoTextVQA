@@ -109,7 +109,7 @@ The evaluation code and needed files can be found [link](https://github.com/zhou
 
 - **Evaluation results of MLLMs on EgoTextVQA-Indoor.**
 <p align="center">
-<img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/model-evaluation-1.png" alt="Sample Image" width="900">
+<img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/model-evaluation-2.png" alt="Sample Image" width="900">
 </p>
 
 
