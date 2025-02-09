@@ -1,7 +1,6 @@
 # EgoTextVQA: Towards Egocentric Scene-Text Aware Video Question Answering
 
-![Task](https://img.shields.io/badge/Task-TextVideoQA-red)
-![Task](https://img.shields.io/badge/Task-Egocentric--QA-orange)
+![Task](https://img.shields.io/badge/Task-Egocentric--Text--VideoQA-red)
 ![Dataset](https://img.shields.io/badge/Dataset-EgoTextVQA-blue)
 ![Model](https://img.shields.io/badge/Model-Gemini--1.5--Pro-green)
 ![Model](https://img.shields.io/badge/Model-Gemini--1.5--Flash-green)
