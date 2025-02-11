@@ -32,6 +32,14 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 - The situations cover both **indoor and outdoor** activities.
 - Detailed **timestamps and categories of the questions** are provided to facilitate **real-time QA** and model analysis.
 
+
+ <summary>Dataset comparision.</summary>
+  
+  <p align="center">
+  <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/dataset-comparision.png" alt="Sample Image" width="900">
+  </p>
+
+
 <details>
   <summary>QA examples of different question categories.</summary>
   
@@ -52,14 +60,6 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 </details>
 
 
-<details>
-  <summary>Dataset comparision.</summary>
-  
-  <p align="center">
-  <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/dataset-comparision.png" alt="Sample Image" width="900">
-  </p>
-
-</details>
 
 
 ## 🎨 Dataset Examples
