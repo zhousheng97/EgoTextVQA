@@ -32,8 +32,6 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 - The situations cover both **indoor and outdoor** activities.
 - Detailed **timestamps and categories of the questions** are provided to facilitate **real-time QA** and model analysis.
 
-
-
 #### Dataset Comparision
   
   <p align="center">
@@ -60,6 +58,11 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 
 </details>
 
+ ##  ✅ TODO List
+ - [x] Release paper on arxiv.
+- [ ] Release dataset.
+- [ ] Release model QA and evaluation code.
+- [ ] Build model evaluation server.
 
 
 
@@ -104,9 +107,14 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/model-evaluation-2.png" alt="Sample Image" width="900">
 </p>
 
+## 📧 Contact
 
+If you have any questions or suggestions about the dataset, please contact: hzgn97@gmail.com. We are happy to communicate 😊. 
 
 ## ✨ Citation
+If this work is helpful to you, consider giving this repository a 🌟 and citing our papers as follows:
+```
+```
 
 
 ## 💌 Acknowledgement
