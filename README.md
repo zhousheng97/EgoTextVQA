@@ -33,7 +33,8 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 - Detailed **timestamps and categories of the questions** are provided to facilitate **real-time QA** and model analysis.
 
 
- <summary>Dataset comparision.</summary>
+
+#### Dataset Comparision
   
   <p align="center">
   <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/dataset-comparision.png" alt="Sample Image" width="900">
