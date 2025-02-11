@@ -84,15 +84,11 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 
 
 ## 📝 Evaluation Pipeline
-📍Extract Frames and Subtitles:
+📍Video Process:
 
-📍Prompt:
+📍MLLM Prompt:
 
-📍Evaluation:
-
-📍Leaderboard:
- 
-The evaluation code and needed files can be found [link](https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/logo.png)  
+📍Evaluation Prompt:
 
 
 ## 📈 Experiment Results
