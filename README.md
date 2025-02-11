@@ -13,7 +13,7 @@
 
 <p align="center">
   [<a href="https://project-page-link.com">🌐 Project Page</a>]
-  [<a href="https://arxiv.org/abs/xxxx">📖 arXiv Paper</a>]
+  [<a href="https://arxiv.org/abs/xxxx">📖 Paper</a>]
   [<a href="https://dataset-link.com">📊 Dataset</a>]
   [<a href="https://leaderboard-link.com">🏆 Leaderboard</a>]
 </p>
