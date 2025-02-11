@@ -21,10 +21,6 @@
 
 ---
 
-EgoTextVQA applies to **multiple images** and **video MLLMs**. 🎉
-
----
-
 ## 🔥 Update
 - `2025.xx.xx` We are very proud to launch ✨**EgoTextVQA**✨, a novel and rigorously constructed benchmark for egocentric QA assistance involving scene text!
 
@@ -118,12 +114,3 @@ The evaluation code and needed files can be found [link](https://github.com/zhou
 
 ## 💌 Acknowledgement
 
-## 🔐 License
-
-```
-EgoTextVQA is only used for academic research. Commercial use in any form is prohibited.
-The copyright of all videos belongs to the video owners.
-If there is any infringement in EgoTextVQA, please email xxx and we will remove it immediately.
-Without prior approval, you cannot distribute, publish, copy, disseminate, or modify EgoTextVQA in whole or in part.
-You must strictly comply with the above restrictions.
-```
