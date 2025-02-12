@@ -68,24 +68,23 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 
 
 ## 🎨 Dataset Examples
-<details>
-  <summary>Examples on EgoTextVQA-Outdoor.</summary>
+
+- **Examples on EgoTextVQA-Outdoor**
   
   <p align="center">
   <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/result-outdoor.png" alt="Sample Image" width="900">
   </p>
 
-</details>
 
 
-<details>
-  <summary>Examples on EgoTextVQA-Indoor.</summary>
+
+- **Examples on EgoTextVQA-Indoor**
   
   <p align="center">
   <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/result-indoor.png" alt="Sample Image" width="900">
   </p>
 
-</details>
+
 
 
 ## 📝 Evaluation Pipeline
