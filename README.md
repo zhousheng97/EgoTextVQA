@@ -12,10 +12,10 @@
 ## ![EgoTextVQA](https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/logo.png)  
 
 <p align="center">
-  [<a href="https://project-page-link.com">🌐 Project Page</a>]
+  [<a href="https://github.com/zhousheng97/EgoTextVQA">🌐 Project Page</a>]
   [<a href="https://arxiv.org/abs/2502.07411">📖 Paper</a>]
-  [<a href="https://dataset-link.com">📊 Dataset</a>]
-  [<a href="https://leaderboard-link.com">🏆 Leaderboard</a> ]
+  [<a href="https://github.com/zhousheng97/EgoTextVQA">📊 Dataset</a>]
+  [<a href="https://github.com/zhousheng97/EgoTextVQA">🏆 Eval Server</a> ]
 </p>
 
 
@@ -115,12 +115,11 @@ If you have any questions or suggestions about the dataset, please contact: hzgn
 ## ✨ Citation
 If this work is helpful to you, consider giving this repository a 🌟 and citing our papers as follows:
 ```
-@misc{zhou2025egotextvqa,
+@article{zhou2025egotextvqa,
       title={EgoTextVQA: Towards Egocentric Scene-Text Aware Video Question Answering}, 
       author={Sheng Zhou and Junbin Xiao and Qingyun Li and Yicong Li and Xun Yang and Dan Guo and Meng Wang and Tat-Seng Chua and Angela Yao},
-      year={2025},
-      eprint={2502.07411},
-      url={https://arxiv.org/abs/2502.07411}, 
+      journal={arXiv preprint arXiv:2502.07411},
+      year={2025}
 }
 ```
 
