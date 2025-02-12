@@ -31,7 +31,7 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 - The QAs emphasize scene text comprehension, but **only about half invoke the exact scene text**. 
 - The situations cover both **indoor and outdoor** activities.
 - Detailed **timestamps and categories of the questions** are provided to facilitate **real-time QA** and model analysis.
-- The real-time QA setting is that the answer to the question is obtained from the content captured before the question is asked, rather than the global content. The answer changes with the timestamp of the question.
+- The real-time QA setting is that the answer to the question is obtained from the video **captured before the question is asked**, rather than the global content. The answer changes with the timestamp of the question.
 
 #### Dataset Comparision
   
