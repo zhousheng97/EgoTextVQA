@@ -22,6 +22,7 @@
 ---
 
 ## 🔥 Update
+- `2025.02.27` Our paper has been accepted by **CVPR 2025**! 🎉 Thanks to all co-authors and dataset annotators.
 - `2025.02.11` We are very proud to launch ✨**EgoTextVQA**✨, a novel and rigorously constructed benchmark for egocentric QA assistance involving scene text! Our paper has been released on [arXiv](https://arxiv.org/abs/2502.07411).
 
 ## 🔍 EgoTextVQA
