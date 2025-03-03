@@ -15,7 +15,6 @@
   [<a href="https://zhousheng97.github.io/EgoTextVQA_page">🌐 Project Page</a>]
   [<a href="https://arxiv.org/abs/2502.07411">📖 Paper</a>]
   [<a href="https://github.com/zhousheng97/EgoTextVQA">📊 Dataset</a>]
-  [<a href="https://github.com/zhousheng97/EgoTextVQA">🏆 Eval Server</a> ]
 </p>
 
 
@@ -64,7 +63,6 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
  - [x] Release paper on arxiv.
 - [ ] Release dataset.
 - [ ] Release model QA and evaluation code.
-- [ ] Release model evaluation server.
 
 
 
