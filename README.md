@@ -84,11 +84,17 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 ## 📝 Evaluation Pipeline
 1. **Download Videos**:
    
-    Please download the EgoTextVQA-Outdoor videos from the [RoadTextVQA](https://github.com/georg3tom/RoadtextVQA) GitHub and the EgoTextVQA-Indoor videos from the [EgoSchema](https://github.com/egoschema/EgoSchema) GitHub by following their instructions. We provide the video IDs for our dataset in ```egotextvqa_outdoor_videoID.json``` (694 videos) and ```egotextvqa_indoor_videoID.json``` (813 videos).
+   + *Obtain raw_video*. Please download the EgoTextVQA-Outdoor videos from the [RoadTextVQA](https://github.com/georg3tom/RoadtextVQA) GitHub and the EgoTextVQA-Indoor videos from the [EgoSchema](https://github.com/egoschema/EgoSchema) GitHub by following their instructions.
+   We provide the video IDs for our dataset in ```egotextvqa_outdoor_videoID.json``` (694 videos) and ```egotextvqa_indoor_videoID.json``` (813 videos).
 
-3. Video Process:
+2. **Video Process**:
+   + *Obtain fps6_video*. After downloading the raw video, use ```video_process/change_video_fps.py``` to uniformly process the video to fps=6.
+   + *Obtian fps6_video_high_res and fps6_video_low_res*. The EgoTextVQA outdoor video is processed into two versions, where the original video is a high-resolution version and the low-resolution version is processed using ```video_process/change_video_res.py```.
+   + *Obtian fps6_frame*. Then use ```video_process/video2frame.py``` to process the fps=6 video into video frames for model evaluation.
+   + *Others*. More video process codes in the experiment can be found in ```video_process``` of the repo.
 
-4. MLLM QA Prompt:
+3. MLLM QA Prompt:
+   
 
 5. Evaluation Prompt:
 
@@ -110,7 +116,7 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/realtime-evaluation.png" alt="Sample Image" width="500">
 </p>
 
-- **Evaluation results of MLLMs on EgoTextVQA-Outdoor with high resolution (1920×1080, 1280×720)**
+- **Evaluation results of MLLMs on EgoTextVQA-Outdoor with high resolution (1920×1080, 1280×720).**
 <p align="center">
 <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/high-res-evaluation.png" alt="Sample Image" width="500">
 </p>
