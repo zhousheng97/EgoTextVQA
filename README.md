@@ -67,20 +67,6 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 - [ ] Release model QA and evaluation code.
 
 
-
-## 🎨 Dataset Examples
-
-- **Examples on EgoTextVQA-Outdoor**
-  <p align="center">
-  <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/result-outdoor.png" alt="Sample Image" width="900">
-  </p>
-
-- **Examples on EgoTextVQA-Indoor**
-  <p align="center">
-  <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/result-indoor.png" alt="Sample Image" width="900">
-  </p>
-
-
 ## 📝 Evaluation Pipeline
 1. **Download Videos**:
    
@@ -123,6 +109,22 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 <p align="center">
 <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/high-res-evaluation.png" alt="Sample Image" width="500">
 </p>
+
+## 🎨 Result Visualization
+
+<details>
+<summary>Examples on EgoTextVQA-Outdoor.</summary>
+  <p align="center">
+  <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/result-outdoor.png" alt="Sample Image" width="900">
+  </p>
+</details>
+
+<details>
+<summary>Examples on EgoTextVQA-Indoor.</summary>
+  <p align="center">
+  <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/result-indoor.png" alt="Sample Image" width="900">
+  </p>
+</details>
 
 ## 📧 Contact
 
