@@ -89,7 +89,7 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 
 2. **Video Process**:
    + *Obtain fps6_video*. After downloading the raw video, use ```video_process/change_video_fps.py``` to uniformly process the video to fps=6.
-   + *Obtian fps6_video_high_res and fps6_video_low_res*. The EgoTextVQA outdoor video is processed into two versions, where the original video is a high-resolution version and the low-resolution version is processed using ```video_process/change_video_res.py```.
+   + *Obtian fps6_video_high_res and fps6_video_low_res*. The EgoTextVQA outdoor video is processed into two versions, where the original video is a high-resolution version and the low-resolution version is processed using ```video_process/change_video_res.py```. For EgoTextVQA-Indoor, we do not deal with video resolution.
    + *Obtian fps6_frame*. Then use ```video_process/video2frame.py``` to process the fps=6 video into video frames for model evaluation.
    + *Others*. More video process codes in the experiment can be found in ```video_process``` of the repo.
 
