@@ -32,8 +32,9 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 - The situations cover both **indoor and outdoor** activities.
 - Detailed **timestamps and categories of the questions** are provided to facilitate **real-time QA** and model analysis.
 - The real-time QA setting is that the answer to the question is obtained from the video **captured before the question is asked**, rather than the global content. The answer changes with the timestamp of the question.
+- **High and low video resolution** settings can be used to evaluate the scene text reading capabilities of MLLMs.
 
-#### Dataset Comparision
+#### Dataset Comparison
   
   <p align="center">
   <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/dataset-comparision.png" alt="Sample Image" width="900">
@@ -69,25 +70,19 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 ## 🎨 Dataset Examples
 
 - **Examples on EgoTextVQA-Outdoor**
-  
   <p align="center">
   <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/result-outdoor.png" alt="Sample Image" width="900">
   </p>
 
-
-
-
 - **Examples on EgoTextVQA-Indoor**
-  
   <p align="center">
   <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/result-indoor.png" alt="Sample Image" width="900">
   </p>
 
 
-
-
 ## 📝 Evaluation Pipeline
 📍Video Process:
+
 
 📍MLLM QA Prompt:
 
@@ -95,15 +90,25 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 
 
 ## 📈 Experiment Results
-- **Evaluation results of MLLMs on EgoTextVQA-Outdoor.**
+- **Evaluation results of MLLMs on EgoTextVQA-Outdoor with Low resolution (960×540, 640×360).**
 <p align="center">
 <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/model-evaluation-1.png" alt="Sample Image" width="900">
 </p>
 
 
-- **Evaluation results of MLLMs on EgoTextVQA-Indoor.**
+- **Evaluation results of MLLMs on EgoTextVQA-Indoor with resolution (640×360, 480×360).**
 <p align="center">
 <img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/model-evaluation-2.png" alt="Sample Image" width="900">
+</p>
+
+- **Evaluation results of MLLMs on the real-time QA subset of EgoTextVQA-Outdoor (∼623 QA pairs).**
+<p align="center">
+<img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/realtime-evaluation.png" alt="Sample Image" width="500">
+</p>
+
+- **Evaluation results of MLLMs on EgoTextVQA-Outdoor with High resolution (1920×1080, 1280×720)**
+<p align="center">
+<img src="https://github.com/zhousheng97/EgoTextVQA/blob/main/asset/high-res-evaluation.png" alt="Sample Image" width="500">
 </p>
 
 ## 📧 Contact
