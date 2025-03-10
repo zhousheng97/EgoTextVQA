@@ -23,9 +23,9 @@
             {
                 "video_id": "0d173aa3-9a94-4ba4-84bc-949d3254a63d",
                 "question_id": 1,
-                "question": "what specific function does the \"softmec\" machine serve?",
+                "question": "what specific function does the softmec machine serve?",
                 "question_type": "kitchen",
-                "correct_answer": "the \"softmec\" machine is used for mixing ingredients",
+                "correct_answer": "the softmec machine is used for mixing ingredients",
                 "timestamp": 12.0
             },
             {
@@ -111,7 +111,7 @@
             {
                 "video_id": "2d4c64ed-f722-412f-9dec-e6f25d04d352",
                 "question_id": 1,
-                "question": "what brand is the green packet with the label \"bhindi okra\"?",
+                "question": "what brand is the green packet with the label bhindi okra?",
                 "question_type": "kitchen",
                 "correct_answer": "cofresh",
                 "timestamp": 10.7
@@ -121,7 +121,7 @@
                 "question_id": 1,
                 "question": "what cleaning product should i use to wash the dishes?",
                 "question_type": "kitchen",
-                "correct_answer": "the bottle labeled \"fairy\"",
+                "correct_answer": "the bottle labeled fairy",
                 "timestamp": 13.5
             },
             {
@@ -175,7 +175,7 @@
             {
                 "video_id": "4d645971-b161-4760-865d-11601904f28c",
                 "question_id": 1,
-                "question": "what is in the \"vasabi\" box next to the stove?",
+                "question": "what is in the vasabi box next to the stove?",
                 "question_type": "kitchen",
                 "correct_answer": "multiple bottles",
                 "timestamp": 9.8
@@ -191,7 +191,7 @@
             {
                 "video_id": "51654269-ab9b-4d28-a07d-5e6316e73aba",
                 "question_id": 1,
-                "question": "where do i put the \"large shrimp\" package last time?",
+                "question": "where do i put the large shrimp package last time?",
                 "question_type": "kitchen",
                 "correct_answer": "on the middle shelf next to the frozen vegetables",
                 "timestamp": 17.8
@@ -319,7 +319,7 @@
             {
                 "video_id": "a43e36bc-ec59-43af-92a3-53ae9e976215",
                 "question_id": 1,
-                "question": "what items are in the \"truly\" box on the counter?",
+                "question": "what items are in the truly box on the counter?",
                 "question_type": "kitchen",
                 "correct_answer": "flavored drinks",
                 "timestamp": 21.3
@@ -337,7 +337,7 @@
                 "question_id": 1,
                 "question": "what type of water should i grab for the picnic?",
                 "question_type": "kitchen",
-                "correct_answer": "bottled water labeled \"ice mountain\"",
+                "correct_answer": "bottled water labeled ice mountain",
                 "timestamp": 52.0
             },
             {
@@ -457,7 +457,7 @@
                 "question_id": 2,
                 "question": "where can i find information about upcoming local events, and how can i contact the event organizers?",
                 "question_type": "kitchen",
-                "correct_answer": "on the poster titled \"local events\" on the fridge, contact details are likely provided on the poster",
+                "correct_answer": "on the poster titled local events on the fridge, contact details are likely provided on the poster",
                 "timestamp": 5.3
             },
             {
@@ -567,7 +567,7 @@
             {
                 "video_id": "79dddbd8-a1fe-4331-85dc-a1cf4a5a61af",
                 "question_id": 2,
-                "question": "where should i place the \"fairy\" dishwashing liquid after using it?",
+                "question": "where should i place the fairy dishwashing liquid after using it?",
                 "question_type": "kitchen",
                 "correct_answer": "by the sink",
                 "timestamp": 25.0
@@ -591,7 +591,7 @@
             {
                 "video_id": "89ef10fe-0233-463e-bfcb-35e1d2d92f7f",
                 "question_id": 2,
-                "question": "where can i find the \"\u30ea\u30c3\u30c1\u30d6\u30ec\u30f3\u30c9\u30b3\u30fc\u30d2\u30fc\" (rich blend coffee) in the fridge?",
+                "question": "where can i find the \u30ea\u30c3\u30c1\u30d6\u30ec\u30f3\u30c9\u30b3\u30fc\u30d2\u30fc (rich blend coffee) in the fridge?",
                 "question_type": "kitchen",
                 "correct_answer": "in the door shelf of the fridge",
                 "timestamp": 16.2
@@ -623,7 +623,7 @@
             {
                 "video_id": "a43e36bc-ec59-43af-92a3-53ae9e976215",
                 "question_id": 2,
-                "question": "where can i find more information about the contents of the \"truly\" box?",
+                "question": "where can i find more information about the contents of the truly box?",
                 "question_type": "kitchen",
                 "correct_answer": "on the box label",
                 "timestamp": 21.3
@@ -633,7 +633,7 @@
                 "question_id": 2,
                 "question": "where is the organic cereal?",
                 "question_type": "kitchen",
-                "correct_answer": "on the middle shelf next to the \"organic\" labeled product",
+                "correct_answer": "on the middle shelf next to the organic labeled product",
                 "timestamp": 52.0
             },
             {
@@ -649,7 +649,7 @@
                 "question_id": 2,
                 "question": "where is the orange juice, and what's its brand?",
                 "question_type": "kitchen",
-                "correct_answer": "orange juice is in the door compartment, brand \"rude health\"",
+                "correct_answer": "orange juice is in the door compartment, brand rude health",
                 "timestamp": 18.8
             },
             {
@@ -815,7 +815,7 @@
             {
                 "video_id": "71c7414e-62c6-40a2-9651-a786c5659d03",
                 "question_id": 3,
-                "question": "which shelf in the refrigerator has the container of \"coffee-mate\"?",
+                "question": "which shelf in the refrigerator has the container of coffee-mate?",
                 "question_type": "kitchen",
                 "correct_answer": "third shelf",
                 "timestamp": 55.3
@@ -871,7 +871,7 @@
             {
                 "video_id": "c95014eb-d54a-4e61-a213-386fc11379be",
                 "question_id": 3,
-                "question": "where is the bottle labeled \"ketchup\" located in the refrigerator?",
+                "question": "where is the bottle labeled ketchup located in the refrigerator?",
                 "question_type": "kitchen",
                 "correct_answer": "in the door shelf",
                 "timestamp": 42.8
@@ -951,7 +951,7 @@
             {
                 "video_id": "6472e377-b65c-461a-a750-9b28a673dc86",
                 "question_id": 4,
-                "question": "what should i do to operate the kitchen appliance labeled \"ac\"?",
+                "question": "what should i do to operate the kitchen appliance labeled ac?",
                 "question_type": "kitchen",
                 "correct_answer": "plug it in and turn it on",
                 "timestamp": 37.2
@@ -1033,7 +1033,7 @@
                 "question_id": 4,
                 "question": "from which bag should i take supplies for the oven?",
                 "question_type": "kitchen",
-                "correct_answer": "the \"la spina\" bag",
+                "correct_answer": "the la spina bag",
                 "timestamp": 42.3
             },
             {
@@ -1047,7 +1047,7 @@
             {
                 "video_id": "abb624f4-eca3-4606-94d2-c680da8de280",
                 "question_id": 4,
-                "question": "where do i place the yellow \"vileda\" sponge?",
+                "question": "where do i place the yellow vileda sponge?",
                 "question_type": "kitchen",
                 "correct_answer": "placed to the right of the sink",
                 "timestamp": 41.0
@@ -1055,7 +1055,7 @@
             {
                 "video_id": "b432d0b3-d6c6-4565-9733-3aa97b8812dd",
                 "question_id": 4,
-                "question": "where is the \"light salt\" food in the kitchen?",
+                "question": "where is the light salt food in the kitchen?",
                 "question_type": "kitchen",
                 "correct_answer": "in the cabinet with a wire basket",
                 "timestamp": 48.2
@@ -1103,7 +1103,7 @@
             {
                 "video_id": "02580ac5-bfbf-4b54-9a72-56541bbcb27a",
                 "question_id": 5,
-                "question": "what other items are near the \"sweet home\"?",
+                "question": "what other items are near the sweet home?",
                 "question_type": "kitchen",
                 "correct_answer": "a large flower decor and a basket of hats",
                 "timestamp": 56.7
@@ -1143,7 +1143,7 @@
             {
                 "video_id": "0bbafd74-aa2f-4692-9f7d-7f6f6bf27187",
                 "question_id": 5,
-                "question": "where is the \"engev\" spice?",
+                "question": "where is the engev spice?",
                 "question_type": "kitchen",
                 "correct_answer": "on the counter with other spices",
                 "timestamp": 114.8
@@ -1175,7 +1175,7 @@
             {
                 "video_id": "57b68f47-26f8-475f-9111-f395cab3faf1",
                 "question_id": 5,
-                "question": "where is the \"no hands\" mixing machine located?",
+                "question": "where is the no hands mixing machine located?",
                 "question_type": "kitchen",
                 "correct_answer": "next to the sink area",
                 "timestamp": 115.8
@@ -1183,7 +1183,7 @@
             {
                 "video_id": "5e43992d-adb3-4bf0-8d8e-221b895b7c9a",
                 "question_id": 5,
-                "question": "which item is labeled \"mission\" near the stove?",
+                "question": "which item is labeled mission near the stove?",
                 "question_type": "kitchen",
                 "correct_answer": "package with yellow wrap next to the kettle",
                 "timestamp": 50.7
@@ -1201,13 +1201,13 @@
                 "question_id": 5,
                 "question": "which device should i use to quickly reheat my meal?",
                 "question_type": "kitchen",
-                "correct_answer": "use the one labeled \"ac rohs\"",
+                "correct_answer": "use the one labeled ac rohs",
                 "timestamp": 37.2
             },
             {
                 "video_id": "6b4e9866-df2c-4b46-92b7-55e1496f0189",
                 "question_id": 5,
-                "question": "where can i find the product that mentions \"nice!\" ?",
+                "question": "where can i find the product that mentions nice! ?",
                 "question_type": "kitchen",
                 "correct_answer": "next to the sink",
                 "timestamp": 48.7
@@ -1223,7 +1223,7 @@
             {
                 "video_id": "6cfb10a6-905f-43cd-aaf5-0cbe2862e2bb",
                 "question_id": 5,
-                "question": "where is the sign with the \"home sweet home\" located?",
+                "question": "where is the sign with the home sweet home located?",
                 "question_type": "kitchen",
                 "correct_answer": "on the wall above the counter",
                 "timestamp": 56.7
@@ -1265,7 +1265,7 @@
                 "question_id": 5,
                 "question": "which postcard is from dubai?",
                 "question_type": "kitchen",
-                "correct_answer": "the one with the text \"the new look of dubai\"",
+                "correct_answer": "the one with the text the new look of dubai",
                 "timestamp": 66.3
             },
             {
@@ -1287,7 +1287,7 @@
             {
                 "video_id": "b432d0b3-d6c6-4565-9733-3aa97b8812dd",
                 "question_id": 5,
-                "question": "which brand of snack is labeled \"probiotic cultures\"?",
+                "question": "which brand of snack is labeled probiotic cultures?",
                 "question_type": "kitchen",
                 "correct_answer": "kirkland",
                 "timestamp": 48.2
@@ -1351,7 +1351,7 @@
             {
                 "video_id": "2d4c64ed-f722-412f-9dec-e6f25d04d352",
                 "question_id": 6,
-                "question": "which bottle labeled \"pataks\" should i use to season the dish?",
+                "question": "which bottle labeled pataks should i use to season the dish?",
                 "question_type": "kitchen",
                 "correct_answer": "the bottle with the purple lid",
                 "timestamp": 89.2
@@ -1359,7 +1359,7 @@
             {
                 "video_id": "3179da5d-0f44-4d0f-91d8-d404805f54c3",
                 "question_id": 6,
-                "question": "which cupboard is above the kitchen counter near the dishwashing liquid \"fairy\"?",
+                "question": "which cupboard is above the kitchen counter near the dishwashing liquid fairy?",
                 "question_type": "kitchen",
                 "correct_answer": "the wooden cupboard",
                 "timestamp": 86.3
@@ -1367,7 +1367,7 @@
             {
                 "video_id": "4a5ce663-2c3b-4405-9128-34a743dbc7da",
                 "question_id": 6,
-                "question": "where is the detergent bottle with \"anti-bacterial\"?",
+                "question": "where is the detergent bottle with anti-bacterial?",
                 "question_type": "kitchen",
                 "correct_answer": "next to the kitchen sink",
                 "timestamp": 117.2
@@ -1417,7 +1417,7 @@
                 "question_id": 6,
                 "question": "what key ingredient can add flavor to this dessert mixture?",
                 "question_type": "kitchen",
-                "correct_answer": "ground coffee from the can with \"caffeine gourmet ground coffee\" text",
+                "correct_answer": "ground coffee from the can with caffeine gourmet ground coffee text",
                 "timestamp": 90.0
             },
             {
@@ -1465,7 +1465,7 @@
                 "question_id": 7,
                 "question": "what ingredients from the fridge would be good to use when making a smoothie with the 'rude health' product?",
                 "question_type": "kitchen",
-                "correct_answer": "some vegetables and \"rude health\"",
+                "correct_answer": "some vegetables and rude health",
                 "timestamp": 115.8
             },
             {
@@ -1511,7 +1511,7 @@
             {
                 "video_id": "68f6ddfd-bf42-4bee-b1c9-a48db428e586",
                 "question_id": 7,
-                "question": "what condition is the \"co-op\" food container in?",
+                "question": "what condition is the co-op food container in?",
                 "question_type": "kitchen",
                 "correct_answer": "new and unused",
                 "timestamp": 84.5
@@ -1599,7 +1599,7 @@
             {
                 "video_id": "dbbcd94e-c005-4eb4-a426-edf0ef911ba4",
                 "question_id": 7,
-                "question": "what flavor of cupcake is in the box labeled \"luisine\"?",
+                "question": "what flavor of cupcake is in the box labeled luisine?",
                 "question_type": "kitchen",
                 "correct_answer": "strawberry",
                 "timestamp": 65.3
@@ -1641,7 +1641,7 @@
                 "question_id": 8,
                 "question": "where is more information about the physics concepts available?",
                 "question_type": "kitchen",
-                "correct_answer": "check the contents of the books \"quantum physics,\" \"classical mechanics,\" and \"quantum field theory.\"",
+                "correct_answer": "check the contents of the books quantum physics, classical mechanics, and quantum field theory.",
                 "timestamp": 81.5
             },
             {
@@ -1655,7 +1655,7 @@
             {
                 "video_id": "29a90a91-999f-46fd-83d7-e3fc0d7ff231",
                 "question_id": 8,
-                "question": "which item that contains \"whole milk\" might be needed for my cereal tomorrow morning?",
+                "question": "which item that contains whole milk might be needed for my cereal tomorrow morning?",
                 "question_type": "kitchen",
                 "correct_answer": "the jug of milk",
                 "timestamp": 115.8
@@ -1687,7 +1687,7 @@
             {
                 "video_id": "51654269-ab9b-4d28-a07d-5e6316e73aba",
                 "question_id": 8,
-                "question": "where is the package with the name \"panela\"?",
+                "question": "where is the package with the name panela?",
                 "question_type": "kitchen",
                 "correct_answer": "on the bottom right in a red package",
                 "timestamp": 73.0
@@ -1719,7 +1719,7 @@
             {
                 "video_id": "6e72ace9-3ea8-4928-b1b9-07cd2787bdbc",
                 "question_id": 8,
-                "question": "where is the container labeled \"half caffeine\" placed in relation to the laptop?",
+                "question": "where is the container labeled half caffeine placed in relation to the laptop?",
                 "question_type": "kitchen",
                 "correct_answer": "to the right of the laptop",
                 "timestamp": 90.0
@@ -1759,7 +1759,7 @@
             {
                 "video_id": "b39ab84c-a82e-4ac3-a635-3594e52f810e",
                 "question_id": 8,
-                "question": "which bottle labeled \"lux\" is closest to the sink?",
+                "question": "which bottle labeled lux is closest to the sink?",
                 "question_type": "kitchen",
                 "correct_answer": "the green bottle",
                 "timestamp": 72.8
@@ -1767,9 +1767,9 @@
             {
                 "video_id": "b6176977-7f5c-4912-bd42-6d81f6cbe504",
                 "question_id": 8,
-                "question": "which of my ingredients is labeled \"rude\"? what kind of product is it?",
+                "question": "which of my ingredients is labeled rude? what kind of product is it?",
                 "question_type": "kitchen",
-                "correct_answer": "the ingredient labeled \"rude\" is a dark-colored bottle",
+                "correct_answer": "the ingredient labeled rude is a dark-colored bottle",
                 "timestamp": 87.2
             },
             {
@@ -1823,7 +1823,7 @@
             {
                 "video_id": "dbbcd94e-c005-4eb4-a426-edf0ef911ba4",
                 "question_id": 8,
-                "question": "where are available more canned drinks like the ones labeled \"fanta\" and \"mirinda\"?",
+                "question": "where are available more canned drinks like the ones labeled fanta and mirinda?",
                 "question_type": "kitchen",
                 "correct_answer": "on the right side of the shelf",
                 "timestamp": 65.3
@@ -1879,7 +1879,7 @@
             {
                 "video_id": "1d37d8e5-82da-440b-8476-58dd71fea1a2",
                 "question_id": 9,
-                "question": "which author wrote \"molly and the storm\"?",
+                "question": "which author wrote molly and the storm?",
                 "question_type": "kitchen",
                 "correct_answer": "charlotte lisson",
                 "timestamp": 150.5
@@ -1895,7 +1895,7 @@
             {
                 "video_id": "29a90a91-999f-46fd-83d7-e3fc0d7ff231",
                 "question_id": 9,
-                "question": "where is the \"whole milk\" placed in relation to the vegetables in the fridge?",
+                "question": "where is the whole milk placed in relation to the vegetables in the fridge?",
                 "question_type": "kitchen",
                 "correct_answer": "next to the vegetables",
                 "timestamp": 137.8
@@ -1935,7 +1935,7 @@
             {
                 "video_id": "49112a31-b220-453c-b061-64c821e59b06",
                 "question_id": 9,
-                "question": "where is the \"fairy\"?",
+                "question": "where is the fairy?",
                 "question_type": "kitchen",
                 "correct_answer": "near the kitchen sink",
                 "timestamp": 110.8
@@ -1967,7 +1967,7 @@
             {
                 "video_id": "5fd03399-589f-487c-b893-7ddeb1c293e4",
                 "question_id": 9,
-                "question": "how can i use the contents of the \"pitiarell\" bags safely?",
+                "question": "how can i use the contents of the pitiarell bags safely?",
                 "question_type": "kitchen",
                 "correct_answer": "spread the charcoal evenly in the grill",
                 "timestamp": 141.3
@@ -1975,7 +1975,7 @@
             {
                 "video_id": "70769ed6-747f-42f8-badc-27dc2d783998",
                 "question_id": 9,
-                "question": "where is the instructions for using the cleaner labeled \"fairy\"?",
+                "question": "where is the instructions for using the cleaner labeled fairy?",
                 "question_type": "kitchen",
                 "correct_answer": "on the back label of the bottle",
                 "timestamp": 65.2
@@ -2041,7 +2041,7 @@
                 "question_id": 10,
                 "question": "what type of flour do i use to mix with the egg in the yellow bowl?",
                 "question_type": "kitchen",
-                "correct_answer": "the flour bag reads \"flour\"",
+                "correct_answer": "the flour bag reads flour",
                 "timestamp": 115.2
             },
             {
@@ -2105,7 +2105,7 @@
                 "question_id": 10,
                 "question": "what should i do to clean the pot after cooking?",
                 "question_type": "kitchen",
-                "correct_answer": "use the \"fairy\" dishwashing liquid and scrub the pot with a cloth",
+                "correct_answer": "use the fairy dishwashing liquid and scrub the pot with a cloth",
                 "timestamp": 165.0
             },
             {
@@ -2145,7 +2145,7 @@
                 "question_id": 10,
                 "question": "where is the ice cream?",
                 "question_type": "kitchen",
-                "correct_answer": "in the fridge labeled \"arun icecreams\"",
+                "correct_answer": "in the fridge labeled arun icecreams",
                 "timestamp": 117.3
             },
             {
@@ -2239,7 +2239,7 @@
             {
                 "video_id": "0d173aa3-9a94-4ba4-84bc-949d3254a63d",
                 "question_id": 11,
-                "question": "where are more bags of the \"maiorca\" flour available, and how many are stacked in pairs?",
+                "question": "where are more bags of the maiorca flour available, and how many are stacked in pairs?",
                 "question_type": "kitchen",
                 "correct_answer": "on the left stacks, 2 pairs",
                 "timestamp": 96.0
@@ -2255,7 +2255,7 @@
             {
                 "video_id": "236b985c-7515-4e36-a2dd-b65f62bc9ca7",
                 "question_id": 11,
-                "question": "where should i place the \"chicken\" food item after the timer on the oven reaches zero?",
+                "question": "where should i place the chicken food item after the timer on the oven reaches zero?",
                 "question_type": "kitchen",
                 "correct_answer": "on the table",
                 "timestamp": 108.7
@@ -2281,13 +2281,13 @@
                 "question_id": 11,
                 "question": "where are instructions to prepare the oats?",
                 "question_type": "kitchen",
-                "correct_answer": "on the oats container that says \"have you had yours?\"",
+                "correct_answer": "on the oats container that says have you had yours?",
                 "timestamp": 119.0
             },
             {
                 "video_id": "7cdc1d93-dc10-4f18-b2b4-caab23d9023d",
                 "question_id": 11,
-                "question": "where is the \"fragole\"?",
+                "question": "where is the fragole?",
                 "question_type": "kitchen",
                 "correct_answer": "on the tablecloth",
                 "timestamp": 112.0
@@ -2343,7 +2343,7 @@
             {
                 "video_id": "ab90c1f3-716f-49a7-b0c2-24af62873c53",
                 "question_id": 11,
-                "question": "which item labeled \"soft cheese\" is among the ingredients on the table?",
+                "question": "which item labeled soft cheese is among the ingredients on the table?",
                 "question_type": "kitchen",
                 "correct_answer": "the one near the edge next to the purple container",
                 "timestamp": 109.0
@@ -2353,13 +2353,13 @@
                 "question_id": 11,
                 "question": "where is more information about the organic certification of the ingredients available?",
                 "question_type": "kitchen",
-                "correct_answer": "the packaging with a label saying \"100% organic\"",
+                "correct_answer": "the packaging with a label saying 100% organic",
                 "timestamp": 101.3
             },
             {
                 "video_id": "b94c944b-5c8a-488b-b757-4a68fdddaa80",
                 "question_id": 11,
-                "question": "where do i place the \"dawn\" dish detergent after using it?",
+                "question": "where do i place the dawn dish detergent after using it?",
                 "question_type": "kitchen",
                 "correct_answer": "near the faucet",
                 "timestamp": 106.0
@@ -2415,7 +2415,7 @@
             {
                 "video_id": "0a8b2c9d-b54c-4811-acf3-5977895d2445",
                 "question_id": 12,
-                "question": "where is the \"phhids\" box?",
+                "question": "where is the phhids box?",
                 "question_type": "kitchen",
                 "correct_answer": "on the floor",
                 "timestamp": 148.5
@@ -2423,7 +2423,7 @@
             {
                 "video_id": "18a07dbc-38bb-4a66-88d3-4a5404630458",
                 "question_id": 12,
-                "question": "where are the tools necessary to work on the section marked \"face\"?",
+                "question": "where are the tools necessary to work on the section marked face?",
                 "question_type": "kitchen",
                 "correct_answer": "inside the blue toolbox",
                 "timestamp": 148.0
@@ -2487,7 +2487,7 @@
             {
                 "video_id": "b432d0b3-d6c6-4565-9733-3aa97b8812dd",
                 "question_id": 12,
-                "question": "which product packaging has the word \"pure\" on it?",
+                "question": "which product packaging has the word pure on it?",
                 "question_type": "kitchen",
                 "correct_answer": "diaper boxes",
                 "timestamp": 138.3
@@ -2511,7 +2511,7 @@
             {
                 "video_id": "5e43992d-adb3-4bf0-8d8e-221b895b7c9a",
                 "question_id": 13,
-                "question": "which spice jar is labeled \"paprika\"?",
+                "question": "which spice jar is labeled paprika?",
                 "question_type": "kitchen",
                 "correct_answer": "the jar with orange label on the second shelf",
                 "timestamp": 134.7
@@ -2551,7 +2551,7 @@
             {
                 "video_id": "ab90c1f3-716f-49a7-b0c2-24af62873c53",
                 "question_id": 13,
-                "question": "what is the product labeled \"miso\" used for, and where do i place it after taking it out of the fridge?",
+                "question": "what is the product labeled miso used for, and where do i place it after taking it out of the fridge?",
                 "question_type": "kitchen",
                 "correct_answer": "it is used for soups and was placed back onto the top shelf",
                 "timestamp": 139.0
@@ -2639,7 +2639,7 @@
             {
                 "video_id": "9bbc5382-7faf-43a0-9a12-02c3458c6c89",
                 "question_id": 14,
-                "question": "where is the \"fairy\"?",
+                "question": "where is the fairy?",
                 "question_type": "kitchen",
                 "correct_answer": "on the right side of the sink",
                 "timestamp": 143.3
@@ -2647,7 +2647,7 @@
             {
                 "video_id": "dcfb28cd-7381-4241-9691-3197b2b539a4",
                 "question_id": 14,
-                "question": "where is the \"sole\" product stored?",
+                "question": "where is the sole product stored?",
                 "question_type": "kitchen",
                 "correct_answer": "in the refrigerator",
                 "timestamp": 145.8
@@ -2679,7 +2679,7 @@
             {
                 "video_id": "b1a1280a-1f7f-4796-bca2-ba03f3fb9345",
                 "question_id": 15,
-                "question": "where is the \"great value\" cereal pack?",
+                "question": "where is the great value cereal pack?",
                 "question_type": "kitchen",
                 "correct_answer": "on the counter",
                 "timestamp": 147.3

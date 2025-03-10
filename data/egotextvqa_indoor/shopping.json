@@ -15,7 +15,7 @@
             {
                 "video_id": "0b8e9abf-6a6c-4f8c-8daa-c027c641a081",
                 "question_id": 1,
-                "question": "what is the price of the \"frosted donettes\" i am looking at?",
+                "question": "what is the price of the frosted donettes i am looking at?",
                 "question_type": "shopping",
                 "correct_answer": "2.49",
                 "timestamp": 18.8
@@ -81,7 +81,7 @@
                 "question_id": 1,
                 "question": "where can i find the \u2018cups\u2019 in this store?",
                 "question_type": "shopping",
-                "correct_answer": "near the \"scott\" products",
+                "correct_answer": "near the scott products",
                 "timestamp": 18.3
             },
             {
@@ -95,7 +95,7 @@
             {
                 "video_id": "3a4f4d5c-c8fa-4bb1-8e80-7c22cab54116",
                 "question_id": 1,
-                "question": "where can i find more information about the brand or collection named \"1969\" in this store?",
+                "question": "where can i find more information about the brand or collection named 1969 in this store?",
                 "question_type": "shopping",
                 "correct_answer": "check the labels and tags attached to the jeans for more information",
                 "timestamp": 10.8
@@ -105,7 +105,7 @@
                 "question_id": 1,
                 "question": "what are the sale items available in this store for $1?",
                 "question_type": "shopping",
-                "correct_answer": "sale items are marked with \"sale $1\"",
+                "correct_answer": "sale items are marked with sale $1",
                 "timestamp": 25.2
             },
             {
@@ -143,7 +143,7 @@
             {
                 "video_id": "51e6677f-4bce-4058-8652-a332e3a00cc2",
                 "question_id": 1,
-                "question": "which item in the deli section has \"chobani\" printed on it?",
+                "question": "which item in the deli section has chobani printed on it?",
                 "question_type": "shopping",
                 "correct_answer": "yogurt cup",
                 "timestamp": 16.7
@@ -223,7 +223,7 @@
             {
                 "video_id": "99d2564a-8de6-4f9b-b61a-602ec60fe9b5",
                 "question_id": 1,
-                "question": "where can i find the \"100 grand\" bars in the store?",
+                "question": "where can i find the 100 grand bars in the store?",
                 "question_type": "shopping",
                 "correct_answer": "on the top shelf next to the kitkat bigkat bars",
                 "timestamp": 28.2
@@ -279,7 +279,7 @@
             {
                 "video_id": "0b8e9abf-6a6c-4f8c-8daa-c027c641a081",
                 "question_id": 2,
-                "question": "where can i find the \"milano\" cookies, and how much do they cost?",
+                "question": "where can i find the milano cookies, and how much do they cost?",
                 "question_type": "shopping",
                 "correct_answer": "top shelf on the right, $6.79",
                 "timestamp": 18.8
@@ -321,7 +321,7 @@
                 "question_id": 2,
                 "question": "where are the new accessories displayed in stock that just arrived?",
                 "question_type": "shopping",
-                "correct_answer": "on the table labeled \"new accessories in stock\" and \"just arrived.\"",
+                "correct_answer": "on the table labeled new accessories in stock and just arrived.",
                 "timestamp": 19.3
             },
             {
@@ -353,7 +353,7 @@
                 "question_id": 2,
                 "question": "where can i get iced tea from these dispensers?",
                 "question_type": "shopping",
-                "correct_answer": "the dispenser with the \"iced tea\" label",
+                "correct_answer": "the dispenser with the iced tea label",
                 "timestamp": 21.2
             },
             {
@@ -399,7 +399,7 @@
             {
                 "video_id": "99d2564a-8de6-4f9b-b61a-602ec60fe9b5",
                 "question_id": 2,
-                "question": "which type of candy bar is located directly below the \"kitkat bigkat\" bars?",
+                "question": "which type of candy bar is located directly below the kitkat bigkat bars?",
                 "question_type": "shopping",
                 "correct_answer": "musketeers bars",
                 "timestamp": 28.2
@@ -423,7 +423,7 @@
             {
                 "video_id": "9ca6e523-548b-4af9-867d-0aa38c65a0a4",
                 "question_id": 2,
-                "question": "which shelf has the \"bubly\" drinks and how many different flavors are available?",
+                "question": "which shelf has the bubly drinks and how many different flavors are available?",
                 "question_type": "shopping",
                 "correct_answer": "top shelf, 6 flavors",
                 "timestamp": 17.7
@@ -439,7 +439,7 @@
             {
                 "video_id": "b5043f82-8ff2-4760-8fe4-8da1d1c8f37f",
                 "question_id": 2,
-                "question": "where can i find the \"tamimi markets\" section for canned goods and other non-frozen items?",
+                "question": "where can i find the tamimi markets section for canned goods and other non-frozen items?",
                 "question_type": "shopping",
                 "correct_answer": "next to the frozen products section",
                 "timestamp": 26.2
@@ -457,7 +457,7 @@
                 "question_id": 2,
                 "question": "where do i press to get iced tea?",
                 "question_type": "shopping",
-                "correct_answer": "on the lever below the \"iced tea\" label",
+                "correct_answer": "on the lever below the iced tea label",
                 "timestamp": 21.2
             },
             {
@@ -497,7 +497,7 @@
                 "question_id": 3,
                 "question": "where can i find hot beverages in this place?",
                 "question_type": "shopping",
-                "correct_answer": "look for the area labeled \"hot blend\"",
+                "correct_answer": "look for the area labeled hot blend",
                 "timestamp": 49.0
             },
             {
@@ -543,7 +543,7 @@
             {
                 "video_id": "59f57895-75d3-4966-85a6-a94261b32461",
                 "question_id": 3,
-                "question": "what kind of store or display might this be based ona the items in front of the wall and the letter \"a\"?",
+                "question": "what kind of store or display might this be based ona the items in front of the wall and the letter a?",
                 "question_type": "shopping",
                 "correct_answer": "an accessories store",
                 "timestamp": 84.2
@@ -583,7 +583,7 @@
             {
                 "video_id": "a6e66b85-532d-4d73-bc53-6740981166ac",
                 "question_id": 3,
-                "question": "what is the purpose of the products labeled \"hawthorne\" and \"cough\"?",
+                "question": "what is the purpose of the products labeled hawthorne and cough?",
                 "question_type": "shopping",
                 "correct_answer": "they are for soothing coughs",
                 "timestamp": 60.7
@@ -601,7 +601,7 @@
                 "question_id": 3,
                 "question": "which dispenser would i use to get french vanilla flavored coffee?",
                 "question_type": "shopping",
-                "correct_answer": "the machine with the \"french vanilla\" text",
+                "correct_answer": "the machine with the french vanilla text",
                 "timestamp": 52.8
             },
             {
@@ -753,7 +753,7 @@
                 "question_id": 4,
                 "question": "where can i sign up to get the 20% off discount?",
                 "question_type": "shopping",
-                "correct_answer": "at the sign with \"sign up extra 20% off\"",
+                "correct_answer": "at the sign with sign up extra 20% off",
                 "timestamp": 56.8
             },
             {
@@ -815,7 +815,7 @@
             {
                 "video_id": "7dc164b0-a785-4f17-8283-0c11f1dd60ad",
                 "question_id": 4,
-                "question": "which items are labeled as \"just arrived\"?",
+                "question": "which items are labeled as just arrived?",
                 "question_type": "shopping",
                 "correct_answer": "belts and ties",
                 "timestamp": 36.8
@@ -839,7 +839,7 @@
             {
                 "video_id": "9ca6e523-548b-4af9-867d-0aa38c65a0a4",
                 "question_id": 4,
-                "question": "what are the options in the \"pick 5 for \u20ac8\" offer, and where can i find it?",
+                "question": "what are the options in the pick 5 for \u20ac8 offer, and where can i find it?",
                 "question_type": "shopping",
                 "correct_answer": "on the promotional board near the counter",
                 "timestamp": 50.8
@@ -871,7 +871,7 @@
             {
                 "video_id": "c34e1701-74fa-4b3b-9058-32480847de16",
                 "question_id": 4,
-                "question": "what does the \"pick 5\" offer include?",
+                "question": "what does the pick 5 offer include?",
                 "question_type": "shopping",
                 "correct_answer": "assorted items for $8.00",
                 "timestamp": 46.7
@@ -895,7 +895,7 @@
             {
                 "video_id": "cf1c7dff-d8c6-44f8-9d48-9ffc443b3152",
                 "question_id": 4,
-                "question": "what is the title of the magazine with a focus on gardening and recipes for dishes that feature \"full flavor\"?",
+                "question": "what is the title of the magazine with a focus on gardening and recipes for dishes that feature full flavor?",
                 "question_type": "shopping",
                 "correct_answer": "better homes and gardens",
                 "timestamp": 78.5
@@ -1079,7 +1079,7 @@
             {
                 "video_id": "b1c71e68-f8f1-475a-9237-4c040a6ea586",
                 "question_id": 5,
-                "question": "which product that mentions \"2/$5\"?",
+                "question": "which product that mentions 2/$5?",
                 "question_type": "shopping",
                 "correct_answer": "lay\u2019s",
                 "timestamp": 53.3
@@ -1135,7 +1135,7 @@
             {
                 "video_id": "cd8a8370-2da1-43f2-b003-c3e82dfd77a4",
                 "question_id": 5,
-                "question": "where can i find more flavors or variations of snacks \"ranch\"?",
+                "question": "where can i find more flavors or variations of snacks ranch?",
                 "question_type": "shopping",
                 "correct_answer": "on the same aisle of snack crackers",
                 "timestamp": 47.0
@@ -1145,7 +1145,7 @@
                 "question_id": 5,
                 "question": "where can i find information about the latest trends and news in the fashion industry among the magazines shown?",
                 "question_type": "shopping",
-                "correct_answer": "the magazine featuring \"kristen stewart\" on the cover",
+                "correct_answer": "the magazine featuring kristen stewart on the cover",
                 "timestamp": 78.5
             },
             {
@@ -1159,7 +1159,7 @@
             {
                 "video_id": "d914bc28-ab46-405b-a99e-0a7d943cd2aa",
                 "question_id": 5,
-                "question": "which items are being promoted with a \"3 for $5.75\" deal?",
+                "question": "which items are being promoted with a 3 for $5.75 deal?",
                 "question_type": "shopping",
                 "correct_answer": "canned beverages",
                 "timestamp": 47.0
@@ -1215,15 +1215,15 @@
             {
                 "video_id": "3a4f4d5c-c8fa-4bb1-8e80-7c22cab54116",
                 "question_id": 6,
-                "question": "how many shirts with the text \"rvca\" do i examine?",
+                "question": "how many shirts with the text rvca do i examine?",
                 "question_type": "shopping",
-                "correct_answer": "i examine three shirts with the text \"rvca\"",
+                "correct_answer": "i examine three shirts with the text rvca",
                 "timestamp": 101.0
             },
             {
                 "video_id": "3dfef34d-2a66-4e6f-b5e0-6eb33c813f57",
                 "question_id": 6,
-                "question": "which item has the tag \"14,\" and where is it located?",
+                "question": "which item has the tag 14, and where is it located?",
                 "question_type": "shopping",
                 "correct_answer": "a product on the shelf, towards the right side",
                 "timestamp": 80.7
@@ -1231,9 +1231,9 @@
             {
                 "video_id": "59f57895-75d3-4966-85a6-a94261b32461",
                 "question_id": 6,
-                "question": "where can i find out more details about the \"flash sale\"?",
+                "question": "where can i find out more details about the flash sale?",
                 "question_type": "shopping",
-                "correct_answer": "on the sign with the text \"flash sale\"",
+                "correct_answer": "on the sign with the text flash sale",
                 "timestamp": 115.3
             },
             {
@@ -1247,7 +1247,7 @@
             {
                 "video_id": "6dc20dc0-60ec-47c6-b8e2-c383e0b5f4bc",
                 "question_id": 6,
-                "question": "where can i find the \"hazelbaklava\" boxes?",
+                "question": "where can i find the hazelbaklava boxes?",
                 "question_type": "shopping",
                 "correct_answer": "on the shelves",
                 "timestamp": 63.5
@@ -1303,7 +1303,7 @@
             {
                 "video_id": "c34e1701-74fa-4b3b-9058-32480847de16",
                 "question_id": 6,
-                "question": "which areas in this store should i check to participate in the \"pick 5\" promotion?",
+                "question": "which areas in this store should i check to participate in the pick 5 promotion?",
                 "question_type": "shopping",
                 "correct_answer": "at the counter area",
                 "timestamp": 84.8
@@ -1423,7 +1423,7 @@
             {
                 "video_id": "2de9fa3a-d09f-45fa-b499-76699dab75ee",
                 "question_id": 7,
-                "question": "where can i find something that is advertised for \"2 for $3.50\"?",
+                "question": "where can i find something that is advertised for 2 for $3.50?",
                 "question_type": "shopping",
                 "correct_answer": "in the snack section next to the refrigerator",
                 "timestamp": 78.3
@@ -1447,7 +1447,7 @@
             {
                 "video_id": "3a4f4d5c-c8fa-4bb1-8e80-7c22cab54116",
                 "question_id": 7,
-                "question": "what days do i need to visit the store to take advantage of the \"flash sale\"?",
+                "question": "what days do i need to visit the store to take advantage of the flash sale?",
                 "question_type": "shopping",
                 "correct_answer": "this weekend only",
                 "timestamp": 101.0
@@ -1457,15 +1457,15 @@
                 "question_id": 7,
                 "question": "where can i find the price for the 'house blend' coffee?",
                 "question_type": "shopping",
-                "correct_answer": "near the \"$5.75\" sign",
+                "correct_answer": "near the $5.75 sign",
                 "timestamp": 79.7
             },
             {
                 "video_id": "48bd5e5f-825a-461a-a580-cd635b1f17bb",
                 "question_id": 7,
-                "question": "where can i find the \"cup noodles\" in this store?",
+                "question": "where can i find the cup noodles in this store?",
                 "question_type": "shopping",
-                "correct_answer": "on the middle shelf next to the \"la preferida refried beans\"",
+                "correct_answer": "on the middle shelf next to the la preferida refried beans",
                 "timestamp": 76.3
             },
             {
@@ -1537,7 +1537,7 @@
                 "question_id": 7,
                 "question": "where can i find the lay's chips deal in the store?",
                 "question_type": "shopping",
-                "correct_answer": "above the register near the \"2 for $5\" sign",
+                "correct_answer": "above the register near the 2 for $5 sign",
                 "timestamp": 78.8
             },
             {
@@ -1559,7 +1559,7 @@
             {
                 "video_id": "b85ebe9a-d77d-4a2e-ae90-dc3c99c37c11",
                 "question_id": 7,
-                "question": "where is the \"house blend\" coffee located in this store?",
+                "question": "where is the house blend coffee located in this store?",
                 "question_type": "shopping",
                 "correct_answer": "on the wall above the beverage section",
                 "timestamp": 86.0
@@ -1607,7 +1607,7 @@
             {
                 "video_id": "245a7130-2eac-4f9f-bd65-0925a9ebf3a0",
                 "question_id": 8,
-                "question": "which products are part of the \"2 for $6\" deal, and how do i locate them on the shelves?",
+                "question": "which products are part of the 2 for $6 deal, and how do i locate them on the shelves?",
                 "question_type": "shopping",
                 "correct_answer": "delight and other items on the middle shelf",
                 "timestamp": 78.8
@@ -1663,7 +1663,7 @@
             {
                 "video_id": "97ce24f3-6232-4aae-ab17-eef2c6491833",
                 "question_id": 8,
-                "question": "which backpack has the word \"awesome\" written on it?",
+                "question": "which backpack has the word awesome written on it?",
                 "question_type": "shopping",
                 "correct_answer": "the pink backpack",
                 "timestamp": 78.3
@@ -1697,7 +1697,7 @@
                 "question_id": 8,
                 "question": "which two snacks can i buy for $3.33, and are there any other promotional offers in the nearby shelves?",
                 "question_type": "shopping",
-                "correct_answer": "the two snacks you can buy for $3.33 are indicated near the checkout, and other promotional offers include \"buy any 3 for...\" nearby",
+                "correct_answer": "the two snacks you can buy for $3.33 are indicated near the checkout, and other promotional offers include buy any 3 for... nearby",
                 "timestamp": 84.8
             },
             {
@@ -1719,7 +1719,7 @@
             {
                 "video_id": "d2c6b32d-4eca-4df1-9846-cec3a75a97a2",
                 "question_id": 8,
-                "question": "which brand of paper towels should i get for the \"signature cloth\" label?",
+                "question": "which brand of paper towels should i get for the signature cloth label?",
                 "question_type": "shopping",
                 "correct_answer": "viva",
                 "timestamp": 81.3
@@ -1767,7 +1767,7 @@
             {
                 "video_id": "3a4f4d5c-c8fa-4bb1-8e80-7c22cab54116",
                 "question_id": 9,
-                "question": "where can i find more information about the \"flash sale\" in the store?",
+                "question": "where can i find more information about the flash sale in the store?",
                 "question_type": "shopping",
                 "correct_answer": "signboard near mirror",
                 "timestamp": 146.7
@@ -1775,7 +1775,7 @@
             {
                 "video_id": "3f8fc786-82fd-4c93-9270-e93d9526b0cc",
                 "question_id": 9,
-                "question": "what is the meaning of \"$5.75\" ?",
+                "question": "what is the meaning of $5.75 ?",
                 "question_type": "shopping",
                 "correct_answer": "the price of the 'house blend' coffee",
                 "timestamp": 105.3
@@ -1807,9 +1807,9 @@
             {
                 "video_id": "5bcbfe3d-a06d-42d5-9f20-8aa702e7e215",
                 "question_id": 9,
-                "question": "where is the item with the \"special offer\" label located in relation to the \"spring roll\" package?",
+                "question": "where is the item with the special offer label located in relation to the spring roll package?",
                 "question_type": "shopping",
-                "correct_answer": "to the left of the \"spring roll\" package",
+                "correct_answer": "to the left of the spring roll package",
                 "timestamp": 119.0
             },
             {
@@ -1903,7 +1903,7 @@
             {
                 "video_id": "001d2d1b-d2f9-4c39-810e-6e2087ff9d5a",
                 "question_id": 10,
-                "question": "what are the available options associated with the \"pick 5 for $8.00\" deal at the counter?",
+                "question": "what are the available options associated with the pick 5 for $8.00 deal at the counter?",
                 "question_type": "shopping",
                 "correct_answer": "the options include various baked goods",
                 "timestamp": 112.8
@@ -1945,7 +1945,7 @@
                 "question_id": 10,
                 "question": "where can i find more information about the items included in the flash sale?",
                 "question_type": "shopping",
-                "correct_answer": "refer to the \"flash sale\" sign inside the store",
+                "correct_answer": "refer to the flash sale sign inside the store",
                 "timestamp": 144.7
             },
             {
@@ -2023,7 +2023,7 @@
             {
                 "video_id": "97ce24f3-6232-4aae-ab17-eef2c6491833",
                 "question_id": 10,
-                "question": "which section can i find toys labeled \"diy truck\"?",
+                "question": "which section can i find toys labeled diy truck?",
                 "question_type": "shopping",
                 "correct_answer": "yellow toy trucks",
                 "timestamp": 115.2
@@ -2063,7 +2063,7 @@
             {
                 "video_id": "a6e66b85-532d-4d73-bc53-6740981166ac",
                 "question_id": 10,
-                "question": "what items are included in the \"flash sale\" and how much is the discount?",
+                "question": "what items are included in the flash sale and how much is the discount?",
                 "question_type": "shopping",
                 "correct_answer": "flash sale items are 25% off",
                 "timestamp": 117.3
@@ -2079,7 +2079,7 @@
             {
                 "video_id": "b1c71e68-f8f1-475a-9237-4c040a6ea586",
                 "question_id": 10,
-                "question": "what is the price difference between the cookies labeled \"milano\" and \"tahoe\"?",
+                "question": "what is the price difference between the cookies labeled milano and tahoe?",
                 "question_type": "shopping",
                 "correct_answer": "5.54",
                 "timestamp": 113.2
@@ -2143,7 +2143,7 @@
             {
                 "video_id": "102eecdb-6e05-4898-807b-8e8e78b7a059",
                 "question_id": 11,
-                "question": "where can i find a product to go with the \"taco shells\"?",
+                "question": "where can i find a product to go with the taco shells?",
                 "question_type": "shopping",
                 "correct_answer": "near the sauces and condiments section",
                 "timestamp": 113.0
@@ -2159,9 +2159,9 @@
             {
                 "video_id": "3a4f4d5c-c8fa-4bb1-8e80-7c22cab54116",
                 "question_id": 11,
-                "question": "is there other clothing or accessories here that are marked as \"just arrived\"?",
+                "question": "is there other clothing or accessories here that are marked as just arrived?",
                 "question_type": "shopping",
-                "correct_answer": "no, only the belts are marked \"just arrived.\"",
+                "correct_answer": "no, only the belts are marked just arrived.",
                 "timestamp": 146.7
             },
             {
@@ -2249,7 +2249,7 @@
                 "question_id": 11,
                 "question": "where should i look to find men's sweaters on sale?",
                 "question_type": "shopping",
-                "correct_answer": "the section with the \"flash sale\" sign",
+                "correct_answer": "the section with the flash sale sign",
                 "timestamp": 144.7
             },
             {
@@ -2263,7 +2263,7 @@
             {
                 "video_id": "950157a9-c258-453a-8e15-8c88abc43ba8",
                 "question_id": 11,
-                "question": "where can i find \"dual action\" cold relief products?",
+                "question": "where can i find dual action cold relief products?",
                 "question_type": "shopping",
                 "correct_answer": "on the right side, near the orange packaging",
                 "timestamp": 111.3
@@ -2319,7 +2319,7 @@
             {
                 "video_id": "c9a9d4fb-fa4e-4289-a81a-6e4045c54692",
                 "question_id": 11,
-                "question": "where can i find the \"kit kat\" since i see \"reese's\"?",
+                "question": "where can i find the kit kat since i see reese's?",
                 "question_type": "shopping",
                 "correct_answer": "top right of the shelf",
                 "timestamp": 114.2
@@ -2327,7 +2327,7 @@
             {
                 "video_id": "cd8a8370-2da1-43f2-b003-c3e82dfd77a4",
                 "question_id": 11,
-                "question": "which products are included in the \"2 for $6\" deal?",
+                "question": "which products are included in the 2 for $6 deal?",
                 "question_type": "shopping",
                 "correct_answer": "burritos",
                 "timestamp": 97.3
@@ -2361,7 +2361,7 @@
                 "question_id": 12,
                 "question": "which items are included in the flash sale?",
                 "question_type": "shopping",
-                "correct_answer": "clothes hanging on the rack near the \"flash sale\" sign",
+                "correct_answer": "clothes hanging on the rack near the flash sale sign",
                 "timestamp": 139.7
             },
             {
@@ -2417,7 +2417,7 @@
                 "question_id": 12,
                 "question": "how can i tell if the store is currently open?",
                 "question_type": "shopping",
-                "correct_answer": "by the \"open\" sign",
+                "correct_answer": "by the open sign",
                 "timestamp": 137.7
             },
             {
@@ -2487,9 +2487,9 @@
             {
                 "video_id": "d4cce61e-24ea-4775-9e6d-8c7895ee5f67",
                 "question_id": 12,
-                "question": "which shirts here have a number \"72\" on them?",
+                "question": "which shirts here have a number 72 on them?",
                 "question_type": "shopping",
-                "correct_answer": "the shirts with \"ecko unltd.\"",
+                "correct_answer": "the shirts with ecko unltd.",
                 "timestamp": 133.2
             },
             {
@@ -2511,7 +2511,7 @@
             {
                 "video_id": "2149306d-4d80-40a1-a50f-24fbf9b88277",
                 "question_id": 13,
-                "question": "what items are being offered for the \"2/$10.99\" deal, and where can i find them?",
+                "question": "what items are being offered for the 2/$10.99 deal, and where can i find them?",
                 "question_type": "shopping",
                 "correct_answer": "pizzas, by the glass door on the right",
                 "timestamp": 145.2
@@ -2527,7 +2527,7 @@
             {
                 "video_id": "3f8fc786-82fd-4c93-9270-e93d9526b0cc",
                 "question_id": 13,
-                "question": "where can i find the \"house blend\" coffees in this store?",
+                "question": "where can i find the house blend coffees in this store?",
                 "question_type": "shopping",
                 "correct_answer": "near the counter with baked goods",
                 "timestamp": 134.2
@@ -2543,7 +2543,7 @@
             {
                 "video_id": "4f77f6b9-9409-45cb-804d-39497baa58ae",
                 "question_id": 13,
-                "question": "where can i find the item priced at \"2/10.99\"?",
+                "question": "where can i find the item priced at 2/10.99?",
                 "question_type": "shopping",
                 "correct_answer": "near the glass door with the pizza sign",
                 "timestamp": 145.2
@@ -2559,7 +2559,7 @@
             {
                 "video_id": "5e12b005-d720-4ec9-b364-178bc0e4d336",
                 "question_id": 13,
-                "question": "what are the specific items included in the \"flash sale\"?",
+                "question": "what are the specific items included in the flash sale?",
                 "question_type": "shopping",
                 "correct_answer": "there are no specific items mentioned",
                 "timestamp": 143.0
@@ -2583,7 +2583,7 @@
             {
                 "video_id": "843e21ec-d2bc-4f06-9fb6-6ad6cbe529d2",
                 "question_id": 13,
-                "question": "what items are included in the \"new accessories in stock\" section?",
+                "question": "what items are included in the new accessories in stock section?",
                 "question_type": "shopping",
                 "correct_answer": "belts and other accessories",
                 "timestamp": 146.8
@@ -2599,7 +2599,7 @@
             {
                 "video_id": "d1bbc6f0-753a-437f-afcf-94daf3c9b47a",
                 "question_id": 13,
-                "question": "where do i find the \"house blend\" coffee in this store?",
+                "question": "where do i find the house blend coffee in this store?",
                 "question_type": "shopping",
                 "correct_answer": "near the beverage refrigerators",
                 "timestamp": 138.7
@@ -2617,7 +2617,7 @@
                 "question_id": 14,
                 "question": "where should i head to find cafe del chorro from this location?",
                 "question_type": "shopping",
-                "correct_answer": "toward the sign that says \"cafe del chorro\"",
+                "correct_answer": "toward the sign that says cafe del chorro",
                 "timestamp": 127.2
             },
             {
@@ -2625,7 +2625,7 @@
                 "question_id": 14,
                 "question": "where can i find more information about the flash sale?",
                 "question_type": "shopping",
-                "correct_answer": "on the sign mentioning \"flash sale\"",
+                "correct_answer": "on the sign mentioning flash sale",
                 "timestamp": 139.7
             },
             {
@@ -2679,7 +2679,7 @@
             {
                 "video_id": "5bcbfe3d-a06d-42d5-9f20-8aa702e7e215",
                 "question_id": 14,
-                "question": "where can i find the item with the \"special offer\" label, and what type of packaging should i look for?",
+                "question": "where can i find the item with the special offer label, and what type of packaging should i look for?",
                 "question_type": "shopping",
                 "correct_answer": "the item is located on the left door shelf in a rectangular red and yellow box",
                 "timestamp": 124.0
@@ -2751,7 +2751,7 @@
             {
                 "video_id": "c0022559-fa6b-4efa-b6f4-4c37e747f99d",
                 "question_id": 14,
-                "question": "which one of the drink brands in the refrigerator is advertised as offering \"low-energy\"?",
+                "question": "which one of the drink brands in the refrigerator is advertised as offering low-energy?",
                 "question_type": "shopping",
                 "correct_answer": "coca-cola low-energy",
                 "timestamp": 135.8
@@ -2815,7 +2815,7 @@
             {
                 "video_id": "6581b7ef-5fdf-489a-b066-49aca12776b5",
                 "question_id": 15,
-                "question": "can you help me find the items labeled with \"1$\" or \"2$\" on the price tags?",
+                "question": "can you help me find the items labeled with 1$ or 2$ on the price tags?",
                 "question_type": "shopping",
                 "correct_answer": "on the left wall",
                 "timestamp": 129.5

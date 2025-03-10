@@ -17,7 +17,7 @@
                 "question_id": 1,
                 "question": "where should i place the new bricks ?",
                 "question_type": "hands-on",
-                "correct_answer": "group the new bricks with the others labeled \"suv.\"",
+                "correct_answer": "group the new bricks with the others labeled suv.",
                 "timestamp": 21.0
             },
             {
@@ -49,7 +49,7 @@
                 "question_id": 1,
                 "question": "what are the slogans or phrases on the posters?",
                 "question_type": "hands-on",
-                "correct_answer": "\"we can do it!\"",
+                "correct_answer": "we can do it!",
                 "timestamp": 14.8
             },
             {
@@ -63,7 +63,7 @@
             {
                 "video_id": "1309e766-14cb-4d32-8724-5d294e7d4fd6",
                 "question_id": 1,
-                "question": "where are the \"ambule cement\" sacks ?",
+                "question": "where are the ambule cement sacks ?",
                 "question_type": "hands-on",
                 "correct_answer": "near the drilling machine, on the floor, to the left side",
                 "timestamp": 21.2
@@ -79,7 +79,7 @@
             {
                 "video_id": "159b8635-67d7-4999-99db-442a0b58b1c1",
                 "question_id": 1,
-                "question": "what is the purpose of the item labeled \"ozee\"?",
+                "question": "what is the purpose of the item labeled ozee?",
                 "question_type": "hands-on",
                 "correct_answer": "to cover and protect the floor",
                 "timestamp": 18.7
@@ -111,9 +111,9 @@
             {
                 "video_id": "23776d40-7174-47b8-b92e-02b880d709b8",
                 "question_id": 1,
-                "question": "how to make blocks with the imprinted text \"suv\"?",
+                "question": "how to make blocks with the imprinted text suv?",
                 "question_type": "hands-on",
-                "correct_answer": "press the clay mixture into a wooden mold with the text \"suv\"",
+                "correct_answer": "press the clay mixture into a wooden mold with the text suv",
                 "timestamp": 9.8
             },
             {
@@ -129,13 +129,13 @@
                 "question_id": 1,
                 "question": "where should i adjust the settings to change from vacuum to pressure on the andreani machine?",
                 "question_type": "hands-on",
-                "correct_answer": "on the machine's interface where \"pressure\" is labeled",
+                "correct_answer": "on the machine's interface where pressure is labeled",
                 "timestamp": 19.5
             },
             {
                 "video_id": "2a8acaa8-21b1-42ed-b56c-d82d8f82a4d7",
                 "question_id": 1,
-                "question": "what does the \"vacuum\" button on the andreani machine do ?",
+                "question": "what does the vacuum button on the andreani machine do ?",
                 "question_type": "hands-on",
                 "correct_answer": "it creates a vacuum to remove air from the suspension parts",
                 "timestamp": 14.2
@@ -177,7 +177,7 @@
                 "question_id": 1,
                 "question": "what should i focus on when gluing the parts together?",
                 "question_type": "hands-on",
-                "correct_answer": "ensuring the parts labeled \"seam\" and \"pool\" are correctly aligned",
+                "correct_answer": "ensuring the parts labeled seam and pool are correctly aligned",
                 "timestamp": 11.5
             },
             {
@@ -207,15 +207,15 @@
             {
                 "video_id": "37628d50-72bf-490c-865c-f841e4ff4abc",
                 "question_id": 1,
-                "question": "what do the bricks with the \"suv\" text signify ?",
+                "question": "what do the bricks with the suv text signify ?",
                 "question_type": "hands-on",
-                "correct_answer": "the \"suv\" text signifies the specific batch of bricks",
+                "correct_answer": "the suv text signifies the specific batch of bricks",
                 "timestamp": 21.5
             },
             {
                 "video_id": "379f8305-54f1-4761-a6d9-0ba2d76225fc",
                 "question_id": 1,
-                "question": "what items are stored in the drawers labeled \"sosmetal products inc.\" ?",
+                "question": "what items are stored in the drawers labeled sosmetal products inc. ?",
                 "question_type": "hands-on",
                 "correct_answer": "small metal parts and screws",
                 "timestamp": 21.5
@@ -223,7 +223,7 @@
             {
                 "video_id": "37f89f61-feec-490b-b160-48020ed76a8c",
                 "question_id": 1,
-                "question": "which magazine is featured on the table and includes articles from \"l'oreal\"?",
+                "question": "which magazine is featured on the table and includes articles from l'oreal?",
                 "question_type": "hands-on",
                 "correct_answer": "veranda",
                 "timestamp": 59.5
@@ -239,9 +239,9 @@
             {
                 "video_id": "3900b9da-ada5-4f0a-963a-6babe3c48d7e",
                 "question_id": 1,
-                "question": "how to make all the \"suvs\" out of order?",
+                "question": "how to make all the suvs out of order?",
                 "question_type": "hands-on",
-                "correct_answer": "align all the bricks such that the \"suv\" is upright and readable from the same direction",
+                "correct_answer": "align all the bricks such that the suv is upright and readable from the same direction",
                 "timestamp": 19.2
             },
             {
@@ -287,7 +287,7 @@
             {
                 "video_id": "427faacc-ec73-47aa-a063-aeccae0d92d1",
                 "question_id": 1,
-                "question": "where are the bag labeled \"semola rimacinata\"?",
+                "question": "where are the bag labeled semola rimacinata?",
                 "question_type": "hands-on",
                 "correct_answer": "in the stack of bags with orange and white stripes",
                 "timestamp": 14.5
@@ -295,7 +295,7 @@
             {
                 "video_id": "42ddea7a-acb2-4d2b-8dfa-30ab648bbb3b",
                 "question_id": 1,
-                "question": "where did i place the box labeled \"boots\" ?",
+                "question": "where did i place the box labeled boots ?",
                 "question_type": "hands-on",
                 "correct_answer": "near the wall by the black vertical object",
                 "timestamp": 12.3
@@ -319,7 +319,7 @@
             {
                 "video_id": "492ed7bf-06db-4e73-b8be-65b377a16eda",
                 "question_id": 1,
-                "question": "where are the \"nitrile gloves\"?",
+                "question": "where are the nitrile gloves?",
                 "question_type": "hands-on",
                 "correct_answer": "it is in the box on the table",
                 "timestamp": 28.0
@@ -399,7 +399,7 @@
             {
                 "video_id": "585306e2-79d8-4665-884f-721daa42fe3e",
                 "question_id": 1,
-                "question": "where did i place the \"arcamount\" bucket?",
+                "question": "where did i place the arcamount bucket?",
                 "question_type": "hands-on",
                 "correct_answer": "near the window",
                 "timestamp": 22.7
@@ -409,7 +409,7 @@
                 "question_id": 1,
                 "question": "which bricks need to be moved to the wheelbarrow?",
                 "question_type": "hands-on",
-                "correct_answer": "the bricks with the \"gvk\" marking",
+                "correct_answer": "the bricks with the gvk marking",
                 "timestamp": 30.3
             },
             {
@@ -423,7 +423,7 @@
             {
                 "video_id": "6867def8-788d-4f88-9450-1323354cf8dc",
                 "question_id": 1,
-                "question": "which type of flour am i using from the bag labelled \"semola rimacinata\"?",
+                "question": "which type of flour am i using from the bag labelled semola rimacinata?",
                 "question_type": "hands-on",
                 "correct_answer": "re-milled semolina flour",
                 "timestamp": 14.5
@@ -439,9 +439,9 @@
             {
                 "video_id": "69593ee1-f02a-4b4e-91ea-a09548fd505c",
                 "question_id": 1,
-                "question": "what does the text \"bhara\" on the bag refer to?",
+                "question": "what does the text bhara on the bag refer to?",
                 "question_type": "hands-on",
-                "correct_answer": "the text \"bhara\" indicates the brand name of the cement",
+                "correct_answer": "the text bhara indicates the brand name of the cement",
                 "timestamp": 11.3
             },
             {
@@ -449,7 +449,7 @@
                 "question_id": 1,
                 "question": "where are the gas barrels ?",
                 "question_type": "hands-on",
-                "correct_answer": "near the right side of the workshop, labeled \"gas\"",
+                "correct_answer": "near the right side of the workshop, labeled gas",
                 "timestamp": 15.2
             },
             {
@@ -537,7 +537,7 @@
                 "question_id": 1,
                 "question": "what brand of equipment is being used for grinding or cutting tasks?",
                 "question_type": "hands-on",
-                "correct_answer": "the equipment brand is \"w\"",
+                "correct_answer": "the equipment brand is w",
                 "timestamp": 21.2
             },
             {
@@ -551,9 +551,9 @@
             {
                 "video_id": "86cb525a-d61c-46f1-9c5f-cc7284184900",
                 "question_id": 1,
-                "question": "which bag contains the \"grano molini italiani\" brand flour, and what other brands are nearby?",
+                "question": "which bag contains the grano molini italiani brand flour, and what other brands are nearby?",
                 "question_type": "hands-on",
-                "correct_answer": "on the right, near \"pa\u0161a.\"",
+                "correct_answer": "on the right, near pa\u0161a.",
                 "timestamp": 120.7
             },
             {
@@ -607,7 +607,7 @@
             {
                 "video_id": "90b2d448-4172-4894-9f29-3a2bef6c85ad",
                 "question_id": 1,
-                "question": "what is the first step after opening this \"3d gearbox\" package?",
+                "question": "what is the first step after opening this 3d gearbox package?",
                 "question_type": "hands-on",
                 "correct_answer": "identify and cross-check all pieces as listed in the instructions",
                 "timestamp": 24.2
@@ -647,9 +647,9 @@
             {
                 "video_id": "9fb060a7-6594-404f-aef5-db713b15ae22",
                 "question_id": 1,
-                "question": "where are the words \"hal b. wallis production\"?",
+                "question": "where are the words hal b. wallis production?",
                 "question_type": "hands-on",
-                "correct_answer": "above the title \"casablanca\"",
+                "correct_answer": "above the title casablanca",
                 "timestamp": 28.5
             },
             {
@@ -663,7 +663,7 @@
             {
                 "video_id": "a3ab5502-a07f-4822-a495-21754a18718a",
                 "question_id": 1,
-                "question": "what does the \"we can do it\" poster say?",
+                "question": "what does the we can do it poster say?",
                 "question_type": "hands-on",
                 "correct_answer": "empowerment and determination",
                 "timestamp": 14.8
@@ -719,7 +719,7 @@
             {
                 "video_id": "bebffc26-85a9-4ae8-aeeb-0c796f9d5c09",
                 "question_id": 1,
-                "question": "where is the \"sincer\" sewing machine located on the table?",
+                "question": "where is the sincer sewing machine located on the table?",
                 "question_type": "hands-on",
                 "correct_answer": "near the center of the table with fabric and other materials surrounding it",
                 "timestamp": 22.3
@@ -767,7 +767,7 @@
             {
                 "video_id": "c153d473-96cc-4649-bd65-663aa199766c",
                 "question_id": 1,
-                "question": "what does the \"22-394\" on the yellow tank indicate about the equipment i'm working on?",
+                "question": "what does the 22-394 on the yellow tank indicate about the equipment i'm working on?",
                 "question_type": "hands-on",
                 "correct_answer": "it's the equipment's identification number",
                 "timestamp": 25.8
@@ -793,7 +793,7 @@
                 "question_id": 1,
                 "question": "what type of adhesive should i use?",
                 "question_type": "hands-on",
-                "correct_answer": "the adhesive is \"klej\"",
+                "correct_answer": "the adhesive is klej",
                 "timestamp": 17.5
             },
             {
@@ -1007,7 +1007,7 @@
             {
                 "video_id": "06a63ff3-ae7e-4400-9dbf-084ccaa57377",
                 "question_id": 2,
-                "question": "which tools do i need to use while working on the part labeled as \"face\"?",
+                "question": "which tools do i need to use while working on the part labeled as face?",
                 "question_type": "hands-on",
                 "correct_answer": "use a hot glue gun and clamps",
                 "timestamp": 16.8
@@ -1015,7 +1015,7 @@
             {
                 "video_id": "0725f410-3cf9-4f24-98ac-6610d1038ab1",
                 "question_id": 2,
-                "question": "where can i find more equipment similar to the \"cub cadet\" ?",
+                "question": "where can i find more equipment similar to the cub cadet ?",
                 "question_type": "hands-on",
                 "correct_answer": "inside the workshop",
                 "timestamp": 22.7
@@ -1023,9 +1023,9 @@
             {
                 "video_id": "078b7541-e4ef-48c5-8ffa-be6073ff61ea",
                 "question_id": 2,
-                "question": "where are the \"fox\" components?",
+                "question": "where are the fox components?",
                 "question_type": "hands-on",
-                "correct_answer": "on the table next to the \"andreani\" machine",
+                "correct_answer": "on the table next to the andreani machine",
                 "timestamp": 21.0
             },
             {
@@ -1063,7 +1063,7 @@
             {
                 "video_id": "23776d40-7174-47b8-b92e-02b880d709b8",
                 "question_id": 2,
-                "question": "where are the newly made bricks with the \"suv\" text?",
+                "question": "where are the newly made bricks with the suv text?",
                 "question_type": "hands-on",
                 "correct_answer": "arrange the bricks evenly on the ground in a sunny area",
                 "timestamp": 9.8
@@ -1071,7 +1071,7 @@
             {
                 "video_id": "26075b58-745d-4881-a1d5-80cfdbe39cac",
                 "question_id": 2,
-                "question": "what is the function of the red button located near the \"oil recovery\" label on the machine?",
+                "question": "what is the function of the red button located near the oil recovery label on the machine?",
                 "question_type": "hands-on",
                 "correct_answer": "to activate the oil recovery process",
                 "timestamp": 19.5
@@ -1087,7 +1087,7 @@
             {
                 "video_id": "32f700d8-5175-4098-8270-bc6ed5d76e2e",
                 "question_id": 2,
-                "question": "what's next to the item labeled \"twist\"?",
+                "question": "what's next to the item labeled twist?",
                 "question_type": "hands-on",
                 "correct_answer": "rolls of paper towels",
                 "timestamp": 35.3
@@ -1103,7 +1103,7 @@
             {
                 "video_id": "33c996d6-4fc7-4013-a65c-4ef8756cea49",
                 "question_id": 2,
-                "question": "where should materials labeled \"pool\" and \"seam\" align?",
+                "question": "where should materials labeled pool and seam align?",
                 "question_type": "hands-on",
                 "correct_answer": "near the edge of the workbench where the labels are visible",
                 "timestamp": 11.5
@@ -1119,7 +1119,7 @@
             {
                 "video_id": "3581bcf8-7e3e-4c02-af98-3e96c05bfa40",
                 "question_id": 2,
-                "question": "where are the bricks labeled \"suv\" ?",
+                "question": "where are the bricks labeled suv ?",
                 "question_type": "hands-on",
                 "correct_answer": "align them neatly in the designated area",
                 "timestamp": 29.7
@@ -1127,7 +1127,7 @@
             {
                 "video_id": "36beb308-b12d-406f-9524-5080b85fc13d",
                 "question_id": 2,
-                "question": "where should i use the \"fomet\" product?",
+                "question": "where should i use the fomet product?",
                 "question_type": "hands-on",
                 "correct_answer": "in the soil",
                 "timestamp": 21.8
@@ -1135,7 +1135,7 @@
             {
                 "video_id": "37599a93-25a4-4b7e-8c0c-ec41de521644",
                 "question_id": 2,
-                "question": "where are the remaining \"mortar mix\" bags stored?",
+                "question": "where are the remaining mortar mix bags stored?",
                 "question_type": "hands-on",
                 "correct_answer": "on the wooden pallet",
                 "timestamp": 2.7
@@ -1151,7 +1151,7 @@
             {
                 "video_id": "37f89f61-feec-490b-b160-48020ed76a8c",
                 "question_id": 2,
-                "question": "where is the \"veranda\" magazine on the table?",
+                "question": "where is the veranda magazine on the table?",
                 "question_type": "hands-on",
                 "correct_answer": "on the right side",
                 "timestamp": 59.5
@@ -1167,7 +1167,7 @@
             {
                 "video_id": "427faacc-ec73-47aa-a063-aeccae0d92d1",
                 "question_id": 2,
-                "question": "which of the bags contain \"farina di grano tenero\"?",
+                "question": "which of the bags contain farina di grano tenero?",
                 "question_type": "hands-on",
                 "correct_answer": "in the white bags with black and red text",
                 "timestamp": 14.5
@@ -1209,7 +1209,7 @@
                 "question_id": 2,
                 "question": "where can i find more gloves?",
                 "question_type": "hands-on",
-                "correct_answer": "in the blue and white box labeled \"nitrile gloves.\"",
+                "correct_answer": "in the blue and white box labeled nitrile gloves.",
                 "timestamp": 28.0
             },
             {
@@ -1255,7 +1255,7 @@
             {
                 "video_id": "5193b58e-d566-4dbc-b902-1adb8ac555dc",
                 "question_id": 2,
-                "question": "where is the hand sanitizer labeled \"hand sanitizer\" ?",
+                "question": "where is the hand sanitizer labeled hand sanitizer ?",
                 "question_type": "hands-on",
                 "correct_answer": "next to the assembly instructions and parts on the table",
                 "timestamp": 20.5
@@ -1273,7 +1273,7 @@
                 "question_id": 2,
                 "question": "where should i place the parts ?",
                 "question_type": "hands-on",
-                "correct_answer": "on the mat with the text \"ozeem\"",
+                "correct_answer": "on the mat with the text ozeem",
                 "timestamp": 21.0
             },
             {
@@ -1303,7 +1303,7 @@
             {
                 "video_id": "6867def8-788d-4f88-9450-1323354cf8dc",
                 "question_id": 2,
-                "question": "where did i place the bag of \"di solo grano siciliano\" ?",
+                "question": "where did i place the bag of di solo grano siciliano ?",
                 "question_type": "hands-on",
                 "correct_answer": "on electronic scale",
                 "timestamp": 14.5
@@ -1319,9 +1319,9 @@
             {
                 "video_id": "7870f414-c3ae-41df-a967-f89e7392b5c4",
                 "question_id": 2,
-                "question": "where are the bricks marked \"gvk\" , and how should i transport them most efficiently?",
+                "question": "where are the bricks marked gvk , and how should i transport them most efficiently?",
                 "question_type": "hands-on",
-                "correct_answer": "the bricks marked \"gvk\" are located near the mixing area; use a wheelbarrow",
+                "correct_answer": "the bricks marked gvk are located near the mixing area; use a wheelbarrow",
                 "timestamp": 20.8
             },
             {
@@ -1343,7 +1343,7 @@
             {
                 "video_id": "83175601-8cc7-4034-91c0-0b534eb9c722",
                 "question_id": 2,
-                "question": "where are the instructions for assembling the components labeled \"fox\"?",
+                "question": "where are the instructions for assembling the components labeled fox?",
                 "question_type": "hands-on",
                 "correct_answer": "check the black and white assembly guide placed on the table",
                 "timestamp": 21.0
@@ -1359,7 +1359,7 @@
             {
                 "video_id": "8b3e0d14-ada5-442b-a98a-d3e642408311",
                 "question_id": 2,
-                "question": "where can i find the can labeled \"soda acqua\"?",
+                "question": "where can i find the can labeled soda acqua?",
                 "question_type": "hands-on",
                 "correct_answer": "next to the snap-on toolbox",
                 "timestamp": 2.5
@@ -1367,7 +1367,7 @@
             {
                 "video_id": "90b2d448-4172-4894-9f29-3a2bef6c85ad",
                 "question_id": 2,
-                "question": "where can i find the tools from \"ugears\"?",
+                "question": "where can i find the tools from ugears?",
                 "question_type": "hands-on",
                 "correct_answer": "check the inside of the box",
                 "timestamp": 24.2
@@ -1375,7 +1375,7 @@
             {
                 "video_id": "9e8c6dda-d0db-487d-872a-99e9ff22275a",
                 "question_id": 2,
-                "question": "where can i find the word \"direzione\"?",
+                "question": "where can i find the word direzione?",
                 "question_type": "hands-on",
                 "correct_answer": "on the table near the middle-right side",
                 "timestamp": 19.7
@@ -1399,7 +1399,7 @@
             {
                 "video_id": "b830ae86-8f88-4ced-a56c-0e854f4d9079",
                 "question_id": 2,
-                "question": "where can i find a piece with \"gabriele\" on it?",
+                "question": "where can i find a piece with gabriele on it?",
                 "question_type": "hands-on",
                 "correct_answer": "specified page with elephant design",
                 "timestamp": 21.7
@@ -1409,7 +1409,7 @@
                 "question_id": 2,
                 "question": "where can i find more gloves?",
                 "question_type": "hands-on",
-                "correct_answer": "in the box labeled \"nitrile\"",
+                "correct_answer": "in the box labeled nitrile",
                 "timestamp": 28.0
             },
             {
@@ -1463,9 +1463,9 @@
             {
                 "video_id": "c83b4b7d-56e8-433b-b743-13a8a0b3211b",
                 "question_id": 2,
-                "question": "where can i find the \"klej\" bottle on the desk?",
+                "question": "where can i find the klej bottle on the desk?",
                 "question_type": "hands-on",
-                "correct_answer": "the \"klej\" bottle is on the right side of the desk",
+                "correct_answer": "the klej bottle is on the right side of the desk",
                 "timestamp": 17.5
             },
             {
@@ -1505,7 +1505,7 @@
                 "question_id": 2,
                 "question": "what is the thickness of the insulation material?",
                 "question_type": "hands-on",
-                "correct_answer": "1.5\"",
+                "correct_answer": "1.5",
                 "timestamp": 23.5
             },
             {
@@ -1567,9 +1567,9 @@
             {
                 "video_id": "22f52615-6c72-4367-8832-78a2c863f998",
                 "question_id": 3,
-                "question": "where are the instructions for sewing flowers next to the letter \"a\"\uff1f",
+                "question": "where are the instructions for sewing flowers next to the letter a\uff1f",
                 "question_type": "hands-on",
-                "correct_answer": "page with the letter \"a\" on top left",
+                "correct_answer": "page with the letter a on top left",
                 "timestamp": 50.8
             },
             {
@@ -1585,7 +1585,7 @@
                 "question_id": 3,
                 "question": "which equipment or area is authorized for handling fungi and bacteria ?",
                 "question_type": "hands-on",
-                "correct_answer": "the area is labeled as \"for fungi and bacteria authorized.\"",
+                "correct_answer": "the area is labeled as for fungi and bacteria authorized.",
                 "timestamp": 58.2
             },
             {
@@ -1601,13 +1601,13 @@
                 "question_id": 3,
                 "question": "where should i place the next brick ?",
                 "question_type": "hands-on",
-                "correct_answer": "next to the \"suv\" bricks",
+                "correct_answer": "next to the suv bricks",
                 "timestamp": 49.3
             },
             {
                 "video_id": "32f700d8-5175-4098-8270-bc6ed5d76e2e",
                 "question_id": 3,
-                "question": "where are products labeled \"twist\" on the shelves?",
+                "question": "where are products labeled twist on the shelves?",
                 "question_type": "hands-on",
                 "correct_answer": "at the top of the shelves",
                 "timestamp": 78.7
@@ -1641,13 +1641,13 @@
                 "question_id": 3,
                 "question": "where can i find more small parts or accessories ?",
                 "question_type": "hands-on",
-                "correct_answer": "in the drawers labeled \"sosmetal products inc.\"",
+                "correct_answer": "in the drawers labeled sosmetal products inc.",
                 "timestamp": 53.3
             },
             {
                 "video_id": "3900b9da-ada5-4f0a-963a-6babe3c48d7e",
                 "question_id": 3,
-                "question": "which direction should the \"suv\" inscription face?",
+                "question": "which direction should the suv inscription face?",
                 "question_type": "hands-on",
                 "correct_answer": "it should face upwards and be readable from the same direction as other bricks",
                 "timestamp": 47.7
@@ -1671,7 +1671,7 @@
             {
                 "video_id": "414f7421-52d2-437b-a873-5add8babfe53",
                 "question_id": 3,
-                "question": "where should i place the item labeled \"klej\" ?",
+                "question": "where should i place the item labeled klej ?",
                 "question_type": "hands-on",
                 "correct_answer": "on the right side of the table",
                 "timestamp": 50.8
@@ -1697,7 +1697,7 @@
                 "question_id": 3,
                 "question": "where to put the equipment after drilling?",
                 "question_type": "hands-on",
-                "correct_answer": "near the part labeled \"ozeem\"",
+                "correct_answer": "near the part labeled ozeem",
                 "timestamp": 48.8
             },
             {
@@ -1711,7 +1711,7 @@
             {
                 "video_id": "6867def8-788d-4f88-9450-1323354cf8dc",
                 "question_id": 3,
-                "question": "what's on the \"farina\" bag?",
+                "question": "what's on the farina bag?",
                 "question_type": "hands-on",
                 "correct_answer": "wheat flour",
                 "timestamp": 40.3
@@ -1719,7 +1719,7 @@
             {
                 "video_id": "6b8b47be-786f-4436-b70b-796c1b70f975",
                 "question_id": 3,
-                "question": "which machine in the workshop has the brand name \"shark\" on it, and what appears to be its function?",
+                "question": "which machine in the workshop has the brand name shark on it, and what appears to be its function?",
                 "question_type": "hands-on",
                 "correct_answer": "the red machine with the black cover, appearing to be a lawn mower or power tool",
                 "timestamp": 60.5
@@ -1727,7 +1727,7 @@
             {
                 "video_id": "7115379d-a5e9-4acd-96ac-27bb65be72c2",
                 "question_id": 3,
-                "question": "what are the steps to clean up this area around the \"ozee\" materials ?",
+                "question": "what are the steps to clean up this area around the ozee materials ?",
                 "question_type": "hands-on",
                 "correct_answer": "sweep the floor and organize the tools",
                 "timestamp": 45.3
@@ -1767,7 +1767,7 @@
             {
                 "video_id": "b219bf46-5afd-42a4-9415-d70457109229",
                 "question_id": 3,
-                "question": "how can i tell the difference between the properly aligned \"suv\" bricks and the ones that are not aligned?",
+                "question": "how can i tell the difference between the properly aligned suv bricks and the ones that are not aligned?",
                 "question_type": "hands-on",
                 "correct_answer": "the text on aligned bricks faces the same direction",
                 "timestamp": 49.8
@@ -1823,7 +1823,7 @@
             {
                 "video_id": "d0cc3ba5-14cc-4d4d-82db-fec29ad01e3e",
                 "question_id": 3,
-                "question": "where can i find more \"tirupati tubes\"?",
+                "question": "where can i find more tirupati tubes?",
                 "question_type": "hands-on",
                 "correct_answer": "on the shelf",
                 "timestamp": 50.0
@@ -1865,7 +1865,7 @@
                 "question_id": 3,
                 "question": "where can i find disinfecting supplies in the laboratory for cleaning areas after using the centrifuge?",
                 "question_type": "hands-on",
-                "correct_answer": "on the shelf labeled \"disinfect\"",
+                "correct_answer": "on the shelf labeled disinfect",
                 "timestamp": 44.7
             },
             {
@@ -1921,7 +1921,7 @@
                 "question_id": 4,
                 "question": "how should i dispose of the items i used today that are potentially biohazardous?",
                 "question_type": "hands-on",
-                "correct_answer": "place them in the red container labeled \"biohazard.\"",
+                "correct_answer": "place them in the red container labeled biohazard.",
                 "timestamp": 84.3
             },
             {
@@ -1945,7 +1945,7 @@
                 "question_id": 4,
                 "question": "what is the slogan on the poster?",
                 "question_type": "hands-on",
-                "correct_answer": "\"we can do it!\"",
+                "correct_answer": "we can do it!",
                 "timestamp": 41.0
             },
             {
@@ -1975,15 +1975,15 @@
             {
                 "video_id": "3581bcf8-7e3e-4c02-af98-3e96c05bfa40",
                 "question_id": 4,
-                "question": "what does the mark \"suv\" on the blocks mean?",
+                "question": "what does the mark suv on the blocks mean?",
                 "question_type": "hands-on",
-                "correct_answer": "the markings \"suv\" are likely indicative of the brick manufacturer",
+                "correct_answer": "the markings suv are likely indicative of the brick manufacturer",
                 "timestamp": 41.0
             },
             {
                 "video_id": "379f8305-54f1-4761-a6d9-0ba2d76225fc",
                 "question_id": 4,
-                "question": "which part of the \"poulan pro\" machine am i currently working on?",
+                "question": "which part of the poulan pro machine am i currently working on?",
                 "question_type": "hands-on",
                 "correct_answer": "the internal wiring component",
                 "timestamp": 53.3
@@ -2025,7 +2025,7 @@
                 "question_id": 4,
                 "question": "which tool should i use for cutting the wooden plank?",
                 "question_type": "hands-on",
-                "correct_answer": "use the tool labeled \"ridgid\"",
+                "correct_answer": "use the tool labeled ridgid",
                 "timestamp": 39.8
             },
             {
@@ -2033,7 +2033,7 @@
                 "question_id": 4,
                 "question": "where are tirupati tubes?",
                 "question_type": "hands-on",
-                "correct_answer": "look on the shelves where the packages with \"tirupati tubes\" are stacked",
+                "correct_answer": "look on the shelves where the packages with tirupati tubes are stacked",
                 "timestamp": 50.7
             },
             {
@@ -2055,7 +2055,7 @@
             {
                 "video_id": "585306e2-79d8-4665-884f-721daa42fe3e",
                 "question_id": 4,
-                "question": "where is the yellow \"arcamount\" bucket ?",
+                "question": "where is the yellow arcamount bucket ?",
                 "question_type": "hands-on",
                 "correct_answer": "near a central location within reach of all tools",
                 "timestamp": 51.0
@@ -2071,7 +2071,7 @@
             {
                 "video_id": "5f584429-b12b-4b15-9975-bf0cbfeaf2bc",
                 "question_id": 4,
-                "question": "which toolbox is labeled \"jj palk0\"?",
+                "question": "which toolbox is labeled jj palk0?",
                 "question_type": "hands-on",
                 "correct_answer": "the box with small compartments filled with things",
                 "timestamp": 86.3
@@ -2087,7 +2087,7 @@
             {
                 "video_id": "665cac5d-bf32-479e-9e48-da0096b6a85a",
                 "question_id": 4,
-                "question": "where should i position the piece marked as \"face\" ?",
+                "question": "where should i position the piece marked as face ?",
                 "question_type": "hands-on",
                 "correct_answer": "position the piece at the front of the assembly",
                 "timestamp": 52.3
@@ -2097,7 +2097,7 @@
                 "question_id": 4,
                 "question": "what is the main message or slogan i am hanging up?",
                 "question_type": "hands-on",
-                "correct_answer": "the main message is \"we can do it!\"",
+                "correct_answer": "the main message is we can do it!",
                 "timestamp": 58.8
             },
             {
@@ -2127,7 +2127,7 @@
             {
                 "video_id": "6f4a20f1-0da9-4e00-8aed-4bba8c0d1baa",
                 "question_id": 4,
-                "question": "where is the container marked \"gas\" located in relation to the other equipment ?",
+                "question": "where is the container marked gas located in relation to the other equipment ?",
                 "question_type": "hands-on",
                 "correct_answer": "near the entrance on the right side, next to a smaller blue barrel and some scattered tools",
                 "timestamp": 37.2
@@ -2201,7 +2201,7 @@
                 "question_id": 4,
                 "question": "which type of flour are available for the bread?",
                 "question_type": "hands-on",
-                "correct_answer": "use \"farina di frumento.\"",
+                "correct_answer": "use farina di frumento.",
                 "timestamp": 137.3
             },
             {
@@ -2225,7 +2225,7 @@
                 "question_id": 4,
                 "question": "where should i put my new ribbon?",
                 "question_type": "hands-on",
-                "correct_answer": "place it alongside the area labeled \"gabrielle\"",
+                "correct_answer": "place it alongside the area labeled gabrielle",
                 "timestamp": 45.8
             },
             {
@@ -2241,7 +2241,7 @@
                 "question_id": 4,
                 "question": "where should i start working between the two labeled areas?",
                 "question_type": "hands-on",
-                "correct_answer": "begin at the area labeled \"pool\"",
+                "correct_answer": "begin at the area labeled pool",
                 "timestamp": 53.2
             },
             {
@@ -2351,9 +2351,9 @@
             {
                 "video_id": "c7ccec3c-ec61-4292-a17a-22158e62972f",
                 "question_id": 4,
-                "question": "which bag contains \"zucchelf impalpa\" and where do i place it in the storage area?",
+                "question": "which bag contains zucchelf impalpa and where do i place it in the storage area?",
                 "question_type": "hands-on",
-                "correct_answer": "the bag labeled \"zucchelf impalpa\",on a metal shelf",
+                "correct_answer": "the bag labeled zucchelf impalpa,on a metal shelf",
                 "timestamp": 49.8
             },
             {
@@ -2369,7 +2369,7 @@
                 "question_id": 4,
                 "question": "where do i need to place empty chemical bottles?",
                 "question_type": "hands-on",
-                "correct_answer": "in the blue bin labeled \"empty chemical bottles\"",
+                "correct_answer": "in the blue bin labeled empty chemical bottles",
                 "timestamp": 45.5
             },
             {
@@ -2503,7 +2503,7 @@
             {
                 "video_id": "24693423-800a-4bda-8a69-c48b19325c02",
                 "question_id": 5,
-                "question": "where can i find the \"semola remacinata\" bags in this storage area?",
+                "question": "where can i find the semola remacinata bags in this storage area?",
                 "question_type": "hands-on",
                 "correct_answer": "on the left side, stacked above each other",
                 "timestamp": 88.5
@@ -2519,7 +2519,7 @@
             {
                 "video_id": "2a8239d1-7581-4fea-bfa9-aa5913641f04",
                 "question_id": 5,
-                "question": "where did i place the \"super glue\" ?",
+                "question": "where did i place the super glue ?",
                 "question_type": "hands-on",
                 "correct_answer": "on the cardboard box",
                 "timestamp": 53.3
@@ -2537,13 +2537,13 @@
                 "question_id": 5,
                 "question": "which canister might i need to use for machine maintenance, and where can i find it?",
                 "question_type": "hands-on",
-                "correct_answer": "the canister near the red barrel labeled \"gas\"",
+                "correct_answer": "the canister near the red barrel labeled gas",
                 "timestamp": 37.2
             },
             {
                 "video_id": "316df9ab-91a5-417a-abc4-ce49063bc5cd",
                 "question_id": 5,
-                "question": "which section or area does the label \"seam\" belong to?",
+                "question": "which section or area does the label seam belong to?",
                 "question_type": "hands-on",
                 "correct_answer": "it belongs to the left side of the workbench",
                 "timestamp": 55.7
@@ -2559,7 +2559,7 @@
             {
                 "video_id": "3581bcf8-7e3e-4c02-af98-3e96c05bfa40",
                 "question_id": 5,
-                "question": "how should i arrange the bricks with the \"suv\" markings ?",
+                "question": "how should i arrange the bricks with the suv markings ?",
                 "question_type": "hands-on",
                 "correct_answer": "the bricks should be arranged in a single layer on a flat surface for optimal drying",
                 "timestamp": 41.0
@@ -2575,7 +2575,7 @@
             {
                 "video_id": "37628d50-72bf-490c-865c-f841e4ff4abc",
                 "question_id": 5,
-                "question": "what can i do to make sure the printed word \"suv\" is legible?",
+                "question": "what can i do to make sure the printed word suv is legible?",
                 "question_type": "hands-on",
                 "correct_answer": "press the clay firmly into the mold and smooth the surface",
                 "timestamp": 49.3
@@ -2623,7 +2623,7 @@
             {
                 "video_id": "5193b58e-d566-4dbc-b902-1adb8ac555dc",
                 "question_id": 5,
-                "question": "where should i attach the tube-like components according to the diagram illustrated on the \"spacecar\" guide?",
+                "question": "where should i attach the tube-like components according to the diagram illustrated on the spacecar guide?",
                 "question_type": "hands-on",
                 "correct_answer": "connect the tubes to the marked holes on the frame",
                 "timestamp": 50.2
@@ -2657,7 +2657,7 @@
                 "question_id": 5,
                 "question": "where do i store the yellow extension cord?",
                 "question_type": "hands-on",
-                "correct_answer": "in front of the box labeled \"jj palk0\"",
+                "correct_answer": "in front of the box labeled jj palk0",
                 "timestamp": 86.3
             },
             {
@@ -2697,7 +2697,7 @@
                 "question_id": 5,
                 "question": "where are the assembly instructions for the components shown on the table?",
                 "question_type": "hands-on",
-                "correct_answer": "on the labeled \"andreani\" in front",
+                "correct_answer": "on the labeled andreani in front",
                 "timestamp": 66.3
             },
             {
@@ -2727,7 +2727,7 @@
             {
                 "video_id": "803c8ecf-9448-48b6-8bf2-debd052dbe43",
                 "question_id": 5,
-                "question": "where on the mat do i find the \"4\"?",
+                "question": "where on the mat do i find the 4?",
                 "question_type": "hands-on",
                 "correct_answer": "next to the number 5",
                 "timestamp": 52.2
@@ -2745,7 +2745,7 @@
                 "question_id": 5,
                 "question": "where should i place the newly formed brick ?",
                 "question_type": "hands-on",
-                "correct_answer": "next to the already formed \"suv\" bricks",
+                "correct_answer": "next to the already formed suv bricks",
                 "timestamp": 47.7
             },
             {
@@ -2759,7 +2759,7 @@
             {
                 "video_id": "86cb525a-d61c-46f1-9c5f-cc7284184900",
                 "question_id": 5,
-                "question": "where is the \"grani molini italiani\" flour in the pile?",
+                "question": "where is the grani molini italiani flour in the pile?",
                 "question_type": "hands-on",
                 "correct_answer": "the right-hand side of the pile",
                 "timestamp": 137.3
@@ -2767,7 +2767,7 @@
             {
                 "video_id": "89fb899b-b038-45be-91a1-f356c5afb2c8",
                 "question_id": 5,
-                "question": "where are more brushes for \"handy paint pail\"?",
+                "question": "where are more brushes for handy paint pail?",
                 "question_type": "hands-on",
                 "correct_answer": "look in the nearby storage area or tool shelf",
                 "timestamp": 51.2
@@ -2785,13 +2785,13 @@
                 "question_id": 5,
                 "question": "where should i move the pulling mechanism?",
                 "question_type": "hands-on",
-                "correct_answer": "proceed to the \"pool\" marked section",
+                "correct_answer": "proceed to the pool marked section",
                 "timestamp": 53.2
             },
             {
                 "video_id": "90b2d448-4172-4894-9f29-3a2bef6c85ad",
                 "question_id": 5,
-                "question": "what components are included in the \"gearbox\" kit?",
+                "question": "what components are included in the gearbox kit?",
                 "question_type": "hands-on",
                 "correct_answer": "wooden pieces, gears, rubber bands, and a study guide",
                 "timestamp": 52.3
@@ -2825,7 +2825,7 @@
                 "question_id": 5,
                 "question": "where can i find the assembly guide to verify the proper alignment of the pieces?",
                 "question_type": "hands-on",
-                "correct_answer": "on the instruction sheet labeled \"space rail\"",
+                "correct_answer": "on the instruction sheet labeled space rail",
                 "timestamp": 50.2
             },
             {
@@ -2839,7 +2839,7 @@
             {
                 "video_id": "ae6869ad-b42b-457b-bd71-141f1f2209f2",
                 "question_id": 5,
-                "question": "where is the \"mti\" tank?",
+                "question": "where is the mti tank?",
                 "question_type": "hands-on",
                 "correct_answer": "on the countertop",
                 "timestamp": 53.0
@@ -2849,7 +2849,7 @@
                 "question_id": 5,
                 "question": "where should i place empty chemical bottles ?",
                 "question_type": "hands-on",
-                "correct_answer": "place them in the bin labeled \"empty chemical bottles.\"",
+                "correct_answer": "place them in the bin labeled empty chemical bottles.",
                 "timestamp": 45.5
             },
             {
@@ -2863,7 +2863,7 @@
             {
                 "video_id": "c0789499-30ff-4f96-9dd4-570125dcb410",
                 "question_id": 5,
-                "question": "where is the text \"benvenuto\"?",
+                "question": "where is the text benvenuto?",
                 "question_type": "hands-on",
                 "correct_answer": "on the cloud shapes",
                 "timestamp": 50.2
@@ -2959,7 +2959,7 @@
             {
                 "video_id": "0a778b5d-ff78-4f6d-8b52-24813b499ae3",
                 "question_id": 6,
-                "question": "where can i see the \"i want you\" slogan?",
+                "question": "where can i see the i want you slogan?",
                 "question_type": "hands-on",
                 "correct_answer": "the text on the poster",
                 "timestamp": 142.8
@@ -2969,7 +2969,7 @@
                 "question_id": 6,
                 "question": "which areas of the lab are clearly marked for biohazardous waste disposal?",
                 "question_type": "hands-on",
-                "correct_answer": "areas with the red container labeled \"biohazard\" are marked",
+                "correct_answer": "areas with the red container labeled biohazard are marked",
                 "timestamp": 114.7
             },
             {
@@ -3007,7 +3007,7 @@
             {
                 "video_id": "3504706b-beae-4a0b-9e82-f57a438fb46f",
                 "question_id": 6,
-                "question": "which piece of equipment should i use next after using the \"oregon\" machine ?",
+                "question": "which piece of equipment should i use next after using the oregon machine ?",
                 "question_type": "hands-on",
                 "correct_answer": "a deburring tool",
                 "timestamp": 42.5
@@ -3023,9 +3023,9 @@
             {
                 "video_id": "37628d50-72bf-490c-865c-f841e4ff4abc",
                 "question_id": 6,
-                "question": "where should i position the newly formed bricks with the \"suv\" imprint to dry, and how should they be oriented relative to the others?",
+                "question": "where should i position the newly formed bricks with the suv imprint to dry, and how should they be oriented relative to the others?",
                 "question_type": "hands-on",
-                "correct_answer": "position them on the ground with the \"suv\" imprint facing up, aligned with the others",
+                "correct_answer": "position them on the ground with the suv imprint facing up, aligned with the others",
                 "timestamp": 84.8
             },
             {
@@ -3041,13 +3041,13 @@
                 "question_id": 6,
                 "question": "which specific text should i position at the top when i hang this poster on the wall?",
                 "question_type": "hands-on",
-                "correct_answer": "the \"star\" text",
+                "correct_answer": "the star text",
                 "timestamp": 117.8
             },
             {
                 "video_id": "42b8e93c-0d8d-4c1f-b27b-f619467e98ec",
                 "question_id": 6,
-                "question": "which objects on my table are related to the \"love\" sticker?",
+                "question": "which objects on my table are related to the love sticker?",
                 "question_type": "hands-on",
                 "correct_answer": "laptop",
                 "timestamp": 80.3
@@ -3057,7 +3057,7 @@
                 "question_id": 6,
                 "question": "where should i place the assembled item once it's done?",
                 "question_type": "hands-on",
-                "correct_answer": "place the assembled item next to the \"boots\" box to make use of the available space",
+                "correct_answer": "place the assembled item next to the boots box to make use of the available space",
                 "timestamp": 75.0
             },
             {
@@ -3127,7 +3127,7 @@
             {
                 "video_id": "747e3985-ecde-4177-b5e8-046611e1377c",
                 "question_id": 6,
-                "question": "which materials did i pull out from the bag labeled with \"unichem\"?",
+                "question": "which materials did i pull out from the bag labeled with unichem?",
                 "question_type": "hands-on",
                 "correct_answer": "cement",
                 "timestamp": 79.8
@@ -3137,7 +3137,7 @@
                 "question_id": 6,
                 "question": "where should i focus when dealing with seams?",
                 "question_type": "hands-on",
-                "correct_answer": "the area near the \"seam\" label",
+                "correct_answer": "the area near the seam label",
                 "timestamp": 73.7
             },
             {
@@ -3183,9 +3183,9 @@
             {
                 "video_id": "b6465a6b-6901-450c-8a73-7d89a967b854",
                 "question_id": 6,
-                "question": "which designated spot is labeled as the \"satellite accumulation area\"?",
+                "question": "which designated spot is labeled as the satellite accumulation area?",
                 "question_type": "hands-on",
-                "correct_answer": "the area with the yellow sign declaring \"satellite accumulation area.\"",
+                "correct_answer": "the area with the yellow sign declaring satellite accumulation area.",
                 "timestamp": 82.2
             },
             {
@@ -3223,7 +3223,7 @@
             {
                 "video_id": "d39ccf14-6a85-42c7-aca7-9507f0699508",
                 "question_id": 6,
-                "question": "what does the label on the \"hanin\" station indicate ?",
+                "question": "what does the label on the hanin station indicate ?",
                 "question_type": "hands-on",
                 "correct_answer": "identifies the station where the equipment is stored",
                 "timestamp": 71.2
@@ -3231,7 +3231,7 @@
             {
                 "video_id": "d6add349-88d4-485a-93f6-8549f0718596",
                 "question_id": 6,
-                "question": "which bag is specifically labeled as \"farina wheat flour\"?",
+                "question": "which bag is specifically labeled as farina wheat flour?",
                 "question_type": "hands-on",
                 "correct_answer": "the bag with orange and white labeling",
                 "timestamp": 73.7
@@ -3263,7 +3263,7 @@
             {
                 "video_id": "1ba106f8-607c-47c6-b6bd-0c4d8cedd1c8",
                 "question_id": 7,
-                "question": "what settings should i use on the \"digital control hot plate\" for heating the solution?",
+                "question": "what settings should i use on the digital control hot plate for heating the solution?",
                 "question_type": "hands-on",
                 "correct_answer": "temperature and time",
                 "timestamp": 83.3
@@ -3327,7 +3327,7 @@
             {
                 "video_id": "3581bcf8-7e3e-4c02-af98-3e96c05bfa40",
                 "question_id": 7,
-                "question": "what is inside the \"samart\" bag?",
+                "question": "what is inside the samart bag?",
                 "question_type": "hands-on",
                 "correct_answer": "cement powder",
                 "timestamp": 77.7
@@ -3335,7 +3335,7 @@
             {
                 "video_id": "36d9e651-daee-4cf4-8c58-2780e5511daa",
                 "question_id": 7,
-                "question": "what do the \"triple grip\" items look like and where are they placed?",
+                "question": "what do the triple grip items look like and where are they placed?",
                 "question_type": "hands-on",
                 "correct_answer": "small white boxes, placed on the beams",
                 "timestamp": 80.7
@@ -3367,7 +3367,7 @@
             {
                 "video_id": "3ab9c63c-49af-4688-8ff9-26e50d185dab",
                 "question_id": 7,
-                "question": "what's the total width of the \"return of the jedi\" poster i'm measuring?",
+                "question": "what's the total width of the return of the jedi poster i'm measuring?",
                 "question_type": "hands-on",
                 "correct_answer": "34",
                 "timestamp": 117.8
@@ -3401,7 +3401,7 @@
                 "question_id": 7,
                 "question": "which direction should i install the hiltex bracket next?",
                 "question_type": "hands-on",
-                "correct_answer": "follow the direction indicated by \"hiltex\" on the gloves",
+                "correct_answer": "follow the direction indicated by hiltex on the gloves",
                 "timestamp": 86.3
             },
             {
@@ -3559,7 +3559,7 @@
             {
                 "video_id": "8c176c31-f7a1-4b6f-9c17-b9e7798c46df",
                 "question_id": 7,
-                "question": "where is the \"gabriel\" strip ?",
+                "question": "where is the gabriel strip ?",
                 "question_type": "hands-on",
                 "correct_answer": "on top of the bound orange book cover with green leaves attached to it",
                 "timestamp": 74.7
@@ -3655,9 +3655,9 @@
             {
                 "video_id": "c2c51a4c-5ccd-498b-93c6-5c7ee4e14177",
                 "question_id": 7,
-                "question": "what should i use from the stack marked \"double a\" for my paper crafting?",
+                "question": "what should i use from the stack marked double a for my paper crafting?",
                 "question_type": "hands-on",
-                "correct_answer": "use the paper from the stack marked \"double a.\"",
+                "correct_answer": "use the paper from the stack marked double a.",
                 "timestamp": 82.3
             },
             {
@@ -3671,7 +3671,7 @@
             {
                 "video_id": "cbbc1ff6-7441-4ecc-ab2a-e4eabbf7ec88",
                 "question_id": 7,
-                "question": "what tools or materials do i need to find around the area labeled \"clevermade\" for assembling the mask?",
+                "question": "what tools or materials do i need to find around the area labeled clevermade for assembling the mask?",
                 "question_type": "hands-on",
                 "correct_answer": "a pair of scissors, utility knife",
                 "timestamp": 82.7
@@ -3743,7 +3743,7 @@
             {
                 "video_id": "316df9ab-91a5-417a-abc4-ce49063bc5cd",
                 "question_id": 8,
-                "question": "which tools or materials are located near the \"pool\" label?",
+                "question": "which tools or materials are located near the pool label?",
                 "question_type": "hands-on",
                 "correct_answer": "small blocks and an orange tool",
                 "timestamp": 73.7
@@ -3751,7 +3751,7 @@
             {
                 "video_id": "36beb308-b12d-406f-9524-5080b85fc13d",
                 "question_id": 8,
-                "question": "where should i correctly place the \"vigilatico super\" to benefit the plants visible around me?",
+                "question": "where should i correctly place the vigilatico super to benefit the plants visible around me?",
                 "question_type": "hands-on",
                 "correct_answer": "spread it on the soil around plant roots",
                 "timestamp": 85.3
@@ -3759,7 +3759,7 @@
             {
                 "video_id": "36d9e651-daee-4cf4-8c58-2780e5511daa",
                 "question_id": 8,
-                "question": "which of the items labeled \"grk\" is closest to my left hand ?",
+                "question": "which of the items labeled grk is closest to my left hand ?",
                 "question_type": "hands-on",
                 "correct_answer": "the hammer placed horizontally on the beam",
                 "timestamp": 80.7
@@ -3815,7 +3815,7 @@
             {
                 "video_id": "43a06403-9d62-4691-9ab5-b8253a47ef48",
                 "question_id": 8,
-                "question": "where's the guy in the \"gerger construction\" t-shirt?",
+                "question": "where's the guy in the gerger construction t-shirt?",
                 "question_type": "hands-on",
                 "correct_answer": "next to me",
                 "timestamp": 72.8
@@ -3887,7 +3887,7 @@
             {
                 "video_id": "7fcc4b2f-4cb5-4301-bbdc-41c9f8995936",
                 "question_id": 8,
-                "question": "where is the \"happy birthday\" banner on the card ?",
+                "question": "where is the happy birthday banner on the card ?",
                 "question_type": "hands-on",
                 "correct_answer": "centered at the bottom near the flowers",
                 "timestamp": 79.8
@@ -3903,7 +3903,7 @@
             {
                 "video_id": "8306b411-7f39-4fc4-a585-294d7b738cf0",
                 "question_id": 8,
-                "question": "where should i dispose of the used \"oil patch\" material?",
+                "question": "where should i dispose of the used oil patch material?",
                 "question_type": "hands-on",
                 "correct_answer": "waste bin",
                 "timestamp": 84.0
@@ -3935,7 +3935,7 @@
             {
                 "video_id": "92d717cc-4946-4cb9-9d03-ddc137f4ba84",
                 "question_id": 8,
-                "question": "where is the tube of \"yellow\" paint placed on the table?",
+                "question": "where is the tube of yellow paint placed on the table?",
                 "question_type": "hands-on",
                 "correct_answer": "in the front row of the paint tubes",
                 "timestamp": 86.7
@@ -3959,7 +3959,7 @@
             {
                 "video_id": "b35e7060-ae01-420e-b327-3b25d4090f90",
                 "question_id": 8,
-                "question": "how to properly handle \"fox 10\" oil?",
+                "question": "how to properly handle fox 10 oil?",
                 "question_type": "hands-on",
                 "correct_answer": "refer to the safety and usage instructions on the fox label",
                 "timestamp": 77.0
@@ -3967,7 +3967,7 @@
             {
                 "video_id": "c4877eda-bc7c-4f86-a432-424dd2832684",
                 "question_id": 8,
-                "question": "where is the book \"lord of the rings\"?",
+                "question": "where is the book lord of the rings?",
                 "question_type": "hands-on",
                 "correct_answer": "to the left side of the watercolor palette",
                 "timestamp": 114.2
@@ -3991,7 +3991,7 @@
             {
                 "video_id": "cd882b7a-0766-4582-8388-3990b009b11b",
                 "question_id": 8,
-                "question": "where can i find more information about the \"klingspor\" brand?",
+                "question": "where can i find more information about the klingspor brand?",
                 "question_type": "hands-on",
                 "correct_answer": "on the packaging",
                 "timestamp": 81.5
@@ -3999,7 +3999,7 @@
             {
                 "video_id": "e0aaf51e-128e-49c1-aafc-a59de6b75062",
                 "question_id": 8,
-                "question": "where do the screws labeled \"o\" go on the model?",
+                "question": "where do the screws labeled o go on the model?",
                 "question_type": "hands-on",
                 "correct_answer": "to the top holes on the centerpiece",
                 "timestamp": 82.0
@@ -4015,17 +4015,17 @@
             {
                 "video_id": "12f30f46-e3b7-4c91-b857-fb696bf855cb",
                 "question_id": 9,
-                "question": "which tool should i use to cut the material and how does it relate to the placement of the \"kle\" bottle on my desk?",
+                "question": "which tool should i use to cut the material and how does it relate to the placement of the kle bottle on my desk?",
                 "question_type": "hands-on",
-                "correct_answer": "use the utility knife, and place the \"kle\" bottle away from the cutting area to avoid spills",
+                "correct_answer": "use the utility knife, and place the kle bottle away from the cutting area to avoid spills",
                 "timestamp": 115.0
             },
             {
                 "video_id": "1309e766-14cb-4d32-8724-5d294e7d4fd6",
                 "question_id": 9,
-                "question": "where should i store additional \"ambule cement\" bags to keep the workspace organized and accessible considering the cement sacks around?",
+                "question": "where should i store additional ambule cement bags to keep the workspace organized and accessible considering the cement sacks around?",
                 "question_type": "hands-on",
-                "correct_answer": "next to the existing \"ambule cement\" sacks",
+                "correct_answer": "next to the existing ambule cement sacks",
                 "timestamp": 110.0
             },
             {
@@ -4039,7 +4039,7 @@
             {
                 "video_id": "1ba106f8-607c-47c6-b6bd-0c4d8cedd1c8",
                 "question_id": 9,
-                "question": "which procedures require using the \"thermo\" device ?",
+                "question": "which procedures require using the thermo device ?",
                 "question_type": "hands-on",
                 "correct_answer": "use for temperature-sensitive reactions",
                 "timestamp": 107.5
@@ -4047,7 +4047,7 @@
             {
                 "video_id": "1f7c972a-9902-483e-8d46-ff736c833827",
                 "question_id": 9,
-                "question": "which specific items or equipment in our workspace are labeled with \"ppg paints\" to organize our materials quickly?",
+                "question": "which specific items or equipment in our workspace are labeled with ppg paints to organize our materials quickly?",
                 "question_type": "hands-on",
                 "correct_answer": "paint containers and shirt",
                 "timestamp": 113.8
@@ -4095,7 +4095,7 @@
             {
                 "video_id": "330a2524-55c2-4c1e-bc01-8d5eef614978",
                 "question_id": 9,
-                "question": "what is the contact phone number printed below the word \"rader\" on my shirt?",
+                "question": "what is the contact phone number printed below the word rader on my shirt?",
                 "question_type": "hands-on",
                 "correct_answer": "412-901-5849",
                 "timestamp": 111.0
@@ -4103,7 +4103,7 @@
             {
                 "video_id": "36d9e651-daee-4cf4-8c58-2780e5511daa",
                 "question_id": 9,
-                "question": "where can i find the \"spax\" materials for securing the wood?",
+                "question": "where can i find the spax materials for securing the wood?",
                 "question_type": "hands-on",
                 "correct_answer": "in the small white boxes on the beams",
                 "timestamp": 111.5
@@ -4111,7 +4111,7 @@
             {
                 "video_id": "3ab9c63c-49af-4688-8ff9-26e50d185dab",
                 "question_id": 9,
-                "question": "with the measurements of the \"return of the jedi\" poster are performed, how much space will i need to frame it?",
+                "question": "with the measurements of the return of the jedi poster are performed, how much space will i need to frame it?",
                 "question_type": "hands-on",
                 "correct_answer": "at least 38 inches of width",
                 "timestamp": 137.3
@@ -4135,7 +4135,7 @@
             {
                 "video_id": "431a0aa5-cfe1-4f73-8237-6e74f42e690c",
                 "question_id": 9,
-                "question": "which vehicle with the text \"benven\" and the lion?",
+                "question": "which vehicle with the text benven and the lion?",
                 "question_type": "hands-on",
                 "correct_answer": "train",
                 "timestamp": 111.5
@@ -4153,7 +4153,7 @@
                 "question_id": 9,
                 "question": "where should i attach the tool to ensure it's stable while working on the hiltex bracket?",
                 "question_type": "hands-on",
-                "correct_answer": "near the location of \"hiltex\" on the gloves",
+                "correct_answer": "near the location of hiltex on the gloves",
                 "timestamp": 118.8
             },
             {
@@ -4175,7 +4175,7 @@
             {
                 "video_id": "71477d8c-9404-4569-8570-24ee6a3d6150",
                 "question_id": 9,
-                "question": "where on the art pad is the word \"favinart\" located?",
+                "question": "where on the art pad is the word favinart located?",
                 "question_type": "hands-on",
                 "correct_answer": "on the left side",
                 "timestamp": 111.8
@@ -4247,17 +4247,17 @@
             {
                 "video_id": "a0a7b274-9632-4591-80f6-589e7dff6372",
                 "question_id": 9,
-                "question": "which device shows a measurement of \"0.0000\" and what does it likely signify in this context?",
+                "question": "which device shows a measurement of 0.0000 and what does it likely signify in this context?",
                 "question_type": "hands-on",
-                "correct_answer": "the left balance shows \"0.0000\", likely indicating it is tared",
+                "correct_answer": "the left balance shows 0.0000, likely indicating it is tared",
                 "timestamp": 142.8
             },
             {
                 "video_id": "a0d443b6-804f-464a-a4fa-32945eb5749b",
                 "question_id": 9,
-                "question": "which parts of the project should i attach first to make sure \"benvenuto dagli\" appears neat and properly aligned?",
+                "question": "which parts of the project should i attach first to make sure benvenuto dagli appears neat and properly aligned?",
                 "question_type": "hands-on",
-                "correct_answer": "start with the \"benvenuto\" text",
+                "correct_answer": "start with the benvenuto text",
                 "timestamp": 111.2
             },
             {
@@ -4271,7 +4271,7 @@
             {
                 "video_id": "a73215d5-537a-4128-80ee-2996878a2e80",
                 "question_id": 9,
-                "question": "where could i find instructions for using this \"white 1000 grid\" product?",
+                "question": "where could i find instructions for using this white 1000 grid product?",
                 "question_type": "hands-on",
                 "correct_answer": "on the plastic wrap",
                 "timestamp": 129.3
@@ -4287,7 +4287,7 @@
             {
                 "video_id": "bde944e9-230f-4e67-af44-30725d80b3c3",
                 "question_id": 9,
-                "question": "which settings do i need to adjust on the \"andrea\" control panel for optimal performance?",
+                "question": "which settings do i need to adjust on the andrea control panel for optimal performance?",
                 "question_type": "hands-on",
                 "correct_answer": "the three dials on the upper right side",
                 "timestamp": 106.5
@@ -4449,7 +4449,7 @@
                 "question_id": 10,
                 "question": "what materials should i be using for the construction according to the texts i see around?",
                 "question_type": "hands-on",
-                "correct_answer": "use the \"bhara\" item",
+                "correct_answer": "use the bhara item",
                 "timestamp": 145.8
             },
             {
@@ -4511,7 +4511,7 @@
             {
                 "video_id": "92d717cc-4946-4cb9-9d03-ddc137f4ba84",
                 "question_id": 10,
-                "question": "where can i find the \"liquitex basics\" acrylic color tubes that i need for this painting?",
+                "question": "where can i find the liquitex basics acrylic color tubes that i need for this painting?",
                 "question_type": "hands-on",
                 "correct_answer": "next to the candle",
                 "timestamp": 97.5
@@ -4527,7 +4527,7 @@
             {
                 "video_id": "a56b297f-35c0-471a-b346-a53c291e0dae",
                 "question_id": 10,
-                "question": "what do people in \"kurub cars\" uniforms do?",
+                "question": "what do people in kurub cars uniforms do?",
                 "question_type": "hands-on",
                 "correct_answer": "automotive repair services",
                 "timestamp": 113.0
@@ -4543,7 +4543,7 @@
             {
                 "video_id": "c3ce24fb-1f69-4470-8b16-d5a3065482d3",
                 "question_id": 10,
-                "question": "which colors should i use for the letter \"a\" according to the pattern in the booklet?",
+                "question": "which colors should i use for the letter a according to the pattern in the booklet?",
                 "question_type": "hands-on",
                 "correct_answer": "green and yellow",
                 "timestamp": 111.2
@@ -4583,7 +4583,7 @@
             {
                 "video_id": "06a63ff3-ae7e-4400-9dbf-084ccaa57377",
                 "question_id": 11,
-                "question": "where can i find the position labeled \"face\"?",
+                "question": "where can i find the position labeled face?",
                 "question_type": "hands-on",
                 "correct_answer": "on the lower side",
                 "timestamp": 108.8
@@ -4599,7 +4599,7 @@
             {
                 "video_id": "159b8635-67d7-4999-99db-442a0b58b1c1",
                 "question_id": 11,
-                "question": "where should i place the tools after using them near the \"ozeen\" area?",
+                "question": "where should i place the tools after using them near the ozeen area?",
                 "question_type": "hands-on",
                 "correct_answer": "on the wall-mounted tool rack",
                 "timestamp": 113.3
@@ -4647,7 +4647,7 @@
             {
                 "video_id": "32f700d8-5175-4098-8270-bc6ed5d76e2e",
                 "question_id": 11,
-                "question": "where should i place the black box with the \"adoas\" label?",
+                "question": "where should i place the black box with the adoas label?",
                 "question_type": "hands-on",
                 "correct_answer": "on the bottom shelf on the right",
                 "timestamp": 125.5
@@ -4655,7 +4655,7 @@
             {
                 "video_id": "33c996d6-4fc7-4013-a65c-4ef8756cea49",
                 "question_id": 11,
-                "question": "what tools do i need to use to assemble the piece marked \"pool\"?",
+                "question": "what tools do i need to use to assemble the piece marked pool?",
                 "question_type": "hands-on",
                 "correct_answer": "glue gun",
                 "timestamp": 112.0
@@ -4689,7 +4689,7 @@
                 "question_id": 11,
                 "question": "which entrance should i use to enter the house?",
                 "question_type": "hands-on",
-                "correct_answer": "the entrance with the \"welcome\" doormat",
+                "correct_answer": "the entrance with the welcome doormat",
                 "timestamp": 118.8
             },
             {
@@ -4719,7 +4719,7 @@
             {
                 "video_id": "69593ee1-f02a-4b4e-91ea-a09548fd505c",
                 "question_id": 11,
-                "question": "where is the \"bhara\" item located that i need to use next?",
+                "question": "where is the bhara item located that i need to use next?",
                 "question_type": "hands-on",
                 "correct_answer": "beside the concrete corner",
                 "timestamp": 145.8
@@ -4767,7 +4767,7 @@
             {
                 "video_id": "8eed2026-9f16-4004-92dd-9a31eceefa32",
                 "question_id": 11,
-                "question": "where do i find the \"avenue\" underwear?",
+                "question": "where do i find the avenue underwear?",
                 "question_type": "hands-on",
                 "correct_answer": "on the bed",
                 "timestamp": 113.3
@@ -4793,13 +4793,13 @@
                 "question_id": 11,
                 "question": "which container should i use to store the \u201chbc cag\u201d sample?",
                 "question_type": "hands-on",
-                "correct_answer": "the one labeled \"hbc cag\"",
+                "correct_answer": "the one labeled hbc cag",
                 "timestamp": 112.2
             },
             {
                 "video_id": "a94bf1df-bdcd-48ef-a654-b2e64048097b",
                 "question_id": 11,
-                "question": "where do i put the \"family size\" splatoon2 cereal box that i bought yesterday?",
+                "question": "where do i put the family size splatoon2 cereal box that i bought yesterday?",
                 "question_type": "hands-on",
                 "correct_answer": "on the bookshelf next to the guitar",
                 "timestamp": 97.7
@@ -4807,15 +4807,15 @@
             {
                 "video_id": "c3ce24fb-1f69-4470-8b16-d5a3065482d3",
                 "question_id": 11,
-                "question": "from where should i start stitching the letter \"b\" after finishing the letter \"a\"?",
+                "question": "from where should i start stitching the letter b after finishing the letter a?",
                 "question_type": "hands-on",
-                "correct_answer": "one space to the right of where you ended the letter \"a\"",
+                "correct_answer": "one space to the right of where you ended the letter a",
                 "timestamp": 111.2
             },
             {
                 "video_id": "c5b9ddd5-2ebb-41a5-a66e-45e9f7739a71",
                 "question_id": 11,
-                "question": "where can i find instructions of the \"auto-paper\" product?",
+                "question": "where can i find instructions of the auto-paper product?",
                 "question_type": "hands-on",
                 "correct_answer": "on the packaging of auto-paper",
                 "timestamp": 114.0
@@ -4823,7 +4823,7 @@
             {
                 "video_id": "c66fe71d-e9c3-4983-ad77-26c0a8b1c0b9",
                 "question_id": 11,
-                "question": "where should i position the green mat with the \"awp\" text to ensure a stable surface?",
+                "question": "where should i position the green mat with the awp text to ensure a stable surface?",
                 "question_type": "hands-on",
                 "correct_answer": "beside the wall where you are working",
                 "timestamp": 132.5
@@ -4895,7 +4895,7 @@
             {
                 "video_id": "316df9ab-91a5-417a-abc4-ce49063bc5cd",
                 "question_id": 12,
-                "question": "what tools and materials am i supposed to use for the parts labeled \"face\"?",
+                "question": "what tools and materials am i supposed to use for the parts labeled face?",
                 "question_type": "hands-on",
                 "correct_answer": "hot glue gun and small blocks",
                 "timestamp": 133.3
@@ -4911,7 +4911,7 @@
             {
                 "video_id": "330a2524-55c2-4c1e-bc01-8d5eef614978",
                 "question_id": 12,
-                "question": "where can i find more information or contact details for the service provider \"rader\"?",
+                "question": "where can i find more information or contact details for the service provider rader?",
                 "question_type": "hands-on",
                 "correct_answer": "on the green shirt",
                 "timestamp": 140.5
@@ -4977,7 +4977,7 @@
                 "question_id": 12,
                 "question": "which tools have i already used, seen from the scene and texts present?",
                 "question_type": "hands-on",
-                "correct_answer": "the trowel and the \"bhara\" item",
+                "correct_answer": "the trowel and the bhara item",
                 "timestamp": 144.8
             },
             {
@@ -4991,7 +4991,7 @@
             {
                 "video_id": "89e65314-0ed5-4dc2-ab3b-647511dba1a2",
                 "question_id": 12,
-                "question": "which materials do i need to gather before working on the page featuring the red barn and \"castilloes\"?",
+                "question": "which materials do i need to gather before working on the page featuring the red barn and castilloes?",
                 "question_type": "hands-on",
                 "correct_answer": "fabric pieces and scissors",
                 "timestamp": 145.2
@@ -5009,7 +5009,7 @@
                 "question_id": 12,
                 "question": "where can i find the rolling pin for making dough?",
                 "question_type": "hands-on",
-                "correct_answer": "next to the \"visitor's permits\" package",
+                "correct_answer": "next to the visitor's permits package",
                 "timestamp": 144.7
             },
             {
@@ -5063,7 +5063,7 @@
             {
                 "video_id": "159b8635-67d7-4999-99db-442a0b58b1c1",
                 "question_id": 13,
-                "question": "what tools are available around the \"ozeen\" sign that i can use for my work?",
+                "question": "what tools are available around the ozeen sign that i can use for my work?",
                 "question_type": "hands-on",
                 "correct_answer": "screwdrivers, pliers, and wrenches",
                 "timestamp": 143.7
@@ -5089,7 +5089,7 @@
                 "question_id": 13,
                 "question": "what does the text on the bricks say, and is it consistent across all the bricks in this stack?",
                 "question_type": "hands-on",
-                "correct_answer": "the text says \"suv\" and it is consistent across all the bricks",
+                "correct_answer": "the text says suv and it is consistent across all the bricks",
                 "timestamp": 147.8
             },
             {
@@ -5105,7 +5105,7 @@
                 "question_id": 13,
                 "question": "which of these construction panels is labeled \u201cusg durock\u201d?",
                 "question_type": "hands-on",
-                "correct_answer": "the construction panel with \"usg durock\" text on it",
+                "correct_answer": "the construction panel with usg durock text on it",
                 "timestamp": 141.3
             },
             {
@@ -5175,7 +5175,7 @@
             {
                 "video_id": "9e50476f-2e77-46f3-8b06-f1005ee55974",
                 "question_id": 13,
-                "question": "what could be inside the box that is labeled \"not for everyone\"?",
+                "question": "what could be inside the box that is labeled not for everyone?",
                 "question_type": "hands-on",
                 "correct_answer": "items that are intended for a specific audience or purpose",
                 "timestamp": 138.7
@@ -5215,7 +5215,7 @@
             {
                 "video_id": "d966f6a1-c789-4fc0-bd69-3e574a8054b3",
                 "question_id": 13,
-                "question": "what items are to the left of the \"money\" magazine?",
+                "question": "what items are to the left of the money magazine?",
                 "question_type": "hands-on",
                 "correct_answer": " orange object",
                 "timestamp": 147.5
@@ -5231,9 +5231,9 @@
             {
                 "video_id": "06a63ff3-ae7e-4400-9dbf-084ccaa57377",
                 "question_id": 14,
-                "question": "when i finish with the \"seam\" section, where do i go next for the next step in the process?",
+                "question": "when i finish with the seam section, where do i go next for the next step in the process?",
                 "question_type": "hands-on",
-                "correct_answer": "proceed to the section labeled \"house.\"",
+                "correct_answer": "proceed to the section labeled house.",
                 "timestamp": 133.3
             },
             {
@@ -5241,13 +5241,13 @@
                 "question_id": 14,
                 "question": "where should i record the final results?",
                 "question_type": "hands-on",
-                "correct_answer": "on the same page under the \"eco pinks\" section",
+                "correct_answer": "on the same page under the eco pinks section",
                 "timestamp": 126.5
             },
             {
                 "video_id": "159b8635-67d7-4999-99db-442a0b58b1c1",
                 "question_id": 14,
-                "question": "which area near the \"ozeen\" sign seems best suited for storing the yellow bags of materials?",
+                "question": "which area near the ozeen sign seems best suited for storing the yellow bags of materials?",
                 "question_type": "hands-on",
                 "correct_answer": "near the corner of the room by the wall",
                 "timestamp": 143.7
@@ -5263,7 +5263,7 @@
             {
                 "video_id": "3581bcf8-7e3e-4c02-af98-3e96c05bfa40",
                 "question_id": 14,
-                "question": "where should i place the bricks labeled \"suv\" after lifting them from the ground?",
+                "question": "where should i place the bricks labeled suv after lifting them from the ground?",
                 "question_type": "hands-on",
                 "correct_answer": "in the pile near the marked area",
                 "timestamp": 147.8
@@ -5287,7 +5287,7 @@
             {
                 "video_id": "380fed0b-bdf2-4100-8edd-a5add0d280bb",
                 "question_id": 14,
-                "question": "which specific parts from the \"catalog of parts\" do i need to gather first to begin the \"space rail\" assembly?",
+                "question": "which specific parts from the catalog of parts do i need to gather first to begin the space rail assembly?",
                 "question_type": "hands-on",
                 "correct_answer": "gather base parts, vertical rods, and screws",
                 "timestamp": 139.8
@@ -5311,7 +5311,7 @@
             {
                 "video_id": "6df4ef45-3165-4c97-a8e4-484d2199f070",
                 "question_id": 14,
-                "question": "where can i find more of the tubes labeled \"tirupati tubes\"?",
+                "question": "where can i find more of the tubes labeled tirupati tubes?",
                 "question_type": "hands-on",
                 "correct_answer": "in the packages on the left",
                 "timestamp": 141.2
@@ -5327,7 +5327,7 @@
             {
                 "video_id": "8105346c-07fd-4aa1-b89b-de16bbd3e4cd",
                 "question_id": 14,
-                "question": "where should i look to find the bag labeled \"cement\"?",
+                "question": "where should i look to find the bag labeled cement?",
                 "question_type": "hands-on",
                 "correct_answer": "behind the drilling machine, in the corner",
                 "timestamp": 134.8
@@ -5343,7 +5343,7 @@
             {
                 "video_id": "848e795d-eddd-4100-9ae3-03dc0c81de4e",
                 "question_id": 14,
-                "question": "where exactly on my desk is the paper from \"chans pack consumables west\" located, and is there anything immediately to its right?",
+                "question": "where exactly on my desk is the paper from chans pack consumables west located, and is there anything immediately to its right?",
                 "question_type": "hands-on",
                 "correct_answer": "center of the desk, papers and a yellow object",
                 "timestamp": 137.3
@@ -5375,7 +5375,7 @@
             {
                 "video_id": "d89d8c89-fd7a-4103-8764-e015abae8328",
                 "question_id": 14,
-                "question": "which colored pencils are in the metal case marked \"mo\"?",
+                "question": "which colored pencils are in the metal case marked mo?",
                 "question_type": "hands-on",
                 "correct_answer": "pencils of different colors, including green, blue, and orange",
                 "timestamp": 136.0
@@ -5385,7 +5385,7 @@
                 "question_id": 14,
                 "question": "where are the hammerite paint cans in relation to the 'money' magazine?",
                 "question_type": "hands-on",
-                "correct_answer": "the hammerite paint cans are above the \"money\" magazine on the same set of shelves",
+                "correct_answer": "the hammerite paint cans are above the money magazine on the same set of shelves",
                 "timestamp": 147.5
             },
             {
@@ -5399,7 +5399,7 @@
             {
                 "video_id": "0354b658-b59e-476c-ac9d-739ee656bed0",
                 "question_id": 15,
-                "question": "which tool on the table requires the \"mix gas\" to operate properly?",
+                "question": "which tool on the table requires the mix gas to operate properly?",
                 "question_type": "hands-on",
                 "correct_answer": "the chainsaw",
                 "timestamp": 136.7
@@ -5407,9 +5407,9 @@
             {
                 "video_id": "06a63ff3-ae7e-4400-9dbf-084ccaa57377",
                 "question_id": 15,
-                "question": "which component is indicated to be glued along the \"house\" label, and how do i align it properly with the rest of the structure?",
+                "question": "which component is indicated to be glued along the house label, and how do i align it properly with the rest of the structure?",
                 "question_type": "hands-on",
-                "correct_answer": "glue the component labeled \"house\" and align it precisely on the drawn outline",
+                "correct_answer": "glue the component labeled house and align it precisely on the drawn outline",
                 "timestamp": 133.3
             },
             {
@@ -5417,7 +5417,7 @@
                 "question_id": 15,
                 "question": "what figures are the calculations for sample purity corrected based on?",
                 "question_type": "hands-on",
-                "correct_answer": "the calculations for sample purity are corrected based on \"viola\" figures to ensure accuracy in experiment results",
+                "correct_answer": "the calculations for sample purity are corrected based on viola figures to ensure accuracy in experiment results",
                 "timestamp": 126.5
             },
             {
@@ -5439,7 +5439,7 @@
             {
                 "video_id": "2abab07f-8dca-4fdc-aa2b-3d79e3252cbb",
                 "question_id": 15,
-                "question": "which of the items on the shelf are labeled as \"ultra\"?",
+                "question": "which of the items on the shelf are labeled as ultra?",
                 "question_type": "hands-on",
                 "correct_answer": "paper towels",
                 "timestamp": 122.7
@@ -5479,7 +5479,7 @@
             {
                 "video_id": "6884d86f-62c1-49ac-be67-f334ea288407",
                 "question_id": 15,
-                "question": "considering the text \"crane,\" which safety precautions should i follow while carrying out my activity?",
+                "question": "considering the text crane, which safety precautions should i follow while carrying out my activity?",
                 "question_type": "hands-on",
                 "correct_answer": "use proper lifting techniques and wear protective gear",
                 "timestamp": 147.0
@@ -5489,21 +5489,21 @@
                 "question_id": 15,
                 "question": "which equipment should i use for high-speed sample spinning?",
                 "question_type": "hands-on",
-                "correct_answer": "use the machine labeled \"thermoshake\"",
+                "correct_answer": "use the machine labeled thermoshake",
                 "timestamp": 125.7
             },
             {
                 "video_id": "738ede98-127c-470c-81d8-226b78a63b60",
                 "question_id": 15,
-                "question": "which model of the \"exmark\" machinery am i repairing?",
+                "question": "which model of the exmark machinery am i repairing?",
                 "question_type": "hands-on",
-                "correct_answer": "the model is \"exmark lazer z\"",
+                "correct_answer": "the model is exmark lazer z",
                 "timestamp": 140.7
             },
             {
                 "video_id": "7431615c-e482-4669-8d5e-1d916af17d4d",
                 "question_id": 15,
-                "question": "what safety instructions are required to enter the room labeled with \"02\"?",
+                "question": "what safety instructions are required to enter the room labeled with 02?",
                 "question_type": "hands-on",
                 "correct_answer": "follow the safety instructions provided on the door",
                 "timestamp": 145.8
@@ -5519,7 +5519,7 @@
             {
                 "video_id": "92d717cc-4946-4cb9-9d03-ddc137f4ba84",
                 "question_id": 15,
-                "question": "where is the paint tube labeled \"sap green\" located relative to the \"cerulean blue\" tube?",
+                "question": "where is the paint tube labeled sap green located relative to the cerulean blue tube?",
                 "question_type": "hands-on",
                 "correct_answer": "to the right",
                 "timestamp": 126.3
@@ -5543,7 +5543,7 @@
             {
                 "video_id": "c856e600-d33d-453e-b3f9-db920deedc2f",
                 "question_id": 15,
-                "question": "where exactly is the \"tray - soil preparation area\" and what should i clean and re-feed according to the instructions?",
+                "question": "where exactly is the tray - soil preparation area and what should i clean and re-feed according to the instructions?",
                 "question_type": "hands-on",
                 "correct_answer": "on the right; clean & re-feed after work",
                 "timestamp": 140.2
@@ -5559,7 +5559,7 @@
             {
                 "video_id": "d89d8c89-fd7a-4103-8764-e015abae8328",
                 "question_id": 15,
-                "question": "where is the lid for the metal case labeled \"mo\" kept after i opened it?",
+                "question": "where is the lid for the metal case labeled mo kept after i opened it?",
                 "question_type": "hands-on",
                 "correct_answer": "still attached to the metal case",
                 "timestamp": 136.0

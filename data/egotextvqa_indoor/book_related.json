@@ -7,7 +7,7 @@
             {
                 "video_id": "0479bea8-d221-4c6a-8c91-60108e43fe56",
                 "question_id": 1,
-                "question": "where is the book titled \"fables\"?",
+                "question": "where is the book titled fables?",
                 "question_type": "book-related",
                 "correct_answer": "the book is being placed on the shelf",
                 "timestamp": 10.3
@@ -17,7 +17,7 @@
                 "question_id": 1,
                 "question": "where can i find additional english language resources?",
                 "question_type": "book-related",
-                "correct_answer": "in the black book titled \"oxford modern english.",
+                "correct_answer": "in the black book titled oxford modern english.",
                 "timestamp": 21.2
             },
             {
@@ -47,7 +47,7 @@
             {
                 "video_id": "164d8727-9b64-4887-b2ae-f31f2f996b07",
                 "question_id": 1,
-                "question": "which direction should i go to find \"light bay\"?",
+                "question": "which direction should i go to find light bay?",
                 "question_type": "book-related",
                 "correct_answer": "to the left of the coffee cups",
                 "timestamp": 21.5
@@ -55,7 +55,7 @@
             {
                 "video_id": "38544feb-25d9-4c87-bcec-846cf9fddca2",
                 "question_id": 1,
-                "question": "what are the main topics covered under the \"government budget and the economy\" section?",
+                "question": "what are the main topics covered under the government budget and the economy section?",
                 "question_type": "book-related",
                 "correct_answer": "objectives of government budget",
                 "timestamp": 24.7
@@ -151,7 +151,7 @@
             {
                 "video_id": "8dea8a9c-df89-4a86-946e-12378ec817c0",
                 "question_id": 1,
-                "question": "where do i place the book titled \"microwave engineering\"?",
+                "question": "where do i place the book titled microwave engineering?",
                 "question_type": "book-related",
                 "correct_answer": "to my left on the floor",
                 "timestamp": 18.3
@@ -175,7 +175,7 @@
             {
                 "video_id": "9422a7b8-152b-4299-9c2b-2cf9f91b6efe",
                 "question_id": 1,
-                "question": "which book on the shelf has the title \"david baldacci\" written on the spine, and what genre does it belong to?",
+                "question": "which book on the shelf has the title david baldacci written on the spine, and what genre does it belong to?",
                 "question_type": "book-related",
                 "correct_answer": "david baldacci, it belongs to the mystery genre",
                 "timestamp": 21.2
@@ -191,7 +191,7 @@
             {
                 "video_id": "9bdb8163-893d-4f95-97f2-8aaef4631e95",
                 "question_id": 1,
-                "question": "where can i find the definition of \"pdd\" in this book?",
+                "question": "where can i find the definition of pdd in this book?",
                 "question_type": "book-related",
                 "correct_answer": "attached to a sticky note on the top left corner of a book page",
                 "timestamp": 17.3
@@ -201,7 +201,7 @@
                 "question_id": 1,
                 "question": "which chapter in the book am i reading?",
                 "question_type": "book-related",
-                "correct_answer": "chapter \"government budget and the economy\"",
+                "correct_answer": "chapter government budget and the economy",
                 "timestamp": 26.5
             },
             {
@@ -239,7 +239,7 @@
             {
                 "video_id": "b26e582c-8bd5-42dd-ba46-448470b8a91c",
                 "question_id": 1,
-                "question": "where can i find the instructions for using the \"\u0442\u0440\u0435\u043d\u0430\u0436\u0435\u0440\" exercise book?",
+                "question": "where can i find the instructions for using the \u0442\u0440\u0435\u043d\u0430\u0436\u0435\u0440 exercise book?",
                 "question_type": "book-related",
                 "correct_answer": "inside the first page of the booklet",
                 "timestamp": 21.0
@@ -271,7 +271,7 @@
             {
                 "video_id": "bd2a9fd1-7d4b-49ee-b3bf-4e7db9a805f2",
                 "question_id": 1,
-                "question": "which book is titled \"swami vivekananda\"?",
+                "question": "which book is titled swami vivekananda?",
                 "question_type": "book-related",
                 "correct_answer": "the one on the floor with a mountain image",
                 "timestamp": 19.0
@@ -287,7 +287,7 @@
             {
                 "video_id": "c94ea4e2-4a2b-45f9-a20a-9a1f70c92e34",
                 "question_id": 1,
-                "question": "where is the \"indian constitutional documents\"?",
+                "question": "where is the indian constitutional documents?",
                 "question_type": "book-related",
                 "correct_answer": "on the lowest level of the cabinet",
                 "timestamp": 18.8
@@ -311,7 +311,7 @@
             {
                 "video_id": "dc02f23a-fa63-4522-952c-18dcbee546e2",
                 "question_id": 1,
-                "question": "where do i place the magazine with the title \"vikings\"?",
+                "question": "where do i place the magazine with the title vikings?",
                 "question_type": "book-related",
                 "correct_answer": "on the smaller table",
                 "timestamp": 19.2
@@ -319,7 +319,7 @@
             {
                 "video_id": "0479bea8-d221-4c6a-8c91-60108e43fe56",
                 "question_id": 2,
-                "question": "which book is being held alongside \"with these hands\"\uff1f",
+                "question": "which book is being held alongside with these hands\uff1f",
                 "question_type": "book-related",
                 "correct_answer": "a red and black book",
                 "timestamp": 10.3
@@ -359,7 +359,7 @@
             {
                 "video_id": "1b642806-c7ee-4948-a0e7-6d575ea2a757",
                 "question_id": 2,
-                "question": "how many books titled \"greek heritage\" i have on the shelf?",
+                "question": "how many books titled greek heritage i have on the shelf?",
                 "question_type": "book-related",
                 "correct_answer": "two",
                 "timestamp": 20.3
@@ -375,7 +375,7 @@
             {
                 "video_id": "2936e284-d937-4b68-bf69-5abbdbfa5295",
                 "question_id": 2,
-                "question": "which color is the item labeled \"core\"\uff1f",
+                "question": "which color is the item labeled core\uff1f",
                 "question_type": "book-related",
                 "correct_answer": "yellow",
                 "timestamp": 14.8
@@ -399,7 +399,7 @@
             {
                 "video_id": "31cc4cc9-d30e-406d-9499-d8ba04720ea7",
                 "question_id": 2,
-                "question": "where should i put the \"magicians' handbook\"?",
+                "question": "where should i put the magicians' handbook?",
                 "question_type": "book-related",
                 "correct_answer": "on the pile next to the red cloth",
                 "timestamp": 13.7
@@ -409,7 +409,7 @@
                 "question_id": 2,
                 "question": "where is the definition of fixed exchange rate mentioned?",
                 "question_type": "book-related",
-                "correct_answer": "in the section under \"difference between fixed and flexible exchange rate.\"",
+                "correct_answer": "in the section under difference between fixed and flexible exchange rate.",
                 "timestamp": 10.3
             },
             {
@@ -455,7 +455,7 @@
             {
                 "video_id": "84389a11-7dc2-4e1d-80b1-e44d8787424a",
                 "question_id": 2,
-                "question": "which book on my desk is about \"accounting\"?",
+                "question": "which book on my desk is about accounting?",
                 "question_type": "book-related",
                 "correct_answer": "accountorcy",
                 "timestamp": 22.0
@@ -463,7 +463,7 @@
             {
                 "video_id": "90a48d77-7070-4473-8757-d202ae893d6e",
                 "question_id": 2,
-                "question": "which book is lying next to the \"sarayova\" document?",
+                "question": "which book is lying next to the sarayova document?",
                 "question_type": "book-related",
                 "correct_answer": "a book with a waterfall on the cover",
                 "timestamp": 23.2
@@ -479,7 +479,7 @@
             {
                 "video_id": "a543c599-d62a-4a7a-9c6a-0926a98f75fa",
                 "question_id": 2,
-                "question": "where can i find information about the \"government budget and the economy\"?",
+                "question": "where can i find information about the government budget and the economy?",
                 "question_type": "book-related",
                 "correct_answer": "in the open book on the left side",
                 "timestamp": 26.5
@@ -487,7 +487,7 @@
             {
                 "video_id": "ab8570ba-6c88-45b2-9fb5-03f6cd149a78",
                 "question_id": 2,
-                "question": "what is the magazine next to the book \"in the hands\"?",
+                "question": "what is the magazine next to the book in the hands?",
                 "question_type": "book-related",
                 "correct_answer": "time",
                 "timestamp": 22.0
@@ -527,7 +527,7 @@
             {
                 "video_id": "c94ea4e2-4a2b-45f9-a20a-9a1f70c92e34",
                 "question_id": 2,
-                "question": "which volume of \"munshi papers\" am i currently holding?",
+                "question": "which volume of munshi papers am i currently holding?",
                 "question_type": "book-related",
                 "correct_answer": "volume ii",
                 "timestamp": 18.8
@@ -535,7 +535,7 @@
             {
                 "video_id": "cf6f0815-ac72-477e-9569-b934712d6077",
                 "question_id": 2,
-                "question": "where is the \"swami vivekananda\" book?",
+                "question": "where is the swami vivekananda book?",
                 "question_type": "book-related",
                 "correct_answer": "in the stack located directly in front of me",
                 "timestamp": 8.0
@@ -551,7 +551,7 @@
             {
                 "video_id": "de326bda-444a-4ad4-81d6-5ebb456a3300",
                 "question_id": 2,
-                "question": "where can i find the information related to \"double entry book keeping\"?",
+                "question": "where can i find the information related to double entry book keeping?",
                 "question_type": "book-related",
                 "correct_answer": "it's the third book from the top",
                 "timestamp": 21.5
@@ -567,7 +567,7 @@
             {
                 "video_id": "0479bea8-d221-4c6a-8c91-60108e43fe56",
                 "question_id": 3,
-                "question": "where can i find a suitable spot to place the book titled \"sarah\"?",
+                "question": "where can i find a suitable spot to place the book titled sarah?",
                 "question_type": "book-related",
                 "correct_answer": "on the shelf with the black bookends",
                 "timestamp": 52.8
@@ -583,15 +583,15 @@
             {
                 "video_id": "0e0626d1-f9f4-4c05-8515-544afc95a7b2",
                 "question_id": 3,
-                "question": "where can i find information about \"perfect assassin\"?",
+                "question": "where can i find information about perfect assassin?",
                 "question_type": "book-related",
-                "correct_answer": "on the book titled \"perfect assassin\" on the floor",
+                "correct_answer": "on the book titled perfect assassin on the floor",
                 "timestamp": 75.5
             },
             {
                 "video_id": "22554507-48de-46df-b9f1-0e37fdf557f9",
                 "question_id": 3,
-                "question": "where is the book \"introduction to psychology\" located on the shelf?",
+                "question": "where is the book introduction to psychology located on the shelf?",
                 "question_type": "book-related",
                 "correct_answer": "not visible",
                 "timestamp": 59.3
@@ -607,7 +607,7 @@
             {
                 "video_id": "2936e284-d937-4b68-bf69-5abbdbfa5295",
                 "question_id": 3,
-                "question": "where do i place the item with \"core\" on it after i picked it up?",
+                "question": "where do i place the item with core on it after i picked it up?",
                 "question_type": "book-related",
                 "correct_answer": "in the top right corner of the drawer",
                 "timestamp": 86.7
@@ -631,7 +631,7 @@
             {
                 "video_id": "8394a6fd-9cf1-4383-9eb0-996e49877963",
                 "question_id": 3,
-                "question": "where can i find information about the \"meaning of budget receipts\" in the open book?",
+                "question": "where can i find information about the meaning of budget receipts in the open book?",
                 "question_type": "book-related",
                 "correct_answer": "section 10.4",
                 "timestamp": 31.5
@@ -639,7 +639,7 @@
             {
                 "video_id": "90a48d77-7070-4473-8757-d202ae893d6e",
                 "question_id": 3,
-                "question": "where can i find my pen to fill out the \"sarayova\" document?",
+                "question": "where can i find my pen to fill out the sarayova document?",
                 "question_type": "book-related",
                 "correct_answer": "inside the black pouch on the desk",
                 "timestamp": 54.5
@@ -767,9 +767,9 @@
             {
                 "video_id": "299c2d04-ee46-43dc-b4e3-6f489f635f91",
                 "question_id": 4,
-                "question": "where should i place \"the perfect assassin\" book on the shelf?",
+                "question": "where should i place the perfect assassin book on the shelf?",
                 "question_type": "book-related",
-                "correct_answer": "next to \"photography handbook\"",
+                "correct_answer": "next to photography handbook",
                 "timestamp": 51.8
             },
             {
@@ -791,7 +791,7 @@
             {
                 "video_id": "4024a7d8-abf2-4b5e-93f2-a725385eab56",
                 "question_id": 4,
-                "question": "which author wrote the book titled \"red heat: cures cancer\"?",
+                "question": "which author wrote the book titled red heat: cures cancer?",
                 "question_type": "book-related",
                 "correct_answer": "starbuck o'dwyer",
                 "timestamp": 48.5
@@ -807,7 +807,7 @@
             {
                 "video_id": "5c5645a0-d9a6-426a-ab46-7c51b2a28783",
                 "question_id": 4,
-                "question": "what chapter in my \"business studies\" book should i read next?",
+                "question": "what chapter in my business studies book should i read next?",
                 "question_type": "book-related",
                 "correct_answer": "chapter 3",
                 "timestamp": 54.2
@@ -825,7 +825,7 @@
                 "question_id": 4,
                 "question": "where in my notes can i find the explanation about the government budget's impact on the economy?",
                 "question_type": "book-related",
-                "correct_answer": "in the section titled \"government budget and the economy\"",
+                "correct_answer": "in the section titled government budget and the economy",
                 "timestamp": 33.5
             },
             {
@@ -857,7 +857,7 @@
                 "question_id": 4,
                 "question": "what is writen on the cover of the green notebook?",
                 "question_type": "book-related",
-                "correct_answer": "you can find \"college rule\" and \"70\"",
+                "correct_answer": "you can find college rule and 70",
                 "timestamp": 50.8
             },
             {
@@ -873,7 +873,7 @@
                 "question_id": 4,
                 "question": "where can i find information about the important dates and events based on the calendar in my workspace?",
                 "question_type": "book-related",
-                "correct_answer": "on the \"academic calendar\" hanging on the wall",
+                "correct_answer": "on the academic calendar hanging on the wall",
                 "timestamp": 49.2
             },
             {
@@ -897,7 +897,7 @@
                 "question_id": 4,
                 "question": "where can i find the section about the objectives of a budget?",
                 "question_type": "book-related",
-                "correct_answer": "in section 10.2 titled \"objectives of a budget\"",
+                "correct_answer": "in section 10.2 titled objectives of a budget",
                 "timestamp": 51.8
             },
             {
@@ -975,7 +975,7 @@
             {
                 "video_id": "24f2a624-488e-4984-93a3-aa67145b1440",
                 "question_id": 5,
-                "question": "where can i find information about \"double entry book keeping\" from the materials on the desk?",
+                "question": "where can i find information about double entry book keeping from the materials on the desk?",
                 "question_type": "book-related",
                 "correct_answer": "on the cover of a book from the stack",
                 "timestamp": 43.2
@@ -983,15 +983,15 @@
             {
                 "video_id": "299c2d04-ee46-43dc-b4e3-6f489f635f91",
                 "question_id": 5,
-                "question": "which books need to be placed with \"the perfect assassin\" on the same shelf?",
+                "question": "which books need to be placed with the perfect assassin on the same shelf?",
                 "question_type": "book-related",
-                "correct_answer": "\"photography handbook\" and \"the matter of prague\"",
+                "correct_answer": "photography handbook and the matter of prague",
                 "timestamp": 51.8
             },
             {
                 "video_id": "31cc4cc9-d30e-406d-9499-d8ba04720ea7",
                 "question_id": 5,
-                "question": "where can i find the book titled \"suka sandesam\"?",
+                "question": "where can i find the book titled suka sandesam?",
                 "question_type": "book-related",
                 "correct_answer": "underneath the book with an orange and black cover",
                 "timestamp": 60.2
@@ -1007,7 +1007,7 @@
             {
                 "video_id": "38ebfa83-3667-43af-989e-6354440f9265",
                 "question_id": 5,
-                "question": "where can i find information related to \"advantages to customers\" in the book on the table?",
+                "question": "where can i find information related to advantages to customers in the book on the table?",
                 "question_type": "book-related",
                 "correct_answer": "the left-side page",
                 "timestamp": 51.0
@@ -1025,7 +1025,7 @@
                 "question_id": 5,
                 "question": "where can i find information about the measures and components of the economy in the text?",
                 "question_type": "book-related",
-                "correct_answer": "in the chapter titled \"government budget and the economy.\"",
+                "correct_answer": "in the chapter titled government budget and the economy.",
                 "timestamp": 39.8
             },
             {
@@ -1039,7 +1039,7 @@
             {
                 "video_id": "7431deab-7cca-4dc6-868d-ffee9997f285",
                 "question_id": 5,
-                "question": "where can i find the book titled \"toxic fat\"?",
+                "question": "where can i find the book titled toxic fat?",
                 "question_type": "book-related",
                 "correct_answer": "in the lower left corner of the pile",
                 "timestamp": 60.2
@@ -1047,7 +1047,7 @@
             {
                 "video_id": "7a7383ba-176b-4e8e-b72c-2ce969c3dc72",
                 "question_id": 5,
-                "question": "what is section of the newspaper discusses the \"buzz\" about?",
+                "question": "what is section of the newspaper discusses the buzz about?",
                 "question_type": "book-related",
                 "correct_answer": "it discusses kanye west's run for presidency",
                 "timestamp": 50.8
@@ -1071,7 +1071,7 @@
             {
                 "video_id": "a37c606a-36b4-4a9d-a2e5-79c5abb0ef12",
                 "question_id": 5,
-                "question": "where do i place the book with \"david\" on its spine?",
+                "question": "where do i place the book with david on its spine?",
                 "question_type": "book-related",
                 "correct_answer": "on the middle shelf",
                 "timestamp": 48.5
@@ -1087,7 +1087,7 @@
             {
                 "video_id": "ab8570ba-6c88-45b2-9fb5-03f6cd149a78",
                 "question_id": 5,
-                "question": "where can i find the book titled \"shadow divers\"?",
+                "question": "where can i find the book titled shadow divers?",
                 "question_type": "book-related",
                 "correct_answer": "on the floor, under the white shelf",
                 "timestamp": 50.2
@@ -1169,7 +1169,7 @@
                 "question_id": 6,
                 "question": "which book should i read if i want to find information written in the script seen on the orange and black book?",
                 "question_type": "book-related",
-                "correct_answer": "the book with the title \"\u0d28\u0d3e\u0d1f\u0d15\u0d19\u0d4d\u0d19\"",
+                "correct_answer": "the book with the title \u0d28\u0d3e\u0d1f\u0d15\u0d19\u0d4d\u0d19",
                 "timestamp": 75.7
             },
             {
@@ -1191,7 +1191,7 @@
             {
                 "video_id": "5087f747-9022-4ce9-8d95-dbd56ca15ed0",
                 "question_id": 6,
-                "question": "which book should i refer to for learning about \"macroeconomics\"?",
+                "question": "which book should i refer to for learning about macroeconomics?",
                 "question_type": "book-related",
                 "correct_answer": "introductory macro economics",
                 "timestamp": 81.7
@@ -1215,7 +1215,7 @@
             {
                 "video_id": "93c33de2-3003-4dd0-817e-8aada9e62531",
                 "question_id": 6,
-                "question": "where should i put the \"tremex\" book?",
+                "question": "where should i put the tremex book?",
                 "question_type": "book-related",
                 "correct_answer": "back on the desk where it was",
                 "timestamp": 81.2
@@ -1223,7 +1223,7 @@
             {
                 "video_id": "9422a7b8-152b-4299-9c2b-2cf9f91b6efe",
                 "question_id": 6,
-                "question": "which book has a section on \"scenarios\"?",
+                "question": "which book has a section on scenarios?",
                 "question_type": "book-related",
                 "correct_answer": "worst case scenario",
                 "timestamp": 87.8
@@ -1273,13 +1273,13 @@
                 "question_id": 7,
                 "question": "what topics are being discussed in the magazine i am reading?",
                 "question_type": "book-related",
-                "correct_answer": "the topic is \"sound bites\" discussing personal wishs regarding family time",
+                "correct_answer": "the topic is sound bites discussing personal wishs regarding family time",
                 "timestamp": 78.7
             },
             {
                 "video_id": "1c677082-953b-433d-ac32-1ba22576dda4",
                 "question_id": 7,
-                "question": "which book is titled \"fix\"?",
+                "question": "which book is titled fix?",
                 "question_type": "book-related",
                 "correct_answer": "the book with the red and blue cover on the lower shelf",
                 "timestamp": 81.7
@@ -1303,7 +1303,7 @@
             {
                 "video_id": "7431deab-7cca-4dc6-868d-ffee9997f285",
                 "question_id": 7,
-                "question": "where should i place the book titled \"with these hands\"?",
+                "question": "where should i place the book titled with these hands?",
                 "question_type": "book-related",
                 "correct_answer": "on the shelf with the other books",
                 "timestamp": 86.5
@@ -1359,7 +1359,7 @@
             {
                 "video_id": "d5e7e530-a0f6-4d44-872c-b4e36f160ea3",
                 "question_id": 7,
-                "question": "which book has \"good taste\" in the title?",
+                "question": "which book has good taste in the title?",
                 "question_type": "book-related",
                 "correct_answer": "good taste jazz guitar",
                 "timestamp": 69.3
@@ -1393,7 +1393,7 @@
                 "question_id": 8,
                 "question": "where can i read more information about the advantages of product identification for customers?",
                 "question_type": "book-related",
-                "correct_answer": "on the book with the \"advantages to customers\" chapter",
+                "correct_answer": "on the book with the advantages to customers chapter",
                 "timestamp": 81.2
             },
             {
@@ -1439,9 +1439,9 @@
             {
                 "video_id": "31cc4cc9-d30e-406d-9499-d8ba04720ea7",
                 "question_id": 8,
-                "question": "where should i put the book \"suka sandesom\"?",
+                "question": "where should i put the book suka sandesom?",
                 "question_type": "book-related",
-                "correct_answer": "next to the book titled \"\u0d28\u0d3e\u0d1f\u0d15\u0d15\u0d43\u0d24\u0d3f\u0d15\u0d7e\"",
+                "correct_answer": "next to the book titled \u0d28\u0d3e\u0d1f\u0d15\u0d15\u0d43\u0d24\u0d3f\u0d15\u0d7e",
                 "timestamp": 75.7
             },
             {
@@ -1503,7 +1503,7 @@
             {
                 "video_id": "a37c606a-36b4-4a9d-a2e5-79c5abb0ef12",
                 "question_id": 8,
-                "question": "where on the shelf is \"ghost world\" located in relation to \"cat's cradle\"?",
+                "question": "where on the shelf is ghost world located in relation to cat's cradle?",
                 "question_type": "book-related",
                 "correct_answer": "to the left",
                 "timestamp": 69.3
@@ -1535,7 +1535,7 @@
             {
                 "video_id": "0479bea8-d221-4c6a-8c91-60108e43fe56",
                 "question_id": 9,
-                "question": "what does the cover of the book \"lynda\" look like, and what genre does it belong to?",
+                "question": "what does the cover of the book lynda look like, and what genre does it belong to?",
                 "question_type": "book-related",
                 "correct_answer": "the book with a black and pink cover, typically belonging to the self-help genre",
                 "timestamp": 107.5
@@ -1543,7 +1543,7 @@
             {
                 "video_id": "0e1fc680-9b1f-4314-8ebc-300097893ac2",
                 "question_id": 9,
-                "question": "where can i find the segment about \"celeb sons all grown up!\" in this magazine?",
+                "question": "where can i find the segment about celeb sons all grown up! in this magazine?",
                 "question_type": "book-related",
                 "correct_answer": "on a page with multiple celebrity images",
                 "timestamp": 113.0
@@ -1559,7 +1559,7 @@
             {
                 "video_id": "1445fd57-d149-44ec-a929-c63defa4f871",
                 "question_id": 9,
-                "question": "what section of the newspaper is referred to as \"third and fifth pages\"?",
+                "question": "what section of the newspaper is referred to as third and fifth pages?",
                 "question_type": "book-related",
                 "correct_answer": "third and fifth pages",
                 "timestamp": 110.3
@@ -1567,7 +1567,7 @@
             {
                 "video_id": "164d8727-9b64-4887-b2ae-f31f2f996b07",
                 "question_id": 9,
-                "question": "what's the main topic discussed in \"sound bites\" and how does it relate to the person quoted?",
+                "question": "what's the main topic discussed in sound bites and how does it relate to the person quoted?",
                 "question_type": "book-related",
                 "correct_answer": "the main topic is personal aspirations, specifically how the quoted individual wants to spend more time with their family",
                 "timestamp": 105.5
@@ -1575,7 +1575,7 @@
             {
                 "video_id": "1b642806-c7ee-4948-a0e7-6d575ea2a757",
                 "question_id": 9,
-                "question": "where can i find the book \"a yale album\"\uff1f",
+                "question": "where can i find the book a yale album\uff1f",
                 "question_type": "book-related",
                 "correct_answer": "on the second shelf to the left, right before the red book",
                 "timestamp": 113.3
@@ -1623,9 +1623,9 @@
             {
                 "video_id": "5de9fb5c-409a-4f7a-aef4-9cd0f4c0a2f4",
                 "question_id": 9,
-                "question": "which book is about \"government budget and the economy\"?",
+                "question": "which book is about government budget and the economy?",
                 "question_type": "book-related",
-                "correct_answer": "the textbook on the table titled \"economics\"",
+                "correct_answer": "the textbook on the table titled economics",
                 "timestamp": 147.3
             },
             {
@@ -1671,7 +1671,7 @@
             {
                 "video_id": "b97742df-3417-4953-85a7-6cd4f36c44c0",
                 "question_id": 9,
-                "question": "what the table under \"production, distribution, and value added\" is illustrating?",
+                "question": "what the table under production, distribution, and value added is illustrating?",
                 "question_type": "book-related",
                 "correct_answer": "total production, distribution, and value added",
                 "timestamp": 113.8
@@ -1687,7 +1687,7 @@
             {
                 "video_id": "bd2a9fd1-7d4b-49ee-b3bf-4e7db9a805f2",
                 "question_id": 9,
-                "question": "where do i place the book titled \"basic writings of nietzsche\"?",
+                "question": "where do i place the book titled basic writings of nietzsche?",
                 "question_type": "book-related",
                 "correct_answer": "on the floor",
                 "timestamp": 111.3
@@ -1695,7 +1695,7 @@
             {
                 "video_id": "e3b62cb9-4fa0-4c55-900e-7ee7c791f6c7",
                 "question_id": 9,
-                "question": "where can i find the information about \"economic factors\"?",
+                "question": "where can i find the information about economic factors?",
                 "question_type": "book-related",
                 "correct_answer": "in the textbook beside my hand",
                 "timestamp": 99.7
@@ -1727,7 +1727,7 @@
             {
                 "video_id": "22554507-48de-46df-b9f1-0e37fdf557f9",
                 "question_id": 10,
-                "question": "where should i place the \"engineering physics\" book?",
+                "question": "where should i place the engineering physics book?",
                 "question_type": "book-related",
                 "correct_answer": "on the shelf to the left",
                 "timestamp": 112.0
@@ -1791,7 +1791,7 @@
             {
                 "video_id": "7431deab-7cca-4dc6-868d-ffee9997f285",
                 "question_id": 10,
-                "question": "what is the title of the book next to \"stonehenge\"?",
+                "question": "what is the title of the book next to stonehenge?",
                 "question_type": "book-related",
                 "correct_answer": "english country",
                 "timestamp": 108.7
@@ -1871,7 +1871,7 @@
             {
                 "video_id": "badca629-9d3a-4e30-903a-dbc6ea65a7e8",
                 "question_id": 10,
-                "question": "what is the title of the red book i see to the left of \"pelham\"?",
+                "question": "what is the title of the red book i see to the left of pelham?",
                 "question_type": "book-related",
                 "correct_answer": "microwave engineering",
                 "timestamp": 110.5
@@ -1897,7 +1897,7 @@
                 "question_id": 10,
                 "question": "which is the book by swami vivekananda?",
                 "question_type": "book-related",
-                "correct_answer": "\"the complete works of swami vivekananda\"",
+                "correct_answer": "the complete works of swami vivekananda",
                 "timestamp": 113.7
             },
             {
@@ -1935,7 +1935,7 @@
             {
                 "video_id": "0479bea8-d221-4c6a-8c91-60108e43fe56",
                 "question_id": 11,
-                "question": "where can i find the book \"desperate crossing\" by thomas thorpe in this room?",
+                "question": "where can i find the book desperate crossing by thomas thorpe in this room?",
                 "question_type": "book-related",
                 "correct_answer": "on the floor near the lower shelf",
                 "timestamp": 107.5
@@ -1961,13 +1961,13 @@
                 "question_id": 11,
                 "question": "what should i look in the magazine about a female stand-up comedian?",
                 "question_type": "book-related",
-                "correct_answer": "the article entitled \"ali wong.\"",
+                "correct_answer": "the article entitled ali wong.",
                 "timestamp": 105.5
             },
             {
                 "video_id": "1b15c8be-bc25-4fa9-8c8a-3cdfa35f5a1c",
                 "question_id": 11,
-                "question": "where can i find the definition of the term \"lexicon\"?",
+                "question": "where can i find the definition of the term lexicon?",
                 "question_type": "book-related",
                 "correct_answer": "oxford dictionary book",
                 "timestamp": 106.5
@@ -2031,7 +2031,7 @@
             {
                 "video_id": "70276030-3e9a-4cfc-bca1-839c5e37c51a",
                 "question_id": 11,
-                "question": "where do i note down the page numbers for \"mockingjay\" by suzanne collins?",
+                "question": "where do i note down the page numbers for mockingjay by suzanne collins?",
                 "question_type": "book-related",
                 "correct_answer": "in the notebook with orange text",
                 "timestamp": 111.2
@@ -2039,7 +2039,7 @@
             {
                 "video_id": "7431deab-7cca-4dc6-868d-ffee9997f285",
                 "question_id": 11,
-                "question": "where can i find the book titled \"the strand\"?",
+                "question": "where can i find the book titled the strand?",
                 "question_type": "book-related",
                 "correct_answer": "on the floor near the clock",
                 "timestamp": 108.7
@@ -2063,7 +2063,7 @@
             {
                 "video_id": "badca629-9d3a-4e30-903a-dbc6ea65a7e8",
                 "question_id": 11,
-                "question": "where should i place the book \"the wretched of the best\" after i'm done reading it?",
+                "question": "where should i place the book the wretched of the best after i'm done reading it?",
                 "question_type": "book-related",
                 "correct_answer": "on the top right of the pile",
                 "timestamp": 110.5
@@ -2071,7 +2071,7 @@
             {
                 "video_id": "bd2a9fd1-7d4b-49ee-b3bf-4e7db9a805f2",
                 "question_id": 11,
-                "question": "what does the cover of the \"calculus\" book look like?",
+                "question": "what does the cover of the calculus book look like?",
                 "question_type": "book-related",
                 "correct_answer": "yellow with black text",
                 "timestamp": 111.3
@@ -2143,7 +2143,7 @@
             {
                 "video_id": "2936e284-d937-4b68-bf69-5abbdbfa5295",
                 "question_id": 12,
-                "question": "what book is placed next to the book titled \"practical economics\"?",
+                "question": "what book is placed next to the book titled practical economics?",
                 "question_type": "book-related",
                 "correct_answer": "dungeons & dragons",
                 "timestamp": 144.8
@@ -2207,7 +2207,7 @@
             {
                 "video_id": "cb5bad9b-631b-4780-ae1a-aa3bdba47d6f",
                 "question_id": 12,
-                "question": "what color is the book titled \"a carland of idioms\" that i see?",
+                "question": "what color is the book titled a carland of idioms that i see?",
                 "question_type": "book-related",
                 "correct_answer": "blue and white",
                 "timestamp": 145.0
@@ -2223,7 +2223,7 @@
             {
                 "video_id": "e45f14cd-a567-4c56-89f7-fbd5dba80986",
                 "question_id": 12,
-                "question": "where should i place the \"swami vivekananda\" book?",
+                "question": "where should i place the swami vivekananda book?",
                 "question_type": "book-related",
                 "correct_answer": "the stack on my left",
                 "timestamp": 128.5
@@ -2303,7 +2303,7 @@
             {
                 "video_id": "a9ebd6ce-86dd-48f6-b875-1cfd5a1ab7e9",
                 "question_id": 13,
-                "question": "which book on this shelf is titled \"the quarry\"?",
+                "question": "which book on this shelf is titled the quarry?",
                 "question_type": "book-related",
                 "correct_answer": "the book on top of the stack on the left",
                 "timestamp": 141.0
@@ -2353,7 +2353,7 @@
                 "question_id": 13,
                 "question": "where can i find information about the product/value added method?",
                 "question_type": "book-related",
-                "correct_answer": "on the note written in purple and labeled \"product/value added method\"",
+                "correct_answer": "on the note written in purple and labeled product/value added method",
                 "timestamp": 136.2
             },
             {
@@ -2375,7 +2375,7 @@
             {
                 "video_id": "049bf126-b6cc-4c6a-b9e5-d724837a6f40",
                 "question_id": 14,
-                "question": "where do i place the note card with the \"i love u smile\" message?",
+                "question": "where do i place the note card with the i love u smile message?",
                 "question_type": "book-related",
                 "correct_answer": "near a wooden shelf on the table",
                 "timestamp": 135.7
@@ -2399,7 +2399,7 @@
             {
                 "video_id": "40ec6dce-672d-481d-a64e-a24529063f72",
                 "question_id": 14,
-                "question": "where is the \"pisa\" book\uff1f",
+                "question": "where is the pisa book\uff1f",
                 "question_type": "book-related",
                 "correct_answer": "on the lap",
                 "timestamp": 141.2
@@ -2415,7 +2415,7 @@
             {
                 "video_id": "70276030-3e9a-4cfc-bca1-839c5e37c51a",
                 "question_id": 14,
-                "question": "where can i find the book \"pride and prejudice\"?",
+                "question": "where can i find the book pride and prejudice?",
                 "question_type": "book-related",
                 "correct_answer": "on top of a stack, above a green book",
                 "timestamp": 139.2
@@ -2447,9 +2447,9 @@
             {
                 "video_id": "a37c606a-36b4-4a9d-a2e5-79c5abb0ef12",
                 "question_id": 14,
-                "question": "where is the book \"survival handbook\" located\uff1f",
+                "question": "where is the book survival handbook located\uff1f",
                 "question_type": "book-related",
-                "correct_answer": "to the left of \"cures cancers.\"",
+                "correct_answer": "to the left of cures cancers.",
                 "timestamp": 142.5
             },
             {
@@ -2463,7 +2463,7 @@
             {
                 "video_id": "b44d457c-bb64-4d49-8989-42623e487782",
                 "question_id": 14,
-                "question": "where should i place the book titled \"swami vivekananda\"\uff1f",
+                "question": "where should i place the book titled swami vivekananda\uff1f",
                 "question_type": "book-related",
                 "correct_answer": "on the pile of cleaned books",
                 "timestamp": 128.5
@@ -2471,7 +2471,7 @@
             {
                 "video_id": "bd02cc95-573f-47f3-be2a-3bfaa61366c3",
                 "question_id": 14,
-                "question": "which article discusses a character being \"happily ever after\" and what is the main theme?",
+                "question": "which article discusses a character being happily ever after and what is the main theme?",
                 "question_type": "book-related",
                 "correct_answer": "he's my happily ever after - joyful love story",
                 "timestamp": 141.2
@@ -2497,7 +2497,7 @@
                 "question_id": 15,
                 "question": "what is the title of the book that claims to cure cancer, and where can i find it among the scattered books?",
                 "question_type": "book-related",
-                "correct_answer": "\"red meet cures cancer\" on the bottom shelf",
+                "correct_answer": "red meet cures cancer on the bottom shelf",
                 "timestamp": 145.7
             },
             {
@@ -2535,7 +2535,7 @@
             {
                 "video_id": "957482b6-f12f-4111-983d-9a7e3b8aba22",
                 "question_id": 15,
-                "question": "where can i find information on \"value added/product/income\" in my textbook?",
+                "question": "where can i find information on value added/product/income in my textbook?",
                 "question_type": "book-related",
                 "correct_answer": "section 4.1",
                 "timestamp": 141.0
@@ -2543,7 +2543,7 @@
             {
                 "video_id": "ab8570ba-6c88-45b2-9fb5-03f6cd149a78",
                 "question_id": 15,
-                "question": "where do i place the book \"gambler's luck\"\uff1f",
+                "question": "where do i place the book gambler's luck\uff1f",
                 "question_type": "book-related",
                 "correct_answer": "on the stack of green and yellow books",
                 "timestamp": 141.2
@@ -2553,7 +2553,7 @@
                 "question_id": 15,
                 "question": "what title is on the book cover that i was holding\uff1f",
                 "question_type": "book-related",
-                "correct_answer": "\"swami vivekananda\"",
+                "correct_answer": "swami vivekananda",
                 "timestamp": 145.3
             },
             {
@@ -2567,7 +2567,7 @@
             {
                 "video_id": "bf6af69c-6a69-44f9-8530-4a7f54359d14",
                 "question_id": 15,
-                "question": "where do i find the book titled \"writing for life\"?",
+                "question": "where do i find the book titled writing for life?",
                 "question_type": "book-related",
                 "correct_answer": "on the floor next to me",
                 "timestamp": 133.5
@@ -2575,7 +2575,7 @@
             {
                 "video_id": "cf6f0815-ac72-477e-9569-b934712d6077",
                 "question_id": 15,
-                "question": "where do i find more books similar to the one titled \"swami vivekananda\"?",
+                "question": "where do i find more books similar to the one titled swami vivekananda?",
                 "question_type": "book-related",
                 "correct_answer": "in the stack in front of me",
                 "timestamp": 128.5
