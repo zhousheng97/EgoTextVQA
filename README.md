@@ -150,6 +150,6 @@ If this work is helpful to you, consider giving this repository a 🌟 and citin
 ## 💌 Acknowledgement
 We would like to thank the following repos for their great work:
 
-Our dataset is built upon: [RoadTextVQA](https://github.com/georg3tom/RoadtextVQA)  and [EgoSchema](https://github.com/egoschema/egoschema).
+Our dataset is built upon: [RoadTextVQA](https://github.com/georg3tom/RoadtextVQA), [EgoSchema](https://github.com/egoschema/egoschema), and [Ego4D](https://ego4d-data.org/).
 
 Our evaluation is built upon: [VideoChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT).
