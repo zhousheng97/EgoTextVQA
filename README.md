@@ -80,16 +80,17 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
    + *Others*. More video process codes in the experiment can be found in ```video_process``` of the repo.
 
 3. **QA files**:
-  Clone our GitHub Repo.
-  ```
-  git clone https://github.com/zhousheng97/EgoTextVQA.git
-  cd data
-  ```
+   
+     Please clone our GitHub Repo.
+      ```
+      git clone https://github.com/zhousheng97/EgoTextVQA.git
+      cd data
+      ```
 
 5. MLLM QA Prompt:
    
 
-6. Evaluation Prompt:
+6. MLLM Evaluation:
 
 
 ## 📈 Experiment Results
