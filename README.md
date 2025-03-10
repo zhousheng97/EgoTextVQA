@@ -15,6 +15,7 @@
   [<a href="https://zhousheng97.github.io/EgoTextVQA_page">🌐 Project Page</a>]
   [<a href="https://arxiv.org/abs/2502.07411">📖 Paper</a>]
   [<a href="https://github.com/zhousheng97/EgoTextVQA">📊 Dataset</a>]
+  [<a href="https://github.com/zhousheng97/EgoTextVQA">🏆 Evaluation</a>]
 </p>
 
 
