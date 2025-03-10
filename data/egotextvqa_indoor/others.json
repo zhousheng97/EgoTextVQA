@@ -1,0 +1,1617 @@
+[
+    {
+        "dataset": "egotextqa",
+        "question_type": "others",
+        "task_setting": "open-ended",
+        "data": [
+            {
+                "video_id": "0c3ab029-4ab6-473d-9ebe-557b74379b77",
+                "question_id": 1,
+                "question": "what information can i gather from the blue sign?",
+                "question_type": "others",
+                "correct_answer": "cycle stand",
+                "timestamp": 28.5
+            },
+            {
+                "video_id": "0f181d98-5036-4990-b397-62e934e168ef",
+                "question_id": 1,
+                "question": "what brand of power drill am i using?",
+                "question_type": "others",
+                "correct_answer": "black+decker",
+                "timestamp": 49.3
+            },
+            {
+                "video_id": "0fa6c237-979b-4334-9173-4109ec0c8ab4",
+                "question_id": 1,
+                "question": "how do i start my washing machine?",
+                "question_type": "others",
+                "correct_answer": "the start button on the lower section",
+                "timestamp": 10.5
+            },
+            {
+                "video_id": "13e20734-cac8-492a-a70a-3d2bf598d21a",
+                "question_id": 1,
+                "question": "where do i leave my book \"the history of the world\" while i'm playing cards?",
+                "question_type": "others",
+                "correct_answer": "on the coffee table",
+                "timestamp": 27.8
+            },
+            {
+                "video_id": "15ab9312-9625-4acd-80cd-5a80b1f46153",
+                "question_id": 1,
+                "question": "what is the brand of the paint tubes i am using for my artwork?",
+                "question_type": "others",
+                "correct_answer": "camlin",
+                "timestamp": 21.0
+            },
+            {
+                "video_id": "1ae8e1d7-f031-4a2c-b5cc-14e119ef6f2d",
+                "question_id": 1,
+                "question": "what should i set the thermoshake to in order to achieve 21%?",
+                "question_type": "others",
+                "correct_answer": "set the percentage to 21% using the control buttons",
+                "timestamp": 22.0
+            },
+            {
+                "video_id": "1ee2abf4-87a1-4b8f-b445-0ad9f5593396",
+                "question_id": 1,
+                "question": "which color diamond beads are assigned to 337 on the canvas?",
+                "question_type": "others",
+                "correct_answer": "black",
+                "timestamp": 22.3
+            },
+            {
+                "video_id": "22a479e6-4054-4520-89a7-c7d068eadbe3",
+                "question_id": 1,
+                "question": "what brand of cereal is on the table?",
+                "question_type": "others",
+                "correct_answer": "coco puffs",
+                "timestamp": 20.2
+            },
+            {
+                "video_id": "362c16bd-0e43-42da-b9f8-37ef0563fc46",
+                "question_id": 1,
+                "question": "what is the restaurant where i am currently eating?",
+                "question_type": "others",
+                "correct_answer": "mcdonald's",
+                "timestamp": 21.0
+            },
+            {
+                "video_id": "44109078-3225-4b8f-b8a1-dec9dc5cbf4f",
+                "question_id": 1,
+                "question": "where should i put this plastic bottle once i finish with it?",
+                "question_type": "others",
+                "correct_answer": "in the yellow bin labeled \"recycling only\"",
+                "timestamp": 42.0
+            },
+            {
+                "video_id": "4561a47c-7756-4e36-ab43-80d11230b2ae",
+                "question_id": 1,
+                "question": "what is the speed limit at the intersection",
+                "question_type": "others",
+                "correct_answer": "50",
+                "timestamp": 76.7
+            },
+            {
+                "video_id": "5bd7fead-96b2-4439-9ac2-4c38bd26f43d",
+                "question_id": 1,
+                "question": "what is the person whose workspace i am at?",
+                "question_type": "others",
+                "correct_answer": "the name of the person whose workspace you are at is jake kerling",
+                "timestamp": 20.2
+            },
+            {
+                "video_id": "6277d55f-9d04-4eeb-b984-3891d8942232",
+                "question_id": 1,
+                "question": "what brand is the booklet that\u2019s on the sink?",
+                "question_type": "others",
+                "correct_answer": "lush",
+                "timestamp": 36.5
+            },
+            {
+                "video_id": "66ac4fa6-b4b8-47b7-adec-2447528c5564",
+                "question_id": 1,
+                "question": "what brand of biscuits should i buy for the party snacks?",
+                "question_type": "others",
+                "correct_answer": "value corner",
+                "timestamp": 77.0
+            },
+            {
+                "video_id": "6aca3039-dd0a-4ff5-a514-d46e4fcfeeba",
+                "question_id": 1,
+                "question": "which way should i go to follow the speed limit 30 indicated by the sign?",
+                "question_type": "others",
+                "correct_answer": "follow the road straight",
+                "timestamp": 25.3
+            },
+            {
+                "video_id": "6efd3f6f-19b8-4a64-baab-35695240ed0c",
+                "question_id": 1,
+                "question": "what's written on the top of the open box on the floor?",
+                "question_type": "others",
+                "correct_answer": "school bus",
+                "timestamp": 78.0
+            },
+            {
+                "video_id": "86d91c31-1bfe-4f99-a803-7466c8d801d1",
+                "question_id": 1,
+                "question": "which way should i go to get to the entrance of tamimi markets?",
+                "question_type": "others",
+                "correct_answer": "towards the green and orange building with 'tamimi markets' written on it",
+                "timestamp": 22.8
+            },
+            {
+                "video_id": "91427da9-175b-41fe-8a8e-674cd39cd57d",
+                "question_id": 1,
+                "question": "where should i go to experience skiing?",
+                "question_type": "others",
+                "correct_answer": "alaska",
+                "timestamp": 22.2
+            },
+            {
+                "video_id": "92e11a34-3faf-46ec-9205-3b576859d9fb",
+                "question_id": 1,
+                "question": "what other nearby store can i check out after visiting kfc?",
+                "question_type": "others",
+                "correct_answer": "bm",
+                "timestamp": 19.3
+            },
+            {
+                "video_id": "99c05e92-99d1-4295-9db5-ef3eb7b530b1",
+                "question_id": 1,
+                "question": "where do i put my boxing gloves after the last training session with the everstrike punching bag?",
+                "question_type": "others",
+                "correct_answer": "next to the everstrike punching bag",
+                "timestamp": 21.3
+            },
+            {
+                "video_id": "b32fcb52-4519-4c87-921b-f2e78281f72a",
+                "question_id": 1,
+                "question": "what is the total number of pieces i need to complete this puzzle?",
+                "question_type": "others",
+                "correct_answer": "1000",
+                "timestamp": 56.5
+            },
+            {
+                "video_id": "bebd4e0f-72bb-47f2-9086-d26158449046",
+                "question_id": 1,
+                "question": "what brand of camera gear do i have with me in the backseat?",
+                "question_type": "others",
+                "correct_answer": "gopro",
+                "timestamp": 16.7
+            },
+            {
+                "video_id": "c4fbec86-7f54-42a3-8aec-854e57fec7dd",
+                "question_id": 1,
+                "question": "what is the speed indicated on the screen, and does it change later on?",
+                "question_type": "others",
+                "correct_answer": "28, and it's going to change",
+                "timestamp": 18.0
+            },
+            {
+                "video_id": "c6b92dc7-0d58-4eb6-99ff-104a247937a4",
+                "question_id": 1,
+                "question": "what is the text i wrote on the paper?",
+                "question_type": "others",
+                "correct_answer": "sono nato e la pace ao portato",
+                "timestamp": 21.7
+            },
+            {
+                "video_id": "ca83b8b8-858a-49d1-9537-5b717d186cfe",
+                "question_id": 1,
+                "question": "which brand of tools or equipment am i likely working with here?",
+                "question_type": "others",
+                "correct_answer": "snap-on",
+                "timestamp": 23.0
+            },
+            {
+                "video_id": "de54e5c6-711b-46a2-abeb-be8671870883",
+                "question_id": 1,
+                "question": "what kind of products are being sold from these carts?",
+                "question_type": "others",
+                "correct_answer": "ice cream",
+                "timestamp": 16.3
+            },
+            {
+                "video_id": "e14ab118-f823-4765-8bb9-b39621208266",
+                "question_id": 1,
+                "question": "what type of tea is stored in the glass cabinet?",
+                "question_type": "others",
+                "correct_answer": "jalg tea stracc tin",
+                "timestamp": 26.3
+            },
+            {
+                "video_id": "0627e230-4bc6-4630-815e-ee9a389f0e7e",
+                "question_id": 2,
+                "question": "which awards or recognition have been displayed on the shelf?",
+                "question_type": "others",
+                "correct_answer": "the golden plaques with red borders",
+                "timestamp": 52.0
+            },
+            {
+                "video_id": "0e9f0a10-09ce-44fe-a8d8-6a0d01cdf7e7",
+                "question_id": 2,
+                "question": "where can i grab the olive oil to drizzle on our pizza before baking it?",
+                "question_type": "others",
+                "correct_answer": "on the counter to the right of the stove",
+                "timestamp": 24.5
+            },
+            {
+                "video_id": "101628a9-37be-4555-99c0-589ced677ee6",
+                "question_id": 2,
+                "question": "what brand of glue gun am i using?",
+                "question_type": "others",
+                "correct_answer": "einhell",
+                "timestamp": 15.2
+            },
+            {
+                "video_id": "1078f660-8676-452e-8e30-5f3ebb18d281",
+                "question_id": 2,
+                "question": "where can i find information regarding the detergent usage policy?",
+                "question_type": "others",
+                "correct_answer": "above the washing machines",
+                "timestamp": 53.3
+            },
+            {
+                "video_id": "1b7ea508-805d-43d9-aee2-b0c6206067ce",
+                "question_id": 2,
+                "question": "where should i look to find the emergency contact information in case the \"ultra-low temperature freezer\" malfunctions?",
+                "question_type": "others",
+                "correct_answer": "check the information labels on the freezer for emergency contact details",
+                "timestamp": 15.0
+            },
+            {
+                "video_id": "2a528b39-79c3-4cdc-8479-5b49dca9fc38",
+                "question_id": 2,
+                "question": "which character mentioned something about a cheeseburger, and what do they say?",
+                "question_type": "others",
+                "correct_answer": "the sign held up with the text \"i love cheeseburgers\"",
+                "timestamp": 27.5
+            },
+            {
+                "video_id": "2bd18840-1d67-436e-9682-b5ceaec64e5e",
+                "question_id": 2,
+                "question": "if i wanted to explore gardening, which book should i refer to?",
+                "question_type": "others",
+                "correct_answer": "edible forest gardens",
+                "timestamp": 46.5
+            },
+            {
+                "video_id": "362c16bd-0e43-42da-b9f8-37ef0563fc46",
+                "question_id": 2,
+                "question": "what brand or logo is displayed on the person\u2019s shirt sitting in front of me?",
+                "question_type": "others",
+                "correct_answer": "gac",
+                "timestamp": 21.0
+            },
+            {
+                "video_id": "44109078-3225-4b8f-b8a1-dec9dc5cbf4f",
+                "question_id": 2,
+                "question": "what type of waste do i need to avoid putting in these yellow bins?",
+                "question_type": "others",
+                "correct_answer": "non-recyclable waste",
+                "timestamp": 42.0
+            },
+            {
+                "video_id": "4561a47c-7756-4e36-ab43-80d11230b2ae",
+                "question_id": 2,
+                "question": "when should i give way to other vehicles on this road?",
+                "question_type": "others",
+                "correct_answer": "give way at the intersection with the \u201cgive way\u201d sign",
+                "timestamp": 76.7
+            },
+            {
+                "video_id": "45901a2b-a0e5-40ac-a9b5-de042d7190fb",
+                "question_id": 2,
+                "question": "where exactly do i find the \"teatro art39\" mentioned on the poster?",
+                "question_type": "others",
+                "correct_answer": "on the street with a canopy and arched windows",
+                "timestamp": 86.0
+            },
+            {
+                "video_id": "4ece55be-b804-46f4-b785-4d9d26bf7eea",
+                "question_id": 2,
+                "question": "where is the nearest snap-on equipment placed in this workspace?",
+                "question_type": "others",
+                "correct_answer": "on the workbench",
+                "timestamp": 23.0
+            },
+            {
+                "video_id": "65b3da0a-30f0-4c5f-9cc0-f4667f2bd792",
+                "question_id": 2,
+                "question": "from which college is the t-shirt that the person across from me is wearing?",
+                "question_type": "others",
+                "correct_answer": "college of wooster",
+                "timestamp": 21.2
+            },
+            {
+                "video_id": "67620f92-ae2f-46e2-b24a-17196b8c6f75",
+                "question_id": 2,
+                "question": "which shelf has the jar labeled \"farm fresh market\"?",
+                "question_type": "others",
+                "correct_answer": "the second shelf contains the jar labeled \"farm fresh market\"",
+                "timestamp": 20.2
+            },
+            {
+                "video_id": "6efd3f6f-19b8-4a64-baab-35695240ed0c",
+                "question_id": 2,
+                "question": "where do i place the yellow \"school bus\" box in the room?",
+                "question_type": "others",
+                "correct_answer": "on the floor in front of the dresser",
+                "timestamp": 78.0
+            },
+            {
+                "video_id": "6fba07fa-b58c-4c6b-aca3-568d4f1a9c37",
+                "question_id": 2,
+                "question": "which channel is currently being watched on tv, and is there a specific show that seems interesting?",
+                "question_type": "others",
+                "correct_answer": "the channel is cw",
+                "timestamp": 24.0
+            },
+            {
+                "video_id": "728dd0bf-cb7b-47f8-a5af-e68e0f6a4c67",
+                "question_id": 2,
+                "question": "which article headline on the newspaper am i using as a base for painting, and what does it say?",
+                "question_type": "others",
+                "correct_answer": "\"kanye breaks down at first prez rally\" in the buzzstop section",
+                "timestamp": 22.2
+            },
+            {
+                "video_id": "8080c422-8958-45df-9b6c-dafd9a13460c",
+                "question_id": 2,
+                "question": "which ingredients do i need to prepare the coffee, and where are they located?",
+                "question_type": "others",
+                "correct_answer": "both on the counter",
+                "timestamp": 21.7
+            },
+            {
+                "video_id": "86d91c31-1bfe-4f99-a803-7466c8d801d1",
+                "question_id": 2,
+                "question": "what traffic rules should i follow at intersections?",
+                "question_type": "others",
+                "correct_answer": "stop at the 'stop' sign on the road",
+                "timestamp": 22.8
+            },
+            {
+                "video_id": "91427da9-175b-41fe-8a8e-674cd39cd57d",
+                "question_id": 2,
+                "question": "what should i think about if i'm trying to plan a winter activity?",
+                "question_type": "others",
+                "correct_answer": "think snow",
+                "timestamp": 22.2
+            },
+            {
+                "video_id": "92e11a34-3faf-46ec-9205-3b576859d9fb",
+                "question_id": 2,
+                "question": "where exactly is the bm store located in relation to the main road?",
+                "question_type": "others",
+                "correct_answer": "opposite side",
+                "timestamp": 19.3
+            },
+            {
+                "video_id": "c4713495-fe22-47fd-8e19-aa3c21cc073b",
+                "question_id": 2,
+                "question": "which decorations on the wall indicate the theme of the 'happy' celebration?",
+                "question_type": "others",
+                "correct_answer": "the balloon letters and cartoon character decorations indicate the theme",
+                "timestamp": 59.5
+            },
+            {
+                "video_id": "ca83b8b8-858a-49d1-9537-5b717d186cfe",
+                "question_id": 2,
+                "question": "where should i put the snap-on tools after i finish my task?",
+                "question_type": "others",
+                "correct_answer": "back on the workbench",
+                "timestamp": 23.0
+            },
+            {
+                "video_id": "cdeb22f6-ad02-4915-99e1-1b621489ac44",
+                "question_id": 2,
+                "question": "whose id card is on the desk?",
+                "question_type": "others",
+                "correct_answer": "jake kerling",
+                "timestamp": 25.8
+            },
+            {
+                "video_id": "d24eade8-3268-4c4b-8463-b9474c1739e3",
+                "question_id": 2,
+                "question": "what restriction does the sign indicate for parking in this row?",
+                "question_type": "others",
+                "correct_answer": "no buffet parking",
+                "timestamp": 25.7
+            },
+            {
+                "video_id": "d670abe6-5e2a-4976-8b6f-e3168b949381",
+                "question_id": 2,
+                "question": "which vehicles are parked near the fedex truck?",
+                "question_type": "others",
+                "correct_answer": "a gray car is parked near the fedex truck",
+                "timestamp": 25.8
+            },
+            {
+                "video_id": "e14ab118-f823-4765-8bb9-b39621208266",
+                "question_id": 2,
+                "question": "where can i find the book titled \"factfulness\"?",
+                "question_type": "others",
+                "correct_answer": "under the blue pot near the top left shelf",
+                "timestamp": 26.3
+            },
+            {
+                "video_id": "0b4529ac-5a4e-4d30-b6b6-c6504c509c0c",
+                "question_id": 3,
+                "question": "what's that drink on the right?",
+                "question_type": "others",
+                "correct_answer": "water",
+                "timestamp": 83.2
+            },
+            {
+                "video_id": "1b7ea508-805d-43d9-aee2-b0c6206067ce",
+                "question_id": 3,
+                "question": "which precautions mentioned on the labels should i keep in mind to ensure safety while accessing the \"ultra-low temperature freezer\"?",
+                "question_type": "others",
+                "correct_answer": "read and adhere to the warning labels with exclamation marks",
+                "timestamp": 144.2
+            },
+            {
+                "video_id": "44109078-3225-4b8f-b8a1-dec9dc5cbf4f",
+                "question_id": 3,
+                "question": "which bin should i use to mixed recyclable materials?",
+                "question_type": "others",
+                "correct_answer": "the yellow bin labeled \"recycling only\"",
+                "timestamp": 76.7
+            },
+            {
+                "video_id": "4561a47c-7756-4e36-ab43-80d11230b2ae",
+                "question_id": 3,
+                "question": "what traffic rules should i follow when approaching this intersection?",
+                "question_type": "others",
+                "correct_answer": "slow down and prepare to give way at the \"give way\" sign",
+                "timestamp": 75.7
+            },
+            {
+                "video_id": "6aca3039-dd0a-4ff5-a514-d46e4fcfeeba",
+                "question_id": 3,
+                "question": "what is the speed limit along the way?",
+                "question_type": "others",
+                "correct_answer": "30 km/h",
+                "timestamp": 49.0
+            },
+            {
+                "video_id": "92e11a34-3faf-46ec-9205-3b576859d9fb",
+                "question_id": 3,
+                "question": "which way should i head to reach kfc?",
+                "question_type": "others",
+                "correct_answer": "head straight along the sidewalk",
+                "timestamp": 50.5
+            },
+            {
+                "video_id": "a31b8faa-e5fd-4b3a-8717-c5f32bd9a685",
+                "question_id": 3,
+                "question": "what specific activities do the posters on the walls of this room encourage me to try?",
+                "question_type": "others",
+                "correct_answer": "skiing",
+                "timestamp": 34.0
+            },
+            {
+                "video_id": "cd2e4351-de59-4511-ab43-36c37b388a8d",
+                "question_id": 3,
+                "question": "are there any other identifiable items near my desk besides the halls package?",
+                "question_type": "others",
+                "correct_answer": "yes, a keyboard with blue-lit keys",
+                "timestamp": 56.8
+            },
+            {
+                "video_id": "de54e5c6-711b-46a2-abeb-be8671870883",
+                "question_id": 3,
+                "question": "which specific flavor or brand should i look for to try something new from the cart?",
+                "question_type": "others",
+                "correct_answer": "bon ice",
+                "timestamp": 57.0
+            },
+            {
+                "video_id": "042c81f5-b23c-431a-ad6f-f798d81eb1d8",
+                "question_id": 4,
+                "question": "what brand is the equipment i am currently working on?",
+                "question_type": "others",
+                "correct_answer": "poulanpro",
+                "timestamp": 53.3
+            },
+            {
+                "video_id": "04cb38bb-7845-4e52-ab02-283ba0065060",
+                "question_id": 4,
+                "question": "what cursive letter are we practicing on the left worksheet?",
+                "question_type": "others",
+                "correct_answer": "m",
+                "timestamp": 111.0
+            },
+            {
+                "video_id": "101628a9-37be-4555-99c0-589ced677ee6",
+                "question_id": 4,
+                "question": "what is the main title of the sign?",
+                "question_type": "others",
+                "correct_answer": "elephant craft for kids",
+                "timestamp": 60.2
+            },
+            {
+                "video_id": "1078f660-8676-452e-8e30-5f3ebb18d281",
+                "question_id": 4,
+                "question": "where can i find the washing machine instructions?",
+                "question_type": "others",
+                "correct_answer": "on the top panel of the washing machine",
+                "timestamp": 73.7
+            },
+            {
+                "video_id": "191926c3-63e9-4152-891a-c7231bec7c9a",
+                "question_id": 4,
+                "question": "what is written on the note on my left\uff1f",
+                "question_type": "others",
+                "correct_answer": "light bar",
+                "timestamp": 50.5
+            },
+            {
+                "video_id": "1a75a554-a5d8-445b-bea9-e595ac8bfd3f",
+                "question_id": 4,
+                "question": "what is the address i should head to for the meeting?",
+                "question_type": "others",
+                "correct_answer": "19125 schutte rd. corcoran, mn",
+                "timestamp": 55.0
+            },
+            {
+                "video_id": "1e7acd5b-7f75-457a-814b-12abdded3c47",
+                "question_id": 4,
+                "question": "what do i need to do to reach the mug with the \"mind the gap\" text?",
+                "question_type": "others",
+                "correct_answer": "reach up into the cabinet and grab it",
+                "timestamp": 55.3
+            },
+            {
+                "video_id": "1ee2abf4-87a1-4b8f-b445-0ad9f5593396",
+                "question_id": 4,
+                "question": "what number is written on the tape that is closer to the green tray?",
+                "question_type": "others",
+                "correct_answer": "3371",
+                "timestamp": 45.8
+            },
+            {
+                "video_id": "2a528b39-79c3-4cdc-8479-5b49dca9fc38",
+                "question_id": 4,
+                "question": "what do alayah do that was mentioned by the woman in red on tv?",
+                "question_type": "others",
+                "correct_answer": "alayah had just touched her up",
+                "timestamp": 48.8
+            },
+            {
+                "video_id": "45901a2b-a0e5-40ac-a9b5-de042d7190fb",
+                "question_id": 4,
+                "question": "what is the number on the building we're standing in front of?",
+                "question_type": "others",
+                "correct_answer": "532",
+                "timestamp": 113.0
+            },
+            {
+                "video_id": "4e3dc70e-2a20-4f16-a10f-fdc50e78089e",
+                "question_id": 4,
+                "question": "what speed am i currently driving at, according to the speedometer?",
+                "question_type": "others",
+                "correct_answer": "60 km/h",
+                "timestamp": 47.5
+            },
+            {
+                "video_id": "4ece55be-b804-46f4-b785-4d9d26bf7eea",
+                "question_id": 4,
+                "question": "where do i put my green bull ladder after using it last time?",
+                "question_type": "others",
+                "correct_answer": "i put my green bull ladder against the wall next to some black tubing and gas cylinders",
+                "timestamp": 36.0
+            },
+            {
+                "video_id": "6aca3039-dd0a-4ff5-a514-d46e4fcfeeba",
+                "question_id": 4,
+                "question": "what is the contact number for the \"arrendoo\"?",
+                "question_type": "others",
+                "correct_answer": "323 587 3498",
+                "timestamp": 49.0
+            },
+            {
+                "video_id": "6b6f3bc9-bbcb-4117-8be6-1764a148d272",
+                "question_id": 4,
+                "question": "what is the brand of wipes visible on the shelf?",
+                "question_type": "others",
+                "correct_answer": "waterwipes",
+                "timestamp": 76.5
+            },
+            {
+                "video_id": "6c2c9e3b-935d-4dbf-8f1d-7876a5210518",
+                "question_id": 4,
+                "question": "what does the sign at the beginning of the walkway say?",
+                "question_type": "others",
+                "correct_answer": "i love kaust",
+                "timestamp": 59.0
+            },
+            {
+                "video_id": "91427da9-175b-41fe-8a8e-674cd39cd57d",
+                "question_id": 4,
+                "question": "where should i go in this house to find information on skiing?",
+                "question_type": "others",
+                "correct_answer": "look at the poster with the text \"think snow.\"",
+                "timestamp": 35.2
+            },
+            {
+                "video_id": "99c05e92-99d1-4295-9db5-ef3eb7b530b1",
+                "question_id": 4,
+                "question": "where can i find the \"everstrike\" punching bag for our workout session?",
+                "question_type": "others",
+                "correct_answer": "near the couch and by the wall",
+                "timestamp": 51.2
+            },
+            {
+                "video_id": "a31b8faa-e5fd-4b3a-8717-c5f32bd9a685",
+                "question_id": 4,
+                "question": "what does the \"think snow\" sign suggest about the theme or purpose of this room?",
+                "question_type": "others",
+                "correct_answer": "the room may be focused on winter or snow-related themes",
+                "timestamp": 34.0
+            },
+            {
+                "video_id": "ad454813-bbdb-4095-802a-f74960f6741b",
+                "question_id": 4,
+                "question": "what software or platform am i likely working with on my laptop?",
+                "question_type": "others",
+                "correct_answer": "django",
+                "timestamp": 51.2
+            },
+            {
+                "video_id": "bebd4e0f-72bb-47f2-9086-d26158449046",
+                "question_id": 4,
+                "question": "what brand is mentioned on the cardboard panels?",
+                "question_type": "others",
+                "correct_answer": "andersen",
+                "timestamp": 60.7
+            },
+            {
+                "video_id": "c4713495-fe22-47fd-8e19-aa3c21cc073b",
+                "question_id": 4,
+                "question": "what kind of celebration might be happening here?",
+                "question_type": "others",
+                "correct_answer": "a birthday celebration",
+                "timestamp": 81.2
+            },
+            {
+                "video_id": "ca83b8b8-858a-49d1-9537-5b717d186cfe",
+                "question_id": 4,
+                "question": "what brand is the ladder i am using?",
+                "question_type": "others",
+                "correct_answer": "green bull",
+                "timestamp": 36.0
+            },
+            {
+                "video_id": "d01f16ee-3f39-4405-9119-c1c8866aadb1",
+                "question_id": 4,
+                "question": "what brand is printed on my hoodie?",
+                "question_type": "others",
+                "correct_answer": "lettemer sport",
+                "timestamp": 52.2
+            },
+            {
+                "video_id": "0627e230-4bc6-4630-815e-ee9a389f0e7e",
+                "question_id": 5,
+                "question": "where can i find information about the 'elephanta' on these bookshelves?",
+                "question_type": "others",
+                "correct_answer": "on a book cover",
+                "timestamp": 84.8
+            },
+            {
+                "video_id": "0b4529ac-5a4e-4d30-b6b6-c6504c509c0c",
+                "question_id": 5,
+                "question": "what task was i working on?",
+                "question_type": "others",
+                "correct_answer": "code debugging",
+                "timestamp": 83.2
+            },
+            {
+                "video_id": "15ab9312-9625-4acd-80cd-5a80b1f46153",
+                "question_id": 5,
+                "question": "where can i find more information about the \"resilience in the time\" article?",
+                "question_type": "others",
+                "correct_answer": "on the newspaper on the desk",
+                "timestamp": 49.5
+            },
+            {
+                "video_id": "1a75a554-a5d8-445b-bea9-e595ac8bfd3f",
+                "question_id": 5,
+                "question": "which phone number can i call for inquiries about edina realty services?",
+                "question_type": "others",
+                "correct_answer": "612-581-4805",
+                "timestamp": 55.0
+            },
+            {
+                "video_id": "2bd18840-1d67-436e-9682-b5ceaec64e5e",
+                "question_id": 5,
+                "question": "what is the title of the page i am holding in my hand?",
+                "question_type": "others",
+                "correct_answer": "remember how great...?'",
+                "timestamp": 62.2
+            },
+            {
+                "video_id": "45901a2b-a0e5-40ac-a9b5-de042d7190fb",
+                "question_id": 5,
+                "question": "which building should i enter to meet up with the group?",
+                "question_type": "others",
+                "correct_answer": "the building numbered 532",
+                "timestamp": 113.0
+            },
+            {
+                "video_id": "6aca3039-dd0a-4ff5-a514-d46e4fcfeeba",
+                "question_id": 5,
+                "question": "where is the location of the \"colonial\" property available for rent?",
+                "question_type": "others",
+                "correct_answer": "no specific address is visible",
+                "timestamp": 49.0
+            },
+            {
+                "video_id": "6b6f3bc9-bbcb-4117-8be6-1764a148d272",
+                "question_id": 5,
+                "question": "where can i find the item labeled 'waterwipes' in this area?",
+                "question_type": "others",
+                "correct_answer": "on the shelf near the sink",
+                "timestamp": 76.5
+            },
+            {
+                "video_id": "6ba5defe-9dbb-4e6c-b1cb-c1ffc09c4ced",
+                "question_id": 5,
+                "question": "what is printed on my clothes\uff1f",
+                "question_type": "others",
+                "correct_answer": "letourneau sport",
+                "timestamp": 52.2
+            },
+            {
+                "video_id": "6c2c9e3b-935d-4dbf-8f1d-7876a5210518",
+                "question_id": 5,
+                "question": "where should i stand to get the best photo with the \"i love kaust\" sign in the background?",
+                "question_type": "others",
+                "correct_answer": "near the palm trees closest to the sign",
+                "timestamp": 59.0
+            },
+            {
+                "video_id": "728dd0bf-cb7b-47f8-a5af-e68e0f6a4c67",
+                "question_id": 5,
+                "question": "who is the person featured in the top-right advertisement in the newspaper?",
+                "question_type": "others",
+                "correct_answer": "kanye",
+                "timestamp": 51.2
+            },
+            {
+                "video_id": "740197ff-1fc4-41d0-a113-2eeb39f65cbc",
+                "question_id": 5,
+                "question": "where can i find the coffee pods?",
+                "question_type": "others",
+                "correct_answer": "starbucks box",
+                "timestamp": 56.7
+            },
+            {
+                "video_id": "92e11a34-3faf-46ec-9205-3b576859d9fb",
+                "question_id": 5,
+                "question": "which direction do i need to head in to reach wickes for some home improvement items?",
+                "question_type": "others",
+                "correct_answer": "west",
+                "timestamp": 50.5
+            },
+            {
+                "video_id": "a931f5d6-b1e0-4e44-9bce-8a3d46e2e1ff",
+                "question_id": 5,
+                "question": "what brand of coffee am i drinking from the cup?",
+                "question_type": "others",
+                "correct_answer": "mccafe",
+                "timestamp": 48.5
+            },
+            {
+                "video_id": "aadd543e-9ff5-4cf9-84b8-80080bf1a90b",
+                "question_id": 5,
+                "question": "which abbreviation can be seen on the sweatshirt?",
+                "question_type": "others",
+                "correct_answer": "sport",
+                "timestamp": 52.2
+            },
+            {
+                "video_id": "c4713495-fe22-47fd-8e19-aa3c21cc073b",
+                "question_id": 5,
+                "question": "where can i find decorations or items related to the event?",
+                "question_type": "others",
+                "correct_answer": "on the wall with the \"happy\" balloons",
+                "timestamp": 81.2
+            },
+            {
+                "video_id": "cd2e4351-de59-4511-ab43-36c37b388a8d",
+                "question_id": 5,
+                "question": "can you tell me the name written on the sign near the desk?",
+                "question_type": "others",
+                "correct_answer": "jake kerling",
+                "timestamp": 56.8
+            },
+            {
+                "video_id": "dc989b25-6da9-4fc8-934c-85c74cd69a10",
+                "question_id": 5,
+                "question": "what brand is the hat in the corner?",
+                "question_type": "others",
+                "correct_answer": "adoas",
+                "timestamp": 56.0
+            },
+            {
+                "video_id": "0428a432-2a7f-4629-bbcf-26d222fe8b1e",
+                "question_id": 6,
+                "question": "what's the model or brand of the tool on the shelf with the green contractor bags?",
+                "question_type": "others",
+                "correct_answer": "ryobi drill",
+                "timestamp": 134.0
+            },
+            {
+                "video_id": "221be8ea-3656-40b6-b2e3-c25baba5b7a2",
+                "question_id": 6,
+                "question": "which items on the table do we need to return after finishing our meal?",
+                "question_type": "others",
+                "correct_answer": "the jars and cutlery",
+                "timestamp": 84.7
+            },
+            {
+                "video_id": "2a528b39-79c3-4cdc-8479-5b49dca9fc38",
+                "question_id": 6,
+                "question": "which university is mentioned on the sweatshirt that i am folding?",
+                "question_type": "others",
+                "correct_answer": "university of minnesota",
+                "timestamp": 84.3
+            },
+            {
+                "video_id": "5bd7fead-96b2-4439-9ac2-4c38bd26f43d",
+                "question_id": 6,
+                "question": "which brand of beer is advertised on the wall?",
+                "question_type": "others",
+                "correct_answer": "bud light",
+                "timestamp": 78.2
+            },
+            {
+                "video_id": "6389df83-0023-47c9-bad0-5ec960cfb219",
+                "question_id": 6,
+                "question": "can i find any information about upcoming events or important dates in the newspaper?",
+                "question_type": "others",
+                "correct_answer": "there is a mention of the pandemic",
+                "timestamp": 80.7
+            },
+            {
+                "video_id": "6b6f3bc9-bbcb-4117-8be6-1764a148d272",
+                "question_id": 6,
+                "question": "which product should i use for cleaning based on what is available on the shelf?",
+                "question_type": "others",
+                "correct_answer": "waterwipes",
+                "timestamp": 114.3
+            },
+            {
+                "video_id": "6c2c9e3b-935d-4dbf-8f1d-7876a5210518",
+                "question_id": 6,
+                "question": "which direction should i walk to reach the \"i love kaust\" sign?",
+                "question_type": "others",
+                "correct_answer": "walk straight ahead",
+                "timestamp": 77.2
+            },
+            {
+                "video_id": "a931f5d6-b1e0-4e44-9bce-8a3d46e2e1ff",
+                "question_id": 6,
+                "question": "what specific item or meal i ordered based on the packaging?",
+                "question_type": "others",
+                "correct_answer": "sausage burrito",
+                "timestamp": 84.8
+            },
+            {
+                "video_id": "ad454813-bbdb-4095-802a-f74960f6741b",
+                "question_id": 6,
+                "question": "which framework should i refer to for help with the project i'm currently working on?",
+                "question_type": "others",
+                "correct_answer": "django framework",
+                "timestamp": 77.8
+            },
+            {
+                "video_id": "b32fcb52-4519-4c87-921b-f2e78281f72a",
+                "question_id": 6,
+                "question": "which specific warnings are mentioned about the lavender product that i should be aware of?",
+                "question_type": "others",
+                "correct_answer": "keep out of reach of children",
+                "timestamp": 110.3
+            },
+            {
+                "video_id": "cdeb22f6-ad02-4915-99e1-1b621489ac44",
+                "question_id": 6,
+                "question": "which section of the desk labeled with jake kerling's name?",
+                "question_type": "others",
+                "correct_answer": "the central part of the desk",
+                "timestamp": 69.3
+            },
+            {
+                "video_id": "0354b658-b59e-476c-ac9d-739ee656bed0",
+                "question_id": 7,
+                "question": "what direction do i need to go to reach the kfc?",
+                "question_type": "others",
+                "correct_answer": "towards the red and white kfc sign in the background",
+                "timestamp": 67.2
+            },
+            {
+                "video_id": "0428a432-2a7f-4629-bbcf-26d222fe8b1e",
+                "question_id": 7,
+                "question": "what brand is the spray gun?",
+                "question_type": "others",
+                "correct_answer": "homeright",
+                "timestamp": 134.0
+            },
+            {
+                "video_id": "15ab9312-9625-4acd-80cd-5a80b1f46153",
+                "question_id": 7,
+                "question": "what does the label on the red tube specify about its contents?",
+                "question_type": "others",
+                "correct_answer": "acrylic color",
+                "timestamp": 81.8
+            },
+            {
+                "video_id": "19ee1798-7317-4ed4-9a11-13acb393705c",
+                "question_id": 7,
+                "question": "what is the label on the paper i am holding?",
+                "question_type": "others",
+                "correct_answer": "a2",
+                "timestamp": 84.3
+            },
+            {
+                "video_id": "1fa09efd-f581-453a-bfc2-ea52f7ff64eb",
+                "question_id": 7,
+                "question": "what items on the desk are labeled with text, and where are they located?",
+                "question_type": "others",
+                "correct_answer": "the items labeled with text are \"jake kerling\" and \"escaped,\" located on the desk near the monitor",
+                "timestamp": 69.3
+            },
+            {
+                "video_id": "2bd18840-1d67-436e-9682-b5ceaec64e5e",
+                "question_id": 7,
+                "question": "what is the show that is currently playing on tv?",
+                "question_type": "others",
+                "correct_answer": "this is life with lisa lima",
+                "timestamp": 100.8
+            },
+            {
+                "video_id": "44109078-3225-4b8f-b8a1-dec9dc5cbf4f",
+                "question_id": 7,
+                "question": "which direction should i turn to reach the kitchen from the room with the \"bud light\" banner?",
+                "question_type": "others",
+                "correct_answer": "turn left from the \"bud light\" banner room",
+                "timestamp": 117.2
+            },
+            {
+                "video_id": "4ece55be-b804-46f4-b785-4d9d26bf7eea",
+                "question_id": 7,
+                "question": "what is the brand on the ladder?",
+                "question_type": "others",
+                "correct_answer": "green bull",
+                "timestamp": 84.2
+            },
+            {
+                "video_id": "6f3a7c1d-d1e3-442a-88e8-ef9fe598a040",
+                "question_id": 7,
+                "question": "what kind of event is being advertised on the banner outside the building?",
+                "question_type": "others",
+                "correct_answer": "fiesta del libro caribe",
+                "timestamp": 120.0
+            },
+            {
+                "video_id": "728dd0bf-cb7b-47f8-a5af-e68e0f6a4c67",
+                "question_id": 7,
+                "question": "which section should i look in the newspaper to read about 'kanye breaks down at first prez rally'?",
+                "question_type": "others",
+                "correct_answer": "buzz stop section",
+                "timestamp": 81.0
+            },
+            {
+                "video_id": "740197ff-1fc4-41d0-a113-2eeb39f65cbc",
+                "question_id": 7,
+                "question": "what is the room that overlooks the area with the coffee machine?",
+                "question_type": "others",
+                "correct_answer": "santana row",
+                "timestamp": 66.2
+            },
+            {
+                "video_id": "86d91c31-1bfe-4f99-a803-7466c8d801d1",
+                "question_id": 7,
+                "question": "where do i park my car?",
+                "question_type": "others",
+                "correct_answer": "near the parking area with the \"carrefour\" and \"spar\" buildings in the background",
+                "timestamp": 88.5
+            },
+            {
+                "video_id": "92e11a34-3faf-46ec-9205-3b576859d9fb",
+                "question_id": 7,
+                "question": "i wanted to buy some furniture for my new apartment, which store should i head to first?",
+                "question_type": "others",
+                "correct_answer": "dreams",
+                "timestamp": 87.3
+            },
+            {
+                "video_id": "99c05e92-99d1-4295-9db5-ef3eb7b530b1",
+                "question_id": 7,
+                "question": "what brand is the punching bag i'm about to use?",
+                "question_type": "others",
+                "correct_answer": "ever strike",
+                "timestamp": 71.8
+            },
+            {
+                "video_id": "c08945bd-42dc-4fed-bd84-1b91c4cd0a22",
+                "question_id": 7,
+                "question": "what type of shirt is the person wearing?",
+                "question_type": "others",
+                "correct_answer": "a shirt with scene text that says \"guns n' roses\"",
+                "timestamp": 113.0
+            },
+            {
+                "video_id": "d670abe6-5e2a-4976-8b6f-e3168b949381",
+                "question_id": 7,
+                "question": "what is the model of gym equipment for back and core exercises?",
+                "question_type": "others",
+                "correct_answer": "xr 6.0",
+                "timestamp": 120.2
+            },
+            {
+                "video_id": "0627e230-4bc6-4630-815e-ee9a389f0e7e",
+                "question_id": 8,
+                "question": "where can i find information about the people in the photograph above the plaques?",
+                "question_type": "others",
+                "correct_answer": "on the photo's caption in the photograph above the plaques",
+                "timestamp": 114.0
+            },
+            {
+                "video_id": "44109078-3225-4b8f-b8a1-dec9dc5cbf4f",
+                "question_id": 8,
+                "question": "where can i find the name \"jake kerling\" in the clutter, and what other items are nearby?",
+                "question_type": "others",
+                "correct_answer": "on a black plaque, with a gold trophy and some papers",
+                "timestamp": 117.2
+            },
+            {
+                "video_id": "45901a2b-a0e5-40ac-a9b5-de042d7190fb",
+                "question_id": 8,
+                "question": "where can i find the safety instructions or notices that i need to read before entering the building?",
+                "question_type": "others",
+                "correct_answer": "the safety instructions or notices are to the left of the door",
+                "timestamp": 139.5
+            },
+            {
+                "video_id": "6277d55f-9d04-4eeb-b984-3891d8942232",
+                "question_id": 8,
+                "question": "where do i place the boxed pork egg rolls that i intend to cook for dinner?",
+                "question_type": "others",
+                "correct_answer": "in the refrigerator",
+                "timestamp": 114.3
+            },
+            {
+                "video_id": "67620f92-ae2f-46e2-b24a-17196b8c6f75",
+                "question_id": 8,
+                "question": "where should i look for the wine bottle opener to open the caldwell blush wine for dinner?",
+                "question_type": "others",
+                "correct_answer": "on the countertop near the wine bottle",
+                "timestamp": 74.5
+            },
+            {
+                "video_id": "6ba5defe-9dbb-4e6c-b1cb-c1ffc09c4ced",
+                "question_id": 8,
+                "question": "which brand is my sink faucet and how do i turn it off?",
+                "question_type": "others",
+                "correct_answer": "no brand; by turning the handles towards the center",
+                "timestamp": 62.3
+            },
+            {
+                "video_id": "86d91c31-1bfe-4f99-a803-7466c8d801d1",
+                "question_id": 8,
+                "question": "what is a grocery store?",
+                "question_type": "others",
+                "correct_answer": "carrefour",
+                "timestamp": 88.5
+            },
+            {
+                "video_id": "91427da9-175b-41fe-8a8e-674cd39cd57d",
+                "question_id": 8,
+                "question": "which cereal should i grab for breakfast?",
+                "question_type": "others",
+                "correct_answer": "grab the \"wheaties\" cereal box",
+                "timestamp": 139.8
+            },
+            {
+                "video_id": "92d8c041-237d-405f-84ac-8bce92d56f52",
+                "question_id": 8,
+                "question": "do you know which locker is nearest to locker number 28?",
+                "question_type": "others",
+                "correct_answer": "locker number 20",
+                "timestamp": 108.2
+            },
+            {
+                "video_id": "92e11a34-3faf-46ec-9205-3b576859d9fb",
+                "question_id": 8,
+                "question": "where can i find the home improvement supplies i need for my diy project?",
+                "question_type": "others",
+                "correct_answer": "wickes",
+                "timestamp": 87.3
+            },
+            {
+                "video_id": "a931f5d6-b1e0-4e44-9bce-8a3d46e2e1ff",
+                "question_id": 8,
+                "question": "where can i find the mcdonald\u2019s logo?",
+                "question_type": "others",
+                "correct_answer": "on the window outside",
+                "timestamp": 84.8
+            },
+            {
+                "video_id": "aa5355d9-ea45-4443-8992-4ffc02a164ef",
+                "question_id": 8,
+                "question": "what brand of box is on the table?",
+                "question_type": "others",
+                "correct_answer": "dunkin\u2019 munchkins",
+                "timestamp": 70.0
+            },
+            {
+                "video_id": "b70b0d3f-b6dd-4db4-9905-54694e792d1a",
+                "question_id": 8,
+                "question": "where was i standing when the clock showed 18:49:44?",
+                "question_type": "others",
+                "correct_answer": "in front of the tv",
+                "timestamp": 81.2
+            },
+            {
+                "video_id": "c08945bd-42dc-4fed-bd84-1b91c4cd0a22",
+                "question_id": 8,
+                "question": "what accessory is the person in the video wearing around their neck?",
+                "question_type": "others",
+                "correct_answer": "a green lanyard with an id badge",
+                "timestamp": 113.0
+            },
+            {
+                "video_id": "c4fbec86-7f54-42a3-8aec-854e57fec7dd",
+                "question_id": 8,
+                "question": "which product is being advertised on the tv during the red-themed segment?",
+                "question_type": "others",
+                "correct_answer": "livogen",
+                "timestamp": 73.5
+            },
+            {
+                "video_id": "d99bebc3-d969-43f2-ad24-ec8497ba367f",
+                "question_id": 8,
+                "question": "where is the \"double entry book keeping\" book placed in relation to my highlighters?",
+                "question_type": "others",
+                "correct_answer": "to the left of the highlighters",
+                "timestamp": 76.8
+            },
+            {
+                "video_id": "de54e5c6-711b-46a2-abeb-be8671870883",
+                "question_id": 8,
+                "question": "where can i find the vendor to buy the natural juice?",
+                "question_type": "others",
+                "correct_answer": "at the cart with the \"jugo natural\" sign",
+                "timestamp": 84.8
+            },
+            {
+                "video_id": "e14ab118-f823-4765-8bb9-b39621208266",
+                "question_id": 8,
+                "question": "where can i find information on building related topics?",
+                "question_type": "others",
+                "correct_answer": "build it",
+                "timestamp": 88.5
+            },
+            {
+                "video_id": "e1c7c4ef-c827-4c16-a5cd-3be1fdcb56ab",
+                "question_id": 8,
+                "question": "which text is written on the water bottle?",
+                "question_type": "others",
+                "correct_answer": "health",
+                "timestamp": 117.7
+            },
+            {
+                "video_id": "0354b658-b59e-476c-ac9d-739ee656bed0",
+                "question_id": 9,
+                "question": "are there any obstacles or vehicles in the parking lot that might make it difficult for me to walk to the kfc?",
+                "question_type": "others",
+                "correct_answer": "yes, a parked car could be an obstacle",
+                "timestamp": 114.3
+            },
+            {
+                "video_id": "2a528b39-79c3-4cdc-8479-5b49dca9fc38",
+                "question_id": 9,
+                "question": "where should i begin searching for the name \"willem\"?",
+                "question_type": "others",
+                "correct_answer": "petzl power crunch snack package",
+                "timestamp": 128.0
+            },
+            {
+                "video_id": "2bd18840-1d67-436e-9682-b5ceaec64e5e",
+                "question_id": 9,
+                "question": "what type of connection is the show?",
+                "question_type": "others",
+                "correct_answer": "emotional connection",
+                "timestamp": 132.8
+            },
+            {
+                "video_id": "45901a2b-a0e5-40ac-a9b5-de042d7190fb",
+                "question_id": 9,
+                "question": "which door do i use to enter the building at number 532?",
+                "question_type": "others",
+                "correct_answer": "the door with open double doors",
+                "timestamp": 138.5
+            },
+            {
+                "video_id": "4a5ce663-2c3b-4405-9128-34a743dbc7da",
+                "question_id": 9,
+                "question": "what are the names of corn brands?",
+                "question_type": "others",
+                "correct_answer": "loyal nora",
+                "timestamp": 125.5
+            },
+            {
+                "video_id": "4ece55be-b804-46f4-b785-4d9d26bf7eea",
+                "question_id": 9,
+                "question": "i need some specialized equipment for my workshop project,which brand name on the tool chest should i look for?",
+                "question_type": "others",
+                "correct_answer": "snap-on",
+                "timestamp": 108.7
+            },
+            {
+                "video_id": "6277d55f-9d04-4eeb-b984-3891d8942232",
+                "question_id": 9,
+                "question": "which item label mentions \"local crown tasty home fresh\", and where is it positioned among the groceries?",
+                "question_type": "others",
+                "correct_answer": "the grocery bag, positioned amongst the other groceries",
+                "timestamp": 137.8
+            },
+            {
+                "video_id": "740197ff-1fc4-41d0-a113-2eeb39f65cbc",
+                "question_id": 9,
+                "question": "which system is installed next to the black door with the notice sign?",
+                "question_type": "others",
+                "correct_answer": "cintas",
+                "timestamp": 118.3
+            },
+            {
+                "video_id": "de54e5c6-711b-46a2-abeb-be8671870883",
+                "question_id": 9,
+                "question": "which juice option should i choose to get a natural orange juice?",
+                "question_type": "others",
+                "correct_answer": "naranja",
+                "timestamp": 108.2
+            },
+            {
+                "video_id": "1078f660-8676-452e-8e30-5f3ebb18d281",
+                "question_id": 10,
+                "question": "what is the man wearing?",
+                "question_type": "others",
+                "correct_answer": "an orange shirt with the number \"01\"",
+                "timestamp": 148.7
+            },
+            {
+                "video_id": "191926c3-63e9-4152-891a-c7231bec7c9a",
+                "question_id": 10,
+                "question": "which location features a coffee corner?",
+                "question_type": "others",
+                "correct_answer": "light bar",
+                "timestamp": 110.8
+            },
+            {
+                "video_id": "1e4ce899-0b37-44f2-9c89-dcd06c61a94f",
+                "question_id": 10,
+                "question": "why am i using a bag of lachkari kolam rice?",
+                "question_type": "others",
+                "correct_answer": "to use it as a platform to sort flowers",
+                "timestamp": 112.5
+            },
+            {
+                "video_id": "22a479e6-4054-4520-89a7-c7d068eadbe3",
+                "question_id": 10,
+                "question": "what channel is displaying on the laptop while i'm eating?",
+                "question_type": "others",
+                "correct_answer": "cctv",
+                "timestamp": 108.8
+            },
+            {
+                "video_id": "405e5d7b-d315-4837-af1b-7528b74d33f1",
+                "question_id": 10,
+                "question": "what are the color and image on the juice box next to me?",
+                "question_type": "others",
+                "correct_answer": "pink with an image of a cartoon character",
+                "timestamp": 114.7
+            },
+            {
+                "video_id": "52c0cf67-aabd-486d-b9be-42f452008200",
+                "question_id": 10,
+                "question": "what is the amount displayed on the tv screen when the contestant is shown during the game show?",
+                "question_type": "others",
+                "correct_answer": "2,78,000",
+                "timestamp": 115.2
+            },
+            {
+                "video_id": "5ad8ec9a-decc-4f59-a2d8-ccd43e06b296",
+                "question_id": 10,
+                "question": "what subject am i working on according to the text on the paper?",
+                "question_type": "others",
+                "correct_answer": "thai language",
+                "timestamp": 111.8
+            },
+            {
+                "video_id": "6aca3039-dd0a-4ff5-a514-d46e4fcfeeba",
+                "question_id": 10,
+                "question": "what types of traditional food are mentioned on the sign?",
+                "question_type": "others",
+                "correct_answer": "chicharr\u00f3n",
+                "timestamp": 97.7
+            },
+            {
+                "video_id": "6b6f3bc9-bbcb-4117-8be6-1764a148d272",
+                "question_id": 10,
+                "question": "what brand of detergent am i using for this laundry?",
+                "question_type": "others",
+                "correct_answer": "vanish",
+                "timestamp": 139.5
+            },
+            {
+                "video_id": "99c05e92-99d1-4295-9db5-ef3eb7b530b1",
+                "question_id": 10,
+                "question": "what rule am i supposed to follow when playing this round?",
+                "question_type": "others",
+                "correct_answer": "follow the \"5 second rule.\"",
+                "timestamp": 113.5
+            },
+            {
+                "video_id": "cdeb22f6-ad02-4915-99e1-1b621489ac44",
+                "question_id": 10,
+                "question": "where can i find the bud light poster in the room?",
+                "question_type": "others",
+                "correct_answer": "on the wall near a desk",
+                "timestamp": 109.8
+            },
+            {
+                "video_id": "dbb29f68-5e6d-4995-9704-7ccbfb80c1ea",
+                "question_id": 10,
+                "question": "which box is on top in my hand?",
+                "question_type": "others",
+                "correct_answer": "p-la",
+                "timestamp": 109.2
+            },
+            {
+                "video_id": "0b4529ac-5a4e-4d30-b6b6-c6504c509c0c",
+                "question_id": 11,
+                "question": "where might i get office rules?",
+                "question_type": "others",
+                "correct_answer": "on the notices on the wall near the entrance",
+                "timestamp": 141.3
+            },
+            {
+                "video_id": "15ab9312-9625-4acd-80cd-5a80b1f46153",
+                "question_id": 11,
+                "question": "which product in my workspace is associated with \"ap\"?",
+                "question_type": "others",
+                "correct_answer": "a white tube with a round cap",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "1a75a554-a5d8-445b-bea9-e595ac8bfd3f",
+                "question_id": 11,
+                "question": "which cup on the rack is specifically labeled as a \"great\" cup?",
+                "question_type": "others",
+                "correct_answer": "the cup on the left",
+                "timestamp": 127.5
+            },
+            {
+                "video_id": "1ae8e1d7-f031-4a2c-b5cc-14e119ef6f2d",
+                "question_id": 11,
+                "question": "which tools or devices are stored in the drawer under the equipment labeled \"iso-cide\"?",
+                "question_type": "others",
+                "correct_answer": "various metal clamps and a green screwdriver are stored in the drawer",
+                "timestamp": 115.3
+            },
+            {
+                "video_id": "bce4c05f-f499-446d-9922-cd0b373794ec",
+                "question_id": 11,
+                "question": "where can we find the no parking area?",
+                "question_type": "others",
+                "correct_answer": "near the sidewalk on the right side of the road",
+                "timestamp": 100.3
+            },
+            {
+                "video_id": "d99bebc3-d969-43f2-ad24-ec8497ba367f",
+                "question_id": 11,
+                "question": "which country's system book am i using?",
+                "question_type": "others",
+                "correct_answer": "india",
+                "timestamp": 110.2
+            },
+            {
+                "video_id": "de54e5c6-711b-46a2-abeb-be8671870883",
+                "question_id": 11,
+                "question": "which type of oranges are being sold at this cart?",
+                "question_type": "others",
+                "correct_answer": "jugo natural naranja",
+                "timestamp": 108.2
+            },
+            {
+                "video_id": "67620f92-ae2f-46e2-b24a-17196b8c6f75",
+                "question_id": 12,
+                "question": "where do i place the \"pref\" labeled food item in the fridge, and does its packaging have any indication of its expiration date?",
+                "question_type": "others",
+                "correct_answer": "second shelf; no",
+                "timestamp": 131.2
+            },
+            {
+                "video_id": "6b6f3bc9-bbcb-4117-8be6-1764a148d272",
+                "question_id": 12,
+                "question": "which item on the counter can i use to treat a stubborn stain on my clothes?",
+                "question_type": "others",
+                "correct_answer": "vanish detergent",
+                "timestamp": 138.5
+            },
+            {
+                "video_id": "a987e8d9-78f2-43d6-8c3a-d2078944cabe",
+                "question_id": 12,
+                "question": "what appears to be the main topic or content based on the youtube video thumbnails and titles visible on the screen?",
+                "question_type": "others",
+                "correct_answer": "art tutorials and demonstrations",
+                "timestamp": 142.5
+            },
+            {
+                "video_id": "cdeb22f6-ad02-4915-99e1-1b621489ac44",
+                "question_id": 12,
+                "question": "which electronic devices are set up around the bud light poster?",
+                "question_type": "others",
+                "correct_answer": "monitors, a computer, and desks",
+                "timestamp": 147.0
+            },
+            {
+                "video_id": "de54e5c6-711b-46a2-abeb-be8671870883",
+                "question_id": 12,
+                "question": "what is written on the sign next to the orange juice machine?",
+                "question_type": "others",
+                "correct_answer": "jugo natural naranja",
+                "timestamp": 107.2
+            },
+            {
+                "video_id": "101628a9-37be-4555-99c0-589ced677ee6",
+                "question_id": 13,
+                "question": "what is on my right hand side?",
+                "question_type": "others",
+                "correct_answer": "the hot glue gun labeled 'eluohwa'",
+                "timestamp": 145.2
+            },
+            {
+                "video_id": "489e1929-b8ac-4793-9516-e9940b4751d7",
+                "question_id": 13,
+                "question": "where should i go to leave the room?",
+                "question_type": "others",
+                "correct_answer": "head towards the red \"exit\" sign near the top left corner",
+                "timestamp": 148.2
+            },
+            {
+                "video_id": "6389df83-0023-47c9-bad0-5ec960cfb219",
+                "question_id": 13,
+                "question": "what specific colors should i avoid to make sure it doesn't clash with the word \"love\" on the tablet cover?",
+                "question_type": "others",
+                "correct_answer": "bright white or yellow",
+                "timestamp": 140.3
+            },
+            {
+                "video_id": "81922514-6250-4039-bc44-5616d8372feb",
+                "question_id": 13,
+                "question": "what time is it in the scene when i'm holding my phone?",
+                "question_type": "others",
+                "correct_answer": "03:50:00",
+                "timestamp": 147.3
+            },
+            {
+                "video_id": "88bee3d8-1eac-449a-a638-0f3360ceb092",
+                "question_id": 13,
+                "question": "where is the hat with the adoas logo placed on the table?",
+                "question_type": "others",
+                "correct_answer": "next to the blue box",
+                "timestamp": 139.8
+            },
+            {
+                "video_id": "92e11a34-3faf-46ec-9205-3b576859d9fb",
+                "question_id": 13,
+                "question": "which building do i need to go to for storage services?",
+                "question_type": "others",
+                "correct_answer": "access storage",
+                "timestamp": 137.5
+            },
+            {
+                "video_id": "aa5355d9-ea45-4443-8992-4ffc02a164ef",
+                "question_id": 13,
+                "question": "what brand is my shirt from?",
+                "question_type": "others",
+                "correct_answer": "adventure",
+                "timestamp": 129.5
+            },
+            {
+                "video_id": "ca83b8b8-858a-49d1-9537-5b717d186cfe",
+                "question_id": 13,
+                "question": "where can i find the \"snap-on\" tools?",
+                "question_type": "others",
+                "correct_answer": "next to the white door, at the table against the wall",
+                "timestamp": 123.2
+            },
+            {
+                "video_id": "dbb29f68-5e6d-4995-9704-7ccbfb80c1ea",
+                "question_id": 13,
+                "question": "what is written on the label of the container?",
+                "question_type": "others",
+                "correct_answer": "p-lrpc",
+                "timestamp": 137.5
+            },
+            {
+                "video_id": "6aca3039-dd0a-4ff5-a514-d46e4fcfeeba",
+                "question_id": 14,
+                "question": "where is caf\u00e9 de chonita in relation to the entrance archway in front of me?",
+                "question_type": "others",
+                "correct_answer": "to the right of the entrance archway",
+                "timestamp": 127.2
+            },
+            {
+                "video_id": "92e11a34-3faf-46ec-9205-3b576859d9fb",
+                "question_id": 14,
+                "question": "can you tell me the contact number for access storage?",
+                "question_type": "others",
+                "correct_answer": "0117 321 1222",
+                "timestamp": 137.5
+            },
+            {
+                "video_id": "9a9d1089-42c1-4f31-8064-baa07256af7f",
+                "question_id": 14,
+                "question": "which program is open on the right screen, and what is being displayed on it?",
+                "question_type": "others",
+                "correct_answer": "a webpage with text in different sections",
+                "timestamp": 140.5
+            },
+            {
+                "video_id": "a931f5d6-b1e0-4e44-9bce-8a3d46e2e1ff",
+                "question_id": 14,
+                "question": "which team's abbreviation is on the shirt of the person i'm sitting with?",
+                "question_type": "others",
+                "correct_answer": "gac",
+                "timestamp": 142.2
+            },
+            {
+                "video_id": "bebd4e0f-72bb-47f2-9086-d26158449046",
+                "question_id": 14,
+                "question": "which ladder am i using to reach the ceiling, and is it safe for this type of task?",
+                "question_type": "others",
+                "correct_answer": "you are using a werner ladder, and it is safe for this task",
+                "timestamp": 149.2
+            },
+            {
+                "video_id": "ca83b8b8-858a-49d1-9537-5b717d186cfe",
+                "question_id": 14,
+                "question": "where can i find the \"snap-on\" wrenches i need for fixing my bike?",
+                "question_type": "others",
+                "correct_answer": "at the table labeled \"snap-on.\"",
+                "timestamp": 123.2
+            },
+            {
+                "video_id": "67620f92-ae2f-46e2-b24a-17196b8c6f75",
+                "question_id": 15,
+                "question": "which items are on the shelf with the label facing outwards?",
+                "question_type": "others",
+                "correct_answer": "a bag printed with fruits and vegetables",
+                "timestamp": 131.2
+            },
+            {
+                "video_id": "81922514-6250-4039-bc44-5616d8372feb",
+                "question_id": 15,
+                "question": "which application do i open on my phone after unlocking it?",
+                "question_type": "others",
+                "correct_answer": "email application",
+                "timestamp": 147.3
+            },
+            {
+                "video_id": "bce4c05f-f499-446d-9922-cd0b373794ec",
+                "question_id": 15,
+                "question": "i want to try a dish called \"trucha,\" which eatery should i head to?",
+                "question_type": "others",
+                "correct_answer": "carb\u00f3n y le\u00f1a",
+                "timestamp": 147.3
+            }
+        ]
+    }
+]

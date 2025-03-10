@@ -1,0 +1,2873 @@
+[
+    {
+        "dataset": "egotextqa",
+        "question_type": "shopping",
+        "task_setting": "open-ended",
+        "data": [
+            {
+                "video_id": "055d64a4-e11c-40a1-adbf-bd969d026a25",
+                "question_id": 1,
+                "question": "what is the speed limit i need to follow while walking down this street?",
+                "question_type": "shopping",
+                "correct_answer": "30 km/h",
+                "timestamp": 25.3
+            },
+            {
+                "video_id": "0b8e9abf-6a6c-4f8c-8daa-c027c641a081",
+                "question_id": 1,
+                "question": "what is the price of the \"frosted donettes\" i am looking at?",
+                "question_type": "shopping",
+                "correct_answer": "2.49",
+                "timestamp": 18.8
+            },
+            {
+                "video_id": "0c60f909-13d1-42fb-889c-1f40a4b5b579",
+                "question_id": 1,
+                "question": "how do i sign up for the extra 20% off discount?",
+                "question_type": "shopping",
+                "correct_answer": "register for an account at this shop",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": "0dcc2610-672b-4a18-93c1-4134a2054ca1",
+                "question_id": 1,
+                "question": "where can i see the offer for buying two items for $10?",
+                "question_type": "shopping",
+                "correct_answer": "on the glass door of the refrigerated section",
+                "timestamp": 15.5
+            },
+            {
+                "video_id": "102eecdb-6e05-4898-807b-8e8e78b7a059",
+                "question_id": 1,
+                "question": "which forms of payment are accepted in this store besides visa?",
+                "question_type": "shopping",
+                "correct_answer": "mastercard and american express",
+                "timestamp": 21.5
+            },
+            {
+                "video_id": "196e679f-91ff-4308-a565-470b8de2c8e9",
+                "question_id": 1,
+                "question": "what type of products can i expect to find in this shop?",
+                "question_type": "shopping",
+                "correct_answer": "electronics such as light bulbs and speakers",
+                "timestamp": 21.2
+            },
+            {
+                "video_id": "1b332cec-98c0-4428-bf7b-d6477235f025",
+                "question_id": 1,
+                "question": "what is the amount displayed on the cash register",
+                "question_type": "shopping",
+                "correct_answer": "0",
+                "timestamp": 4.2
+            },
+            {
+                "video_id": "1f869469-8e63-4959-a53d-45fd74e4f017",
+                "question_id": 1,
+                "question": "what brand is featured on the hoodie the person is wearing?",
+                "question_type": "shopping",
+                "correct_answer": "nike",
+                "timestamp": 3.2
+            },
+            {
+                "video_id": "2de9fa3a-d09f-45fa-b499-76699dab75ee",
+                "question_id": 1,
+                "question": "where can i find the drink deals for $5.75?",
+                "question_type": "shopping",
+                "correct_answer": "on the purple poster above the display case",
+                "timestamp": 22.5
+            },
+            {
+                "video_id": "312f4f0e-2f37-48a4-b521-67ccee41ffaa",
+                "question_id": 1,
+                "question": "where can i find the \u2018cups\u2019 in this store?",
+                "question_type": "shopping",
+                "correct_answer": "near the \"scott\" products",
+                "timestamp": 18.3
+            },
+            {
+                "video_id": "32306578-6733-4feb-aac3-3892c5993647",
+                "question_id": 1,
+                "question": "what are the store hours for tamimi markets?",
+                "question_type": "shopping",
+                "correct_answer": "7 am - 11 pm",
+                "timestamp": 14.2
+            },
+            {
+                "video_id": "3a4f4d5c-c8fa-4bb1-8e80-7c22cab54116",
+                "question_id": 1,
+                "question": "where can i find more information about the brand or collection named \"1969\" in this store?",
+                "question_type": "shopping",
+                "correct_answer": "check the labels and tags attached to the jeans for more information",
+                "timestamp": 10.8
+            },
+            {
+                "video_id": "3c9e4941-5514-43ad-8bf4-2999926e89a0",
+                "question_id": 1,
+                "question": "what are the sale items available in this store for $1?",
+                "question_type": "shopping",
+                "correct_answer": "sale items are marked with \"sale $1\"",
+                "timestamp": 25.2
+            },
+            {
+                "video_id": "3dfef34d-2a66-4e6f-b5e0-6eb33c813f57",
+                "question_id": 1,
+                "question": "what is the price for three house blend drinks?",
+                "question_type": "shopping",
+                "correct_answer": "5.75",
+                "timestamp": 18.2
+            },
+            {
+                "video_id": "40d5144b-12b8-4cb7-ae18-23c8c5a0daf0",
+                "question_id": 1,
+                "question": "what is the duration of the flash sale and how much discount is being offered?",
+                "question_type": "shopping",
+                "correct_answer": "this weekend only, 25% off",
+                "timestamp": 19.3
+            },
+            {
+                "video_id": "45c82d53-bb58-44a2-bfc4-a75ef59d8605",
+                "question_id": 1,
+                "question": "where can i find the haribo goldbears in the store?",
+                "question_type": "shopping",
+                "correct_answer": "next to the sour patch kids",
+                "timestamp": 21.7
+            },
+            {
+                "video_id": "48bd5e5f-825a-461a-a580-cd635b1f17bb",
+                "question_id": 1,
+                "question": "what flavor of hippeas are available at $3.29, and are there any more flavors?",
+                "question_type": "shopping",
+                "correct_answer": "hippeas original, there are also hippeas sriracha",
+                "timestamp": 25.3
+            },
+            {
+                "video_id": "51e6677f-4bce-4058-8652-a332e3a00cc2",
+                "question_id": 1,
+                "question": "which item in the deli section has \"chobani\" printed on it?",
+                "question_type": "shopping",
+                "correct_answer": "yogurt cup",
+                "timestamp": 16.7
+            },
+            {
+                "video_id": "59f57895-75d3-4966-85a6-a94261b32461",
+                "question_id": 1,
+                "question": "what is the prominent letter displayed on the wall?",
+                "question_type": "shopping",
+                "correct_answer": "the letter 'a'",
+                "timestamp": 13.2
+            },
+            {
+                "video_id": "5e12b005-d720-4ec9-b364-178bc0e4d336",
+                "question_id": 1,
+                "question": "what can i do to get an extra 20% off?",
+                "question_type": "shopping",
+                "correct_answer": "sign up",
+                "timestamp": 16.8
+            },
+            {
+                "video_id": "5f66a4a0-c5a7-4568-9885-8d34f973d0bb",
+                "question_id": 1,
+                "question": "which items in the store have a 2-for-$10 deal?",
+                "question_type": "shopping",
+                "correct_answer": "snacks on the shelf",
+                "timestamp": 15.5
+            },
+            {
+                "video_id": "64ec9375-288b-4e66-9b4a-6c35b3b582c1",
+                "question_id": 1,
+                "question": "what percentage discount is being offered in the flash sale?",
+                "question_type": "shopping",
+                "correct_answer": "0.25",
+                "timestamp": 2.3
+            },
+            {
+                "video_id": "6dc20dc0-60ec-47c6-b8e2-c383e0b5f4bc",
+                "question_id": 1,
+                "question": "how much do the pakistan mangoes cost per kilo?",
+                "question_type": "shopping",
+                "correct_answer": "one kilo of pakistan mangoes costs 9 sr",
+                "timestamp": 4.8
+            },
+            {
+                "video_id": "70087968-ee62-4443-8193-70c39b014f09",
+                "question_id": 1,
+                "question": "where can i find more details about the price of the shoes?",
+                "question_type": "shopping",
+                "correct_answer": "on the product listing on the mobile screen",
+                "timestamp": 16.5
+            },
+            {
+                "video_id": "843e21ec-d2bc-4f06-9fb6-6ad6cbe529d2",
+                "question_id": 1,
+                "question": "what size are the clothes?",
+                "question_type": "shopping",
+                "correct_answer": "medium",
+                "timestamp": 24.7
+            },
+            {
+                "video_id": "932e594c-3a41-4386-ade6-20dfa8febd54",
+                "question_id": 1,
+                "question": "which payment methods are accepted here?",
+                "question_type": "shopping",
+                "correct_answer": "visa, mastercard, discover",
+                "timestamp": 27.2
+            },
+            {
+                "video_id": "97ce24f3-6232-4aae-ab17-eef2c6491833",
+                "question_id": 1,
+                "question": "what is the passage directly in front of me?",
+                "question_type": "shopping",
+                "correct_answer": "aisle 10",
+                "timestamp": 13.2
+            },
+            {
+                "video_id": "99d2564a-8de6-4f9b-b61a-602ec60fe9b5",
+                "question_id": 1,
+                "question": "where can i find the \"100 grand\" bars in the store?",
+                "question_type": "shopping",
+                "correct_answer": "on the top shelf next to the kitkat bigkat bars",
+                "timestamp": 28.2
+            },
+            {
+                "video_id": "9fde5115-c496-4ff5-a83d-92f347ab7a3d",
+                "question_id": 1,
+                "question": "what items are on sale in the store?",
+                "question_type": "shopping",
+                "correct_answer": "2 for $6",
+                "timestamp": 22.2
+            },
+            {
+                "video_id": "b85ebe9a-d77d-4a2e-ae90-dc3c99c37c11",
+                "question_id": 1,
+                "question": "which drink is more expensive, monster or rockstar energy drink?",
+                "question_type": "shopping",
+                "correct_answer": "monster is more expensive",
+                "timestamp": 17.8
+            },
+            {
+                "video_id": "b8eb6b3e-927d-4486-9513-be8ba78a332d",
+                "question_id": 1,
+                "question": "what other beverage options are next to the iced tea dispenser?",
+                "question_type": "shopping",
+                "correct_answer": "french vanilla",
+                "timestamp": 21.2
+            },
+            {
+                "video_id": "c34e1701-74fa-4b3b-9058-32480847de16",
+                "question_id": 1,
+                "question": "where can i find the planters nuts in this store, and how many containers are displayed on the right side of the shelf?",
+                "question_type": "shopping",
+                "correct_answer": "on the snack shelf, 5 containers",
+                "timestamp": 24.3
+            },
+            {
+                "video_id": "c9a9d4fb-fa4e-4289-a81a-6e4045c54692",
+                "question_id": 1,
+                "question": "which brand of paper towels can i find in this store?",
+                "question_type": "shopping",
+                "correct_answer": "scott",
+                "timestamp": 18.3
+            },
+            {
+                "video_id": "cd8a8370-2da1-43f2-b003-c3e82dfd77a4",
+                "question_id": 1,
+                "question": "how much do the fresh flowers cost per bunch?",
+                "question_type": "shopping",
+                "correct_answer": "$5.00/bunch",
+                "timestamp": 24.7
+            },
+            {
+                "video_id": "0b8e9abf-6a6c-4f8c-8daa-c027c641a081",
+                "question_id": 2,
+                "question": "where can i find the \"milano\" cookies, and how much do they cost?",
+                "question_type": "shopping",
+                "correct_answer": "top shelf on the right, $6.79",
+                "timestamp": 18.8
+            },
+            {
+                "video_id": "0c60f909-13d1-42fb-889c-1f40a4b5b579",
+                "question_id": 2,
+                "question": "where can i find more details about the sign-up process for the discount?",
+                "question_type": "shopping",
+                "correct_answer": "on the sign in the store",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": "0dcc2610-672b-4a18-93c1-4134a2054ca1",
+                "question_id": 2,
+                "question": "which section of the store has a $3.99 item displayed?",
+                "question_type": "shopping",
+                "correct_answer": "near the exit door on the left side",
+                "timestamp": 15.5
+            },
+            {
+                "video_id": "264193c2-1ce5-47da-8416-d850986e8530",
+                "question_id": 2,
+                "question": "where in the store can i find the rxbar products, and how much is the green one?",
+                "question_type": "shopping",
+                "correct_answer": "on the left side of the open shelf near the entrance, and the green rxbar is $5.25",
+                "timestamp": 27.5
+            },
+            {
+                "video_id": "3c9e4941-5514-43ad-8bf4-2999926e89a0",
+                "question_id": 2,
+                "question": "where is the caution sign located in relation to the checkout counter?",
+                "question_type": "shopping",
+                "correct_answer": "the caution sign is located to the right of the checkout counter",
+                "timestamp": 25.2
+            },
+            {
+                "video_id": "40d5144b-12b8-4cb7-ae18-23c8c5a0daf0",
+                "question_id": 2,
+                "question": "where are the new accessories displayed in stock that just arrived?",
+                "question_type": "shopping",
+                "correct_answer": "on the table labeled \"new accessories in stock\" and \"just arrived.\"",
+                "timestamp": 19.3
+            },
+            {
+                "video_id": "4f77f6b9-9409-45cb-804d-39497baa58ae",
+                "question_id": 2,
+                "question": "where is the atm located within the store?",
+                "question_type": "shopping",
+                "correct_answer": "next to the magazine rack near the window",
+                "timestamp": 18.7
+            },
+            {
+                "video_id": "57413dd6-45ff-41d0-a250-cd15b4227e83",
+                "question_id": 2,
+                "question": "which size label is closest to the pink background display?",
+                "question_type": "shopping",
+                "correct_answer": "xl",
+                "timestamp": 9.2
+            },
+            {
+                "video_id": "5e12b005-d720-4ec9-b364-178bc0e4d336",
+                "question_id": 2,
+                "question": "where can i access the wifi in this store?",
+                "question_type": "shopping",
+                "correct_answer": "near the sign",
+                "timestamp": 16.8
+            },
+            {
+                "video_id": "64e27cea-dac7-47d6-8174-d20f7b8e0a5c",
+                "question_id": 2,
+                "question": "where can i get iced tea from these dispensers?",
+                "question_type": "shopping",
+                "correct_answer": "the dispenser with the \"iced tea\" label",
+                "timestamp": 21.2
+            },
+            {
+                "video_id": "68d7182e-7e54-4492-af0c-2c6be0263a0d",
+                "question_id": 2,
+                "question": "where can i find the eggplants, and what is their price per unit?",
+                "question_type": "shopping",
+                "correct_answer": "in the basket on the left, $0.38",
+                "timestamp": 10.3
+            },
+            {
+                "video_id": "6dc20dc0-60ec-47c6-b8e2-c383e0b5f4bc",
+                "question_id": 2,
+                "question": "where can i find the avocados in this store?",
+                "question_type": "shopping",
+                "correct_answer": "the avocados are located beside the pakistan mangoes on the left",
+                "timestamp": 4.8
+            },
+            {
+                "video_id": "76595ea8-92b6-416a-8ea8-d93e05445140",
+                "question_id": 2,
+                "question": "what are the business hours for this place on friday?",
+                "question_type": "shopping",
+                "correct_answer": "am9\uff1a30-pm7\uff1a00",
+                "timestamp": 10.7
+            },
+            {
+                "video_id": "77d65e78-ec0d-40fa-8047-b5758809ed26",
+                "question_id": 2,
+                "question": "where can i find the items that are priced at $14.99 and $10.99?",
+                "question_type": "shopping",
+                "correct_answer": "posted on the wall",
+                "timestamp": 11.2
+            },
+            {
+                "video_id": "932e594c-3a41-4386-ade6-20dfa8febd54",
+                "question_id": 2,
+                "question": "how much does it cost to buy three of the monster energy drinks?",
+                "question_type": "shopping",
+                "correct_answer": "$5.75",
+                "timestamp": 27.2
+            },
+            {
+                "video_id": "99d2564a-8de6-4f9b-b61a-602ec60fe9b5",
+                "question_id": 2,
+                "question": "which type of candy bar is located directly below the \"kitkat bigkat\" bars?",
+                "question_type": "shopping",
+                "correct_answer": "musketeers bars",
+                "timestamp": 28.2
+            },
+            {
+                "video_id": "99d9f83d-f0be-467f-b8a8-cfd004e59703",
+                "question_id": 2,
+                "question": "what is the discount percentage offered during the sale this weekend?",
+                "question_type": "shopping",
+                "correct_answer": "25% off",
+                "timestamp": 19.7
+            },
+            {
+                "video_id": "9b470268-62c2-4240-91b8-7a2758dcf0fe",
+                "question_id": 2,
+                "question": "what are my options to buy something chocolate-flavored?",
+                "question_type": "shopping",
+                "correct_answer": "creme pie chocolate",
+                "timestamp": 12.3
+            },
+            {
+                "video_id": "9ca6e523-548b-4af9-867d-0aa38c65a0a4",
+                "question_id": 2,
+                "question": "which shelf has the \"bubly\" drinks and how many different flavors are available?",
+                "question_type": "shopping",
+                "correct_answer": "top shelf, 6 flavors",
+                "timestamp": 17.7
+            },
+            {
+                "video_id": "a6e66b85-532d-4d73-bc53-6740981166ac",
+                "question_id": 2,
+                "question": "where is the hand sanitizer located?",
+                "question_type": "shopping",
+                "correct_answer": "on the top left of the shelf and bottom shelf",
+                "timestamp": 10.8
+            },
+            {
+                "video_id": "b5043f82-8ff2-4760-8fe4-8da1d1c8f37f",
+                "question_id": 2,
+                "question": "where can i find the \"tamimi markets\" section for canned goods and other non-frozen items?",
+                "question_type": "shopping",
+                "correct_answer": "next to the frozen products section",
+                "timestamp": 26.2
+            },
+            {
+                "video_id": "b85ebe9a-d77d-4a2e-ae90-dc3c99c37c11",
+                "question_id": 2,
+                "question": "can i get two rockstar energy drinks for less than $5.00?",
+                "question_type": "shopping",
+                "correct_answer": "yes",
+                "timestamp": 17.8
+            },
+            {
+                "video_id": "b8eb6b3e-927d-4486-9513-be8ba78a332d",
+                "question_id": 2,
+                "question": "where do i press to get iced tea?",
+                "question_type": "shopping",
+                "correct_answer": "on the lever below the \"iced tea\" label",
+                "timestamp": 21.2
+            },
+            {
+                "video_id": "c34e1701-74fa-4b3b-9058-32480847de16",
+                "question_id": 2,
+                "question": "what is the promotion for pizza, and how much does it cost for two?",
+                "question_type": "shopping",
+                "correct_answer": "2/$10.99",
+                "timestamp": 24.3
+            },
+            {
+                "video_id": "cf1c7dff-d8c6-44f8-9d48-9ffc443b3152",
+                "question_id": 2,
+                "question": "which items on my shopping list can i buy from this store?",
+                "question_type": "shopping",
+                "correct_answer": "magazines",
+                "timestamp": 53.7
+            },
+            {
+                "video_id": "001d2d1b-d2f9-4c39-810e-6e2087ff9d5a",
+                "question_id": 3,
+                "question": "where can i find the bubly sparkling water cans in different flavors?",
+                "question_type": "shopping",
+                "correct_answer": "on the top shelf",
+                "timestamp": 50.8
+            },
+            {
+                "video_id": "0b8e9abf-6a6c-4f8c-8daa-c027c641a081",
+                "question_id": 3,
+                "question": "which snacks here would be good options that cost $1.25?",
+                "question_type": "shopping",
+                "correct_answer": "peppfarm tano",
+                "timestamp": 49.0
+            },
+            {
+                "video_id": "0f0d2135-4595-400c-8463-bee11d8dbb5d",
+                "question_id": 3,
+                "question": "where can i find hot beverages in this place?",
+                "question_type": "shopping",
+                "correct_answer": "look for the area labeled \"hot blend\"",
+                "timestamp": 49.0
+            },
+            {
+                "video_id": "1a2b5fde-00ee-4bd4-8a1a-15bf3a783629",
+                "question_id": 3,
+                "question": "what brand of creamer is being used?",
+                "question_type": "shopping",
+                "correct_answer": "coffee mate",
+                "timestamp": 55.3
+            },
+            {
+                "video_id": "3dfef34d-2a66-4e6f-b5e0-6eb33c813f57",
+                "question_id": 3,
+                "question": "which items are advertised at 2 for $3 in the display near the drinks?",
+                "question_type": "shopping",
+                "correct_answer": "bottled soda",
+                "timestamp": 51.5
+            },
+            {
+                "video_id": "429e2791-b050-4184-9837-de7c201f94c8",
+                "question_id": 3,
+                "question": "which beverages are available in the refrigerator next to the table?",
+                "question_type": "shopping",
+                "correct_answer": "pepsi",
+                "timestamp": 52.7
+            },
+            {
+                "video_id": "57413dd6-45ff-41d0-a250-cd15b4227e83",
+                "question_id": 3,
+                "question": "where i can find the medium-sized items among these clothes?",
+                "question_type": "shopping",
+                "correct_answer": "on the left side of the l section",
+                "timestamp": 56.8
+            },
+            {
+                "video_id": "595a45c2-1c49-4d13-b49c-8a29ce07a790",
+                "question_id": 3,
+                "question": "which door should i use to enter?",
+                "question_type": "shopping",
+                "correct_answer": "entrance",
+                "timestamp": 56.0
+            },
+            {
+                "video_id": "59f57895-75d3-4966-85a6-a94261b32461",
+                "question_id": 3,
+                "question": "what kind of store or display might this be based ona the items in front of the wall and the letter \"a\"?",
+                "question_type": "shopping",
+                "correct_answer": "an accessories store",
+                "timestamp": 84.2
+            },
+            {
+                "video_id": "77d65e78-ec0d-40fa-8047-b5758809ed26",
+                "question_id": 3,
+                "question": "which machine should i use to get a cold beverage at house blend?",
+                "question_type": "shopping",
+                "correct_answer": "the machine with orange and blue liquids",
+                "timestamp": 48.5
+            },
+            {
+                "video_id": "7dc164b0-a785-4f17-8283-0c11f1dd60ad",
+                "question_id": 3,
+                "question": "where can i find the section with the items that just arrived?",
+                "question_type": "shopping",
+                "correct_answer": "on the counter, next to the belts",
+                "timestamp": 36.8
+            },
+            {
+                "video_id": "95be0245-1465-49d1-b03c-bc45c6eb1ea4",
+                "question_id": 3,
+                "question": "where can i find the swedish fish packs in relation to the trident gum?",
+                "question_type": "shopping",
+                "correct_answer": "below the trident gum",
+                "timestamp": 102.2
+            },
+            {
+                "video_id": "99d2564a-8de6-4f9b-b61a-602ec60fe9b5",
+                "question_id": 3,
+                "question": "what brand names are visible in the candy aisle?",
+                "question_type": "shopping",
+                "correct_answer": "musketeers, 100 grand, kitkat bigkat",
+                "timestamp": 45.2
+            },
+            {
+                "video_id": "a6e66b85-532d-4d73-bc53-6740981166ac",
+                "question_id": 3,
+                "question": "what is the purpose of the products labeled \"hawthorne\" and \"cough\"?",
+                "question_type": "shopping",
+                "correct_answer": "they are for soothing coughs",
+                "timestamp": 60.7
+            },
+            {
+                "video_id": "b85ebe9a-d77d-4a2e-ae90-dc3c99c37c11",
+                "question_id": 3,
+                "question": "how much would it cost to buy one bottle each of sprite and diet coke?",
+                "question_type": "shopping",
+                "correct_answer": "3.94",
+                "timestamp": 42.3
+            },
+            {
+                "video_id": "b8eb6b3e-927d-4486-9513-be8ba78a332d",
+                "question_id": 3,
+                "question": "which dispenser would i use to get french vanilla flavored coffee?",
+                "question_type": "shopping",
+                "correct_answer": "the machine with the \"french vanilla\" text",
+                "timestamp": 52.8
+            },
+            {
+                "video_id": "c4a4663e-28a7-4d23-a609-d9d860ee4ea2",
+                "question_id": 3,
+                "question": "which candy options are present in the second row on the right side of the shelf?",
+                "question_type": "shopping",
+                "correct_answer": "twix and nestle crunch",
+                "timestamp": 83.3
+            },
+            {
+                "video_id": "cfa083d4-f503-4bd4-8550-af904e38a634",
+                "question_id": 3,
+                "question": "what benefits might i get by asking juniper for assistance?",
+                "question_type": "shopping",
+                "correct_answer": "get the extra 20% off",
+                "timestamp": 47.3
+            },
+            {
+                "video_id": "d2c6b32d-4eca-4df1-9846-cec3a75a97a2",
+                "question_id": 3,
+                "question": "where can i find the price of the vive paper towels?",
+                "question_type": "shopping",
+                "correct_answer": "on the top shelf next to the lay's sign",
+                "timestamp": 51.7
+            },
+            {
+                "video_id": "055d64a4-e11c-40a1-adbf-bd969d026a25",
+                "question_id": 4,
+                "question": "which business is renting out the property?",
+                "question_type": "shopping",
+                "correct_answer": "colonial",
+                "timestamp": 49.0
+            },
+            {
+                "video_id": "0dcc2610-672b-4a18-93c1-4134a2054ca1",
+                "question_id": 4,
+                "question": "what is the price per pound of the pears i'm looking at?",
+                "question_type": "shopping",
+                "correct_answer": "45\u00a2/lb",
+                "timestamp": 57.0
+            },
+            {
+                "video_id": "102eecdb-6e05-4898-807b-8e8e78b7a059",
+                "question_id": 4,
+                "question": "which drink is available in a 12-pack for $11.49?",
+                "question_type": "shopping",
+                "correct_answer": "bud light",
+                "timestamp": 54.3
+            },
+            {
+                "video_id": "1a2b5fde-00ee-4bd4-8a1a-15bf3a783629",
+                "question_id": 4,
+                "question": "what kind of snack am i planning to serve?",
+                "question_type": "shopping",
+                "correct_answer": "tostitos chips",
+                "timestamp": 55.3
+            },
+            {
+                "video_id": "1f869469-8e63-4959-a53d-45fd74e4f017",
+                "question_id": 4,
+                "question": "which brand of peanut butter is available on the shelf?",
+                "question_type": "shopping",
+                "correct_answer": "jif",
+                "timestamp": 42.5
+            },
+            {
+                "video_id": "2149306d-4d80-40a1-a50f-24fbf9b88277",
+                "question_id": 4,
+                "question": "what is the price of the item i want to buy?",
+                "question_type": "shopping",
+                "correct_answer": "$8.99",
+                "timestamp": 46.0
+            },
+            {
+                "video_id": "23f95618-0ea4-4d66-b88d-f523aaeab2b7",
+                "question_id": 4,
+                "question": "what is the price promotion for all fresh baked goods?",
+                "question_type": "shopping",
+                "correct_answer": "2 for $5.00",
+                "timestamp": 50.3
+            },
+            {
+                "video_id": "264193c2-1ce5-47da-8416-d850986e8530",
+                "question_id": 4,
+                "question": "what is the price difference between the cup noodles and the tomyum soup bowl?",
+                "question_type": "shopping",
+                "correct_answer": "the price difference is $4.00",
+                "timestamp": 41.5
+            },
+            {
+                "video_id": "2722dcf8-bd21-47a4-9346-aa993939250c",
+                "question_id": 4,
+                "question": "which brand has more snacks?",
+                "question_type": "shopping",
+                "correct_answer": "lay\u2019s",
+                "timestamp": 41.3
+            },
+            {
+                "video_id": "312f4f0e-2f37-48a4-b521-67ccee41ffaa",
+                "question_id": 4,
+                "question": "which product is on sale for 2 for $6?",
+                "question_type": "shopping",
+                "correct_answer": "burritos",
+                "timestamp": 55.5
+            },
+            {
+                "video_id": "32306578-6733-4feb-aac3-3892c5993647",
+                "question_id": 4,
+                "question": "what type of drinks are available in the refrigerated section on the left side?",
+                "question_type": "shopping",
+                "correct_answer": "pepsi",
+                "timestamp": 51.8
+            },
+            {
+                "video_id": "3311f1b2-495a-4712-9989-ef8519be3cc7",
+                "question_id": 4,
+                "question": "what items are included in the 25% off sale that i can consider adding to my shopping basket?",
+                "question_type": "shopping",
+                "correct_answer": "clothing items",
+                "timestamp": 46.2
+            },
+            {
+                "video_id": "3c9e4941-5514-43ad-8bf4-2999926e89a0",
+                "question_id": 4,
+                "question": "what blend of coffee is prominently advertised here?",
+                "question_type": "shopping",
+                "correct_answer": "house blend",
+                "timestamp": 50.2
+            },
+            {
+                "video_id": "3f8fc786-82fd-4c93-9270-e93d9526b0cc",
+                "question_id": 4,
+                "question": "what blend of coffee do they serve here?",
+                "question_type": "shopping",
+                "correct_answer": "house blend",
+                "timestamp": 48.5
+            },
+            {
+                "video_id": "45c82d53-bb58-44a2-bfc4-a75ef59d8605",
+                "question_id": 4,
+                "question": "what brand of gummy candy is available in the store?",
+                "question_type": "shopping",
+                "correct_answer": "trolli",
+                "timestamp": 55.5
+            },
+            {
+                "video_id": "57413dd6-45ff-41d0-a250-cd15b4227e83",
+                "question_id": 4,
+                "question": "where can i sign up to get the 20% off discount?",
+                "question_type": "shopping",
+                "correct_answer": "at the sign with \"sign up extra 20% off\"",
+                "timestamp": 56.8
+            },
+            {
+                "video_id": "59f57895-75d3-4966-85a6-a94261b32461",
+                "question_id": 4,
+                "question": "what percentage discount can i get on the items during this sale?",
+                "question_type": "shopping",
+                "correct_answer": "25% off",
+                "timestamp": 84.2
+            },
+            {
+                "video_id": "5e12b005-d720-4ec9-b364-178bc0e4d336",
+                "question_id": 4,
+                "question": "where can i find the sign for the flash sale?",
+                "question_type": "shopping",
+                "correct_answer": "near the mannequins",
+                "timestamp": 55.7
+            },
+            {
+                "video_id": "5f66a4a0-c5a7-4568-9885-8d34f973d0bb",
+                "question_id": 4,
+                "question": "what is the cost of the yellow pears per pound?",
+                "question_type": "shopping",
+                "correct_answer": "45 \u00a2/lb",
+                "timestamp": 57.0
+            },
+            {
+                "video_id": "68d7182e-7e54-4492-af0c-2c6be0263a0d",
+                "question_id": 4,
+                "question": "how much is the double-pack deal for fresh baked goods?",
+                "question_type": "shopping",
+                "correct_answer": "$5.00",
+                "timestamp": 50.3
+            },
+            {
+                "video_id": "71a1a187-8164-4b57-ac8a-87f1724fb971",
+                "question_id": 4,
+                "question": "what is the discount being offered on the items in the flash sale?",
+                "question_type": "shopping",
+                "correct_answer": "25% off",
+                "timestamp": 84.2
+            },
+            {
+                "video_id": "76595ea8-92b6-416a-8ea8-d93e05445140",
+                "question_id": 4,
+                "question": "which items are included in the flash sale with a 25% discount?",
+                "question_type": "shopping",
+                "correct_answer": "clothing items",
+                "timestamp": 54.7
+            },
+            {
+                "video_id": "77d65e78-ec0d-40fa-8047-b5758809ed26",
+                "question_id": 4,
+                "question": "what is the special offer on the sign at the checkout counter?",
+                "question_type": "shopping",
+                "correct_answer": "pick 5 for $8.00",
+                "timestamp": 48.5
+            },
+            {
+                "video_id": "7dc164b0-a785-4f17-8283-0c11f1dd60ad",
+                "question_id": 4,
+                "question": "which items are labeled as \"just arrived\"?",
+                "question_type": "shopping",
+                "correct_answer": "belts and ties",
+                "timestamp": 36.8
+            },
+            {
+                "video_id": "95be0245-1465-49d1-b03c-bc45c6eb1ea4",
+                "question_id": 4,
+                "question": "which drink do i pick up with my sandwich and snacks?",
+                "question_type": "shopping",
+                "correct_answer": "snapple",
+                "timestamp": 102.2
+            },
+            {
+                "video_id": "9b470268-62c2-4240-91b8-7a2758dcf0fe",
+                "question_id": 4,
+                "question": "where can i find the milky way chocolate bars?",
+                "question_type": "shopping",
+                "correct_answer": "on the middle shelf",
+                "timestamp": 43.3
+            },
+            {
+                "video_id": "9ca6e523-548b-4af9-867d-0aa38c65a0a4",
+                "question_id": 4,
+                "question": "what are the options in the \"pick 5 for \u20ac8\" offer, and where can i find it?",
+                "question_type": "shopping",
+                "correct_answer": "on the promotional board near the counter",
+                "timestamp": 50.8
+            },
+            {
+                "video_id": "b41ef7e7-17da-4cb6-86a4-745b79d8f910",
+                "question_id": 4,
+                "question": "what is the discount percentage i can get during the flash sale?",
+                "question_type": "shopping",
+                "correct_answer": "25% off",
+                "timestamp": 59.2
+            },
+            {
+                "video_id": "b8eb6b3e-927d-4486-9513-be8ba78a332d",
+                "question_id": 4,
+                "question": "where can i find the hi-chew candies?",
+                "question_type": "shopping",
+                "correct_answer": "to the left of the life savers gummies",
+                "timestamp": 52.8
+            },
+            {
+                "video_id": "c0022559-fa6b-4efa-b6f4-4c37e747f99d",
+                "question_id": 4,
+                "question": "how much do i need to withdraw from the atm to buy a bunch of fresh flowers?",
+                "question_type": "shopping",
+                "correct_answer": "5",
+                "timestamp": 49.3
+            },
+            {
+                "video_id": "c34e1701-74fa-4b3b-9058-32480847de16",
+                "question_id": 4,
+                "question": "what does the \"pick 5\" offer include?",
+                "question_type": "shopping",
+                "correct_answer": "assorted items for $8.00",
+                "timestamp": 46.7
+            },
+            {
+                "video_id": "c4bdfb22-e10a-49a0-a8fe-60ec2b966b56",
+                "question_id": 4,
+                "question": "which breakfast cereal is priced at 2 for $6?",
+                "question_type": "shopping",
+                "correct_answer": "chex mix",
+                "timestamp": 57.5
+            },
+            {
+                "video_id": "cd8a8370-2da1-43f2-b003-c3e82dfd77a4",
+                "question_id": 4,
+                "question": "what other snack options do i have besides oreo?",
+                "question_type": "shopping",
+                "correct_answer": "ranch",
+                "timestamp": 47.0
+            },
+            {
+                "video_id": "cf1c7dff-d8c6-44f8-9d48-9ffc443b3152",
+                "question_id": 4,
+                "question": "what is the title of the magazine with a focus on gardening and recipes for dishes that feature \"full flavor\"?",
+                "question_type": "shopping",
+                "correct_answer": "better homes and gardens",
+                "timestamp": 78.5
+            },
+            {
+                "video_id": "0b8e9abf-6a6c-4f8c-8daa-c027c641a081",
+                "question_id": 5,
+                "question": "which two items can be bought for $10.99?",
+                "question_type": "shopping",
+                "correct_answer": "pizza",
+                "timestamp": 49.0
+            },
+            {
+                "video_id": "0dcc2610-672b-4a18-93c1-4134a2054ca1",
+                "question_id": 5,
+                "question": "how much are the items in the basket to the right of the eggplants priced?",
+                "question_type": "shopping",
+                "correct_answer": "38",
+                "timestamp": 57.0
+            },
+            {
+                "video_id": "102eecdb-6e05-4898-807b-8e8e78b7a059",
+                "question_id": 5,
+                "question": "how much does it cost to buy two large pizzas here?",
+                "question_type": "shopping",
+                "correct_answer": "$10.99",
+                "timestamp": 54.3
+            },
+            {
+                "video_id": "23f95618-0ea4-4d66-b88d-f523aaeab2b7",
+                "question_id": 5,
+                "question": "which item is priced at $14.99 in this store?",
+                "question_type": "shopping",
+                "correct_answer": "a pack of michelob ultra",
+                "timestamp": 50.3
+            },
+            {
+                "video_id": "264193c2-1ce5-47da-8416-d850986e8530",
+                "question_id": 5,
+                "question": "where can i find the soy sauce and what is its price?",
+                "question_type": "shopping",
+                "correct_answer": "soy sauce is found on the top shelf and it costs $4.25",
+                "timestamp": 41.5
+            },
+            {
+                "video_id": "2722dcf8-bd21-47a4-9346-aa993939250c",
+                "question_id": 5,
+                "question": "where can i find the oberto beef jerky in this store?",
+                "question_type": "shopping",
+                "correct_answer": "next to the planters",
+                "timestamp": 41.3
+            },
+            {
+                "video_id": "2de9fa3a-d09f-45fa-b499-76699dab75ee",
+                "question_id": 5,
+                "question": "which beverage package deal is available, and how much does it cost?",
+                "question_type": "shopping",
+                "correct_answer": "3 for $5.75",
+                "timestamp": 49.0
+            },
+            {
+                "video_id": "32306578-6733-4feb-aac3-3892c5993647",
+                "question_id": 5,
+                "question": "which brand of bottled water is stocked in large quantities on the floor stack?",
+                "question_type": "shopping",
+                "correct_answer": "aquafina",
+                "timestamp": 51.8
+            },
+            {
+                "video_id": "3311f1b2-495a-4712-9989-ef8519be3cc7",
+                "question_id": 5,
+                "question": "which sections or racks in the store have items eligible for the 25% off discount?",
+                "question_type": "shopping",
+                "correct_answer": "the racks with clothing items, visible in the reflection",
+                "timestamp": 46.2
+            },
+            {
+                "video_id": "3a4f4d5c-c8fa-4bb1-8e80-7c22cab54116",
+                "question_id": 5,
+                "question": "which brand is prominently displayed on the shirts?",
+                "question_type": "shopping",
+                "correct_answer": "rvca",
+                "timestamp": 79.7
+            },
+            {
+                "video_id": "429e2791-b050-4184-9837-de7c201f94c8",
+                "question_id": 5,
+                "question": "where can i find the house blend coffee in this store?",
+                "question_type": "shopping",
+                "correct_answer": "on the counter near the back",
+                "timestamp": 52.7
+            },
+            {
+                "video_id": "57413dd6-45ff-41d0-a250-cd15b4227e83",
+                "question_id": 5,
+                "question": "where is the wife brand in the store?",
+                "question_type": "shopping",
+                "correct_answer": "under the red discount sign",
+                "timestamp": 56.8
+            },
+            {
+                "video_id": "59f57895-75d3-4966-85a6-a94261b32461",
+                "question_id": 5,
+                "question": "which section of the store should i go to find the items that are 25% off?",
+                "question_type": "shopping",
+                "correct_answer": "flash sale section",
+                "timestamp": 84.2
+            },
+            {
+                "video_id": "5e12b005-d720-4ec9-b364-178bc0e4d336",
+                "question_id": 5,
+                "question": "which products seem to be part of the flash sale?",
+                "question_type": "shopping",
+                "correct_answer": "clothes and shoes",
+                "timestamp": 55.7
+            },
+            {
+                "video_id": "5f66a4a0-c5a7-4568-9885-8d34f973d0bb",
+                "question_id": 5,
+                "question": "where can i find information on any sale or discount ?",
+                "question_type": "shopping",
+                "correct_answer": "3.99 sign",
+                "timestamp": 57.0
+            },
+            {
+                "video_id": "64e27cea-dac7-47d6-8174-d20f7b8e0a5c",
+                "question_id": 5,
+                "question": "what kinds of gummies can i choose from on the shelf, and where are they displayed?",
+                "question_type": "shopping",
+                "correct_answer": "lifesavers gummies, on the right side middle section",
+                "timestamp": 52.8
+            },
+            {
+                "video_id": "64ec9375-288b-4e66-9b4a-6c35b3b582c1",
+                "question_id": 5,
+                "question": "which candies are located directly to the left of the twix bars?",
+                "question_type": "shopping",
+                "correct_answer": "baby ruth",
+                "timestamp": 85.8
+            },
+            {
+                "video_id": "70087968-ee62-4443-8193-70c39b014f09",
+                "question_id": 5,
+                "question": "where can i find the items that are on sale for 2 for $6?",
+                "question_type": "shopping",
+                "correct_answer": "middle shelf, center",
+                "timestamp": 57.5
+            },
+            {
+                "video_id": "77d65e78-ec0d-40fa-8047-b5758809ed26",
+                "question_id": 5,
+                "question": "how much do i need to pay to pick five items as per the deal displayed?",
+                "question_type": "shopping",
+                "correct_answer": "8",
+                "timestamp": 48.5
+            },
+            {
+                "video_id": "843e21ec-d2bc-4f06-9fb6-6ad6cbe529d2",
+                "question_id": 5,
+                "question": "where can i find the medium-sized clothes among these options?",
+                "question_type": "shopping",
+                "correct_answer": "near the middle of the rack",
+                "timestamp": 52.3
+            },
+            {
+                "video_id": "950157a9-c258-453a-8e15-8c88abc43ba8",
+                "question_id": 5,
+                "question": "what brand offers a saving of 75\u00a2, and where in the store is it located?",
+                "question_type": "shopping",
+                "correct_answer": "scott, near the ceiling",
+                "timestamp": 55.0
+            },
+            {
+                "video_id": "9b470268-62c2-4240-91b8-7a2758dcf0fe",
+                "question_id": 5,
+                "question": "how many flavors does milkly way have?",
+                "question_type": "shopping",
+                "correct_answer": "2",
+                "timestamp": 43.3
+            },
+            {
+                "video_id": "b1c71e68-f8f1-475a-9237-4c040a6ea586",
+                "question_id": 5,
+                "question": "which product that mentions \"2/$5\"?",
+                "question_type": "shopping",
+                "correct_answer": "lay\u2019s",
+                "timestamp": 53.3
+            },
+            {
+                "video_id": "b41ef7e7-17da-4cb6-86a4-745b79d8f910",
+                "question_id": 5,
+                "question": "which event is offering a discount of 25% on selected items?",
+                "question_type": "shopping",
+                "correct_answer": "flash sale",
+                "timestamp": 59.2
+            },
+            {
+                "video_id": "b5043f82-8ff2-4760-8fe4-8da1d1c8f37f",
+                "question_id": 5,
+                "question": "which direction should i go to reach the beverage center?",
+                "question_type": "shopping",
+                "correct_answer": "straight ahead past the yogurt",
+                "timestamp": 52.0
+            },
+            {
+                "video_id": "b8eb6b3e-927d-4486-9513-be8ba78a332d",
+                "question_id": 5,
+                "question": "which candies are displayed to the left of the airheads soft filled bites?",
+                "question_type": "shopping",
+                "correct_answer": "swedish fish",
+                "timestamp": 52.8
+            },
+            {
+                "video_id": "c0022559-fa6b-4efa-b6f4-4c37e747f99d",
+                "question_id": 5,
+                "question": "where can i find the atm at this location to get some cash?",
+                "question_type": "shopping",
+                "correct_answer": "near the flowers",
+                "timestamp": 49.3
+            },
+            {
+                "video_id": "c4a4663e-28a7-4d23-a609-d9d860ee4ea2",
+                "question_id": 5,
+                "question": "where can i find the coffee that is priced at 2 for $6?",
+                "question_type": "shopping",
+                "correct_answer": "middle shelf on left",
+                "timestamp": 83.3
+            },
+            {
+                "video_id": "c9a9d4fb-fa4e-4289-a81a-6e4045c54692",
+                "question_id": 5,
+                "question": "how much does the easy mac cost?",
+                "question_type": "shopping",
+                "correct_answer": "2 for $6",
+                "timestamp": 55.5
+            },
+            {
+                "video_id": "cd8a8370-2da1-43f2-b003-c3e82dfd77a4",
+                "question_id": 5,
+                "question": "where can i find more flavors or variations of snacks \"ranch\"?",
+                "question_type": "shopping",
+                "correct_answer": "on the same aisle of snack crackers",
+                "timestamp": 47.0
+            },
+            {
+                "video_id": "cf1c7dff-d8c6-44f8-9d48-9ffc443b3152",
+                "question_id": 5,
+                "question": "where can i find information about the latest trends and news in the fashion industry among the magazines shown?",
+                "question_type": "shopping",
+                "correct_answer": "the magazine featuring \"kristen stewart\" on the cover",
+                "timestamp": 78.5
+            },
+            {
+                "video_id": "cfa083d4-f503-4bd4-8550-af904e38a634",
+                "question_id": 5,
+                "question": "what items are included in the extra 20% off sale?",
+                "question_type": "shopping",
+                "correct_answer": "items hanging on the wall with the sign",
+                "timestamp": 47.3
+            },
+            {
+                "video_id": "d914bc28-ab46-405b-a99e-0a7d943cd2aa",
+                "question_id": 5,
+                "question": "which items are being promoted with a \"3 for $5.75\" deal?",
+                "question_type": "shopping",
+                "correct_answer": "canned beverages",
+                "timestamp": 47.0
+            },
+            {
+                "video_id": "0dcc2610-672b-4a18-93c1-4134a2054ca1",
+                "question_id": 6,
+                "question": "which item in the store is priced at $3.99?",
+                "question_type": "shopping",
+                "correct_answer": "the item in the blue sign",
+                "timestamp": 73.7
+            },
+            {
+                "video_id": "1a2b5fde-00ee-4bd4-8a1a-15bf3a783629",
+                "question_id": 6,
+                "question": "which size of chips do i get?",
+                "question_type": "shopping",
+                "correct_answer": "party size",
+                "timestamp": 82.5
+            },
+            {
+                "video_id": "1f869469-8e63-4959-a53d-45fd74e4f017",
+                "question_id": 6,
+                "question": "are there any frito-lay products available, and what type are they?",
+                "question_type": "shopping",
+                "correct_answer": "yes and they are cup packs",
+                "timestamp": 74.5
+            },
+            {
+                "video_id": "23f95618-0ea4-4d66-b88d-f523aaeab2b7",
+                "question_id": 6,
+                "question": "are there any promotions for purchasing two bottles of soda, and what is the cost?",
+                "question_type": "shopping",
+                "correct_answer": "yes, 2 for $3.50",
+                "timestamp": 86.5
+            },
+            {
+                "video_id": "2722dcf8-bd21-47a4-9346-aa993939250c",
+                "question_id": 6,
+                "question": "what kind of chips are located to the left of the lay\u2019s chips?",
+                "question_type": "shopping",
+                "correct_answer": "doritos",
+                "timestamp": 81.0
+            },
+            {
+                "video_id": "3311f1b2-495a-4712-9989-ef8519be3cc7",
+                "question_id": 6,
+                "question": "where can i find more information about the terms and conditions of this discount based on the 25% off sign?",
+                "question_type": "shopping",
+                "correct_answer": "on the sign itself",
+                "timestamp": 71.3
+            },
+            {
+                "video_id": "3a4f4d5c-c8fa-4bb1-8e80-7c22cab54116",
+                "question_id": 6,
+                "question": "how many shirts with the text \"rvca\" do i examine?",
+                "question_type": "shopping",
+                "correct_answer": "i examine three shirts with the text \"rvca\"",
+                "timestamp": 101.0
+            },
+            {
+                "video_id": "3dfef34d-2a66-4e6f-b5e0-6eb33c813f57",
+                "question_id": 6,
+                "question": "which item has the tag \"14,\" and where is it located?",
+                "question_type": "shopping",
+                "correct_answer": "a product on the shelf, towards the right side",
+                "timestamp": 80.7
+            },
+            {
+                "video_id": "59f57895-75d3-4966-85a6-a94261b32461",
+                "question_id": 6,
+                "question": "where can i find out more details about the \"flash sale\"?",
+                "question_type": "shopping",
+                "correct_answer": "on the sign with the text \"flash sale\"",
+                "timestamp": 115.3
+            },
+            {
+                "video_id": "68d7182e-7e54-4492-af0c-2c6be0263a0d",
+                "question_id": 6,
+                "question": "which beverages are included in the 2 for $3.50 deal?",
+                "question_type": "shopping",
+                "correct_answer": "coca-cola, pepsi, dr. pepper",
+                "timestamp": 86.5
+            },
+            {
+                "video_id": "6dc20dc0-60ec-47c6-b8e2-c383e0b5f4bc",
+                "question_id": 6,
+                "question": "where can i find the \"hazelbaklava\" boxes?",
+                "question_type": "shopping",
+                "correct_answer": "on the shelves",
+                "timestamp": 63.5
+            },
+            {
+                "video_id": "70087968-ee62-4443-8193-70c39b014f09",
+                "question_id": 6,
+                "question": "which two brands of cereal are placed on the bottom shelf?",
+                "question_type": "shopping",
+                "correct_answer": "rice krispies and chex",
+                "timestamp": 83.2
+            },
+            {
+                "video_id": "71a1a187-8164-4b57-ac8a-87f1724fb971",
+                "question_id": 6,
+                "question": "which items should i prioritize looking at to take advantage of the 25% off discount?",
+                "question_type": "shopping",
+                "correct_answer": "the ones close to the sign",
+                "timestamp": 115.3
+            },
+            {
+                "video_id": "99d9f83d-f0be-467f-b8a8-cfd004e59703",
+                "question_id": 6,
+                "question": "which days of the week is the flash sale available according to the sign?",
+                "question_type": "shopping",
+                "correct_answer": "the weekend only",
+                "timestamp": 79.8
+            },
+            {
+                "video_id": "9b470268-62c2-4240-91b8-7a2758dcf0fe",
+                "question_id": 6,
+                "question": "what is the price of the milky way chocolate bars?",
+                "question_type": "shopping",
+                "correct_answer": "$5.25",
+                "timestamp": 82.8
+            },
+            {
+                "video_id": "b1c71e68-f8f1-475a-9237-4c040a6ea586",
+                "question_id": 6,
+                "question": "how much does milano cost?",
+                "question_type": "shopping",
+                "correct_answer": "6.79",
+                "timestamp": 71.0
+            },
+            {
+                "video_id": "b5043f82-8ff2-4760-8fe4-8da1d1c8f37f",
+                "question_id": 6,
+                "question": "what\u2019s the name of the market i am shopping in?",
+                "question_type": "shopping",
+                "correct_answer": "tamimi markets",
+                "timestamp": 81.3
+            },
+            {
+                "video_id": "c34e1701-74fa-4b3b-9058-32480847de16",
+                "question_id": 6,
+                "question": "which areas in this store should i check to participate in the \"pick 5\" promotion?",
+                "question_type": "shopping",
+                "correct_answer": "at the counter area",
+                "timestamp": 84.8
+            },
+            {
+                "video_id": "c4bdfb22-e10a-49a0-a8fe-60ec2b966b56",
+                "question_id": 6,
+                "question": "where can i find the nutri-grain bars among these shelves?",
+                "question_type": "shopping",
+                "correct_answer": "on the top shelf, to the far right",
+                "timestamp": 83.2
+            },
+            {
+                "video_id": "cf1c7dff-d8c6-44f8-9d48-9ffc443b3152",
+                "question_id": 6,
+                "question": "what does the pink magazine cover on my left emphasize ?",
+                "question_type": "shopping",
+                "correct_answer": "woman\u2019s day",
+                "timestamp": 120.5
+            },
+            {
+                "video_id": "001d2d1b-d2f9-4c39-810e-6e2087ff9d5a",
+                "question_id": 7,
+                "question": "what is the special deal to buy three of the same item?",
+                "question_type": "shopping",
+                "correct_answer": "3 for $5.75",
+                "timestamp": 79.2
+            },
+            {
+                "video_id": "0419c662-f261-4ef4-a262-0ccc8ffcaf36",
+                "question_id": 7,
+                "question": "what other flavors of bugles are available, and where are they placed in relation to the original flavor?",
+                "question_type": "shopping",
+                "correct_answer": "bugles cheddar and bugles hot & spicy are available, placed to the right of the original flavor",
+                "timestamp": 80.3
+            },
+            {
+                "video_id": "0b8e9abf-6a6c-4f8c-8daa-c027c641a081",
+                "question_id": 7,
+                "question": "what variety of coffee is available here?",
+                "question_type": "shopping",
+                "correct_answer": "house blend",
+                "timestamp": 87.5
+            },
+            {
+                "video_id": "0c60f909-13d1-42fb-889c-1f40a4b5b579",
+                "question_id": 7,
+                "question": "what size i can see on this clothing rack?",
+                "question_type": "shopping",
+                "correct_answer": "medium",
+                "timestamp": 78.7
+            },
+            {
+                "video_id": "0f0d2135-4595-400c-8463-bee11d8dbb5d",
+                "question_id": 7,
+                "question": "which item costs $9.75?",
+                "question_type": "shopping",
+                "correct_answer": "the item in the top right corner",
+                "timestamp": 85.2
+            },
+            {
+                "video_id": "1a2b5fde-00ee-4bd4-8a1a-15bf3a783629",
+                "question_id": 7,
+                "question": "what type of crackers should i serve with the coffee?",
+                "question_type": "shopping",
+                "correct_answer": "triscuit",
+                "timestamp": 82.5
+            },
+            {
+                "video_id": "1b332cec-98c0-4428-bf7b-d6477235f025",
+                "question_id": 7,
+                "question": "what items are included in the flash sale that offers 25% off?",
+                "question_type": "shopping",
+                "correct_answer": "all the goods in the store",
+                "timestamp": 89.7
+            },
+            {
+                "video_id": "1f869469-8e63-4959-a53d-45fd74e4f017",
+                "question_id": 7,
+                "question": "how much do the eggplants cost per kilogram?",
+                "question_type": "shopping",
+                "correct_answer": "0.38",
+                "timestamp": 74.5
+            },
+            {
+                "video_id": "23f95618-0ea4-4d66-b88d-f523aaeab2b7",
+                "question_id": 7,
+                "question": "which beer costs $9.49?",
+                "question_type": "shopping",
+                "correct_answer": "coors light",
+                "timestamp": 86.5
+            },
+            {
+                "video_id": "245a7130-2eac-4f9f-bd65-0925a9ebf3a0",
+                "question_id": 7,
+                "question": "what are the promotional deals available for lay's?",
+                "question_type": "shopping",
+                "correct_answer": "2 for $5",
+                "timestamp": 78.8
+            },
+            {
+                "video_id": "264193c2-1ce5-47da-8416-d850986e8530",
+                "question_id": 7,
+                "question": "what is the price of the ritz bits cup?",
+                "question_type": "shopping",
+                "correct_answer": "the price of the ritz bits cup is $6.25",
+                "timestamp": 82.8
+            },
+            {
+                "video_id": "2722dcf8-bd21-47a4-9346-aa993939250c",
+                "question_id": 7,
+                "question": "what is the price of fresh flowers?",
+                "question_type": "shopping",
+                "correct_answer": "fresh flowers $5.00/bunch",
+                "timestamp": 81.0
+            },
+            {
+                "video_id": "2de9fa3a-d09f-45fa-b499-76699dab75ee",
+                "question_id": 7,
+                "question": "where can i find something that is advertised for \"2 for $3.50\"?",
+                "question_type": "shopping",
+                "correct_answer": "in the snack section next to the refrigerator",
+                "timestamp": 78.3
+            },
+            {
+                "video_id": "32306578-6733-4feb-aac3-3892c5993647",
+                "question_id": 7,
+                "question": "what brand of water do i see in the store?",
+                "question_type": "shopping",
+                "correct_answer": "pure life",
+                "timestamp": 84.2
+            },
+            {
+                "video_id": "3311f1b2-495a-4712-9989-ef8519be3cc7",
+                "question_id": 7,
+                "question": "what's the discount being offered in this store?",
+                "question_type": "shopping",
+                "correct_answer": "25% off",
+                "timestamp": 71.3
+            },
+            {
+                "video_id": "3a4f4d5c-c8fa-4bb1-8e80-7c22cab54116",
+                "question_id": 7,
+                "question": "what days do i need to visit the store to take advantage of the \"flash sale\"?",
+                "question_type": "shopping",
+                "correct_answer": "this weekend only",
+                "timestamp": 101.0
+            },
+            {
+                "video_id": "3f8fc786-82fd-4c93-9270-e93d9526b0cc",
+                "question_id": 7,
+                "question": "where can i find the price for the 'house blend' coffee?",
+                "question_type": "shopping",
+                "correct_answer": "near the \"$5.75\" sign",
+                "timestamp": 79.7
+            },
+            {
+                "video_id": "48bd5e5f-825a-461a-a580-cd635b1f17bb",
+                "question_id": 7,
+                "question": "where can i find the \"cup noodles\" in this store?",
+                "question_type": "shopping",
+                "correct_answer": "on the middle shelf next to the \"la preferida refried beans\"",
+                "timestamp": 76.3
+            },
+            {
+                "video_id": "4d1d6605-2144-4934-8d74-5c5dd01df7ce",
+                "question_id": 7,
+                "question": "what is the discount percentage for items during the flash sale?",
+                "question_type": "shopping",
+                "correct_answer": "25% off",
+                "timestamp": 82.5
+            },
+            {
+                "video_id": "4f77f6b9-9409-45cb-804d-39497baa58ae",
+                "question_id": 7,
+                "question": "which type of chocolate bar is displayed on the shelf to the left?",
+                "question_type": "shopping",
+                "correct_answer": "100 grand",
+                "timestamp": 75.0
+            },
+            {
+                "video_id": "57413dd6-45ff-41d0-a250-cd15b4227e83",
+                "question_id": 7,
+                "question": "what do i need to do to get the extra 20% off on my purchase?",
+                "question_type": "shopping",
+                "correct_answer": "sign up",
+                "timestamp": 78.0
+            },
+            {
+                "video_id": "64e27cea-dac7-47d6-8174-d20f7b8e0a5c",
+                "question_id": 7,
+                "question": "what is the price of a fruit pie from the brand franz?",
+                "question_type": "shopping",
+                "correct_answer": "$2.25",
+                "timestamp": 80.3
+            },
+            {
+                "video_id": "71a1a187-8164-4b57-ac8a-87f1724fb971",
+                "question_id": 7,
+                "question": "which items here are part of the flash sale?",
+                "question_type": "shopping",
+                "correct_answer": "the items displayed in the store this weekend",
+                "timestamp": 115.3
+            },
+            {
+                "video_id": "7dc164b0-a785-4f17-8283-0c11f1dd60ad",
+                "question_id": 7,
+                "question": "what would be the total savings i get by signing up for the discount and purchasing an item costing $50?",
+                "question_type": "shopping",
+                "correct_answer": "the total savings would be $10",
+                "timestamp": 78.7
+            },
+            {
+                "video_id": "843e21ec-d2bc-4f06-9fb6-6ad6cbe529d2",
+                "question_id": 7,
+                "question": "where can i find the tops that are on sale?",
+                "question_type": "shopping",
+                "correct_answer": "by the \u201c25% off\u201d sign",
+                "timestamp": 83.8
+            },
+            {
+                "video_id": "95be0245-1465-49d1-b03c-bc45c6eb1ea4",
+                "question_id": 7,
+                "question": "how much is the price of the item with the orange label on the far right?",
+                "question_type": "shopping",
+                "correct_answer": "17.2",
+                "timestamp": 137.7
+            },
+            {
+                "video_id": "9992487f-0fb4-4c1d-b837-f1db6f332153",
+                "question_id": 7,
+                "question": "where can i find the lay's chips deal in the store?",
+                "question_type": "shopping",
+                "correct_answer": "above the register near the \"2 for $5\" sign",
+                "timestamp": 78.8
+            },
+            {
+                "video_id": "9b470268-62c2-4240-91b8-7a2758dcf0fe",
+                "question_id": 7,
+                "question": "what items are available on the shelf next to the viva signature cloth paper towels and the great value everyday cups?",
+                "question_type": "shopping",
+                "correct_answer": "scott",
+                "timestamp": 82.8
+            },
+            {
+                "video_id": "ac6c9467-899b-4be4-8415-0244fe9e128a",
+                "question_id": 7,
+                "question": "what item is prominently advertised on the top shelf near the entrance?",
+                "question_type": "shopping",
+                "correct_answer": "chips",
+                "timestamp": 74.2
+            },
+            {
+                "video_id": "b85ebe9a-d77d-4a2e-ae90-dc3c99c37c11",
+                "question_id": 7,
+                "question": "where is the \"house blend\" coffee located in this store?",
+                "question_type": "shopping",
+                "correct_answer": "on the wall above the beverage section",
+                "timestamp": 86.0
+            },
+            {
+                "video_id": "c0022559-fa6b-4efa-b6f4-4c37e747f99d",
+                "question_id": 7,
+                "question": "where can i find the halls cough drops in this aisle?",
+                "question_type": "shopping",
+                "correct_answer": "on a peg hook display in the center-left section",
+                "timestamp": 82.3
+            },
+            {
+                "video_id": "d1bbc6f0-753a-437f-afcf-94daf3c9b47a",
+                "question_id": 7,
+                "question": "where can i find the noodles that are packaged in cups?",
+                "question_type": "shopping",
+                "correct_answer": "on the middle shelf next to the taco shells",
+                "timestamp": 78.8
+            },
+            {
+                "video_id": "d2c6b32d-4eca-4df1-9846-cec3a75a97a2",
+                "question_id": 7,
+                "question": "what is the price of the kleenex tissue box i'm picking up?",
+                "question_type": "shopping",
+                "correct_answer": "2.75",
+                "timestamp": 81.3
+            },
+            {
+                "video_id": "0419c662-f261-4ef4-a262-0ccc8ffcaf36",
+                "question_id": 8,
+                "question": "which snack options are available next to the hot & spicy bugles, and how can i compare their prices?",
+                "question_type": "shopping",
+                "correct_answer": "other bugles flavors and some chips; you can compare their prices by checking the shelf labels",
+                "timestamp": 80.3
+            },
+            {
+                "video_id": "23f95618-0ea4-4d66-b88d-f523aaeab2b7",
+                "question_id": 8,
+                "question": "what's the price of the alaska amber beer?",
+                "question_type": "shopping",
+                "correct_answer": "$10.19",
+                "timestamp": 86.5
+            },
+            {
+                "video_id": "245a7130-2eac-4f9f-bd65-0925a9ebf3a0",
+                "question_id": 8,
+                "question": "which products are part of the \"2 for $6\" deal, and how do i locate them on the shelves?",
+                "question_type": "shopping",
+                "correct_answer": "delight and other items on the middle shelf",
+                "timestamp": 78.8
+            },
+            {
+                "video_id": "48bd5e5f-825a-461a-a580-cd635b1f17bb",
+                "question_id": 8,
+                "question": "which snack options do i have to buy something chocolate-flavored?",
+                "question_type": "shopping",
+                "correct_answer": "twix, reese's, kitkat",
+                "timestamp": 76.3
+            },
+            {
+                "video_id": "4d1d6605-2144-4934-8d74-5c5dd01df7ce",
+                "question_id": 8,
+                "question": "which days is the flash sale available?",
+                "question_type": "shopping",
+                "correct_answer": "this weekend only!",
+                "timestamp": 82.5
+            },
+            {
+                "video_id": "59f57895-75d3-4966-85a6-a94261b32461",
+                "question_id": 8,
+                "question": "when is the flash sale taking place?",
+                "question_type": "shopping",
+                "correct_answer": "this weekend only",
+                "timestamp": 115.3
+            },
+            {
+                "video_id": "64e27cea-dac7-47d6-8174-d20f7b8e0a5c",
+                "question_id": 8,
+                "question": "which brand offers an apple-flavored pie, and where is it located on the shelf compared to the chocolate-flavored one?",
+                "question_type": "shopping",
+                "correct_answer": "franz, to the left of the chocolate-flavored one",
+                "timestamp": 80.3
+            },
+            {
+                "video_id": "68d7182e-7e54-4492-af0c-2c6be0263a0d",
+                "question_id": 8,
+                "question": "what sodas are available in the refrigerator?",
+                "question_type": "shopping",
+                "correct_answer": "coca-cola, sprite, diet coke",
+                "timestamp": 86.5
+            },
+            {
+                "video_id": "71a1a187-8164-4b57-ac8a-87f1724fb971",
+                "question_id": 8,
+                "question": "where should i go to find more information about the flash sale happening this weekend?",
+                "question_type": "shopping",
+                "correct_answer": "the signage in the store",
+                "timestamp": 115.3
+            },
+            {
+                "video_id": "97ce24f3-6232-4aae-ab17-eef2c6491833",
+                "question_id": 8,
+                "question": "which backpack has the word \"awesome\" written on it?",
+                "question_type": "shopping",
+                "correct_answer": "the pink backpack",
+                "timestamp": 78.3
+            },
+            {
+                "video_id": "9b470268-62c2-4240-91b8-7a2758dcf0fe",
+                "question_id": 8,
+                "question": "where can i find the great value everyday cups ?",
+                "question_type": "shopping",
+                "correct_answer": "on the shelf with viva signature cloth",
+                "timestamp": 82.8
+            },
+            {
+                "video_id": "b85ebe9a-d77d-4a2e-ae90-dc3c99c37c11",
+                "question_id": 8,
+                "question": "what other grocery items can i see near the checkout counter besides coffee?",
+                "question_type": "shopping",
+                "correct_answer": "fresh fruits and vegetables in the shopping basket",
+                "timestamp": 86.0
+            },
+            {
+                "video_id": "c0022559-fa6b-4efa-b6f4-4c37e747f99d",
+                "question_id": 8,
+                "question": "what is the purple and green paper towels on the upper shelf?",
+                "question_type": "shopping",
+                "correct_answer": "vinda",
+                "timestamp": 82.3
+            },
+            {
+                "video_id": "c34e1701-74fa-4b3b-9058-32480847de16",
+                "question_id": 8,
+                "question": "which two snacks can i buy for $3.33, and are there any other promotional offers in the nearby shelves?",
+                "question_type": "shopping",
+                "correct_answer": "the two snacks you can buy for $3.33 are indicated near the checkout, and other promotional offers include \"buy any 3 for...\" nearby",
+                "timestamp": 84.8
+            },
+            {
+                "video_id": "c9a9d4fb-fa4e-4289-a81a-6e4045c54692",
+                "question_id": 8,
+                "question": "where can i find the taco shells in this store aisle?",
+                "question_type": "shopping",
+                "correct_answer": "on the middle shelf, left side",
+                "timestamp": 77.7
+            },
+            {
+                "video_id": "d1bbc6f0-753a-437f-afcf-94daf3c9b47a",
+                "question_id": 8,
+                "question": "which snack options are priced at 2 for $5?",
+                "question_type": "shopping",
+                "correct_answer": "lay's fritos & cheetos",
+                "timestamp": 78.8
+            },
+            {
+                "video_id": "d2c6b32d-4eca-4df1-9846-cec3a75a97a2",
+                "question_id": 8,
+                "question": "which brand of paper towels should i get for the \"signature cloth\" label?",
+                "question_type": "shopping",
+                "correct_answer": "viva",
+                "timestamp": 81.3
+            },
+            {
+                "video_id": "0419c662-f261-4ef4-a262-0ccc8ffcaf36",
+                "question_id": 9,
+                "question": "what apps are on the phone's home screen, and how could they help me find a recipe using bugles?",
+                "question_type": "shopping",
+                "correct_answer": "the phone has apps like safari and pinterest; you can use them to search for bugles recipes online",
+                "timestamp": 113.2
+            },
+            {
+                "video_id": "196e679f-91ff-4308-a565-470b8de2c8e9",
+                "question_id": 9,
+                "question": "which direction should i take to find a particular store outside?",
+                "question_type": "shopping",
+                "correct_answer": "left",
+                "timestamp": 109.0
+            },
+            {
+                "video_id": "1b332cec-98c0-4428-bf7b-d6477235f025",
+                "question_id": 9,
+                "question": "which section of the store has the items on flash sale, and how can i easily get there from where i am currently standing?",
+                "question_type": "shopping",
+                "correct_answer": "the section directly to the right of the person in the image",
+                "timestamp": 101.7
+            },
+            {
+                "video_id": "1f869469-8e63-4959-a53d-45fd74e4f017",
+                "question_id": 9,
+                "question": "where can i find the price for the peppers i just weighed?",
+                "question_type": "shopping",
+                "correct_answer": "on the sign below the basket they are in",
+                "timestamp": 114.5
+            },
+            {
+                "video_id": "2722dcf8-bd21-47a4-9346-aa993939250c",
+                "question_id": 9,
+                "question": "what is the brand in the background near the paper products?",
+                "question_type": "shopping",
+                "correct_answer": "viva",
+                "timestamp": 115.0
+            },
+            {
+                "video_id": "3a4f4d5c-c8fa-4bb1-8e80-7c22cab54116",
+                "question_id": 9,
+                "question": "where can i find more information about the \"flash sale\" in the store?",
+                "question_type": "shopping",
+                "correct_answer": "signboard near mirror",
+                "timestamp": 146.7
+            },
+            {
+                "video_id": "3f8fc786-82fd-4c93-9270-e93d9526b0cc",
+                "question_id": 9,
+                "question": "what is the meaning of \"$5.75\" ?",
+                "question_type": "shopping",
+                "correct_answer": "the price of the 'house blend' coffee",
+                "timestamp": 105.3
+            },
+            {
+                "video_id": "40d5144b-12b8-4cb7-ae18-23c8c5a0daf0",
+                "question_id": 9,
+                "question": "which items in this store appear to be included in the 20% off promotion?",
+                "question_type": "shopping",
+                "correct_answer": "purchase goods after registration",
+                "timestamp": 144.7
+            },
+            {
+                "video_id": "57413dd6-45ff-41d0-a250-cd15b4227e83",
+                "question_id": 9,
+                "question": "which clothing items are eligible for the 20% off discount after signing up?",
+                "question_type": "shopping",
+                "correct_answer": "the signage does not specify",
+                "timestamp": 109.2
+            },
+            {
+                "video_id": "595a45c2-1c49-4d13-b49c-8a29ce07a790",
+                "question_id": 9,
+                "question": "where can i find the warning sign, and what does it caution against?",
+                "question_type": "shopping",
+                "correct_answer": "on the side wall, it warns about shoplifting",
+                "timestamp": 119.8
+            },
+            {
+                "video_id": "5bcbfe3d-a06d-42d5-9f20-8aa702e7e215",
+                "question_id": 9,
+                "question": "where is the item with the \"special offer\" label located in relation to the \"spring roll\" package?",
+                "question_type": "shopping",
+                "correct_answer": "to the left of the \"spring roll\" package",
+                "timestamp": 119.0
+            },
+            {
+                "video_id": "5f66a4a0-c5a7-4568-9885-8d34f973d0bb",
+                "question_id": 9,
+                "question": "are the green peppers priced the same as the apples?",
+                "question_type": "shopping",
+                "correct_answer": "no",
+                "timestamp": 121.0
+            },
+            {
+                "video_id": "64e27cea-dac7-47d6-8174-d20f7b8e0a5c",
+                "question_id": 9,
+                "question": "where can i find the lay's snack deal information, and what does the promotion offer?",
+                "question_type": "shopping",
+                "correct_answer": "on the wall, buy 2 for $5",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "6581b7ef-5fdf-489a-b066-49aca12776b5",
+                "question_id": 9,
+                "question": "where can i find the snacks displayed on the rack?",
+                "question_type": "shopping",
+                "correct_answer": "near the checkout counter",
+                "timestamp": 115.5
+            },
+            {
+                "video_id": "77d65e78-ec0d-40fa-8047-b5758809ed26",
+                "question_id": 9,
+                "question": "which aisle has the products that are currently 3 for $5.75?",
+                "question_type": "shopping",
+                "correct_answer": "the one close to the checkout counter",
+                "timestamp": 96.5
+            },
+            {
+                "video_id": "843e21ec-d2bc-4f06-9fb6-6ad6cbe529d2",
+                "question_id": 9,
+                "question": "what is the discount percentage being offered on the clothes?",
+                "question_type": "shopping",
+                "correct_answer": "25% off",
+                "timestamp": 95.7
+            },
+            {
+                "video_id": "b1c71e68-f8f1-475a-9237-4c040a6ea586",
+                "question_id": 9,
+                "question": "if i want to buy both the tahoe and milano cookies, what will be the total cost?",
+                "question_type": "shopping",
+                "correct_answer": "the total cost for both tahoe and milano cookies will be $8.04",
+                "timestamp": 113.2
+            },
+            {
+                "video_id": "b5043f82-8ff2-4760-8fe4-8da1d1c8f37f",
+                "question_id": 9,
+                "question": "what is the price of the large suitcase placed on top of the freezer near the milk section?",
+                "question_type": "shopping",
+                "correct_answer": "76.95",
+                "timestamp": 111.8
+            },
+            {
+                "video_id": "b8eb6b3e-927d-4486-9513-be8ba78a332d",
+                "question_id": 9,
+                "question": "where can i find the milano cookies?",
+                "question_type": "shopping",
+                "correct_answer": "on the right shelf at the top",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "c0022559-fa6b-4efa-b6f4-4c37e747f99d",
+                "question_id": 9,
+                "question": "could you tell me whether the icy hot patches are available?",
+                "question_type": "shopping",
+                "correct_answer": "yes, they are on the peg hook display on the left side",
+                "timestamp": 109.5
+            },
+            {
+                "video_id": "cd8a8370-2da1-43f2-b003-c3e82dfd77a4",
+                "question_id": 9,
+                "question": "where can i find the premium crackers?",
+                "question_type": "shopping",
+                "correct_answer": "middle shelf, near the right end",
+                "timestamp": 97.3
+            },
+            {
+                "video_id": "d4cce61e-24ea-4775-9e6d-8c7895ee5f67",
+                "question_id": 9,
+                "question": "which store employee can help me with more information about parish nation products?",
+                "question_type": "shopping",
+                "correct_answer": "the employee wearing a green lanyard",
+                "timestamp": 134.2
+            },
+            {
+                "video_id": "001d2d1b-d2f9-4c39-810e-6e2087ff9d5a",
+                "question_id": 10,
+                "question": "what are the available options associated with the \"pick 5 for $8.00\" deal at the counter?",
+                "question_type": "shopping",
+                "correct_answer": "the options include various baked goods",
+                "timestamp": 112.8
+            },
+            {
+                "video_id": "0419c662-f261-4ef4-a262-0ccc8ffcaf36",
+                "question_id": 10,
+                "question": "which bag of candy offers a sour flavor option?",
+                "question_type": "shopping",
+                "correct_answer": "punch",
+                "timestamp": 113.2
+            },
+            {
+                "video_id": "0b8e9abf-6a6c-4f8c-8daa-c027c641a081",
+                "question_id": 10,
+                "question": "how much do i spend on shopping?",
+                "question_type": "shopping",
+                "correct_answer": "46.85",
+                "timestamp": 115.2
+            },
+            {
+                "video_id": "2de9fa3a-d09f-45fa-b499-76699dab75ee",
+                "question_id": 10,
+                "question": "where can i find the hot blends in this place?",
+                "question_type": "shopping",
+                "correct_answer": "near the coffee machines",
+                "timestamp": 114.0
+            },
+            {
+                "video_id": "3c9e4941-5514-43ad-8bf4-2999926e89a0",
+                "question_id": 10,
+                "question": "what payment methods can i use here?",
+                "question_type": "shopping",
+                "correct_answer": "visa",
+                "timestamp": 109.3
+            },
+            {
+                "video_id": "40d5144b-12b8-4cb7-ae18-23c8c5a0daf0",
+                "question_id": 10,
+                "question": "where can i find more information about the items included in the flash sale?",
+                "question_type": "shopping",
+                "correct_answer": "refer to the \"flash sale\" sign inside the store",
+                "timestamp": 144.7
+            },
+            {
+                "video_id": "45c82d53-bb58-44a2-bfc4-a75ef59d8605",
+                "question_id": 10,
+                "question": "where can i find the mac and cheese, and how much does it cost?",
+                "question_type": "shopping",
+                "correct_answer": "it is on the second shelf, and it costs $4.49",
+                "timestamp": 107.5
+            },
+            {
+                "video_id": "48bd5e5f-825a-461a-a580-cd635b1f17bb",
+                "question_id": 10,
+                "question": "which energy bars are priced at $2.25, and what flavors do they come in?",
+                "question_type": "shopping",
+                "correct_answer": "crunch bars, in various flavors such as chocolate and mint",
+                "timestamp": 98.5
+            },
+            {
+                "video_id": "595a45c2-1c49-4d13-b49c-8a29ce07a790",
+                "question_id": 10,
+                "question": "where is the entrance to the 'community kitchen'?",
+                "question_type": "shopping",
+                "correct_answer": "near the glass doors with colorful stripes",
+                "timestamp": 119.8
+            },
+            {
+                "video_id": "5e12b005-d720-4ec9-b364-178bc0e4d336",
+                "question_id": 10,
+                "question": "what is the discount being offered during the flash sale?",
+                "question_type": "shopping",
+                "correct_answer": "25% off",
+                "timestamp": 108.3
+            },
+            {
+                "video_id": "5f66a4a0-c5a7-4568-9885-8d34f973d0bb",
+                "question_id": 10,
+                "question": "which fruit is priced at 45\u00a2 each?",
+                "question_type": "shopping",
+                "correct_answer": "pears",
+                "timestamp": 121.0
+            },
+            {
+                "video_id": "64ec9375-288b-4e66-9b4a-6c35b3b582c1",
+                "question_id": 10,
+                "question": "how much does a butterfinger candy bar cost?",
+                "question_type": "shopping",
+                "correct_answer": "$1.25",
+                "timestamp": 135.7
+            },
+            {
+                "video_id": "70087968-ee62-4443-8193-70c39b014f09",
+                "question_id": 10,
+                "question": "which shelf can i find the luna bars on?",
+                "question_type": "shopping",
+                "correct_answer": "on the second shelf from the top",
+                "timestamp": 107.8
+            },
+            {
+                "video_id": "7dc164b0-a785-4f17-8283-0c11f1dd60ad",
+                "question_id": 10,
+                "question": "which days are the items offered at a discount?",
+                "question_type": "shopping",
+                "correct_answer": "this weekend only",
+                "timestamp": 144.7
+            },
+            {
+                "video_id": "843e21ec-d2bc-4f06-9fb6-6ad6cbe529d2",
+                "question_id": 10,
+                "question": "which items in the store are included in the 25% off flash sale?",
+                "question_type": "shopping",
+                "correct_answer": "items on the clothing racks",
+                "timestamp": 95.7
+            },
+            {
+                "video_id": "97ce24f3-6232-4aae-ab17-eef2c6491833",
+                "question_id": 10,
+                "question": "which section can i find toys labeled \"diy truck\"?",
+                "question_type": "shopping",
+                "correct_answer": "yellow toy trucks",
+                "timestamp": 115.2
+            },
+            {
+                "video_id": "99d2564a-8de6-4f9b-b61a-602ec60fe9b5",
+                "question_id": 10,
+                "question": "what items can i use to help with a sore throat?",
+                "question_type": "shopping",
+                "correct_answer": "cepacol extra strength",
+                "timestamp": 112.0
+            },
+            {
+                "video_id": "9b470268-62c2-4240-91b8-7a2758dcf0fe",
+                "question_id": 10,
+                "question": "how much does the sleep aid cost?",
+                "question_type": "shopping",
+                "correct_answer": "5.49",
+                "timestamp": 112.7
+            },
+            {
+                "video_id": "9ca6e523-548b-4af9-867d-0aa38c65a0a4",
+                "question_id": 10,
+                "question": "where can i find items that cost $25.00?",
+                "question_type": "shopping",
+                "correct_answer": "on the green sign",
+                "timestamp": 112.8
+            },
+            {
+                "video_id": "9fde5115-c496-4ff5-a83d-92f347ab7a3d",
+                "question_id": 10,
+                "question": "which brand of chips costs $3.25?",
+                "question_type": "shopping",
+                "correct_answer": "chex mix",
+                "timestamp": 115.3
+            },
+            {
+                "video_id": "a6e66b85-532d-4d73-bc53-6740981166ac",
+                "question_id": 10,
+                "question": "what items are included in the \"flash sale\" and how much is the discount?",
+                "question_type": "shopping",
+                "correct_answer": "flash sale items are 25% off",
+                "timestamp": 117.3
+            },
+            {
+                "video_id": "ac6c9467-899b-4be4-8415-0244fe9e128a",
+                "question_id": 10,
+                "question": "what kind of coffee blend do they have here?",
+                "question_type": "shopping",
+                "correct_answer": "house blend",
+                "timestamp": 96.2
+            },
+            {
+                "video_id": "b1c71e68-f8f1-475a-9237-4c040a6ea586",
+                "question_id": 10,
+                "question": "what is the price difference between the cookies labeled \"milano\" and \"tahoe\"?",
+                "question_type": "shopping",
+                "correct_answer": "5.54",
+                "timestamp": 113.2
+            },
+            {
+                "video_id": "b85ebe9a-d77d-4a2e-ae90-dc3c99c37c11",
+                "question_id": 10,
+                "question": "what is the price of the item with a yellow sign in the display case?",
+                "question_type": "shopping",
+                "correct_answer": "8.98",
+                "timestamp": 110.5
+            },
+            {
+                "video_id": "c4a4663e-28a7-4d23-a609-d9d860ee4ea2",
+                "question_id": 10,
+                "question": "which brand of taco shells are available?",
+                "question_type": "shopping",
+                "correct_answer": "ortega",
+                "timestamp": 134.5
+            },
+            {
+                "video_id": "c4bdfb22-e10a-49a0-a8fe-60ec2b966b56",
+                "question_id": 10,
+                "question": "what's the price of the luna bars, and how many different flavors can i see?",
+                "question_type": "shopping",
+                "correct_answer": "$1.25, four flavors",
+                "timestamp": 107.8
+            },
+            {
+                "video_id": "d2c6b32d-4eca-4df1-9846-cec3a75a97a2",
+                "question_id": 10,
+                "question": "which brand offers double rolls of paper towels?",
+                "question_type": "shopping",
+                "correct_answer": "viva",
+                "timestamp": 112.0
+            },
+            {
+                "video_id": "d4cce61e-24ea-4775-9e6d-8c7895ee5f67",
+                "question_id": 10,
+                "question": "what is the brand on the shirt i'm looking at?",
+                "question_type": "shopping",
+                "correct_answer": "ecko unltd",
+                "timestamp": 134.2
+            },
+            {
+                "video_id": "0c60f909-13d1-42fb-889c-1f40a4b5b579",
+                "question_id": 11,
+                "question": "what does the text on the t-shirt i'm holding say?",
+                "question_type": "shopping",
+                "correct_answer": "positive",
+                "timestamp": 119.5
+            },
+            {
+                "video_id": "0dcc2610-672b-4a18-93c1-4134a2054ca1",
+                "question_id": 11,
+                "question": "how much per pound do green and red bell peppers cost compared to yellow bell peppers?",
+                "question_type": "shopping",
+                "correct_answer": "the same price as the yellow bell peppers",
+                "timestamp": 121.0
+            },
+            {
+                "video_id": "102eecdb-6e05-4898-807b-8e8e78b7a059",
+                "question_id": 11,
+                "question": "where can i find a product to go with the \"taco shells\"?",
+                "question_type": "shopping",
+                "correct_answer": "near the sauces and condiments section",
+                "timestamp": 113.0
+            },
+            {
+                "video_id": "3311f1b2-495a-4712-9989-ef8519be3cc7",
+                "question_id": 11,
+                "question": "which days of the week is the 25% off sale applicable?",
+                "question_type": "shopping",
+                "correct_answer": "this weekend",
+                "timestamp": 98.5
+            },
+            {
+                "video_id": "3a4f4d5c-c8fa-4bb1-8e80-7c22cab54116",
+                "question_id": 11,
+                "question": "is there other clothing or accessories here that are marked as \"just arrived\"?",
+                "question_type": "shopping",
+                "correct_answer": "no, only the belts are marked \"just arrived.\"",
+                "timestamp": 146.7
+            },
+            {
+                "video_id": "40d5144b-12b8-4cb7-ae18-23c8c5a0daf0",
+                "question_id": 11,
+                "question": "how much would a $40 item cost after applying the flash sale discount?",
+                "question_type": "shopping",
+                "correct_answer": "30",
+                "timestamp": 144.7
+            },
+            {
+                "video_id": "4d1d6605-2144-4934-8d74-5c5dd01df7ce",
+                "question_id": 11,
+                "question": "which section has the larger sizes, like \u201cxl\u201d and above?",
+                "question_type": "shopping",
+                "correct_answer": "on the rack with the yellow circular tags",
+                "timestamp": 109.2
+            },
+            {
+                "video_id": "51e6677f-4bce-4058-8652-a332e3a00cc2",
+                "question_id": 11,
+                "question": "which product should i check to buy soy sauce?",
+                "question_type": "shopping",
+                "correct_answer": "nakano",
+                "timestamp": 103.0
+            },
+            {
+                "video_id": "57413dd6-45ff-41d0-a250-cd15b4227e83",
+                "question_id": 11,
+                "question": "where can i find the information about the flash sale in this store?",
+                "question_type": "shopping",
+                "correct_answer": "flash sale",
+                "timestamp": 109.2
+            },
+            {
+                "video_id": "595a45c2-1c49-4d13-b49c-8a29ce07a790",
+                "question_id": 11,
+                "question": "which building should i head to to visit 'giordano'?",
+                "question_type": "shopping",
+                "correct_answer": "the building across the open square",
+                "timestamp": 119.8
+            },
+            {
+                "video_id": "5e12b005-d720-4ec9-b364-178bc0e4d336",
+                "question_id": 11,
+                "question": "which days is the 25% off sale valid?",
+                "question_type": "shopping",
+                "correct_answer": "this weekend only!",
+                "timestamp": 108.3
+            },
+            {
+                "video_id": "5f66a4a0-c5a7-4568-9885-8d34f973d0bb",
+                "question_id": 11,
+                "question": "which ones are color differently among the fruits and vegetables on display?",
+                "question_type": "shopping",
+                "correct_answer": "bell peppers",
+                "timestamp": 121.0
+            },
+            {
+                "video_id": "64ec9375-288b-4e66-9b4a-6c35b3b582c1",
+                "question_id": 11,
+                "question": "where are the 3 musketeers candy bars located in relation to the butterfinger candy bars?",
+                "question_type": "shopping",
+                "correct_answer": "to the left",
+                "timestamp": 135.7
+            },
+            {
+                "video_id": "70087968-ee62-4443-8193-70c39b014f09",
+                "question_id": 11,
+                "question": "what variety of chex cereal is available on the shelf?",
+                "question_type": "shopping",
+                "correct_answer": "chex honey nut",
+                "timestamp": 107.8
+            },
+            {
+                "video_id": "76595ea8-92b6-416a-8ea8-d93e05445140",
+                "question_id": 11,
+                "question": "what percentage discount is being offered on the flash sale items?",
+                "question_type": "shopping",
+                "correct_answer": "25% off",
+                "timestamp": 117.2
+            },
+            {
+                "video_id": "7dc164b0-a785-4f17-8283-0c11f1dd60ad",
+                "question_id": 11,
+                "question": "where should i look to find men's sweaters on sale?",
+                "question_type": "shopping",
+                "correct_answer": "the section with the \"flash sale\" sign",
+                "timestamp": 144.7
+            },
+            {
+                "video_id": "843e21ec-d2bc-4f06-9fb6-6ad6cbe529d2",
+                "question_id": 11,
+                "question": "where can i find more information about the flash sale discounts on these clothing racks?",
+                "question_type": "shopping",
+                "correct_answer": "on the sign next to the mannequin",
+                "timestamp": 95.7
+            },
+            {
+                "video_id": "950157a9-c258-453a-8e15-8c88abc43ba8",
+                "question_id": 11,
+                "question": "where can i find \"dual action\" cold relief products?",
+                "question_type": "shopping",
+                "correct_answer": "on the right side, near the orange packaging",
+                "timestamp": 111.3
+            },
+            {
+                "video_id": "99d2564a-8de6-4f9b-b61a-602ec60fe9b5",
+                "question_id": 11,
+                "question": "where can i find the disinfecting wipes to clean surfaces?",
+                "question_type": "shopping",
+                "correct_answer": "clorox disinfecting wipes",
+                "timestamp": 112.0
+            },
+            {
+                "video_id": "9b470268-62c2-4240-91b8-7a2758dcf0fe",
+                "question_id": 11,
+                "question": "which magazine should i buy if i'm looking for spring gardening tips?",
+                "question_type": "shopping",
+                "correct_answer": "better homes & gardens",
+                "timestamp": 112.7
+            },
+            {
+                "video_id": "9ca6e523-548b-4af9-867d-0aa38c65a0a4",
+                "question_id": 11,
+                "question": "how many things do i get at the cashier for $8.00?",
+                "question_type": "shopping",
+                "correct_answer": "pick 5 items for the price of $8.00",
+                "timestamp": 112.8
+            },
+            {
+                "video_id": "9fde5115-c496-4ff5-a83d-92f347ab7a3d",
+                "question_id": 11,
+                "question": "where can i find the gardetto's original recipe?",
+                "question_type": "shopping",
+                "correct_answer": "under the ritz crackers",
+                "timestamp": 115.3
+            },
+            {
+                "video_id": "ac6c9467-899b-4be4-8415-0244fe9e128a",
+                "question_id": 11,
+                "question": "where can i find information about the prices or menu items available?",
+                "question_type": "shopping",
+                "correct_answer": "on the signs located on the walls",
+                "timestamp": 96.2
+            },
+            {
+                "video_id": "c0022559-fa6b-4efa-b6f4-4c37e747f99d",
+                "question_id": 11,
+                "question": "how much does the budweiser beer cost?",
+                "question_type": "shopping",
+                "correct_answer": "11.49",
+                "timestamp": 109.5
+            },
+            {
+                "video_id": "c9a9d4fb-fa4e-4289-a81a-6e4045c54692",
+                "question_id": 11,
+                "question": "where can i find the \"kit kat\" since i see \"reese's\"?",
+                "question_type": "shopping",
+                "correct_answer": "top right of the shelf",
+                "timestamp": 114.2
+            },
+            {
+                "video_id": "cd8a8370-2da1-43f2-b003-c3e82dfd77a4",
+                "question_id": 11,
+                "question": "which products are included in the \"2 for $6\" deal?",
+                "question_type": "shopping",
+                "correct_answer": "burritos",
+                "timestamp": 97.3
+            },
+            {
+                "video_id": "d1bbc6f0-753a-437f-afcf-94daf3c9b47a",
+                "question_id": 11,
+                "question": "how much this pack of eggplants costs?",
+                "question_type": "shopping",
+                "correct_answer": "3.8 units",
+                "timestamp": 106.8
+            },
+            {
+                "video_id": "d2c6b32d-4eca-4df1-9846-cec3a75a97a2",
+                "question_id": 11,
+                "question": "where can i find more information about the kleenex facial tissue?",
+                "question_type": "shopping",
+                "correct_answer": "on the phone screen",
+                "timestamp": 112.0
+            },
+            {
+                "video_id": "d914bc28-ab46-405b-a99e-0a7d943cd2aa",
+                "question_id": 11,
+                "question": "where can i find the section with the 3 for $5.75 deal on monster drinks?",
+                "question_type": "shopping",
+                "correct_answer": "the section is near the checkout counter",
+                "timestamp": 99.3
+            },
+            {
+                "video_id": "0c60f909-13d1-42fb-889c-1f40a4b5b579",
+                "question_id": 12,
+                "question": "which items are included in the flash sale?",
+                "question_type": "shopping",
+                "correct_answer": "clothes hanging on the rack near the \"flash sale\" sign",
+                "timestamp": 139.7
+            },
+            {
+                "video_id": "0dcc2610-672b-4a18-93c1-4134a2054ca1",
+                "question_id": 12,
+                "question": "where can i find the price for the apples?",
+                "question_type": "shopping",
+                "correct_answer": "below the apples",
+                "timestamp": 148.0
+            },
+            {
+                "video_id": "48bd5e5f-825a-461a-a580-cd635b1f17bb",
+                "question_id": 12,
+                "question": "what are the differences in price between the luna bars and the crunch bars?",
+                "question_type": "shopping",
+                "correct_answer": "luna bars are priced lower at $1.25, while crunch bars are priced higher at $2.25",
+                "timestamp": 144.8
+            },
+            {
+                "video_id": "4f77f6b9-9409-45cb-804d-39497baa58ae",
+                "question_id": 12,
+                "question": "which fruit bin near me has the lowest price per pound?",
+                "question_type": "shopping",
+                "correct_answer": "0.49 $/lb",
+                "timestamp": 145.2
+            },
+            {
+                "video_id": "51e6677f-4bce-4058-8652-a332e3a00cc2",
+                "question_id": 12,
+                "question": "what is the special offer mentioned on the poster in the corner?",
+                "question_type": "shopping",
+                "correct_answer": "2 for $5",
+                "timestamp": 135.2
+            },
+            {
+                "video_id": "68d7182e-7e54-4492-af0c-2c6be0263a0d",
+                "question_id": 12,
+                "question": "where the coke is located in relation to the other items in the cooler?",
+                "question_type": "shopping",
+                "correct_answer": "to the left of the beer",
+                "timestamp": 141.8
+            },
+            {
+                "video_id": "70087968-ee62-4443-8193-70c39b014f09",
+                "question_id": 12,
+                "question": "which options can i choose from for an energy bar?",
+                "question_type": "shopping",
+                "correct_answer": "clif bar, kind bar",
+                "timestamp": 145.2
+            },
+            {
+                "video_id": "76595ea8-92b6-416a-8ea8-d93e05445140",
+                "question_id": 12,
+                "question": "how can i tell if the store is currently open?",
+                "question_type": "shopping",
+                "correct_answer": "by the \"open\" sign",
+                "timestamp": 137.7
+            },
+            {
+                "video_id": "7dc164b0-a785-4f17-8283-0c11f1dd60ad",
+                "question_id": 12,
+                "question": "how much will i save on a $100 purchase during this flash sale?",
+                "question_type": "shopping",
+                "correct_answer": "25",
+                "timestamp": 143.7
+            },
+            {
+                "video_id": "843e21ec-d2bc-4f06-9fb6-6ad6cbe529d2",
+                "question_id": 12,
+                "question": "how much would i save on a $100 dress during the flash sale?",
+                "question_type": "shopping",
+                "correct_answer": "$25",
+                "timestamp": 146.8
+            },
+            {
+                "video_id": "9992487f-0fb4-4c1d-b837-f1db6f332153",
+                "question_id": 12,
+                "question": "what cintas provides and where the dispenser is located?",
+                "question_type": "shopping",
+                "correct_answer": "first aid supplies, on the wall",
+                "timestamp": 138.7
+            },
+            {
+                "video_id": "99d2564a-8de6-4f9b-b61a-602ec60fe9b5",
+                "question_id": 12,
+                "question": "which product on this shelf offers dual action relief?",
+                "question_type": "shopping",
+                "correct_answer": "gold bond dual action",
+                "timestamp": 140.7
+            },
+            {
+                "video_id": "b1c71e68-f8f1-475a-9237-4c040a6ea586",
+                "question_id": 12,
+                "question": "where can i find the newtons in bulk?",
+                "question_type": "shopping",
+                "correct_answer": "next to the chessmen minis",
+                "timestamp": 134.3
+            },
+            {
+                "video_id": "b41ef7e7-17da-4cb6-86a4-745b79d8f910",
+                "question_id": 12,
+                "question": "what is the end date or time for this flash sale?",
+                "question_type": "shopping",
+                "correct_answer": "at the end of this week",
+                "timestamp": 147.3
+            },
+            {
+                "video_id": "c0022559-fa6b-4efa-b6f4-4c37e747f99d",
+                "question_id": 12,
+                "question": "which shelf has viva paper towels?",
+                "question_type": "shopping",
+                "correct_answer": "on the middle shelf closer to the refrigerator section",
+                "timestamp": 135.8
+            },
+            {
+                "video_id": "c4a4663e-28a7-4d23-a609-d9d860ee4ea2",
+                "question_id": 12,
+                "question": "where can i find vlasic jars?",
+                "question_type": "shopping",
+                "correct_answer": "top shelf beside taco shells",
+                "timestamp": 133.5
+            },
+            {
+                "video_id": "d4cce61e-24ea-4775-9e6d-8c7895ee5f67",
+                "question_id": 12,
+                "question": "which shirts here have a number \"72\" on them?",
+                "question_type": "shopping",
+                "correct_answer": "the shirts with \"ecko unltd.\"",
+                "timestamp": 133.2
+            },
+            {
+                "video_id": "d914bc28-ab46-405b-a99e-0a7d943cd2aa",
+                "question_id": 12,
+                "question": "which payment methods are accepted here?",
+                "question_type": "shopping",
+                "correct_answer": "visa, mastercard, discover",
+                "timestamp": 148.8
+            },
+            {
+                "video_id": "0419c662-f261-4ef4-a262-0ccc8ffcaf36",
+                "question_id": 13,
+                "question": "what types of candy are available on the shelf, and is there a variety of flavors or styles for any kind?",
+                "question_type": "shopping",
+                "correct_answer": "skittles and sour patch kids are available with different flavors for each",
+                "timestamp": 131.0
+            },
+            {
+                "video_id": "2149306d-4d80-40a1-a50f-24fbf9b88277",
+                "question_id": 13,
+                "question": "what items are being offered for the \"2/$10.99\" deal, and where can i find them?",
+                "question_type": "shopping",
+                "correct_answer": "pizzas, by the glass door on the right",
+                "timestamp": 145.2
+            },
+            {
+                "video_id": "312f4f0e-2f37-48a4-b521-67ccee41ffaa",
+                "question_id": 13,
+                "question": "what are the prices of the lipton black tea and international delight coffee creamer i see on the shelf?",
+                "question_type": "shopping",
+                "correct_answer": "lipton black tea is $3.25, and international delight coffee creamer is $5.49",
+                "timestamp": 142.8
+            },
+            {
+                "video_id": "3f8fc786-82fd-4c93-9270-e93d9526b0cc",
+                "question_id": 13,
+                "question": "where can i find the \"house blend\" coffees in this store?",
+                "question_type": "shopping",
+                "correct_answer": "near the counter with baked goods",
+                "timestamp": 134.2
+            },
+            {
+                "video_id": "48bd5e5f-825a-461a-a580-cd635b1f17bb",
+                "question_id": 13,
+                "question": "where can i find the haribo gold-bears?",
+                "question_type": "shopping",
+                "correct_answer": "next to the sour patch kids",
+                "timestamp": 144.8
+            },
+            {
+                "video_id": "4f77f6b9-9409-45cb-804d-39497baa58ae",
+                "question_id": 13,
+                "question": "where can i find the item priced at \"2/10.99\"?",
+                "question_type": "shopping",
+                "correct_answer": "near the glass door with the pizza sign",
+                "timestamp": 145.2
+            },
+            {
+                "video_id": "57413dd6-45ff-41d0-a250-cd15b4227e83",
+                "question_id": 13,
+                "question": "what is the discount percentage mentioned in the flash sale?",
+                "question_type": "shopping",
+                "correct_answer": "25% off",
+                "timestamp": 123.8
+            },
+            {
+                "video_id": "5e12b005-d720-4ec9-b364-178bc0e4d336",
+                "question_id": 13,
+                "question": "what are the specific items included in the \"flash sale\"?",
+                "question_type": "shopping",
+                "correct_answer": "there are no specific items mentioned",
+                "timestamp": 143.0
+            },
+            {
+                "video_id": "6dc20dc0-60ec-47c6-b8e2-c383e0b5f4bc",
+                "question_id": 13,
+                "question": "where do i need to look to find out the price of one kilo of pakistan mangoes?",
+                "question_type": "shopping",
+                "correct_answer": "at the sign near the mangoes",
+                "timestamp": 125.2
+            },
+            {
+                "video_id": "76595ea8-92b6-416a-8ea8-d93e05445140",
+                "question_id": 13,
+                "question": "which days do the business hours change compared to the regular weekday schedule?",
+                "question_type": "shopping",
+                "correct_answer": "saturday, sunday",
+                "timestamp": 137.7
+            },
+            {
+                "video_id": "843e21ec-d2bc-4f06-9fb6-6ad6cbe529d2",
+                "question_id": 13,
+                "question": "what items are included in the \"new accessories in stock\" section?",
+                "question_type": "shopping",
+                "correct_answer": "belts and other accessories",
+                "timestamp": 146.8
+            },
+            {
+                "video_id": "b1c71e68-f8f1-475a-9237-4c040a6ea586",
+                "question_id": 13,
+                "question": "what is the price of the pepperidge farm milano cookies?",
+                "question_type": "shopping",
+                "correct_answer": "6.79",
+                "timestamp": 134.3
+            },
+            {
+                "video_id": "d1bbc6f0-753a-437f-afcf-94daf3c9b47a",
+                "question_id": 13,
+                "question": "where do i find the \"house blend\" coffee in this store?",
+                "question_type": "shopping",
+                "correct_answer": "near the beverage refrigerators",
+                "timestamp": 138.7
+            },
+            {
+                "video_id": "d2c6b32d-4eca-4df1-9846-cec3a75a97a2",
+                "question_id": 13,
+                "question": "what brands of tissues are available on the shelves in this store?",
+                "question_type": "shopping",
+                "correct_answer": "kleenex and viva",
+                "timestamp": 135.5
+            },
+            {
+                "video_id": "055d64a4-e11c-40a1-adbf-bd969d026a25",
+                "question_id": 14,
+                "question": "where should i head to find cafe del chorro from this location?",
+                "question_type": "shopping",
+                "correct_answer": "toward the sign that says \"cafe del chorro\"",
+                "timestamp": 127.2
+            },
+            {
+                "video_id": "0c60f909-13d1-42fb-889c-1f40a4b5b579",
+                "question_id": 14,
+                "question": "where can i find more information about the flash sale?",
+                "question_type": "shopping",
+                "correct_answer": "on the sign mentioning \"flash sale\"",
+                "timestamp": 139.7
+            },
+            {
+                "video_id": "0f0d2135-4595-400c-8463-bee11d8dbb5d",
+                "question_id": 14,
+                "question": "which brand name is visible on the food packaging?",
+                "question_type": "shopping",
+                "correct_answer": "sups cubs",
+                "timestamp": 138.2
+            },
+            {
+                "video_id": "2149306d-4d80-40a1-a50f-24fbf9b88277",
+                "question_id": 14,
+                "question": "where can i get a coffee made by the bloomfield machine\uff1f",
+                "question_type": "shopping",
+                "correct_answer": "near the refrigerated section, with an instruction notice on top of the machine",
+                "timestamp": 145.2
+            },
+            {
+                "video_id": "23f95618-0ea4-4d66-b88d-f523aaeab2b7",
+                "question_id": 14,
+                "question": "where can i find an item that costs $14.99?",
+                "question_type": "shopping",
+                "correct_answer": "on the green sign",
+                "timestamp": 141.8
+            },
+            {
+                "video_id": "2722dcf8-bd21-47a4-9346-aa993939250c",
+                "question_id": 14,
+                "question": "what is the price per pound for the apples on the produce shelf?",
+                "question_type": "shopping",
+                "correct_answer": "$1.04/lb",
+                "timestamp": 138.7
+            },
+            {
+                "video_id": "3c9e4941-5514-43ad-8bf4-2999926e89a0",
+                "question_id": 14,
+                "question": "which items are being promoted in the combination offer for $2 at $10.99?",
+                "question_type": "shopping",
+                "correct_answer": "pizza",
+                "timestamp": 135.8
+            },
+            {
+                "video_id": "57413dd6-45ff-41d0-a250-cd15b4227e83",
+                "question_id": 14,
+                "question": "where can i find more information about the weekend-only sale?",
+                "question_type": "shopping",
+                "correct_answer": "the weekend only",
+                "timestamp": 123.8
+            },
+            {
+                "video_id": "5bcbfe3d-a06d-42d5-9f20-8aa702e7e215",
+                "question_id": 14,
+                "question": "where can i find the item with the \"special offer\" label, and what type of packaging should i look for?",
+                "question_type": "shopping",
+                "correct_answer": "the item is located on the left door shelf in a rectangular red and yellow box",
+                "timestamp": 124.0
+            },
+            {
+                "video_id": "64e27cea-dac7-47d6-8174-d20f7b8e0a5c",
+                "question_id": 14,
+                "question": "which aisle has the other flavors of instant noodles?",
+                "question_type": "shopping",
+                "correct_answer": "the same aisle where tomyum soup bowls are displayed",
+                "timestamp": 124.0
+            },
+            {
+                "video_id": "68d7182e-7e54-4492-af0c-2c6be0263a0d",
+                "question_id": 14,
+                "question": "where can i find information on the energy drinks available here?",
+                "question_type": "shopping",
+                "correct_answer": "on the poster that says $5.75",
+                "timestamp": 141.8
+            },
+            {
+                "video_id": "932e594c-3a41-4386-ade6-20dfa8febd54",
+                "question_id": 14,
+                "question": "where can i find more information about capital one's offerings or services in this magazine?",
+                "question_type": "shopping",
+                "correct_answer": "in the article visible on the current page",
+                "timestamp": 138.3
+            },
+            {
+                "video_id": "950157a9-c258-453a-8e15-8c88abc43ba8",
+                "question_id": 14,
+                "question": "where can i find the ricola dual action honey-lemon drops?",
+                "question_type": "shopping",
+                "correct_answer": "next to the blistex product",
+                "timestamp": 135.8
+            },
+            {
+                "video_id": "99d2564a-8de6-4f9b-b61a-602ec60fe9b5",
+                "question_id": 14,
+                "question": "what is the product that helps heal minor cuts?",
+                "question_type": "shopping",
+                "correct_answer": "neosporin, on the middle row of the shelf",
+                "timestamp": 140.7
+            },
+            {
+                "video_id": "9fde5115-c496-4ff5-a83d-92f347ab7a3d",
+                "question_id": 14,
+                "question": "where can i find the wheat thins crackers?",
+                "question_type": "shopping",
+                "correct_answer": "on the second shelf from the bottom",
+                "timestamp": 132.8
+            },
+            {
+                "video_id": "a6e66b85-532d-4d73-bc53-6740981166ac",
+                "question_id": 14,
+                "question": "which items have just arrived according to the display?",
+                "question_type": "shopping",
+                "correct_answer": "hats, belts, and wallets",
+                "timestamp": 126.7
+            },
+            {
+                "video_id": "b5043f82-8ff2-4760-8fe4-8da1d1c8f37f",
+                "question_id": 14,
+                "question": "where can i find the items that are priced at 42.95 sr and 36.95 sr?",
+                "question_type": "shopping",
+                "correct_answer": "you can find the items priced at 42.95 sr and 36.95 sr at the deli counter",
+                "timestamp": 140.8
+            },
+            {
+                "video_id": "c0022559-fa6b-4efa-b6f4-4c37e747f99d",
+                "question_id": 14,
+                "question": "which one of the drink brands in the refrigerator is advertised as offering \"low-energy\"?",
+                "question_type": "shopping",
+                "correct_answer": "coca-cola low-energy",
+                "timestamp": 135.8
+            },
+            {
+                "video_id": "c34e1701-74fa-4b3b-9058-32480847de16",
+                "question_id": 14,
+                "question": "what candy options are available at the counter?",
+                "question_type": "shopping",
+                "correct_answer": "twix, reese's, and skittles",
+                "timestamp": 140.2
+            },
+            {
+                "video_id": "0419c662-f261-4ef4-a262-0ccc8ffcaf36",
+                "question_id": 15,
+                "question": "which candy looks like it could be both fruity and chewy, and how does it compare to the other options nearby?",
+                "question_type": "shopping",
+                "correct_answer": "sour patch kids, which are fruity and chewy, compared to skittles which are just fruity",
+                "timestamp": 131.0
+            },
+            {
+                "video_id": "23f95618-0ea4-4d66-b88d-f523aaeab2b7",
+                "question_id": 15,
+                "question": "which items have special pricing when i buy two?",
+                "question_type": "shopping",
+                "correct_answer": "fresh baked goods have special pricing if i buy two",
+                "timestamp": 141.8
+            },
+            {
+                "video_id": "2722dcf8-bd21-47a4-9346-aa993939250c",
+                "question_id": 15,
+                "question": "which door should i exit through to leave the store?",
+                "question_type": "shopping",
+                "correct_answer": "the door with the red exit sign",
+                "timestamp": 138.7
+            },
+            {
+                "video_id": "3c9e4941-5514-43ad-8bf4-2999926e89a0",
+                "question_id": 15,
+                "question": "how much does the pack of corona cost?",
+                "question_type": "shopping",
+                "correct_answer": "25.99",
+                "timestamp": 135.8
+            },
+            {
+                "video_id": "3dfef34d-2a66-4e6f-b5e0-6eb33c813f57",
+                "question_id": 15,
+                "question": "where can i find the information about the blend of coffee available here?",
+                "question_type": "shopping",
+                "correct_answer": "on the poster labeled 'house blend'",
+                "timestamp": 146.5
+            },
+            {
+                "video_id": "595a45c2-1c49-4d13-b49c-8a29ce07a790",
+                "question_id": 15,
+                "question": "where can i find giordano?",
+                "question_type": "shopping",
+                "correct_answer": "giordano is across the street to the left side of the building corner",
+                "timestamp": 130.3
+            },
+            {
+                "video_id": "6581b7ef-5fdf-489a-b066-49aca12776b5",
+                "question_id": 15,
+                "question": "can you help me find the items labeled with \"1$\" or \"2$\" on the price tags?",
+                "question_type": "shopping",
+                "correct_answer": "on the left wall",
+                "timestamp": 129.5
+            },
+            {
+                "video_id": "70087968-ee62-4443-8193-70c39b014f09",
+                "question_id": 15,
+                "question": "where can i find the cepacol product?",
+                "question_type": "shopping",
+                "correct_answer": "middle shelf, third from the right",
+                "timestamp": 145.2
+            },
+            {
+                "video_id": "76595ea8-92b6-416a-8ea8-d93e05445140",
+                "question_id": 15,
+                "question": "what is the earliest time i can visit the store on the weekend?",
+                "question_type": "shopping",
+                "correct_answer": "10",
+                "timestamp": 137.7
+            },
+            {
+                "video_id": "99d2564a-8de6-4f9b-b61a-602ec60fe9b5",
+                "question_id": 15,
+                "question": "where should i look to find something to soothe dry or chapped lips, and what is the brand name of the item?",
+                "question_type": "shopping",
+                "correct_answer": "blistex, on the middle row of the shelf",
+                "timestamp": 140.7
+            },
+            {
+                "video_id": "9ca6e523-548b-4af9-867d-0aa38c65a0a4",
+                "question_id": 15,
+                "question": "where can i find the mentos candies on the shelf?",
+                "question_type": "shopping",
+                "correct_answer": "bottom row, middle",
+                "timestamp": 144.5
+            },
+            {
+                "video_id": "b85ebe9a-d77d-4a2e-ae90-dc3c99c37c11",
+                "question_id": 15,
+                "question": "which item is on sale for $5.29?",
+                "question_type": "shopping",
+                "correct_answer": "three bottles of drinks in the set",
+                "timestamp": 130.5
+            },
+            {
+                "video_id": "c34e1701-74fa-4b3b-9058-32480847de16",
+                "question_id": 15,
+                "question": "where can i see the specials or deals being offered in this store?",
+                "question_type": "shopping",
+                "correct_answer": "on the sign near the cash register",
+                "timestamp": 140.2
+            }
+        ]
+    }
+]

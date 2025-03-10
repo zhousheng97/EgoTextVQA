@@ -1,0 +1,1537 @@
+[
+    {
+        "dataset": "egotextqa",
+        "question_type": "others",
+        "task_setting": "open-ended",
+        "data": [
+            {
+                "video_id": 10,
+                "question_id": 5.0,
+                "question": "which shopping center am i approaching, and where should i focus on entering?",
+                "question_type": "others",
+                "correct_answer": "you are approaching parkside plaza, and you should focus on the building entrance",
+                "timestamp": 4.5
+            },
+            {
+                "video_id": 38,
+                "question_id": 14.0,
+                "question": "which vehicle seems to be involved in deliveries, and what is the slogan written on it?",
+                "question_type": "others",
+                "correct_answer": "usps truck, we deliver for you.",
+                "timestamp": 10.5
+            },
+            {
+                "video_id": 160,
+                "question_id": 6.0,
+                "question": "how far is westpark dr from my current location?",
+                "question_type": "others",
+                "correct_answer": "1 and 1/4 miles",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 160,
+                "question_id": 8.0,
+                "question": "how far do i have to drive to leesburg pike?",
+                "question_type": "others",
+                "correct_answer": "1/2 mile",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 234,
+                "question_id": 4.0,
+                "question": "what type of truck is in front of me?",
+                "question_type": "others",
+                "correct_answer": "it is an 'xtra' truck with 'air ride equipped'",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 234,
+                "question_id": 10.0,
+                "question": "how far ahead is the road work?",
+                "question_type": "others",
+                "correct_answer": "1/2 mile",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 234,
+                "question_id": 14.0,
+                "question": "what company does the white van next to me belong to, and what is its license plate?",
+                "question_type": "others",
+                "correct_answer": "lg&p, xbr-g15",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 234,
+                "question_id": 15.0,
+                "question": "how many trucks with the text xtra do i see ahead on this road?",
+                "question_type": "others",
+                "correct_answer": "one",
+                "timestamp": 7.8
+            },
+            {
+                "video_id": 255,
+                "question_id": 4.0,
+                "question": "what street am i currently on and what's the speed limit?",
+                "question_type": "others",
+                "correct_answer": "43 st, 25 mph",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 287,
+                "question_id": 10.0,
+                "question": "what is the contact information of ccm company?",
+                "question_type": "others",
+                "correct_answer": "web address is ccminc.co",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 330,
+                "question_id": 9.0,
+                "question": "what is the venue with the sign that says jazz, and how do i get there?",
+                "question_type": "others",
+                "correct_answer": "the name of the venue is jazz, and it is on the ground floor of the building straight ahead",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 358,
+                "question_id": 14.0,
+                "question": "which company is advertised on the back of the trucks, and where are they headed?",
+                "question_type": "others",
+                "correct_answer": "imperial, one source",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 417,
+                "question_id": 15.0,
+                "question": "how many locations does furniture direct have?",
+                "question_type": "others",
+                "correct_answer": "12 locations",
+                "timestamp": 7.8
+            },
+            {
+                "video_id": 2019,
+                "question_id": 9.0,
+                "question": "how many motorcycles have license plates that start with ap in the lane ahead of me?",
+                "question_type": "others",
+                "correct_answer": "three",
+                "timestamp": 8.5
+            },
+            {
+                "video_id": 2040,
+                "question_id": 1.0,
+                "question": "what service does the rickshaw advertisement offer?",
+                "question_type": "others",
+                "correct_answer": "a local courier service with delivery promised in an hour",
+                "timestamp": 2.5
+            },
+            {
+                "video_id": 2040,
+                "question_id": 2.0,
+                "question": "which bus number is visible, and what city's local courier service is advertised on the rickshaw?",
+                "question_type": "others",
+                "correct_answer": "apiiz 5185, hyderabad's local courier service",
+                "timestamp": 2.5
+            },
+            {
+                "video_id": 2041,
+                "question_id": 2.0,
+                "question": "how long will it take me to order the delivery now?",
+                "question_type": "others",
+                "correct_answer": "delivery in a hour",
+                "timestamp": 2.5
+            },
+            {
+                "video_id": 2042,
+                "question_id": 5.0,
+                "question": "how long does it take to get a delivery using the brings app?",
+                "question_type": "others",
+                "correct_answer": "delivery in a hour!",
+                "timestamp": 4.5
+            },
+            {
+                "video_id": 2129,
+                "question_id": 14.0,
+                "question": "what advertisements are on the back of the auto-rickshaw?",
+                "question_type": "others",
+                "correct_answer": "vboard fiber cement board; durable home interiors & exteriors at half the price",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 2307,
+                "question_id": 3.0,
+                "question": "what are the traffic reminders i need to be aware of?",
+                "question_type": "others",
+                "correct_answer": "u turn and don't drink and drive.",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2354,
+                "question_id": 14.0,
+                "question": "how far do i need to walk to reach the homeo clinic?",
+                "question_type": "others",
+                "correct_answer": "very close, right beside sanjos donuts",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 2373,
+                "question_id": 6.0,
+                "question": "how many food places on this street?",
+                "question_type": "others",
+                "correct_answer": "one",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 2395,
+                "question_id": 3.0,
+                "question": "is there any specific number associated with the chirec, and what is its significance?",
+                "question_type": "others",
+                "correct_answer": "30, it could indicate a speed limit",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2442,
+                "question_id": 5.0,
+                "question": "how many services are advertised at the location with the pan factory sign?",
+                "question_type": "others",
+                "correct_answer": "3",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2443,
+                "question_id": 7.0,
+                "question": "how should i proceed based on the sign on the left side of the road?",
+                "question_type": "others",
+                "correct_answer": "side road left, proceed with caution",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 2446,
+                "question_id": 14.0,
+                "question": "how far ahead is the ad-big service, and is it on my left or right side?",
+                "question_type": "others",
+                "correct_answer": "on the left side, a few meters ahead",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 2460,
+                "question_id": 12.0,
+                "question": "how many vehicles with mail written on them?",
+                "question_type": "others",
+                "correct_answer": "1",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 2487,
+                "question_id": 5.0,
+                "question": "which vehicle has the license plate ts 08 ec 8631 and what brand is it?",
+                "question_type": "others",
+                "correct_answer": "the white car, hyundai",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2493,
+                "question_id": 9.0,
+                "question": "what is the registration number of the white hyundai vehicle ahead of me?",
+                "question_type": "others",
+                "correct_answer": "ts 08 ec 8631",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 2494,
+                "question_id": 2.0,
+                "question": "which vehicle is with motor cab and what is its license plate?",
+                "question_type": "others",
+                "correct_answer": "the silver car in front, ts13ua4863",
+                "timestamp": 2.2
+            },
+            {
+                "video_id": 2496,
+                "question_id": 11.0,
+                "question": "which vehicle belongs to the talwar brand and where is it heading?",
+                "question_type": "others",
+                "correct_answer": "the white hyundai car with words 'delivering miles of smiles' seems to be heading straight",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 2504,
+                "question_id": 3.0,
+                "question": "what can i infer from delivered miles of smiles?",
+                "question_type": "others",
+                "correct_answer": "the car might be associated with a service that aims to make customers happy",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2504,
+                "question_id": 4.0,
+                "question": "where is the shiva sai store, and what type of business is it?",
+                "question_type": "others",
+                "correct_answer": "on the left side of the road ,a general store",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2505,
+                "question_id": 7.0,
+                "question": "what type of store is shiva sai and what can i expect to find there?",
+                "question_type": "others",
+                "correct_answer": "a fancy and general store that sells a variety of everyday items",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 2506,
+                "question_id": 7.0,
+                "question": "what type of store is shiva sai and where exactly is it located along this route?",
+                "question_type": "others",
+                "correct_answer": "a general store located,on the left side of the route ahead",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 2509,
+                "question_id": 5.0,
+                "question": "which vehicle is directly ahead of me, and what is its registration number?",
+                "question_type": "others",
+                "correct_answer": "a white hyundai,ts 08 ec 8631",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2540,
+                "question_id": 1.0,
+                "question": "which vehicle's number plate is ts07ev3488 and where is it located on the road?",
+                "question_type": "others",
+                "correct_answer": "the toyota vehicle, in the center of the road",
+                "timestamp": 2.2
+            },
+            {
+                "video_id": 2555,
+                "question_id": 13.1,
+                "question": "what type of store is value mart?",
+                "question_type": "others",
+                "correct_answer": "value mart is a supermarket",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 2555,
+                "question_id": 13.2,
+                "question": "what type of store is value mart?",
+                "question_type": "others",
+                "correct_answer": "not found",
+                "timestamp": 2.4
+            },
+            {
+                "video_id": 2574,
+                "question_id": 9.0,
+                "question": "where is pedestrian crossing sign located related to road direction?",
+                "question_type": "others",
+                "correct_answer": "on the right side of the road",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 2590,
+                "question_id": 3.0,
+                "question": "which building project has an ascend by atluri advertisement, and what is its possession period?",
+                "question_type": "others",
+                "correct_answer": "built for success, possession period - 2020",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2592,
+                "question_id": 14.0,
+                "question": "which company is advertising a biryani delivery service, and how do they describe their biryani?",
+                "question_type": "others",
+                "correct_answer": "behrouz biryani - a biryani worth a war is definitely worth a try!",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 2595,
+                "question_id": 5.0,
+                "question": "which school's bus is nearby, and what is written on it?",
+                "question_type": "others",
+                "correct_answer": "birla open minds school",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2596,
+                "question_id": 3.0,
+                "question": "which company is advertising a 40% discount, and what type of service are they offering?",
+                "question_type": "others",
+                "correct_answer": "black friday sale 40% off\uff0c is offering beauty services",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2597,
+                "question_id": 6.0,
+                "question": "where is the school bus from, and what educational institution does it belong to?",
+                "question_type": "others",
+                "correct_answer": "sml",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 2605,
+                "question_id": 15.0,
+                "question": "which vehicle has the license plate ts09ev0477?",
+                "question_type": "others",
+                "correct_answer": "hyundai sedan",
+                "timestamp": 7.8
+            },
+            {
+                "video_id": 2606,
+                "question_id": 3.0,
+                "question": "what percentage discount is offered according the billboards?",
+                "question_type": "others",
+                "correct_answer": "10% cash back",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2607,
+                "question_id": 13.0,
+                "question": "where is the sign for serene park displayed, and what does it say about booking?",
+                "question_type": "others",
+                "correct_answer": "on a billboard, and it says book now",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 2607,
+                "question_id": 14.0,
+                "question": "which car has the license plate ts09ey0477 and is directly ahead of me while waiting at the traffic light?",
+                "question_type": "others",
+                "correct_answer": "the white car in the middle lane",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 2609,
+                "question_id": 8.0,
+                "question": "where is the advertisement for zenhi located, and how can i identify it?",
+                "question_type": "others",
+                "correct_answer": "on the billboard in the center, identified by logo and text zenhi",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 2616,
+                "question_id": 2.0,
+                "question": "which vehicle in front of me has the license plate ts09ev0477,\u201d and which lane is it in?",
+                "question_type": "others",
+                "correct_answer": "a white car in the middle lane",
+                "timestamp": 2.2
+            },
+            {
+                "video_id": 2616,
+                "question_id": 3.0,
+                "question": "where is the advertisement for santro, and how many similar advertisements can i see around the road?",
+                "question_type": "others",
+                "correct_answer": "on a large billboard above the road,one",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2617,
+                "question_id": 12.0,
+                "question": "what's the license plate in front of me?",
+                "question_type": "others",
+                "correct_answer": "ts09ev0477",
+                "timestamp": 0.2
+            },
+            {
+                "video_id": 2619,
+                "question_id": 1.0,
+                "question": "what is the advertisement message on the billboard above the bridge, and how does it relate to stress relief?",
+                "question_type": "others",
+                "correct_answer": "vapor in, stress out. anytime. anywhere",
+                "timestamp": 2.2
+            },
+            {
+                "video_id": 2619,
+                "question_id": 3.0,
+                "question": "what are the vehicles' license plates, and are they from the same region?",
+                "question_type": "others",
+                "correct_answer": "ts 09 ev 4777,ts 15 es 8655, all from the same region",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2631,
+                "question_id": 6.1,
+                "question": "which vehicles in the traffic have visible license plates, and what are those numbers?",
+                "question_type": "others",
+                "correct_answer": "the white car and the motorcycle, ts09ev0477 and ts15es8655",
+                "timestamp": 0.2
+            },
+            {
+                "video_id": 2631,
+                "question_id": 6.2,
+                "question": "which vehicles in the traffic have visible license plates, and what are those numbers?",
+                "question_type": "others",
+                "correct_answer": "the white car ,the black car and the motorcycle, ts09ev0477 ,ts09ez9733 and ts15es8655",
+                "timestamp": 7.8
+            },
+            {
+                "video_id": 2644,
+                "question_id": 5.0,
+                "question": "when can i see the \u2018no parking\u2019 sign again?",
+                "question_type": "others",
+                "correct_answer": "almost immediately",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2644,
+                "question_id": 7.0,
+                "question": "what is the name of the exhibition being advertised, and where is it happening?",
+                "question_type": "others",
+                "correct_answer": "india's premium exhibition at taj krishna",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 2649,
+                "question_id": 8.0,
+                "question": "what is the contact number for the leadspace building, and what service might they provide?",
+                "question_type": "others",
+                "correct_answer": "7396001111, which likely signifies an office or co-working space service",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 2652,
+                "question_id": 4.0,
+                "question": "what type of food is served at the hyderabadi shawarma place, and do they have any specials displayed?",
+                "question_type": "others",
+                "correct_answer": "shawarma, with no specific specials displayed",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2655,
+                "question_id": 12.0,
+                "question": "how many different advertisements for the f9 pro phone?",
+                "question_type": "others",
+                "correct_answer": "six",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 2658,
+                "question_id": 4.0,
+                "question": "what services does blue dart provide, and which other company is associated with it?",
+                "question_type": "others",
+                "correct_answer": "courier services, associated with dhl",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2659,
+                "question_id": 7.1,
+                "question": "where is the u-turn on this road, and how far ahead is it?",
+                "question_type": "others",
+                "correct_answer": "u turn ahead 50m",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2659,
+                "question_id": 7.2,
+                "question": "where is the u-turn on this road, and how far ahead is it?",
+                "question_type": "others",
+                "correct_answer": "i can't find it",
+                "timestamp": 0.2
+            },
+            {
+                "video_id": 2663,
+                "question_id": 13.1,
+                "question": "what is the date and location of the upcoming property show?",
+                "question_type": "others",
+                "correct_answer": "2nd-3rd-4th nov 2018, hitex, hyd",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 2663,
+                "question_id": 13.2,
+                "question": "what is the date and location of the upcoming property show?",
+                "question_type": "others",
+                "correct_answer": "i can't find it",
+                "timestamp": 0.2
+            },
+            {
+                "video_id": 2666,
+                "question_id": 1.0,
+                "question": "which direction can i turn around in and how far?",
+                "question_type": "others",
+                "correct_answer": "right, 50m ahead",
+                "timestamp": 2.2
+            },
+            {
+                "video_id": 2669,
+                "question_id": 14.0,
+                "question": "which banner mentions an upcoming event or sale, and what is the date?",
+                "question_type": "others",
+                "correct_answer": "the banner mentioning \u201cexhibition & sale\u201d states the date as 26th & 27th 28th november",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 2691,
+                "question_id": 12.0,
+                "question": "how many times does the vvn sign appear as i move forward?",
+                "question_type": "others",
+                "correct_answer": "once",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 2705,
+                "question_id": 8.0,
+                "question": "which phrase is painted on the blue wall along the sidewalk?",
+                "question_type": "others",
+                "correct_answer": "i am an artist",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 2738,
+                "question_id": 9.0,
+                "question": "which direction is the billboard with a man on it indicating for a particular location or service, and what is it advertising?",
+                "question_type": "others",
+                "correct_answer": "it is straight direction and advertising real estate",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 2739,
+                "question_id": 5.0,
+                "question": "which routes are available for the run, and what distances do they cover?",
+                "question_type": "others",
+                "correct_answer": "run 5k & 10k",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2767,
+                "question_id": 10.1,
+                "question": "what is the main theme of the event advertised on the bus and when and where is it happening?",
+                "question_type": "others",
+                "correct_answer": "the main theme is race against hiv, and it is happening on dec 1, 2018, at people's plaza",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 2767,
+                "question_id": 10.2,
+                "question": "what is the main theme of the event advertised on the bus and when and where is it happening?",
+                "question_type": "others",
+                "correct_answer": "i can't see it",
+                "timestamp": 0.8
+            },
+            {
+                "video_id": 2770,
+                "question_id": 15.0,
+                "question": "how many vehicles ahead of me have license plates?",
+                "question_type": "others",
+                "correct_answer": "5",
+                "timestamp": 7.8
+            },
+            {
+                "video_id": 2777,
+                "question_id": 6.0,
+                "question": "how many different categories of runs are mentioned in the advertisement on the bus?",
+                "question_type": "others",
+                "correct_answer": "3",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 2777,
+                "question_id": 10.0,
+                "question": "what is the purpose of the red ribbon run advertised on the bus, and when and where is it scheduled to take place?",
+                "question_type": "others",
+                "correct_answer": "the purpose is to race against hiv, and it is scheduled to take place at people's plaza on december 1, 2018",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 2777,
+                "question_id": 12.0,
+                "question": "what does the message on the bus about fighting aids relate to? what is the overall message?",
+                "question_type": "others",
+                "correct_answer": "it correlates with the red ribbon run which is a running event to raise awareness about hiv, conveying the message to know your hiv status",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 2778,
+                "question_id": 1.0,
+                "question": "what event is being advertised on the bus, and where is it taking place?",
+                "question_type": "others",
+                "correct_answer": "red ribbon run, people's plaza",
+                "timestamp": 2.2
+            },
+            {
+                "video_id": 2778,
+                "question_id": 2.0,
+                "question": "which vehicle has a message celebrating 21 years, and what is the registration number of that vehicle?",
+                "question_type": "others",
+                "correct_answer": "the white suzuki, ts09uc1719",
+                "timestamp": 2.2
+            },
+            {
+                "video_id": 2781,
+                "question_id": 9.0,
+                "question": "what type of advertisement is displayed on the back of the auto rickshaw, and what product is being promoted?",
+                "question_type": "others",
+                "correct_answer": "a bikes ad promoting a sports bike",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 2784,
+                "question_id": 2.0,
+                "question": "which vehicle on the left side has the text sma on its signboard, and what type of vehicle is it?",
+                "question_type": "others",
+                "correct_answer": "eicher truck",
+                "timestamp": 2.2
+            },
+            {
+                "video_id": 2817,
+                "question_id": 3.0,
+                "question": "how far is it to the american oncology institute?",
+                "question_type": "others",
+                "correct_answer": "3km",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2818,
+                "question_id": 3.0,
+                "question": "which vehicle is directly in front of me, and what is its registration number?",
+                "question_type": "others",
+                "correct_answer": "hyundai eon ts07ue3824",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2825,
+                "question_id": 8.0,
+                "question": "which hospital can i see mentioned in the distance on the billboard, and what specialty is it associated with?",
+                "question_type": "others",
+                "correct_answer": "american oncology institute, cancer care",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 2826,
+                "question_id": 2.0,
+                "question": "which billboard advertises shree tmt xtra550 and how can i get there?",
+                "question_type": "others",
+                "correct_answer": "the billboard advertising shree tmt xtra550 is on the top left, and you can get there by moving straight through the intersection and turn left",
+                "timestamp": 2.2
+            },
+            {
+                "video_id": 2826,
+                "question_id": 3.0,
+                "question": "what medical services does the american oncology institute offer and how far is it ?",
+                "question_type": "others",
+                "correct_answer": "the american oncology institute offers precision cancer care, and it is visible on a billboard to the right",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2836,
+                "question_id": 11.0,
+                "question": "where is the emergency exit for the bus with express written on it?",
+                "question_type": "others",
+                "correct_answer": "it's located near the middle of the bus",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 2836,
+                "question_id": 13.0,
+                "question": "what should i maintain to ensure a safe distance from the bus ahead?",
+                "question_type": "others",
+                "correct_answer": "keep distance 70 feets",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 2844,
+                "question_id": 15.0,
+                "question": "how far is the bar?",
+                "question_type": "others",
+                "correct_answer": "ahead on the right",
+                "timestamp": 8.0
+            },
+            {
+                "video_id": 2854,
+                "question_id": 14.0,
+                "question": "how do i get to country mall?",
+                "question_type": "others",
+                "correct_answer": "left side, a short walk from this point",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 2858,
+                "question_id": 4.0,
+                "question": "what are the discount offers mentioned and where?",
+                "question_type": "others",
+                "correct_answer": "50% discount at the store on the left side",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2859,
+                "question_id": 10.0,
+                "question": "what is the name of the jewelry store visible, and where should i turn to reach it?",
+                "question_type": "others",
+                "correct_answer": "grt jewellers, turn to the right side",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 2864,
+                "question_id": 4.0,
+                "question": "which school does the bus on my left belong to and what areas does it serve?",
+                "question_type": "others",
+                "correct_answer": "phoenix greens school of learning, kokapet & gachibowli",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2866,
+                "question_id": 9.0,
+                "question": "how many different buses advertise the same movie?",
+                "question_type": "others",
+                "correct_answer": "2",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 2879,
+                "question_id": 11.0,
+                "question": "how many vehicles ahead have the license plate starting with the code ts08?",
+                "question_type": "others",
+                "correct_answer": "one",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 2884,
+                "question_id": 5.0,
+                "question": " what color is the car in front of me has the license plate ap 28 bw 5697?",
+                "question_type": "others",
+                "correct_answer": "the white car",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2885,
+                "question_id": 5.0,
+                "question": "which school is advertised on the green billboard, and what contact number is listed?",
+                "question_type": "others",
+                "correct_answer": "mati awarded school in telangana, contact number 9248 111 441",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2898,
+                "question_id": 12.0,
+                "question": "which side of the road is the gym and how far is it?",
+                "question_type": "others",
+                "correct_answer": "you need to go a short distance ahead, and it is on the left side",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 2899,
+                "question_id": 2.0,
+                "question": "how far ahead is the miyapur police station according to the road signage?",
+                "question_type": "others",
+                "correct_answer": "the sign does not indicate the distance",
+                "timestamp": 2.2
+            },
+            {
+                "video_id": 2916,
+                "question_id": 2.0,
+                "question": "how far is it from here to medchal road?",
+                "question_type": "others",
+                "correct_answer": "0.5 km",
+                "timestamp": 2.5
+            },
+            {
+                "video_id": 2923,
+                "question_id": 13.0,
+                "question": "where is the car wash service?",
+                "question_type": "others",
+                "correct_answer": "the car wash is on the left",
+                "timestamp": 9.5
+            },
+            {
+                "video_id": 2934,
+                "question_id": 4.0,
+                "question": "how far ahead is the road construction zone?",
+                "question_type": "others",
+                "correct_answer": "there is no direct information on the exact distance ahead for the road construction zone",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 2936,
+                "question_id": 2.0,
+                "question": "which vehicle registration plates are visible , and what regions do they belong to?",
+                "question_type": "others",
+                "correct_answer": "ka 34 m 3430 from karnataka, ts 15 ef 8730 from telangana",
+                "timestamp": 2.2
+            },
+            {
+                "video_id": 2941,
+                "question_id": 9.0,
+                "question": "who is arshi and what service or product is associated with this name?",
+                "question_type": "others",
+                "correct_answer": "arshi is an entity associated with a service or product in the advertisement",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 2976,
+                "question_id": 13.0,
+                "question": "what service is bhaskar ad offering, and how can i get in contact with them?",
+                "question_type": "others",
+                "correct_answer": "contact bhaskar ad for ad services at 9959906565 or 9550642626",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 2979,
+                "question_id": 12.0,
+                "question": "which billboard offers contact information for leadspace and what is the phone number listed there?",
+                "question_type": "others",
+                "correct_answer": "the billboard for leadspace offers contact information with the phone number 7396001111",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 2980,
+                "question_id": 9.0,
+                "question": "what other signs or advertisements are visible near the max elite cafe & restaurant, and do any of them suggest an upcoming event or promotion?",
+                "question_type": "others",
+                "correct_answer": "nearby advertisements include the biggest and next upcoming. they suggest an upcoming event",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 2988,
+                "question_id": 9.0,
+                "question": "which vehicle is directly in front of me, and what function does it serve?",
+                "question_type": "others",
+                "correct_answer": "mail van delivering postal items",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 2989,
+                "question_id": 11.0,
+                "question": "which sign or banner mentions ahuja, and where is it?",
+                "question_type": "others",
+                "correct_answer": "the sign or banner mentioning ahuja is on the left",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 2999,
+                "question_id": 8.0,
+                "question": "which vehicle is associated with the postal service, and what text indicates this?",
+                "question_type": "others",
+                "correct_answer": "the red van labeled mail",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 2999,
+                "question_id": 15.0,
+                "question": "how many labeled substations do i pass by ?",
+                "question_type": "others",
+                "correct_answer": "two",
+                "timestamp": 7.8
+            },
+            {
+                "video_id": 4008,
+                "question_id": 4.0,
+                "question": "what service does the company on the white van offer, and how can i contact them for more details?",
+                "question_type": "others",
+                "correct_answer": "fromage charcuterie wholesale catering, www.thefrenchcomte.co.uk",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 4015,
+                "question_id": 5.0,
+                "question": "where is the red van possibly associated with, and what might its role be?",
+                "question_type": "others",
+                "correct_answer": "transport for london, response vehicle",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 4015,
+                "question_id": 6.0,
+                "question": "which vehicle is related to a food business, and what type of food do they specialize in?",
+                "question_type": "others",
+                "correct_answer": "the white van, specializing in foreign cheese",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 4035,
+                "question_id": 15.0,
+                "question": "what bus number can i take on the right and where is it displayed?",
+                "question_type": "others",
+                "correct_answer": "29; displayed on the front of a red double-decker bus",
+                "timestamp": 7.8
+            },
+            {
+                "video_id": 4098,
+                "question_id": 4.0,
+                "question": "what company is being advertised on the van in front of me, and how can i contact them?",
+                "question_type": "others",
+                "correct_answer": "hire it, contact 0203 176 6848",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 4100,
+                "question_id": 14.0,
+                "question": "which shop has a blue awning and what is it called?",
+                "question_type": "others",
+                "correct_answer": "chloe alberry",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 4104,
+                "question_id": 9.0,
+                "question": "which vehicle is providing courier services, and what's the company name on it?",
+                "question_type": "others",
+                "correct_answer": "the white truck with the company name pdq specialist courier services",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 4114,
+                "question_id": 11.0,
+                "question": "which company seems to be handling the construction work, and where can i find their contact number?",
+                "question_type": "others",
+                "correct_answer": "the company handling the construction is g glass glazing, and their contact number is 0800 9883 883",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 4119,
+                "question_id": 6.0,
+                "question": "which recognizable fast-food restaurant is on this street, and how far away does it appear to be from my current position?",
+                "question_type": "others",
+                "correct_answer": "mcdonald's, and it appears to be a short distance down the street on the left",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 4121,
+                "question_id": 3.0,
+                "question": "which bus advertisement am i seeing, and what does it promote?",
+                "question_type": "others",
+                "correct_answer": "the summer throwback advertisement promoting a beverage",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 4247,
+                "question_id": 6.0,
+                "question": "how long will it take to walk to poppies fish & chips?",
+                "question_type": "others",
+                "correct_answer": "2 minutes",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 4248,
+                "question_id": 5.0,
+                "question": "which company does the van ahead belong to, and what service might they offer?",
+                "question_type": "others",
+                "correct_answer": "colas rail, likely offering railway services",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 4248,
+                "question_id": 11.0,
+                "question": "how far is the parking spot from here?",
+                "question_type": "others",
+                "correct_answer": "250 m",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 4253,
+                "question_id": 6.0,
+                "question": "which bus number should i take if i want to go to friern barnet, and where is the nearest bus stop to catch this bus?",
+                "question_type": "others",
+                "correct_answer": "you should take bus number 43, and the nearest bus stop is on the right side of the road in the direction of travel",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 4253,
+                "question_id": 9.0,
+                "question": "what\u2019s the name of the barbershop, and what are their hours of operation?",
+                "question_type": "others",
+                "correct_answer": "sampson's cuts, hours not displayed",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 4255,
+                "question_id": 3.0,
+                "question": "what zone restriction information is provided, and how does it affect the area i am in right now?",
+                "question_type": "others",
+                "correct_answer": "zone ends, indicating the end of the restricted area",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 4273,
+                "question_id": 15.0,
+                "question": "how far ahead is the point where i need to be aware of the congestion charge?",
+                "question_type": "others",
+                "correct_answer": "the congestion charge point is 2 1/4 miles ahead",
+                "timestamp": 7.8
+            },
+            {
+                "video_id": 4290,
+                "question_id": 10.0,
+                "question": "what does the sign on the bus say, and does it suggest that the bus is in service or out of service?",
+                "question_type": "others",
+                "correct_answer": "nice to meet you, suggesting the bus is in service",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 4290,
+                "question_id": 12.0,
+                "question": "which business on this street seems to be exploring opportunities with root vegetables, and what might that involve?",
+                "question_type": "others",
+                "correct_answer": "the business with the billboard mentioning i am an artist and my medium is root vegetables.",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 4296,
+                "question_id": 3.0,
+                "question": "what does the join the club sign suggest, and where is it located?",
+                "question_type": "others",
+                "correct_answer": "discounts onelectricity,on a large billboard",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 4302,
+                "question_id": 1.0,
+                "question": "which car appears to be closer to the pedestrian on the left, the one with license plate fn18 gxu or the one with license plate iez 6690?",
+                "question_type": "others",
+                "correct_answer": "fn18 gxu",
+                "timestamp": 2.2
+            },
+            {
+                "video_id": 4305,
+                "question_id": 2.0,
+                "question": "if i need to find the iqeq office, which building should i look for, and on which side of the street is it located?",
+                "question_type": "others",
+                "correct_answer": "on the right side, brown building",
+                "timestamp": 2.2
+            },
+            {
+                "video_id": 4371,
+                "question_id": 3.0,
+                "question": "why might someone honk at this bus?",
+                "question_type": "others",
+                "correct_answer": "honk if you're hairy",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 4373,
+                "question_id": 9.0,
+                "question": "what discount is being offered at the sale, and where can i find this sale?",
+                "question_type": "others",
+                "correct_answer": "50% discount is being offered, and it can be found on the right side of the street",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 4380,
+                "question_id": 15.0,
+                "question": "which show is advertised on the building to my right, and how does its marquee look like?",
+                "question_type": "others",
+                "correct_answer": "the show advertised is dream girls and its marquee is in tall, vertical letters",
+                "timestamp": 7.8
+            },
+            {
+                "video_id": 4410,
+                "question_id": 4.0,
+                "question": "how far is the nearest subway restaurant from where i am currently standing?",
+                "question_type": "others",
+                "correct_answer": "across the street to the right",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 4418,
+                "question_id": 6.0,
+                "question": "which vehicle, the one with the license plate \u2018rf65 lyz\u2019 or the 'xtratherm' truck, is moving slower?",
+                "question_type": "others",
+                "correct_answer": "the 'xtratherm' truck",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 4418,
+                "question_id": 8.0,
+                "question": "which vehicle has the license plate rf65 lyz, and in which lane is it?",
+                "question_type": "others",
+                "correct_answer": "the black car has the license plate rf65 lyz and is in the left lane",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 4419,
+                "question_id": 1.0,
+                "question": "what is the name of the hotel on the left side of the street and where is it located?",
+                "question_type": "others",
+                "correct_answer": "crowne plaza, located at princes dock",
+                "timestamp": 2.2
+            },
+            {
+                "video_id": 4421,
+                "question_id": 12.0,
+                "question": "what type of establishment is next to the philharmonic mini market and what services does it offer?",
+                "question_type": "others",
+                "correct_answer": "rock out caf\u00e9, offering food and music",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 4422,
+                "question_id": 8.0,
+                "question": "where is the no entry sign and what area is it referring to?",
+                "question_type": "others",
+                "correct_answer": "the no entry sign is on the left side of the road and it refers to the lane ahead of the crosswalk",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 4433,
+                "question_id": 3.0,
+                "question": "how far is the royal lion hotel?",
+                "question_type": "others",
+                "correct_answer": "on the right side at the very end of the street",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 4433,
+                "question_id": 10.0,
+                "question": "what type of shop is old forge fossil shop, and what items could i expect to find there?",
+                "question_type": "others",
+                "correct_answer": "a shop that sells fossils, jewelry, gifts, and crystals",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 4485,
+                "question_id": 3.0,
+                "question": "what is the restriction indicated by the traffic light, and how might it affect my driving route?",
+                "question_type": "others",
+                "correct_answer": "no right turn, so you must either go straight or turn left",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 4487,
+                "question_id": 11.1,
+                "question": " where is souvenirs\uff1f",
+                "question_type": "others",
+                "correct_answer": "it is located further down the street from pop mart",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 4487,
+                "question_id": 11.2,
+                "question": " where is souvenirs\uff1f",
+                "question_type": "others",
+                "correct_answer": "not found",
+                "timestamp": 0.5
+            },
+            {
+                "video_id": 4487,
+                "question_id": 12.0,
+                "question": "which musical is being advertised along the same street that has a yol\u00e9 store, and can i see the theater from here?",
+                "question_type": "others",
+                "correct_answer": "the musical les miserables is being advertised, and you can see the theater from here",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 4496,
+                "question_id": 7.0,
+                "question": "what type of business is the london trocadero associated with?",
+                "question_type": "others",
+                "correct_answer": "entertainment complex featuring shops, restaurants, and entertainment venues",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 4512,
+                "question_id": 3.0,
+                "question": "are there any flags? if so, what do they look like?",
+                "question_type": "others",
+                "correct_answer": "yes, union jack flags",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 4512,
+                "question_id": 5.0,
+                "question": "what is the identifier for the street cleaning van, and when should i expect it to clean my street?",
+                "question_type": "others",
+                "correct_answer": "identify the van with left hand drive and check its schedule",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 4565,
+                "question_id": 12.0,
+                "question": "how many skanska signs as i move forward along this street?",
+                "question_type": "others",
+                "correct_answer": "three",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 4590,
+                "question_id": 3.0,
+                "question": "which promotional message is displayed up in the lights, and what does it suggest about the season or event?",
+                "question_type": "others",
+                "correct_answer": "christmas is calling",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 4590,
+                "question_id": 15.0,
+                "question": "what is the number of the public transport route, and where does it go?",
+                "question_type": "others",
+                "correct_answer": "the public transportation route number visible is 159, and it could potentially take you to various locations along its route in the city",
+                "timestamp": 7.8
+            },
+            {
+                "video_id": 4595,
+                "question_id": 9.0,
+                "question": "is there a flag indicating a brand or business on this street, and can you tell me its name?",
+                "question_type": "others",
+                "correct_answer": "yes, zegna",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 4602,
+                "question_id": 15.0,
+                "question": "is the 'next' store open at this time?",
+                "question_type": "others",
+                "correct_answer": "yes",
+                "timestamp": 7.8
+            },
+            {
+                "video_id": 4613,
+                "question_id": 8.0,
+                "question": "which hotel's name can be seen on the tall building, and where is it located in relation to the traffic lights?",
+                "question_type": "others",
+                "correct_answer": "premier inn, behind the traffic lights",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 4613,
+                "question_id": 9.0,
+                "question": "in which lane am i driving, and what is the lane next to mine designated for?",
+                "question_type": "others",
+                "correct_answer": "general traffic lane\uff0cbus lane",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 4631,
+                "question_id": 11.0,
+                "question": "what's the purpose of the bus on the left? does it offer any specific tour?",
+                "question_type": "others",
+                "correct_answer": "yes",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 4636,
+                "question_id": 3.0,
+                "question": "how long is the t2 yellow circular tour to plan my schedule for today?",
+                "question_type": "others",
+                "correct_answer": "visit the official website or ask the bus driver for the schedule",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 4636,
+                "question_id": 14.0,
+                "question": "which landmarks or sights should i expect to see and are there any specific times i need to be aware of?",
+                "question_type": "others",
+                "correct_answer": "you should expect to see landmarks like the london eye, buckingham palace, and tower of london, with specific departure times every 15 minutes",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 4640,
+                "question_id": 2.0,
+                "question": "which companies are listed on the truck ahead of me, and what are their locations?",
+                "question_type": "others",
+                "correct_answer": "ockendon, romford, basildon",
+                "timestamp": 2.2
+            },
+            {
+                "video_id": 4643,
+                "question_id": 10.0,
+                "question": "when can i use the hop-on hop-off bus service, and where is the nearest stop?",
+                "question_type": "others",
+                "correct_answer": "the hop-on hop-off bus service can be used anytime during its operating hours, and the nearest stop is at the bus stop with the sign 16",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 4643,
+                "question_id": 11.0,
+                "question": "which vehicle's number plate is x777 exe, and what type of vehicle is it?",
+                "question_type": "others",
+                "correct_answer": "the number plate x777 exe belongs to a silver car",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 4647,
+                "question_id": 15.0,
+                "question": "which services are advertised on the bus stop sign, and could they be useful for my travel needs?",
+                "question_type": "others",
+                "correct_answer": "helping you find your card, which could be useful when you lose your payment card",
+                "timestamp": 7.8
+            },
+            {
+                "video_id": 4657,
+                "question_id": 9.0,
+                "question": "which warning message is written on the road near the 135 bus, and how does it affect my driving choices?",
+                "question_type": "others",
+                "correct_answer": "the warning message written on the road is no lay when tunnel closed, which indicates that laying on this lane is prohibited when the tunnel is closed",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 4657,
+                "question_id": 14.0,
+                "question": "what kind of vitamins are advertised on the back of the bus, and are they appropriate for all children?",
+                "question_type": "others",
+                "correct_answer": "the back of the bus advertises wellkid vitamins, which are appropriate for children aged 4-12 years",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 4658,
+                "question_id": 9.0,
+                "question": "what are the number plates of the vehicles in front of me, and is there anything i should note about them?",
+                "question_type": "others",
+                "correct_answer": "yy66 pkf and kx15 whu; note that the bus and the truck have different registrations",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 4660,
+                "question_id": 6.0,
+                "question": "which company does the blue van belong to, and what could be the reason for their visit in this area?",
+                "question_type": "others",
+                "correct_answer": "the blue van belongs to british gas and they could be visiting for routine service or repairs",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 4664,
+                "question_id": 12.0,
+                "question": "which company is advertising on the back of the bus and what is the product advertised?",
+                "question_type": "others",
+                "correct_answer": "wellkid - children's vitamins",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 4684,
+                "question_id": 3.0,
+                "question": "which bank is visible on this street, and how far is it from the zara store?",
+                "question_type": "others",
+                "correct_answer": "the bank is natwest, and it is across the street from the zara store",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 4689,
+                "question_id": 2.0,
+                "question": "what service does the red truck in front of me provide, and how could i get more information about it?",
+                "question_type": "others",
+                "correct_answer": "relocation services; visit www.crownrelo.com for more details",
+                "timestamp": 2.2
+            },
+            {
+                "video_id": 4692,
+                "question_id": 15.0,
+                "question": "what type of store is backstage originals and what do they sell?",
+                "question_type": "others",
+                "correct_answer": "a shop that sells clothing and novelty items with a musical theme",
+                "timestamp": 7.8
+            },
+            {
+                "video_id": 4704,
+                "question_id": 1.0,
+                "question": "where does the number 9 bus go, and what street am i currently on when taking it?",
+                "question_type": "others",
+                "correct_answer": "aldwych",
+                "timestamp": 2.2
+            },
+            {
+                "video_id": 4707,
+                "question_id": 6.0,
+                "question": "how soon can i expect the delivery when placing an order with the flower service today?",
+                "question_type": "others",
+                "correct_answer": "london delivery today, rest of uk, next day!",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 4711,
+                "question_id": 10.0,
+                "question": "what services does the vehicle ahead with the flowers 24hours.co.uk sign offer, and how can i contact them?",
+                "question_type": "others",
+                "correct_answer": "london delivery, 0800 781 8877",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 4715,
+                "question_id": 5.0,
+                "question": "which service does the van in front of me offer and how can i contact them?",
+                "question_type": "others",
+                "correct_answer": "flower delivery service, contact them at 0800 781 8577",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 4720,
+                "question_id": 1.0,
+                "question": " what kind of food options does itsu offer on the storefront?",
+                "question_type": "others",
+                "correct_answer": "sushi, rice bowls, soups, and hot noodles",
+                "timestamp": 2.2
+            },
+            {
+                "video_id": 4751,
+                "question_id": 12.0,
+                "question": "what does the \u201cmutts luggage\u201d sign on the bus indicate, and should i follow for any specific purpose?",
+                "question_type": "others",
+                "correct_answer": "it indicates the bus service name, no specific action needed",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 4758,
+                "question_id": 9.0,
+                "question": "which vehicle is directly in front of me and what services does it offer?",
+                "question_type": "others",
+                "correct_answer": "amworld, international courier & logistics",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 4760,
+                "question_id": 4.0,
+                "question": "what are the operating hours for the bus lane, and where should i avoid driving during those times?",
+                "question_type": "others",
+                "correct_answer": "the bus lane operates from monday to friday, 7 am to 7 pm; avoid driving in the bus lane during these times",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 4760,
+                "question_id": 15.0,
+                "question": "which side of the road is the bicycle lane on, and what is the symbol used for it?",
+                "question_type": "others",
+                "correct_answer": "on the left side with a bicycle icon",
+                "timestamp": 7.8
+            },
+            {
+                "video_id": 4763,
+                "question_id": 12.0,
+                "question": "which vehicle is directly in front of me, and what is its license plate?",
+                "question_type": "others",
+                "correct_answer": "bentley, sha 22p",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": 5100,
+                "question_id": 8.0,
+                "question": "where is the borax truck headed, and which other vehicles are around it?",
+                "question_type": "others",
+                "correct_answer": "the borax truck is heading straight, with a black toyota and an air depot van around it",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 5100,
+                "question_id": 9.0,
+                "question": "which way should i go to find air depot, and what are the contact details listed on their van?",
+                "question_type": "others",
+                "correct_answer": "air depot is straight ahead, and the contact details are 718-832-2323",
+                "timestamp": 7.2
+            },
+            {
+                "video_id": 5116,
+                "question_id": 4.0,
+                "question": "what is the place where i can buy discounted items, and where is it located relative to the construction site?",
+                "question_type": "others",
+                "correct_answer": "viva bargain center, next to the construction site on the left",
+                "timestamp": 3.8
+            },
+            {
+                "video_id": 5116,
+                "question_id": 6.0,
+                "question": "which business could i go to if i need to send a package?",
+                "question_type": "others",
+                "correct_answer": "speedy photo, across from viva bargain center",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 5157,
+                "question_id": 6.0,
+                "question": "how many traffic lights do i pass before reaching western jewelry from my current position, and where is it located?",
+                "question_type": "others",
+                "correct_answer": "zero traffic lights, the shop is on the left side of the street, just cross the road",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": 5163,
+                "question_id": 7.0,
+                "question": "what\u2019s the name of the hotel on the left side of the street that i can check into?",
+                "question_type": "others",
+                "correct_answer": "dai maru hotel",
+                "timestamp": 5.5
+            }
+        ]
+    }
+]

@@ -1,0 +1,2417 @@
+[
+    {
+        "dataset": "egotextqa",
+        "question_type": "gameplay",
+        "task_setting": "open-ended",
+        "data": [
+            {
+                "video_id": "115404d7-b34b-4319-a521-5a80b4ff886b",
+                "question_id": 1,
+                "question": "what brand of pool table am i playing on?",
+                "question_type": "gameplay",
+                "correct_answer": "valley",
+                "timestamp": 29.0
+            },
+            {
+                "video_id": "167502d6-961b-4d31-bf40-cc8febecc1da",
+                "question_id": 1,
+                "question": "which player has more tokens on the table right now?",
+                "question_type": "gameplay",
+                "correct_answer": "the player with the red tokens",
+                "timestamp": 26.2
+            },
+            {
+                "video_id": "1fdf634f-edbb-4985-a350-93161b783135",
+                "question_id": 1,
+                "question": "which direction should i move my piece to reach the \"home\" space from the \"start\" space?",
+                "question_type": "gameplay",
+                "correct_answer": "move clockwise around the board",
+                "timestamp": 21.0
+            },
+            {
+                "video_id": "20a1f8b7-9f5a-4a1d-8f5b-df6949e5c377",
+                "question_id": 1,
+                "question": "where are the letter tiles for the scrabble game kept?",
+                "question_type": "gameplay",
+                "correct_answer": "inside the scrabble box",
+                "timestamp": 22.3
+            },
+            {
+                "video_id": "25e6b575-830d-40af-b731-6753231c38c6",
+                "question_id": 1,
+                "question": "what is the game we're about to play?",
+                "question_type": "gameplay",
+                "correct_answer": "sorry!",
+                "timestamp": 22.2
+            },
+            {
+                "video_id": "293f6799-01e3-485c-8e89-bfd0e0c7b545",
+                "question_id": 1,
+                "question": "what is written on the black box on the left side of the table?",
+                "question_type": "gameplay",
+                "correct_answer": "ultra pro deck box",
+                "timestamp": 21.2
+            },
+            {
+                "video_id": "2bd35fd2-e8ac-464c-a08b-33893898951b",
+                "question_id": 1,
+                "question": "what is the difficulty rating of the yellow route i'm trying to climb?",
+                "question_type": "gameplay",
+                "correct_answer": "44",
+                "timestamp": 11.8
+            },
+            {
+                "video_id": "34f1d4e9-56c1-4c19-84bb-8c44fa9b2e58",
+                "question_id": 1,
+                "question": "what is the board game we are about to play?",
+                "question_type": "gameplay",
+                "correct_answer": "\"sorry!\"",
+                "timestamp": 15.5
+            },
+            {
+                "video_id": "3864791e-acbd-4126-b04a-1706b6557594",
+                "question_id": 1,
+                "question": "what's the name of the box game we are setting up and playing?",
+                "question_type": "gameplay",
+                "correct_answer": "checkers",
+                "timestamp": 21.8
+            },
+            {
+                "video_id": "39b6ed4d-c5cb-4ad9-922b-6fda4e4a1531",
+                "question_id": 1,
+                "question": "where do i place the spray bottle labeled \"6-1\" after using it?",
+                "question_type": "gameplay",
+                "correct_answer": "on the shelf above the table",
+                "timestamp": 27.7
+            },
+            {
+                "video_id": "3f881d06-273d-4595-a69b-001a7dae2164",
+                "question_id": 1,
+                "question": "what brand of water is available on the table?",
+                "question_type": "gameplay",
+                "correct_answer": "hint",
+                "timestamp": 17.0
+            },
+            {
+                "video_id": "42629ce2-6a50-4efa-b839-4e32532456cd",
+                "question_id": 1,
+                "question": "what is the significance of the number \"2\" on the green card she is holding?",
+                "question_type": "gameplay",
+                "correct_answer": "it identifies the value of the card in the game",
+                "timestamp": 21.2
+            },
+            {
+                "video_id": "49e903f2-4e66-4480-9394-fb9db85091e1",
+                "question_id": 1,
+                "question": "what does \"stable alt-a-holic\" refer to?",
+                "question_type": "gameplay",
+                "correct_answer": "a board game where players build a stable of horses using various strategies",
+                "timestamp": 21.5
+            },
+            {
+                "video_id": "4b02b09f-b90a-4647-a826-0efccccf3aca",
+                "question_id": 1,
+                "question": "what is the title of the game we are about to play?",
+                "question_type": "gameplay",
+                "correct_answer": "scrabble",
+                "timestamp": 22.3
+            },
+            {
+                "video_id": "57c9f3a3-b00c-4921-aaaf-bcdf7b6a0573",
+                "question_id": 1,
+                "question": "what model of tv am i watching, and is it connected to the gaming console below it?",
+                "question_type": "gameplay",
+                "correct_answer": "sony; yes, it is connected",
+                "timestamp": 53.3
+            },
+            {
+                "video_id": "58bcfeff-f742-4ee3-93a2-ca243b35edfe",
+                "question_id": 1,
+                "question": "what drink options do we have on the table for our snack time?",
+                "question_type": "gameplay",
+                "correct_answer": "pepsi",
+                "timestamp": 24.3
+            },
+            {
+                "video_id": "5a0f95f0-5761-4c20-a73c-6c8e037306d8",
+                "question_id": 1,
+                "question": "what is the board game on the table?",
+                "question_type": "gameplay",
+                "correct_answer": "sorry!",
+                "timestamp": 21.7
+            },
+            {
+                "video_id": "5db8ead8-2530-4f60-8ac2-4bf2b4cabd8e",
+                "question_id": 1,
+                "question": "what zones are present on the game board?",
+                "question_type": "gameplay",
+                "correct_answer": "safety zone",
+                "timestamp": 23.0
+            },
+            {
+                "video_id": "6c3c8013-9e4d-46a8-9d1b-1fa1c489a501",
+                "question_id": 1,
+                "question": "which winery is mentioned on the person's hoodie?",
+                "question_type": "gameplay",
+                "correct_answer": "peace water winery",
+                "timestamp": 22.8
+            },
+            {
+                "video_id": "742dd0fc-018f-4e1f-b2fb-e04d38c97894",
+                "question_id": 1,
+                "question": "what does the sign above the doorway say, and what does it reflect?",
+                "question_type": "gameplay",
+                "correct_answer": "blessed, reflecting a positive and welcoming atmosphere",
+                "timestamp": 22.3
+            },
+            {
+                "video_id": "781536fa-f052-4e3c-8239-dbc28ed880c8",
+                "question_id": 1,
+                "question": "where is a first aid kit?",
+                "question_type": "gameplay",
+                "correct_answer": "next to the door, it is on the cintas box",
+                "timestamp": 2.5
+            },
+            {
+                "video_id": "79ad9e72-d6c4-4d40-bf32-92e9dd6a42dc",
+                "question_id": 1,
+                "question": "what\u2019s the name on the sweatshirt the person across from me is wearing?",
+                "question_type": "gameplay",
+                "correct_answer": "race water winery",
+                "timestamp": 22.8
+            },
+            {
+                "video_id": "7a4b6862-42e7-47ad-8d1d-27e27236da3d",
+                "question_id": 1,
+                "question": "i want to learn more about quantum field theory,which book should i refer to?",
+                "question_type": "gameplay",
+                "correct_answer": "the book titled \"quantum field theory.\"",
+                "timestamp": 17.8
+            },
+            {
+                "video_id": "7d14bb84-2496-43ef-9536-2f210a138f04",
+                "question_id": 1,
+                "question": "what is the game we are about to play?",
+                "question_type": "gameplay",
+                "correct_answer": "jenga",
+                "timestamp": 22.7
+            },
+            {
+                "video_id": "7d3c981a-6e18-4474-ac1e-956817fc1d0e",
+                "question_id": 1,
+                "question": "which card do i place on the table after the 9 of clubs?",
+                "question_type": "gameplay",
+                "correct_answer": "a queen card",
+                "timestamp": 27.7
+            },
+            {
+                "video_id": "80e5c962-37d4-4394-825c-e4c81b539e78",
+                "question_id": 1,
+                "question": "where is the \"chinese checkers\"?",
+                "question_type": "gameplay",
+                "correct_answer": "next to the christmas tree",
+                "timestamp": 21.2
+            },
+            {
+                "video_id": "8762f76f-cc2f-4681-aa57-08ddb1b3a4df",
+                "question_id": 1,
+                "question": "where are the \"new york cheddar\" chips?",
+                "question_type": "gameplay",
+                "correct_answer": "on the table next to other snacks",
+                "timestamp": 24.3
+            },
+            {
+                "video_id": "87861220-b7d5-4c45-b1db-6ec199dba753",
+                "question_id": 1,
+                "question": "what do i need to do to use the \"focus group\" card effectively in this game?",
+                "question_type": "gameplay",
+                "correct_answer": "look at the text on the \"focus group\" card and follow any instructions written there",
+                "timestamp": 19.7
+            },
+            {
+                "video_id": "8fc01fbe-195c-4511-99af-6d34d634aeb5",
+                "question_id": 1,
+                "question": "what colors are the tokens?",
+                "question_type": "gameplay",
+                "correct_answer": "red and blue",
+                "timestamp": 21.7
+            },
+            {
+                "video_id": "9247ab03-c532-4f3c-af9b-2e6801d582e7",
+                "question_id": 1,
+                "question": "what is the game we are playing?",
+                "question_type": "gameplay",
+                "correct_answer": "sequence",
+                "timestamp": 21.2
+            },
+            {
+                "video_id": "933e411f-cf4d-4432-acb2-a9ab2fabf32a",
+                "question_id": 1,
+                "question": "what is the game we are playing today?",
+                "question_type": "gameplay",
+                "correct_answer": "parcheesi",
+                "timestamp": 21.2
+            },
+            {
+                "video_id": "a064f40d-14f6-49f5-a354-9604c3617c47",
+                "question_id": 1,
+                "question": "what is the game we are about to play?",
+                "question_type": "gameplay",
+                "correct_answer": "dominoes",
+                "timestamp": 28.5
+            },
+            {
+                "video_id": "a58c7c40-9419-4da1-8e70-897d6a773b5f",
+                "question_id": 1,
+                "question": "which words are currently on the scrabble board that use the letter 'w'?",
+                "question_type": "gameplay",
+                "correct_answer": "we",
+                "timestamp": 22.2
+            },
+            {
+                "video_id": "a82044db-ea6c-4187-9990-961b24fc3f1d",
+                "question_id": 1,
+                "question": "what magazine is currently on the coffee table?",
+                "question_type": "gameplay",
+                "correct_answer": "ghtv",
+                "timestamp": 19.7
+            },
+            {
+                "video_id": "b1345ec8-f29a-417b-b40a-fb362942584d",
+                "question_id": 1,
+                "question": "what does \"clue\" on the game box refer to?",
+                "question_type": "gameplay",
+                "correct_answer": "the board game we are about to play",
+                "timestamp": 21.2
+            },
+            {
+                "video_id": "b81dfe21-7041-4631-9ad5-c64f6d5a76c0",
+                "question_id": 1,
+                "question": "what are the rules for playing uno in this game session we're starting?",
+                "question_type": "gameplay",
+                "correct_answer": "each player is dealt 7 cards, and the rest form the draw pile",
+                "timestamp": 21.0
+            },
+            {
+                "video_id": "bc0d6ea4-9146-459a-a89d-fc4527dc26a5",
+                "question_id": 1,
+                "question": "what is the brand of the cards we're using right now?",
+                "question_type": "gameplay",
+                "correct_answer": "bicycle",
+                "timestamp": 15.2
+            },
+            {
+                "video_id": "dc23d8f7-1007-4ef6-9583-e5c3fb3b4f8a",
+                "question_id": 1,
+                "question": "what cards do i have in my hand right now?",
+                "question_type": "gameplay",
+                "correct_answer": "hearts 1 2 q, diamonds 9, 10, clubs1 , 5, 10",
+                "timestamp": 24.3
+            },
+            {
+                "video_id": "dc57bdf1-a014-4e83-a632-1722e82b08dc",
+                "question_id": 1,
+                "question": "who is the artist?",
+                "question_type": "gameplay",
+                "correct_answer": "roy lichtenstein",
+                "timestamp": 21.2
+            },
+            {
+                "video_id": "dc57e99a-b31e-424a-9be7-fd03cbe4a6d9",
+                "question_id": 1,
+                "question": "what is the puzzle i am working on?",
+                "question_type": "gameplay",
+                "correct_answer": "spacerail",
+                "timestamp": 20.5
+            },
+            {
+                "video_id": "df72c519-0b7d-44c5-ad89-6268b04559ab",
+                "question_id": 1,
+                "question": "what are the names of the games?",
+                "question_type": "gameplay",
+                "correct_answer": "jenga, sorry!",
+                "timestamp": 21.3
+            },
+            {
+                "video_id": "e06849ca-1988-434e-ad69-757f60086ef8",
+                "question_id": 1,
+                "question": "what is the highest number seen on the resource hex tiles?",
+                "question_type": "gameplay",
+                "correct_answer": "12",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": "e0a1114b-8f38-4d3d-a6d1-e238e17ee4ce",
+                "question_id": 1,
+                "question": "what games are these blocks used for?",
+                "question_type": "gameplay",
+                "correct_answer": "play a game of jenga",
+                "timestamp": 29.2
+            },
+            {
+                "video_id": "e111ae28-bac3-45a8-88d1-383a8248a09a",
+                "question_id": 1,
+                "question": "what are the rules for playing dominoes?",
+                "question_type": "gameplay",
+                "correct_answer": "on the \"dominoes\" paper being held",
+                "timestamp": 28.5
+            },
+            {
+                "video_id": "e168619d-e485-4a3d-9a18-7f594cea40ff",
+                "question_id": 1,
+                "question": "what is the game as seen on the tin?",
+                "question_type": "gameplay",
+                "correct_answer": "spot it!",
+                "timestamp": 21.0
+            },
+            {
+                "video_id": "e3d158ec-b7f9-4449-8a10-f63e279120d9",
+                "question_id": 1,
+                "question": "which game are we playing right now?",
+                "question_type": "gameplay",
+                "correct_answer": "jenga",
+                "timestamp": 23.3
+            },
+            {
+                "video_id": "167502d6-961b-4d31-bf40-cc8febecc1da",
+                "question_id": 2,
+                "question": "where are the blue game pieces stored when not in use?",
+                "question_type": "gameplay",
+                "correct_answer": "in the sectioned plastic tray in the box",
+                "timestamp": 26.2
+            },
+            {
+                "video_id": "1f884f3b-e571-4752-91a3-84b095f66761",
+                "question_id": 2,
+                "question": "where should i place the \"skip\" card to make the best strategic move?",
+                "question_type": "gameplay",
+                "correct_answer": "place it on top of the current card in the discard pile",
+                "timestamp": 21.2
+            },
+            {
+                "video_id": "293f6799-01e3-485c-8e89-bfd0e0c7b545",
+                "question_id": 2,
+                "question": "which box on the table is labeled \"ultra pro deck box\"?",
+                "question_type": "gameplay",
+                "correct_answer": "the black box on the right",
+                "timestamp": 21.2
+            },
+            {
+                "video_id": "2bd35fd2-e8ac-464c-a08b-33893898951b",
+                "question_id": 2,
+                "question": "where is the starting point for the blue route labeled with a 20?",
+                "question_type": "gameplay",
+                "correct_answer": "on the left side of the climbing wall",
+                "timestamp": 11.8
+            },
+            {
+                "video_id": "3864791e-acbd-4126-b04a-1706b6557594",
+                "question_id": 2,
+                "question": "what is the number of dice on the table",
+                "question_type": "gameplay",
+                "correct_answer": "3",
+                "timestamp": 21.8
+            },
+            {
+                "video_id": "46f1fb76-18b1-4ca0-bfe4-8c11e25f6831",
+                "question_id": 2,
+                "question": "how many steps are there in this process?",
+                "question_type": "gameplay",
+                "correct_answer": "6",
+                "timestamp": 21.2
+            },
+            {
+                "video_id": "49e903f2-4e66-4480-9394-fb9db85091e1",
+                "question_id": 2,
+                "question": "where is more information or instructions available for \"stable alt-a-holic\"?",
+                "question_type": "gameplay",
+                "correct_answer": "on the box of \"stable alt-a-holic\"",
+                "timestamp": 21.5
+            },
+            {
+                "video_id": "4cff84ac-1ef1-4cb7-ba6d-58288ae47b47",
+                "question_id": 2,
+                "question": "what is the game we're playing?",
+                "question_type": "gameplay",
+                "correct_answer": "uno",
+                "timestamp": 22.7
+            },
+            {
+                "video_id": "51bfe83e-0f25-4187-9500-5be749ab0bfb",
+                "question_id": 2,
+                "question": "what is the game on the blue box?",
+                "question_type": "gameplay",
+                "correct_answer": "squirrel trap",
+                "timestamp": 23.7
+            },
+            {
+                "video_id": "5a0f95f0-5761-4c20-a73c-6c8e037306d8",
+                "question_id": 2,
+                "question": "where is the game board and pieces for the game \"sorry!\"?",
+                "question_type": "gameplay",
+                "correct_answer": "on the table",
+                "timestamp": 21.7
+            },
+            {
+                "video_id": "5a742d9a-fc2b-4baf-885d-4b693c96d553",
+                "question_id": 2,
+                "question": "which book is on the tablet?",
+                "question_type": "gameplay",
+                "correct_answer": "atwood",
+                "timestamp": 17.3
+            },
+            {
+                "video_id": "5db8ead8-2530-4f60-8ac2-4bf2b4cabd8e",
+                "question_id": 2,
+                "question": "where do i need to move my piece to be safe from other players?",
+                "question_type": "gameplay",
+                "correct_answer": "safety zone",
+                "timestamp": 23.0
+            },
+            {
+                "video_id": "5dd40095-2978-4845-93c7-2abd2d97a4ec",
+                "question_id": 2,
+                "question": "what is the game we are playing?",
+                "question_type": "gameplay",
+                "correct_answer": "sequence",
+                "timestamp": 21.7
+            },
+            {
+                "video_id": "5e1a2f50-665c-4f44-ace2-4b59d393367a",
+                "question_id": 2,
+                "question": "what is being advertised?",
+                "question_type": "gameplay",
+                "correct_answer": "bubble gum",
+                "timestamp": 28.0
+            },
+            {
+                "video_id": "781536fa-f052-4e3c-8239-dbc28ed880c8",
+                "question_id": 2,
+                "question": "which company is responsible for the emergency services in this office?",
+                "question_type": "gameplay",
+                "correct_answer": "cintas",
+                "timestamp": 2.5
+            },
+            {
+                "video_id": "7a4b6862-42e7-47ad-8d1d-27e27236da3d",
+                "question_id": 2,
+                "question": "where is information about physics available?",
+                "question_type": "gameplay",
+                "correct_answer": "in the book titled \"physics.\"",
+                "timestamp": 17.8
+            },
+            {
+                "video_id": "81210249-c611-461e-8a12-d522eddeea66",
+                "question_id": 2,
+                "question": "where is more information availabe about the product labeled \"61\"?",
+                "question_type": "gameplay",
+                "correct_answer": "additional text on the container labeled \"61\"",
+                "timestamp": 27.7
+            },
+            {
+                "video_id": "91d1a759-e3fc-4343-9355-2ea1b0a16040",
+                "question_id": 2,
+                "question": "what is written on the bottle of water on the table?",
+                "question_type": "gameplay",
+                "correct_answer": "hint",
+                "timestamp": 18.5
+            },
+            {
+                "video_id": "93abda95-532c-4a12-b31b-d20bf668e335",
+                "question_id": 2,
+                "question": "where are the rules available for \"moving around the board\" in the \"sorry!\" game instructions?",
+                "question_type": "gameplay",
+                "correct_answer": "under \"starting a pawn\" section",
+                "timestamp": 22.8
+            },
+            {
+                "video_id": "9bc6447a-38af-4d61-b36f-0d5396b5da8e",
+                "question_id": 2,
+                "question": "what is the brand of the bottled water on the table?",
+                "question_type": "gameplay",
+                "correct_answer": "dasani",
+                "timestamp": 20.0
+            },
+            {
+                "video_id": "a82044db-ea6c-4187-9990-961b24fc3f1d",
+                "question_id": 2,
+                "question": "what board game we are planning to play?",
+                "question_type": "gameplay",
+                "correct_answer": "jenga",
+                "timestamp": 19.7
+            },
+            {
+                "video_id": "c4dce11a-fbcd-472a-b350-ba2c4989b8fd",
+                "question_id": 2,
+                "question": "where can i find information about the rules for trading resources in catan?",
+                "question_type": "gameplay",
+                "correct_answer": "on the red card next to the hexagonal board",
+                "timestamp": 6.7
+            },
+            {
+                "video_id": "dc57bdf1-a014-4e83-a632-1722e82b08dc",
+                "question_id": 2,
+                "question": "where is the full image reference?",
+                "question_type": "gameplay",
+                "correct_answer": "on the puzzle box",
+                "timestamp": 21.2
+            },
+            {
+                "video_id": "dc5f3958-2600-4354-a445-e270e3b12a51",
+                "question_id": 2,
+                "question": "what's the name of the game box next to me?",
+                "question_type": "gameplay",
+                "correct_answer": "wingspan",
+                "timestamp": 18.0
+            },
+            {
+                "video_id": "df72c519-0b7d-44c5-ad89-6268b04559ab",
+                "question_id": 2,
+                "question": "where is the doritos?",
+                "question_type": "gameplay",
+                "correct_answer": "the doritos bag on the table",
+                "timestamp": 21.3
+            },
+            {
+                "video_id": "e111ae28-bac3-45a8-88d1-383a8248a09a",
+                "question_id": 2,
+                "question": "where is the exploding kittens card box?",
+                "question_type": "gameplay",
+                "correct_answer": "it was placed back on the table",
+                "timestamp": 28.5
+            },
+            {
+                "video_id": "e43e9b53-a1be-4218-94b6-4839577a7725",
+                "question_id": 2,
+                "question": "which type of card is closest to the deck boxes?",
+                "question_type": "gameplay",
+                "correct_answer": "uno cards",
+                "timestamp": 27.2
+            },
+            {
+                "video_id": "115404d7-b34b-4319-a521-5a80b4ff886b",
+                "question_id": 3,
+                "question": "where is another \"valley\" branded pool table?",
+                "question_type": "gameplay",
+                "correct_answer": "near the current one",
+                "timestamp": 50.8
+            },
+            {
+                "video_id": "167502d6-961b-4d31-bf40-cc8febecc1da",
+                "question_id": 3,
+                "question": "what color are the tokens that i am holding in my friend's hand while we play \"connect 4\"?",
+                "question_type": "gameplay",
+                "correct_answer": "red",
+                "timestamp": 49.0
+            },
+            {
+                "video_id": "1fdf634f-edbb-4985-a350-93161b783135",
+                "question_id": 3,
+                "question": "which area should i move my piece from, and to which area should i move it?",
+                "question_type": "gameplay",
+                "correct_answer": "from the safety zone to the home",
+                "timestamp": 56.0
+            },
+            {
+                "video_id": "2bd35fd2-e8ac-464c-a08b-33893898951b",
+                "question_id": 3,
+                "question": "which routes are rated with a difficulty level of 51?",
+                "question_type": "gameplay",
+                "correct_answer": "routes with red holds on the left",
+                "timestamp": 56.2
+            },
+            {
+                "video_id": "33a6cc3e-8f1f-4cc3-a82c-9b785aef077e",
+                "question_id": 3,
+                "question": "which words formed on the board use more than one \"e\"?",
+                "question_type": "gameplay",
+                "correct_answer": "leven",
+                "timestamp": 51.0
+            },
+            {
+                "video_id": "34f1d4e9-56c1-4c19-84bb-8c44fa9b2e58",
+                "question_id": 3,
+                "question": "who should go first according to the rules of the \"sorry!\" game?",
+                "question_type": "gameplay",
+                "correct_answer": "\"the youngest player or the oldest player.\"",
+                "timestamp": 45.0
+            },
+            {
+                "video_id": "3659a309-fdb0-4bc9-86ec-f180dd6233cf",
+                "question_id": 3,
+                "question": "what color was the last card played by my opponent before my turn?",
+                "question_type": "gameplay",
+                "correct_answer": "red",
+                "timestamp": 51.2
+            },
+            {
+                "video_id": "3e0b211e-5152-4928-bfa4-66c13181892f",
+                "question_id": 3,
+                "question": "which team's activity or program might i be participating in?",
+                "question_type": "gameplay",
+                "correct_answer": "a program or activity related to the trojans",
+                "timestamp": 41.2
+            },
+            {
+                "video_id": "420fa606-4ef8-4d55-9666-6a0dfd2d8675",
+                "question_id": 3,
+                "question": "who is wearing the lng t-shirt, and what is he doing?",
+                "question_type": "gameplay",
+                "correct_answer": "the man,holding playing cards",
+                "timestamp": 52.2
+            },
+            {
+                "video_id": "46f1fb76-18b1-4ca0-bfe4-8c11e25f6831",
+                "question_id": 3,
+                "question": "what instruction is given next after step 3 out of 6?",
+                "question_type": "gameplay",
+                "correct_answer": "forward",
+                "timestamp": 46.3
+            },
+            {
+                "video_id": "49e903f2-4e66-4480-9394-fb9db85091e1",
+                "question_id": 3,
+                "question": "which item on the table seems to be associated with the text \"adoas\"?",
+                "question_type": "gameplay",
+                "correct_answer": "the cap",
+                "timestamp": 51.2
+            },
+            {
+                "video_id": "5cdea21a-43b7-4d6d-8d5e-575bd81d07a7",
+                "question_id": 3,
+                "question": "what purpose could \" xr 6.0\" serve in this setup?",
+                "question_type": "gameplay",
+                "correct_answer": "likely a folding stool for sitting",
+                "timestamp": 46.5
+            },
+            {
+                "video_id": "5db8ead8-2530-4f60-8ac2-4bf2b4cabd8e",
+                "question_id": 3,
+                "question": "which area do i need to reach to win the game?",
+                "question_type": "gameplay",
+                "correct_answer": "home",
+                "timestamp": 52.8
+            },
+            {
+                "video_id": "742dd0fc-018f-4e1f-b2fb-e04d38c97894",
+                "question_id": 3,
+                "question": "if the word \"blessed\" is positioned in a way that guests would notice it easily when they enter the room?",
+                "question_type": "gameplay",
+                "correct_answer": "yes",
+                "timestamp": 51.7
+            },
+            {
+                "video_id": "7ffe7952-a631-4e5b-8057-97c12f2b31ed",
+                "question_id": 3,
+                "question": "what action should i take next based on the cards my opponent has laid out in front of them?",
+                "question_type": "gameplay",
+                "correct_answer": "play the 2 of hearts",
+                "timestamp": 42.2
+            },
+            {
+                "video_id": "d9808f8d-d318-4c66-bdf2-50b9dacfbee4",
+                "question_id": 3,
+                "question": "where are the pill bottles placed around the table?",
+                "question_type": "gameplay",
+                "correct_answer": "near the back wall",
+                "timestamp": 51.2
+            },
+            {
+                "video_id": "e375ae41-4061-427a-9886-8a405876ae7e",
+                "question_id": 3,
+                "question": "where are the cards stacked?",
+                "question_type": "gameplay",
+                "correct_answer": "in the middle of the table",
+                "timestamp": 48.5
+            },
+            {
+                "video_id": "e3d158ec-b7f9-4449-8a10-f63e279120d9",
+                "question_id": 3,
+                "question": "what's the name of the jenga set on the package?",
+                "question_type": "gameplay",
+                "correct_answer": "the party crasher",
+                "timestamp": 51.8
+            },
+            {
+                "video_id": "02537eb2-048b-4b33-bc11-78924ee14843",
+                "question_id": 4,
+                "question": "what is the board game we are playing?",
+                "question_type": "gameplay",
+                "correct_answer": "clue",
+                "timestamp": 112.8
+            },
+            {
+                "video_id": "092b7cce-a28e-4ace-b5f5-f8d1b3f905b7",
+                "question_id": 4,
+                "question": "what is the game we are playing?",
+                "question_type": "gameplay",
+                "correct_answer": "chinese checkers",
+                "timestamp": 51.2
+            },
+            {
+                "video_id": "115404d7-b34b-4319-a521-5a80b4ff886b",
+                "question_id": 4,
+                "question": "what is the brand of the lighting?",
+                "question_type": "gameplay",
+                "correct_answer": "coors light",
+                "timestamp": 50.8
+            },
+            {
+                "video_id": "1c1c9e3b-2392-4de9-a0cf-3d53ef302353",
+                "question_id": 4,
+                "question": "which card game are we playing?",
+                "question_type": "gameplay",
+                "correct_answer": "poker",
+                "timestamp": 51.2
+            },
+            {
+                "video_id": "276e6832-5665-49e7-9cf8-c466b6d0ba5d",
+                "question_id": 4,
+                "question": "what brand is the soda on the table?",
+                "question_type": "gameplay",
+                "correct_answer": "pepsi",
+                "timestamp": 54.5
+            },
+            {
+                "video_id": "33a6cc3e-8f1f-4cc3-a82c-9b785aef077e",
+                "question_id": 4,
+                "question": "what words can i form using the letters to incorporat the word \"leven\" on the board?",
+                "question_type": "gameplay",
+                "correct_answer": "level",
+                "timestamp": 51.0
+            },
+            {
+                "video_id": "34f1d4e9-56c1-4c19-84bb-8c44fa9b2e58",
+                "question_id": 4,
+                "question": "where do i need to place my game pieces to start the game?",
+                "question_type": "gameplay",
+                "correct_answer": "on the \"start\" spot on the board",
+                "timestamp": 45.0
+            },
+            {
+                "video_id": "420fa606-4ef8-4d55-9666-6a0dfd2d8675",
+                "question_id": 4,
+                "question": "what is the brand of the shirt the man sitting at the table is wearing?",
+                "question_type": "gameplay",
+                "correct_answer": "lng",
+                "timestamp": 52.2
+            },
+            {
+                "video_id": "4d18e5cf-a2a9-46a9-871a-094c3ae05394",
+                "question_id": 4,
+                "question": "what magazine am i planning to read that's on the table?",
+                "question_type": "gameplay",
+                "correct_answer": "living",
+                "timestamp": 36.5
+            },
+            {
+                "video_id": "51bfe83e-0f25-4187-9500-5be749ab0bfb",
+                "question_id": 4,
+                "question": "what game instructions are in the squirrel box package that we might need to follow?",
+                "question_type": "gameplay",
+                "correct_answer": "instructions for the game \"squirrel trap\"",
+                "timestamp": 36.5
+            },
+            {
+                "video_id": "5cdea21a-43b7-4d6d-8d5e-575bd81d07a7",
+                "question_id": 4,
+                "question": "what type of coffee creamer should i use for my coffee?",
+                "question_type": "gameplay",
+                "correct_answer": "coffee mate",
+                "timestamp": 46.5
+            },
+            {
+                "video_id": "5db8ead8-2530-4f60-8ac2-4bf2b4cabd8e",
+                "question_id": 4,
+                "question": "where should i place my pawn to start the game?",
+                "question_type": "gameplay",
+                "correct_answer": "in the 'start' zone",
+                "timestamp": 52.8
+            },
+            {
+                "video_id": "7c08a850-b438-49fb-b907-55751f6d79e2",
+                "question_id": 4,
+                "question": "what game am i playing?",
+                "question_type": "gameplay",
+                "correct_answer": "chinese checkers",
+                "timestamp": 51.2
+            },
+            {
+                "video_id": "7d14bb84-2496-43ef-9536-2f210a138f04",
+                "question_id": 4,
+                "question": "where do i place the jenga box after taking out the blocks?",
+                "question_type": "gameplay",
+                "correct_answer": "on the table next to the jenga tower",
+                "timestamp": 56.2
+            },
+            {
+                "video_id": "91d1a759-e3fc-4343-9355-2ea1b0a16040",
+                "question_id": 4,
+                "question": "what kind of beverage options do i have?",
+                "question_type": "gameplay",
+                "correct_answer": "hint water and simply orange juice",
+                "timestamp": 52.8
+            },
+            {
+                "video_id": "93abda95-532c-4a12-b31b-d20bf668e335",
+                "question_id": 4,
+                "question": "which zone do i need to enter to bring my pieces home?",
+                "question_type": "gameplay",
+                "correct_answer": "safety zone",
+                "timestamp": 51.0
+            },
+            {
+                "video_id": "98debf95-c91b-42b4-8e9a-ee225e09468c",
+                "question_id": 4,
+                "question": "what number cards do i have in my hand that are higher than 8?",
+                "question_type": "gameplay",
+                "correct_answer": "9, q, k",
+                "timestamp": 55.7
+            },
+            {
+                "video_id": "b491bea1-a8bc-4e55-b844-ffe7ed93181e",
+                "question_id": 4,
+                "question": "what card should i play next to form a pair?",
+                "question_type": "gameplay",
+                "correct_answer": "7 of hearts",
+                "timestamp": 54.5
+            },
+            {
+                "video_id": "bc0d6ea4-9146-459a-a89d-fc4527dc26a5",
+                "question_id": 4,
+                "question": "what cards do i have that are part of a sequence?",
+                "question_type": "gameplay",
+                "correct_answer": "4-5-6-7-8 of hearts",
+                "timestamp": 51.0
+            },
+            {
+                "video_id": "cf668a4b-7a29-4969-9e71-b6951184b032",
+                "question_id": 4,
+                "question": "what game am i about to play?",
+                "question_type": "gameplay",
+                "correct_answer": "uno",
+                "timestamp": 51.2
+            },
+            {
+                "video_id": "d1095dbf-c235-4975-94a8-e125573bdb7d",
+                "question_id": 4,
+                "question": "what is the board game we're setting up?",
+                "question_type": "gameplay",
+                "correct_answer": "clue",
+                "timestamp": 50.2
+            },
+            {
+                "video_id": "dc57bdf1-a014-4e83-a632-1722e82b08dc",
+                "question_id": 4,
+                "question": "where on the puzzle box does it display the artist\u2019s name, \"roy lichtenstein\"?",
+                "question_type": "gameplay",
+                "correct_answer": "on the bottom left corner",
+                "timestamp": 51.2
+            },
+            {
+                "video_id": "0b0aaab2-b3da-48f8-b5f1-10af319e4f4d",
+                "question_id": 5,
+                "question": "where are the instructions for setting up the \"sorry!\" board game?",
+                "question_type": "gameplay",
+                "correct_answer": "on the table",
+                "timestamp": 56.7
+            },
+            {
+                "video_id": "0cb0effe-ca4e-4606-9183-b48c80b59e3a",
+                "question_id": 5,
+                "question": "where can i get something to drink?",
+                "question_type": "gameplay",
+                "correct_answer": "on the left side of the table",
+                "timestamp": 53.8
+            },
+            {
+                "video_id": "115404d7-b34b-4319-a521-5a80b4ff886b",
+                "question_id": 5,
+                "question": "where are most people gathered, and what are they doing?",
+                "question_type": "gameplay",
+                "correct_answer": "near arcade machines, playing games",
+                "timestamp": 50.8
+            },
+            {
+                "video_id": "1c1c9e3b-2392-4de9-a0cf-3d53ef302353",
+                "question_id": 5,
+                "question": "what brand is the hat on the table?",
+                "question_type": "gameplay",
+                "correct_answer": "adoas",
+                "timestamp": 51.2
+            },
+            {
+                "video_id": "34f1d4e9-56c1-4c19-84bb-8c44fa9b2e58",
+                "question_id": 5,
+                "question": "how can i reach home?",
+                "question_type": "gameplay",
+                "correct_answer": "the \"home\" spots on the board",
+                "timestamp": 45.0
+            },
+            {
+                "video_id": "49e903f2-4e66-4480-9394-fb9db85091e1",
+                "question_id": 5,
+                "question": "where is a board game to play after this card game?",
+                "question_type": "gameplay",
+                "correct_answer": "on the table to the right",
+                "timestamp": 51.2
+            },
+            {
+                "video_id": "5cdea21a-43b7-4d6d-8d5e-575bd81d07a7",
+                "question_id": 5,
+                "question": "i want to snack while waiting for my coffee to brew, which snack option is near the coffee maker?",
+                "question_type": "gameplay",
+                "correct_answer": "doritos",
+                "timestamp": 46.5
+            },
+            {
+                "video_id": "5db8ead8-2530-4f60-8ac2-4bf2b4cabd8e",
+                "question_id": 5,
+                "question": "which zones on the board should i avoid to prevent being sent back to start?",
+                "question_type": "gameplay",
+                "correct_answer": "the 'slides' zones",
+                "timestamp": 52.8
+            },
+            {
+                "video_id": "65b3da0a-30f0-4c5f-9cc0-f4667f2bd792",
+                "question_id": 5,
+                "question": "what is the person wearing this \"college of wooster dad\" shirt doing with the wooden blocks?",
+                "question_type": "gameplay",
+                "correct_answer": "playing a game",
+                "timestamp": 51.2
+            },
+            {
+                "video_id": "781536fa-f052-4e3c-8239-dbc28ed880c8",
+                "question_id": 5,
+                "question": "where is the console or device that's running minecraft?",
+                "question_type": "gameplay",
+                "correct_answer": "on the middle shelf below the tv",
+                "timestamp": 74.5
+            },
+            {
+                "video_id": "8a56a3ae-ea3d-470d-b4ff-7bbde1091246",
+                "question_id": 5,
+                "question": "where is the \"hero gallery\" to check out different characters?",
+                "question_type": "gameplay",
+                "correct_answer": "on the main screen",
+                "timestamp": 76.3
+            },
+            {
+                "video_id": "8fc01fbe-195c-4511-99af-6d34d634aeb5",
+                "question_id": 5,
+                "question": "where is the ace of spades located on the board?",
+                "question_type": "gameplay",
+                "correct_answer": "bottom-right corner",
+                "timestamp": 51.2
+            },
+            {
+                "video_id": "9247ab03-c532-4f3c-af9b-2e6801d582e7",
+                "question_id": 5,
+                "question": "where are the remaining blue chips that i can use?",
+                "question_type": "gameplay",
+                "correct_answer": "near the box labeled \"sequence\"",
+                "timestamp": 50.8
+            },
+            {
+                "video_id": "a064f40d-14f6-49f5-a354-9604c3617c47",
+                "question_id": 5,
+                "question": "which two games are available on the table?",
+                "question_type": "gameplay",
+                "correct_answer": "exploding kittens and dominoes",
+                "timestamp": 44.0
+            },
+            {
+                "video_id": "a58c7c40-9419-4da1-8e70-897d6a773b5f",
+                "question_id": 5,
+                "question": "how many words on the board have the letter \"e\" in them?",
+                "question_type": "gameplay",
+                "correct_answer": "8",
+                "timestamp": 51.0
+            },
+            {
+                "video_id": "b0fd69e6-223c-4030-ab07-1bd1549bdf30",
+                "question_id": 5,
+                "question": "how many face cards are currently in my hand?",
+                "question_type": "gameplay",
+                "correct_answer": "2",
+                "timestamp": 35.8
+            },
+            {
+                "video_id": "b491bea1-a8bc-4e55-b844-ffe7ed93181e",
+                "question_id": 5,
+                "question": "where is the highest-value card on the table among the cards my opponent has played?",
+                "question_type": "gameplay",
+                "correct_answer": "king of hearts",
+                "timestamp": 54.5
+            },
+            {
+                "video_id": "dc23d8f7-1007-4ef6-9583-e5c3fb3b4f8a",
+                "question_id": 5,
+                "question": "what game are the people frames playing?",
+                "question_type": "gameplay",
+                "correct_answer": "a card game",
+                "timestamp": 42.2
+            },
+            {
+                "video_id": "dc57bdf1-a014-4e83-a632-1722e82b08dc",
+                "question_id": 5,
+                "question": "what part of the image is already completed?",
+                "question_type": "gameplay",
+                "correct_answer": "the lips",
+                "timestamp": 51.2
+            },
+            {
+                "video_id": "e0a1114b-8f38-4d3d-a6d1-e238e17ee4ce",
+                "question_id": 5,
+                "question": "where are the instructions for setting up the game?",
+                "question_type": "gameplay",
+                "correct_answer": "on the jenga game box",
+                "timestamp": 31.5
+            },
+            {
+                "video_id": "e168619d-e485-4a3d-9a18-7f594cea40ff",
+                "question_id": 5,
+                "question": "where is the person with the nasa t-shirt ?",
+                "question_type": "gameplay",
+                "correct_answer": "across the table",
+                "timestamp": 39.2
+            },
+            {
+                "video_id": "0433c96e-751b-47c5-8fe8-f2a33397ef8e",
+                "question_id": 6,
+                "question": "what games might we play?",
+                "question_type": "gameplay",
+                "correct_answer": "poker",
+                "timestamp": 148.7
+            },
+            {
+                "video_id": "0b0aaab2-b3da-48f8-b5f1-10af319e4f4d",
+                "question_id": 6,
+                "question": "which pieces do i need to begin the \"sorry!\" game, and where are they located on the table?",
+                "question_type": "gameplay",
+                "correct_answer": "the deck of cards and game pieces, inside the \"sorry!\" box on the table",
+                "timestamp": 79.5
+            },
+            {
+                "video_id": "293f6799-01e3-485c-8e89-bfd0e0c7b545",
+                "question_id": 6,
+                "question": "what color is the other player's deck box?",
+                "question_type": "gameplay",
+                "correct_answer": "yellow",
+                "timestamp": 81.2
+            },
+            {
+                "video_id": "2a6680cf-05f4-47e8-9eed-bd46351bcb86",
+                "question_id": 6,
+                "question": "where is the information available on how to proceed with the next step in our game?",
+                "question_type": "gameplay",
+                "correct_answer": "on a printed instruction sheet on the table",
+                "timestamp": 88.3
+            },
+            {
+                "video_id": "39b6ed4d-c5cb-4ad9-922b-6fda4e4a1531",
+                "question_id": 6,
+                "question": "where is the item labeled \"6 - 1\" located?",
+                "question_type": "gameplay",
+                "correct_answer": "on the left side of the shelf",
+                "timestamp": 80.7
+            },
+            {
+                "video_id": "4cff84ac-1ef1-4cb7-ba6d-58288ae47b47",
+                "question_id": 6,
+                "question": "where is the rule sheet during our uno game?",
+                "question_type": "gameplay",
+                "correct_answer": "in the other person's hand",
+                "timestamp": 82.5
+            },
+            {
+                "video_id": "5dd40095-2978-4845-93c7-2abd2d97a4ec",
+                "question_id": 6,
+                "question": "what is the objective of the game?",
+                "question_type": "gameplay",
+                "correct_answer": "to be the first to get a sequence of five chips",
+                "timestamp": 81.2
+            },
+            {
+                "video_id": "7e631664-cb72-419e-a1c4-381e98a45a60",
+                "question_id": 6,
+                "question": "which of my cards will give me the best advantage in this turn?",
+                "question_type": "gameplay",
+                "correct_answer": "the wild card",
+                "timestamp": 81.2
+            },
+            {
+                "video_id": "856e0121-d1a7-4cdc-874a-eb6547cab042",
+                "question_id": 6,
+                "question": "where are the emergency exits in this room?",
+                "question_type": "gameplay",
+                "correct_answer": "near the corner with red \"exit\" signs",
+                "timestamp": 79.7
+            },
+            {
+                "video_id": "88bee3d8-1eac-449a-a638-0f3360ceb092",
+                "question_id": 6,
+                "question": "what information is written on the note beside the snacks?",
+                "question_type": "gameplay",
+                "correct_answer": "handwritten text",
+                "timestamp": 80.3
+            },
+            {
+                "video_id": "8a56a3ae-ea3d-470d-b4ff-7bbde1091246",
+                "question_id": 6,
+                "question": "which character is currently highlighted on the screen and what can i learn about them?",
+                "question_type": "gameplay",
+                "correct_answer": "winston, featured in the \"play\" section",
+                "timestamp": 112.8
+            },
+            {
+                "video_id": "8a661321-133c-4efd-ae03-d7d002053d05",
+                "question_id": 6,
+                "question": "which drink should i grab that's on the table, and do i need to get another one from the kitchen?",
+                "question_type": "gameplay",
+                "correct_answer": "gatorade, no need to get another",
+                "timestamp": 117.3
+            },
+            {
+                "video_id": "8fc01fbe-195c-4511-99af-6d34d634aeb5",
+                "question_id": 6,
+                "question": "what is the game we are playing?",
+                "question_type": "gameplay",
+                "correct_answer": "sequence",
+                "timestamp": 81.2
+            },
+            {
+                "video_id": "9ab61374-a2e0-4313-8b54-605926079de2",
+                "question_id": 6,
+                "question": "which letters do we use in the bottom left corner ?",
+                "question_type": "gameplay",
+                "correct_answer": "t\u3001i\u3001n\u3001t",
+                "timestamp": 76.3
+            },
+            {
+                "video_id": "b491bea1-a8bc-4e55-b844-ffe7ed93181e",
+                "question_id": 6,
+                "question": "which cards in my hand could potentially complete a flush?",
+                "question_type": "gameplay",
+                "correct_answer": "9 of clubs, king of clubs",
+                "timestamp": 71.5
+            },
+            {
+                "video_id": "d1095dbf-c235-4975-94a8-e125573bdb7d",
+                "question_id": 6,
+                "question": "which delivery company is mentioned on the shirt of the person sitting across from me?",
+                "question_type": "gameplay",
+                "correct_answer": "fedex",
+                "timestamp": 82.3
+            },
+            {
+                "video_id": "d9808f8d-d318-4c66-bdf2-50b9dacfbee4",
+                "question_id": 6,
+                "question": "where is my notebook?",
+                "question_type": "gameplay",
+                "correct_answer": "on the table near the pink blanket",
+                "timestamp": 81.7
+            },
+            {
+                "video_id": "dc23d8f7-1007-4ef6-9583-e5c3fb3b4f8a",
+                "question_id": 6,
+                "question": "what item are right next to the water bottle on the left side of the table?",
+                "question_type": "gameplay",
+                "correct_answer": "a adoas hat",
+                "timestamp": 66.7
+            },
+            {
+                "video_id": "dd3eeed6-d3b9-44df-872f-21edef703282",
+                "question_id": 6,
+                "question": "where is the uno card deck?",
+                "question_type": "gameplay",
+                "correct_answer": "to the left side of the table",
+                "timestamp": 82.5
+            },
+            {
+                "video_id": "e111ae28-bac3-45a8-88d1-383a8248a09a",
+                "question_id": 6,
+                "question": "which items could be used for a game night?",
+                "question_type": "gameplay",
+                "correct_answer": "the items include the \"exploding kittens\" game box, the dominoes, and the playing cards",
+                "timestamp": 85.3
+            },
+            {
+                "video_id": "276e6832-5665-49e7-9cf8-c466b6d0ba5d",
+                "question_id": 7,
+                "question": "where are the snacks labeled \"new york cheddar\"?",
+                "question_type": "gameplay",
+                "correct_answer": "on the table near the drinks",
+                "timestamp": 77.8
+            },
+            {
+                "video_id": "2cfe1c0c-d57c-4faa-bcfe-a9228edb7997",
+                "question_id": 7,
+                "question": "what rules are mentioned for climbers on the yellow wall?",
+                "question_type": "gameplay",
+                "correct_answer": "train hard, climb harder",
+                "timestamp": 79.7
+            },
+            {
+                "video_id": "420fa606-4ef8-4d55-9666-6a0dfd2d8675",
+                "question_id": 7,
+                "question": "what brand is written on the cap on the table and how many water bottles are beside it?",
+                "question_type": "gameplay",
+                "correct_answer": "adoas, two",
+                "timestamp": 82.3
+            },
+            {
+                "video_id": "46f1fb76-18b1-4ca0-bfe4-8c11e25f6831",
+                "question_id": 7,
+                "question": "what options are available for navigation on the screen?",
+                "question_type": "gameplay",
+                "correct_answer": "back, forward",
+                "timestamp": 88.0
+            },
+            {
+                "video_id": "4791396e-7a0f-4848-b653-c4dbc1c367f5",
+                "question_id": 7,
+                "question": "what does the text on the man's shirt say?",
+                "question_type": "gameplay",
+                "correct_answer": "poppy",
+                "timestamp": 81.2
+            },
+            {
+                "video_id": "49e903f2-4e66-4480-9394-fb9db85091e1",
+                "question_id": 7,
+                "question": "what does the person in front of me have written on their shirt?",
+                "question_type": "gameplay",
+                "correct_answer": "lrg",
+                "timestamp": 81.2
+            },
+            {
+                "video_id": "4b2618eb-cda9-46a7-83e1-4997531f6371",
+                "question_id": 7,
+                "question": "what's the significance of the text \"cintas\" ?",
+                "question_type": "gameplay",
+                "correct_answer": "a service provider responsible for certain maintenance or supplies in the space",
+                "timestamp": 82.7
+            },
+            {
+                "video_id": "4d18e5cf-a2a9-46a9-871a-094c3ae05394",
+                "question_id": 7,
+                "question": "where is the latest issue of \"living\" magazine?",
+                "question_type": "gameplay",
+                "correct_answer": "in the magazine holder next to the sofa",
+                "timestamp": 81.5
+            },
+            {
+                "video_id": "58bcfeff-f742-4ee3-93a2-ca243b35edfe",
+                "question_id": 7,
+                "question": "where is the packet of \"new york cheddar\" snacks?",
+                "question_type": "gameplay",
+                "correct_answer": "on the table near the blue pepsi cans",
+                "timestamp": 85.3
+            },
+            {
+                "video_id": "71851280-d5e7-4385-968c-5f82a395c37f",
+                "question_id": 7,
+                "question": "what is the board game on the table, and does it look like we are about to play it?",
+                "question_type": "gameplay",
+                "correct_answer": "connect 4,no",
+                "timestamp": 82.3
+            },
+            {
+                "video_id": "73c2710b-8165-469c-bcc9-4ed79eec687a",
+                "question_id": 7,
+                "question": "what is the number of the first visible card on the bottom right side of the table?",
+                "question_type": "gameplay",
+                "correct_answer": "8",
+                "timestamp": 83.5
+            },
+            {
+                "video_id": "768446a7-d392-416a-ba1c-86d301f7ca5c",
+                "question_id": 7,
+                "question": "what words can i create using the letters \"g\", \"r\", \"a\", \"d\", \"i\", and \"n\" that are connected to existing words on the board?",
+                "question_type": "gameplay",
+                "correct_answer": "drain",
+                "timestamp": 76.3
+            },
+            {
+                "video_id": "7f918a83-87f2-440b-8df7-4a0fccf61e20",
+                "question_id": 7,
+                "question": "what brand of snacks are on the table next to the paper towel roll?",
+                "question_type": "gameplay",
+                "correct_answer": "pringles",
+                "timestamp": 82.8
+            },
+            {
+                "video_id": "84017c05-770f-4ba3-951b-2f7bc129ee6f",
+                "question_id": 7,
+                "question": "what's the name of the design or graphic on the guy's blue t-shirt, and what it refers to?",
+                "question_type": "gameplay",
+                "correct_answer": "at-at; it refers to a vehicle from a popular science fiction movie series",
+                "timestamp": 76.8
+            },
+            {
+                "video_id": "91d1a759-e3fc-4343-9355-2ea1b0a16040",
+                "question_id": 7,
+                "question": "what is the brand of the remote on the table?",
+                "question_type": "gameplay",
+                "correct_answer": "sony",
+                "timestamp": 77.7
+            },
+            {
+                "video_id": "98debf95-c91b-42b4-8e9a-ee225e09468c",
+                "question_id": 7,
+                "question": "how many cards in my hand are from the number 9?",
+                "question_type": "gameplay",
+                "correct_answer": "2",
+                "timestamp": 72.8
+            },
+            {
+                "video_id": "a82044db-ea6c-4187-9990-961b24fc3f1d",
+                "question_id": 7,
+                "question": "where is the aed device?",
+                "question_type": "gameplay",
+                "correct_answer": "on the wall next to the black door",
+                "timestamp": 84.5
+            },
+            {
+                "video_id": "cd9571ee-3e6c-4362-88d4-8c7a33329bf9",
+                "question_id": 7,
+                "question": "what is written on the shirt of the person i am working with?",
+                "question_type": "gameplay",
+                "correct_answer": "poppy",
+                "timestamp": 81.2
+            },
+            {
+                "video_id": "d3d7a2c6-a466-43eb-ae53-374777374927",
+                "question_id": 7,
+                "question": "when i play a yellow \"1\" card, what color card should i play next?",
+                "question_type": "gameplay",
+                "correct_answer": "yellow card",
+                "timestamp": 79.5
+            },
+            {
+                "video_id": "d9537697-a20b-43d8-ae1e-63dd151627a9",
+                "question_id": 7,
+                "question": "what is the game we're playing?",
+                "question_type": "gameplay",
+                "correct_answer": "jenga",
+                "timestamp": 79.8
+            },
+            {
+                "video_id": "e25e9b61-560b-4e18-b148-c39d67e044b1",
+                "question_id": 7,
+                "question": "which word is written on the cushion behind the person?",
+                "question_type": "gameplay",
+                "correct_answer": "idd",
+                "timestamp": 81.2
+            },
+            {
+                "video_id": "e43e9b53-a1be-4218-94b6-4839577a7725",
+                "question_id": 7,
+                "question": "what game does the box on the left shown?",
+                "question_type": "gameplay",
+                "correct_answer": "uno",
+                "timestamp": 82.5
+            },
+            {
+                "video_id": "34f1d4e9-56c1-4c19-84bb-8c44fa9b2e58",
+                "question_id": 8,
+                "question": "what\u2019s the color associated with the \"home\" space on the board?",
+                "question_type": "gameplay",
+                "correct_answer": "green red blue yellow",
+                "timestamp": 65.5
+            },
+            {
+                "video_id": "3659a309-fdb0-4bc9-86ec-f180dd6233cf",
+                "question_id": 8,
+                "question": "what card do my opponent play before i placed the red 9 card?",
+                "question_type": "gameplay",
+                "correct_answer": "red 8",
+                "timestamp": 81.2
+            },
+            {
+                "video_id": "3f881d06-273d-4595-a69b-001a7dae2164",
+                "question_id": 8,
+                "question": "where should i put the \"hint\" water bottle to avoid knocking it over?",
+                "question_type": "gameplay",
+                "correct_answer": "on the shelf next to the tv",
+                "timestamp": 81.2
+            },
+            {
+                "video_id": "5db8ead8-2530-4f60-8ac2-4bf2b4cabd8e",
+                "question_id": 8,
+                "question": "i draw a card that says \"2\" and land on a \"slide\" space, what do i need to do?",
+                "question_type": "gameplay",
+                "correct_answer": "slide to the end of the slide",
+                "timestamp": 71.0
+            },
+            {
+                "video_id": "5dd40095-2978-4845-93c7-2abd2d97a4ec",
+                "question_id": 8,
+                "question": "which color chips am i using in the game?",
+                "question_type": "gameplay",
+                "correct_answer": "red",
+                "timestamp": 81.2
+            },
+            {
+                "video_id": "65b3da0a-30f0-4c5f-9cc0-f4667f2bd792",
+                "question_id": 8,
+                "question": "which board game is sitting on the floor next to my leg?",
+                "question_type": "gameplay",
+                "correct_answer": "chinese checkers",
+                "timestamp": 81.0
+            },
+            {
+                "video_id": "6abbaf21-1ae3-4b31-93ef-e94305a2a709",
+                "question_id": 8,
+                "question": "where is the text explaining the game rules for our card game?",
+                "question_type": "gameplay",
+                "correct_answer": "on the paper on the table",
+                "timestamp": 81.2
+            },
+            {
+                "video_id": "73c2710b-8165-469c-bcc9-4ed79eec687a",
+                "question_id": 8,
+                "question": "what is the suit of the third visible card on the bottom right side of the table?",
+                "question_type": "gameplay",
+                "correct_answer": "diamonds",
+                "timestamp": 83.5
+            },
+            {
+                "video_id": "7d3c981a-6e18-4474-ac1e-956817fc1d0e",
+                "question_id": 8,
+                "question": "what is the first card played by the other person after i dealt?",
+                "question_type": "gameplay",
+                "correct_answer": "9 of diamonds",
+                "timestamp": 75.8
+            },
+            {
+                "video_id": "7f918a83-87f2-440b-8df7-4a0fccf61e20",
+                "question_id": 8,
+                "question": "where is the hat with the adoas logo placed?",
+                "question_type": "gameplay",
+                "correct_answer": "next to the bottled water",
+                "timestamp": 82.8
+            },
+            {
+                "video_id": "8762f76f-cc2f-4681-aa57-08ddb1b3a4df",
+                "question_id": 8,
+                "question": "where is the drink labeled \"pepsi\"?",
+                "question_type": "gameplay",
+                "correct_answer": "on the table next to the water bottles",
+                "timestamp": 85.3
+            },
+            {
+                "video_id": "902f71e0-ca70-459e-90ed-5e82ed6798be",
+                "question_id": 8,
+                "question": "where should i place my adoas cap after this game?",
+                "question_type": "gameplay",
+                "correct_answer": "next to the water bottle",
+                "timestamp": 82.8
+            },
+            {
+                "video_id": "98debf95-c91b-42b4-8e9a-ee225e09468c",
+                "question_id": 8,
+                "question": "which card i'm missing to make a five-card straight?",
+                "question_type": "gameplay",
+                "correct_answer": "4",
+                "timestamp": 72.8
+            },
+            {
+                "video_id": "9caf5ff0-c1f6-4dda-88ce-744dd9ac0ff1",
+                "question_id": 8,
+                "question": "which brand is on the man's shirt dealing the cards?",
+                "question_type": "gameplay",
+                "correct_answer": "lng",
+                "timestamp": 81.7
+            },
+            {
+                "video_id": "a017142a-8b5c-4b1f-ad5b-a20ec080d673",
+                "question_id": 8,
+                "question": "where is the 'start' area on the game board of 'sorry!'?",
+                "question_type": "gameplay",
+                "correct_answer": "the area marked with a red circle",
+                "timestamp": 80.0
+            },
+            {
+                "video_id": "a82044db-ea6c-4187-9990-961b24fc3f1d",
+                "question_id": 8,
+                "question": "what brand is the aed device?",
+                "question_type": "gameplay",
+                "correct_answer": "zoll",
+                "timestamp": 84.5
+            },
+            {
+                "video_id": "df72c519-0b7d-44c5-ad89-6268b04559ab",
+                "question_id": 8,
+                "question": "where is snack with the text \"doritos\" on it ?",
+                "question_type": "gameplay",
+                "correct_answer": "it is on the table",
+                "timestamp": 84.0
+            },
+            {
+                "video_id": "1fdf634f-edbb-4985-a350-93161b783135",
+                "question_id": 9,
+                "question": "what are the initial setup steps for the game \"sorry!\" ?",
+                "question_type": "gameplay",
+                "correct_answer": "placing the \"sorry!\" board on the table and setting the pieces at the start area",
+                "timestamp": 105.0
+            },
+            {
+                "video_id": "276e6832-5665-49e7-9cf8-c466b6d0ba5d",
+                "question_id": 9,
+                "question": "what brand of beverage is placed near the snacks?",
+                "question_type": "gameplay",
+                "correct_answer": "pepsi",
+                "timestamp": 105.3
+            },
+            {
+                "video_id": "33a6cc3e-8f1f-4cc3-a82c-9b785aef077e",
+                "question_id": 9,
+                "question": "where is the definition of the word \"scent\" in the dictionary?",
+                "question_type": "gameplay",
+                "correct_answer": "towards the end of the dictionary",
+                "timestamp": 111.3
+            },
+            {
+                "video_id": "3864791e-acbd-4126-b04a-1706b6557594",
+                "question_id": 9,
+                "question": "where do we place the black and white checkers before starting the game?",
+                "question_type": "gameplay",
+                "correct_answer": "on the table beside the \u2018ideal\u2019 board",
+                "timestamp": 112.3
+            },
+            {
+                "video_id": "42629ce2-6a50-4efa-b839-4e32532456cd",
+                "question_id": 9,
+                "question": "are there any special cards (like wild or skip) in my hand, and what are they?",
+                "question_type": "gameplay",
+                "correct_answer": "draw two",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "4791396e-7a0f-4848-b653-c4dbc1c367f5",
+                "question_id": 9,
+                "question": "which color pieces do i need to use next?",
+                "question_type": "gameplay",
+                "correct_answer": "purple",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "58bcfeff-f742-4ee3-93a2-ca243b35edfe",
+                "question_id": 9,
+                "question": "which snacks should we pair with the \"pepsi\" for our gathering?",
+                "question_type": "gameplay",
+                "correct_answer": "new york cheddar",
+                "timestamp": 102.3
+            },
+            {
+                "video_id": "71851280-d5e7-4385-968c-5f82a395c37f",
+                "question_id": 9,
+                "question": "which another item is on the table, and does it require more than one player?",
+                "question_type": "gameplay",
+                "correct_answer": "the \"connect 4\" game box, yes",
+                "timestamp": 111.0
+            },
+            {
+                "video_id": "7d3c981a-6e18-4474-ac1e-956817fc1d0e",
+                "question_id": 9,
+                "question": "which card do i place down next to the notebook?",
+                "question_type": "gameplay",
+                "correct_answer": "ace of hearts",
+                "timestamp": 114.7
+            },
+            {
+                "video_id": "7ffe7952-a631-4e5b-8057-97c12f2b31ed",
+                "question_id": 9,
+                "question": "are there any aces on the table, and if so, where exactly are they placed?",
+                "question_type": "gameplay",
+                "correct_answer": "yes,near two other cards",
+                "timestamp": 106.3
+            },
+            {
+                "video_id": "8fc01fbe-195c-4511-99af-6d34d634aeb5",
+                "question_id": 9,
+                "question": "where is the sequence game box placed in relation to the board?",
+                "question_type": "gameplay",
+                "correct_answer": "at the top right corner of the board",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "a82044db-ea6c-4187-9990-961b24fc3f1d",
+                "question_id": 9,
+                "question": "which direction should i go to find the emergency equipment displayed on the wall?",
+                "question_type": "gameplay",
+                "correct_answer": "towards the white wall with the black door",
+                "timestamp": 101.5
+            },
+            {
+                "video_id": "bb84e749-103d-44a6-9afb-d0e48e906b69",
+                "question_id": 9,
+                "question": "where is the 'uno' card in the stack?",
+                "question_type": "gameplay",
+                "correct_answer": "on top of the pile",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "cc04ee00-ae07-49ed-9614-0cf62685c9ef",
+                "question_id": 9,
+                "question": "how many twos do i have ?",
+                "question_type": "gameplay",
+                "correct_answer": "three",
+                "timestamp": 120.0
+            },
+            {
+                "video_id": "d9537697-a20b-43d8-ae1e-63dd151627a9",
+                "question_id": 9,
+                "question": "where is the box kept after we take out the jenga pieces?",
+                "question_type": "gameplay",
+                "correct_answer": "on the table",
+                "timestamp": 112.2
+            },
+            {
+                "video_id": "0b0aaab2-b3da-48f8-b5f1-10af319e4f4d",
+                "question_id": 10,
+                "question": "what is the board game that we're about to play?",
+                "question_type": "gameplay",
+                "correct_answer": "sorry!",
+                "timestamp": 113.3
+            },
+            {
+                "video_id": "0cb0effe-ca4e-4606-9183-b48c80b59e3a",
+                "question_id": 10,
+                "question": "what brand of cards are we using for this game?",
+                "question_type": "gameplay",
+                "correct_answer": "las vegy",
+                "timestamp": 109.5
+            },
+            {
+                "video_id": "2a6680cf-05f4-47e8-9eed-bd46351bcb86",
+                "question_id": 10,
+                "question": "what is written on the person's sweatshirt?",
+                "question_type": "gameplay",
+                "correct_answer": "face water wineay",
+                "timestamp": 108.8
+            },
+            {
+                "video_id": "311b92dd-d60d-4413-9d94-525c17a24edf",
+                "question_id": 10,
+                "question": "what is the game?",
+                "question_type": "gameplay",
+                "correct_answer": "giant jenga",
+                "timestamp": 135.0
+            },
+            {
+                "video_id": "3659a309-fdb0-4bc9-86ec-f180dd6233cf",
+                "question_id": 10,
+                "question": "which card game are we playing?",
+                "question_type": "gameplay",
+                "correct_answer": "uno",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "3e0b211e-5152-4928-bfa4-66c13181892f",
+                "question_id": 10,
+                "question": "what do i need to do to win the \"second rule\" game?",
+                "question_type": "gameplay",
+                "correct_answer": "accumulate the most cards by answering quickly",
+                "timestamp": 117.3
+            },
+            {
+                "video_id": "410a6007-f759-4f9a-8196-0dad61934929",
+                "question_id": 10,
+                "question": "what is the brand or name on the shirt worn by the person across from me?",
+                "question_type": "gameplay",
+                "correct_answer": "nasa",
+                "timestamp": 111.8
+            },
+            {
+                "video_id": "413f67ec-35c1-429a-8d8b-09ff7ad69541",
+                "question_id": 10,
+                "question": "which card should i play to follow up on the green reverse card?",
+                "question_type": "gameplay",
+                "correct_answer": "play a green card or another reverse card",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "42629ce2-6a50-4efa-b839-4e32532456cd",
+                "question_id": 10,
+                "question": "what card do i need to play to get rid of my last red card?",
+                "question_type": "gameplay",
+                "correct_answer": "the red 9 card",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "49e1e104-12db-44c5-88b2-d9307e92279c",
+                "question_id": 10,
+                "question": "what are the actions i need to take when i have only one card left?",
+                "question_type": "gameplay",
+                "correct_answer": "say \"uno\"",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "5e1a2f50-665c-4f44-ace2-4b59d393367a",
+                "question_id": 10,
+                "question": "what did the screen display above my lane right before i bowled?",
+                "question_type": "gameplay",
+                "correct_answer": "sport",
+                "timestamp": 124.5
+            },
+            {
+                "video_id": "6abbaf21-1ae3-4b31-93ef-e94305a2a709",
+                "question_id": 10,
+                "question": "when do we start playing the card game?",
+                "question_type": "gameplay",
+                "correct_answer": "06:39:52",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "768446a7-d392-416a-ba1c-86d301f7ca5c",
+                "question_id": 10,
+                "question": "what word can i form by using the letter 'q' that is currently on the board?",
+                "question_type": "gameplay",
+                "correct_answer": "quiz",
+                "timestamp": 104.3
+            },
+            {
+                "video_id": "7e631664-cb72-419e-a1c4-381e98a45a60",
+                "question_id": 10,
+                "question": "which card should i play next?",
+                "question_type": "gameplay",
+                "correct_answer": "green 5",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "93abda95-532c-4a12-b31b-d20bf668e335",
+                "question_id": 10,
+                "question": "which zone on the board is labeled 'safe zone'?",
+                "question_type": "gameplay",
+                "correct_answer": "yellow",
+                "timestamp": 114.5
+            },
+            {
+                "video_id": "a8abb768-0251-4b12-8f5e-a632460c0fb1",
+                "question_id": 10,
+                "question": "what is the game we are playing?",
+                "question_type": "gameplay",
+                "correct_answer": "checkers",
+                "timestamp": 109.7
+            },
+            {
+                "video_id": "c92084da-5e14-4aaa-9c50-d4595d3672fb",
+                "question_id": 10,
+                "question": "what brand is featured on the grey hat next to the \"alphabet soup\" box?",
+                "question_type": "gameplay",
+                "correct_answer": "adidas",
+                "timestamp": 102.0
+            },
+            {
+                "video_id": "d3d7a2c6-a466-43eb-ae53-374777374927",
+                "question_id": 10,
+                "question": "what cards do i have that can match the yellow seven card just played?",
+                "question_type": "gameplay",
+                "correct_answer": "the yellow eight card",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "d699d1b7-d990-4966-a155-22030d04eddd",
+                "question_id": 10,
+                "question": "what was the fourth card dealt in the game?",
+                "question_type": "gameplay",
+                "correct_answer": "fruity pebbles",
+                "timestamp": 111.8
+            },
+            {
+                "video_id": "dc5f3958-2600-4354-a445-e270e3b12a51",
+                "question_id": 10,
+                "question": "what is the game we are about to play?",
+                "question_type": "gameplay",
+                "correct_answer": "wingspan",
+                "timestamp": 115.2
+            },
+            {
+                "video_id": "e3716438-fc07-407a-8429-fe7c757f36b5",
+                "question_id": 10,
+                "question": "where is the \"cintas\" sign ?",
+                "question_type": "gameplay",
+                "correct_answer": "on the wall at the back",
+                "timestamp": 118.5
+            },
+            {
+                "video_id": "e3d158ec-b7f9-4449-8a10-f63e279120d9",
+                "question_id": 10,
+                "question": "which instruction do i need to follow after pulling a block from the jenga tower?",
+                "question_type": "gameplay",
+                "correct_answer": "pull",
+                "timestamp": 113.0
+            },
+            {
+                "video_id": "10f66336-6996-4c2e-a586-2fbb9b8ce8e1",
+                "question_id": 11,
+                "question": "where are the rules for the game on the jenga box?",
+                "question_type": "gameplay",
+                "correct_answer": "on the side of the box where the instructions are printed",
+                "timestamp": 104.5
+            },
+            {
+                "video_id": "115404d7-b34b-4319-a521-5a80b4ff886b",
+                "question_id": 11,
+                "question": "which brand of light is hanging over the pool table?",
+                "question_type": "gameplay",
+                "correct_answer": "coors light",
+                "timestamp": 105.8
+            },
+            {
+                "video_id": "3f881d06-273d-4595-a69b-001a7dae2164",
+                "question_id": 11,
+                "question": "i get thirsty,where is the bottle of hint water?",
+                "question_type": "gameplay",
+                "correct_answer": "on the coffee table next to the vase",
+                "timestamp": 114.8
+            },
+            {
+                "video_id": "413f67ec-35c1-429a-8d8b-09ff7ad69541",
+                "question_id": 11,
+                "question": "what is the number on the last played green card?",
+                "question_type": "gameplay",
+                "correct_answer": "2",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "42629ce2-6a50-4efa-b839-4e32532456cd",
+                "question_id": 11,
+                "question": "where is the \"draw four\" card?",
+                "question_type": "gameplay",
+                "correct_answer": "there is no \"draw four\" card in my hand",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "4b02b09f-b90a-4647-a826-0efccccf3aca",
+                "question_id": 11,
+                "question": "which letters are still available in the tray that haven't been played on the board yet?",
+                "question_type": "gameplay",
+                "correct_answer": "q, k, y",
+                "timestamp": 110.7
+            },
+            {
+                "video_id": "51bfe83e-0f25-4187-9500-5be749ab0bfb",
+                "question_id": 11,
+                "question": "which brand is displayed on the cap?",
+                "question_type": "gameplay",
+                "correct_answer": "adoas",
+                "timestamp": 115.5
+            },
+            {
+                "video_id": "57c9f3a3-b00c-4921-aaaf-bcdf7b6a0573",
+                "question_id": 11,
+                "question": "where should i place the colored pieces in the \"jenga\" box?",
+                "question_type": "gameplay",
+                "correct_answer": "inside the jenga box",
+                "timestamp": 143.7
+            },
+            {
+                "video_id": "5cdea21a-43b7-4d6d-8d5e-575bd81d07a7",
+                "question_id": 11,
+                "question": "where are the instructions for playing jenga?",
+                "question_type": "gameplay",
+                "correct_answer": "inside the jenga box",
+                "timestamp": 113.3
+            },
+            {
+                "video_id": "5db8ead8-2530-4f60-8ac2-4bf2b4cabd8e",
+                "question_id": 11,
+                "question": "where are the safety zones located on the game board?",
+                "question_type": "gameplay",
+                "correct_answer": "near the home spaces in each color zone",
+                "timestamp": 111.7
+            },
+            {
+                "video_id": "5dd40095-2978-4845-93c7-2abd2d97a4ec",
+                "question_id": 11,
+                "question": "which cards on the board indicate that they are part of a completed sequence?",
+                "question_type": "gameplay",
+                "correct_answer": "cards marked with a consecutive row of five same-colored chips",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "5e1a2f50-665c-4f44-ace2-4b59d393367a",
+                "question_id": 11,
+                "question": "where can i find information on how i scored in the last round?",
+                "question_type": "gameplay",
+                "correct_answer": "the screen above the lane",
+                "timestamp": 124.5
+            },
+            {
+                "video_id": "68f8a3a7-82cd-45ae-a161-833e25201517",
+                "question_id": 11,
+                "question": "which type of glue is indicated on the yellow bottle, and does the instruction manual recommend using it for the wooden pieces?",
+                "question_type": "gameplay",
+                "correct_answer": "wood glue,yes",
+                "timestamp": 101.8
+            },
+            {
+                "video_id": "6c3c8013-9e4d-46a8-9d1b-1fa1c489a501",
+                "question_id": 11,
+                "question": "which types of playing cards are on the table, and how are they arranged?",
+                "question_type": "gameplay",
+                "correct_answer": "face cards and number cards in a mixed arrangement",
+                "timestamp": 112.7
+            },
+            {
+                "video_id": "7e631664-cb72-419e-a1c4-381e98a45a60",
+                "question_id": 11,
+                "question": "what is the number on the green card that i am holding?",
+                "question_type": "gameplay",
+                "correct_answer": "5",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "80e5c962-37d4-4394-825c-e4c81b539e78",
+                "question_id": 11,
+                "question": "where are the instructions for the \"hoot owl hoot\" game?",
+                "question_type": "gameplay",
+                "correct_answer": "on the \"colorful circles\" game box",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "88bee3d8-1eac-449a-a638-0f3360ceb092",
+                "question_id": 11,
+                "question": "what brand is featured on the hat placed on the table next to the \"stinger air\" box?",
+                "question_type": "gameplay",
+                "correct_answer": "adoas",
+                "timestamp": 111.8
+            },
+            {
+                "video_id": "8a661321-133c-4efd-ae03-d7d002053d05",
+                "question_id": 11,
+                "question": "where did we leave the main game pieces for \"sorry!\" ?",
+                "question_type": "gameplay",
+                "correct_answer": "in the open container on the table",
+                "timestamp": 143.0
+            },
+            {
+                "video_id": "902f71e0-ca70-459e-90ed-5e82ed6798be",
+                "question_id": 11,
+                "question": "where are some snacks?",
+                "question_type": "gameplay",
+                "correct_answer": "pringles can",
+                "timestamp": 113.5
+            },
+            {
+                "video_id": "a017142a-8b5c-4b1f-ad5b-a20ec080d673",
+                "question_id": 11,
+                "question": "where do i need to place my token to start the game?",
+                "question_type": "gameplay",
+                "correct_answer": "start",
+                "timestamp": 112.2
+            },
+            {
+                "video_id": "b0fd69e6-223c-4030-ab07-1bd1549bdf30",
+                "question_id": 11,
+                "question": "where is the card with the seven of clubs located?",
+                "question_type": "gameplay",
+                "correct_answer": "in the middle of the hand of cards shown",
+                "timestamp": 114.7
+            },
+            {
+                "video_id": "cc04ee00-ae07-49ed-9614-0cf62685c9ef",
+                "question_id": 11,
+                "question": "where can i find the instructions for the special edition game ?",
+                "question_type": "gameplay",
+                "correct_answer": "on the white instruction sheet on the table",
+                "timestamp": 120.0
+            },
+            {
+                "video_id": "dc57e99a-b31e-424a-9be7-fd03cbe4a6d9",
+                "question_id": 11,
+                "question": "which specific parts do i need to use?",
+                "question_type": "gameplay",
+                "correct_answer": "the long white tubes and black connectors",
+                "timestamp": 110.7
+            },
+            {
+                "video_id": "dd8dff31-b43a-4331-b69b-0db43b0e8773",
+                "question_id": 11,
+                "question": "which number is on the hex tile ?",
+                "question_type": "gameplay",
+                "correct_answer": "eight",
+                "timestamp": 111.7
+            },
+            {
+                "video_id": "167502d6-961b-4d31-bf40-cc8febecc1da",
+                "question_id": 12,
+                "question": "where can i find the red playing pieces for connect 4?",
+                "question_type": "gameplay",
+                "correct_answer": "on the table",
+                "timestamp": 139.3
+            },
+            {
+                "video_id": "33a6cc3e-8f1f-4cc3-a82c-9b785aef077e",
+                "question_id": 12,
+                "question": "what letters are available in the tile rack?",
+                "question_type": "gameplay",
+                "correct_answer": "r,i,l,b,m",
+                "timestamp": 140.0
+            },
+            {
+                "video_id": "34f1d4e9-56c1-4c19-84bb-8c44fa9b2e58",
+                "question_id": 12,
+                "question": "which card should i draw next\uff1f",
+                "question_type": "gameplay",
+                "correct_answer": "from the sorry! deck",
+                "timestamp": 143.5
+            },
+            {
+                "video_id": "3e0b211e-5152-4928-bfa4-66c13181892f",
+                "question_id": 12,
+                "question": "which item do i need to interact with to initiate a new round of the \"second rule\" game?",
+                "question_type": "gameplay",
+                "correct_answer": "the yellow timer on the game box",
+                "timestamp": 133.8
+            },
+            {
+                "video_id": "410a6007-f759-4f9a-8196-0dad61934929",
+                "question_id": 12,
+                "question": "what is the color and number of cups on the table?",
+                "question_type": "gameplay",
+                "correct_answer": "three cups, one red\uff0c one pink and one green",
+                "timestamp": 140.5
+            },
+            {
+                "video_id": "5e1a2f50-665c-4f44-ace2-4b59d393367a",
+                "question_id": 12,
+                "question": "which screen displayed \"bubble gum,\" and what was happening?",
+                "question_type": "gameplay",
+                "correct_answer": "the screen above the lane, someone is bowling",
+                "timestamp": 123.5
+            },
+            {
+                "video_id": "705c80fb-19bf-4a6b-bea2-2656b0c503c3",
+                "question_id": 12,
+                "question": "which colored money cards have denominations of \"10\"?",
+                "question_type": "gameplay",
+                "correct_answer": "yellow",
+                "timestamp": 140.2
+            },
+            {
+                "video_id": "7c08a850-b438-49fb-b907-55751f6d79e2",
+                "question_id": 12,
+                "question": "what logo or name is on the t-shirt ?",
+                "question_type": "gameplay",
+                "correct_answer": "college of wooster dad",
+                "timestamp": 140.2
+            },
+            {
+                "video_id": "7d3c981a-6e18-4474-ac1e-956817fc1d0e",
+                "question_id": 12,
+                "question": "which player's cards add up to a higher total ?",
+                "question_type": "gameplay",
+                "correct_answer": "the opponent\u2019s cards",
+                "timestamp": 127.2
+            },
+            {
+                "video_id": "a8abb768-0251-4b12-8f5e-a632460c0fb1",
+                "question_id": 12,
+                "question": "which box does the game board and pieces likely come from?",
+                "question_type": "gameplay",
+                "correct_answer": "the \"classic\" box visible on the table",
+                "timestamp": 139.5
+            },
+            {
+                "video_id": "e43e9b53-a1be-4218-94b6-4839577a7725",
+                "question_id": 12,
+                "question": "where is the uno box?",
+                "question_type": "gameplay",
+                "correct_answer": "on the left side of the table",
+                "timestamp": 132.3
+            },
+            {
+                "video_id": "1fdf634f-edbb-4985-a350-93161b783135",
+                "question_id": 13,
+                "question": "what board game are at the table?",
+                "question_type": "gameplay",
+                "correct_answer": "sorry",
+                "timestamp": 137.2
+            },
+            {
+                "video_id": "276e6832-5665-49e7-9cf8-c466b6d0ba5d",
+                "question_id": 13,
+                "question": "what snacks can i choose ?",
+                "question_type": "gameplay",
+                "correct_answer": "new york cheddar",
+                "timestamp": 141.5
+            },
+            {
+                "video_id": "49e1e104-12db-44c5-88b2-d9307e92279c",
+                "question_id": 13,
+                "question": "what is the card game?",
+                "question_type": "gameplay",
+                "correct_answer": "uno",
+                "timestamp": 140.2
+            },
+            {
+                "video_id": "4b2618eb-cda9-46a7-83e1-4997531f6371",
+                "question_id": 13,
+                "question": "what other games can i join in, besides connect four?",
+                "question_type": "gameplay",
+                "correct_answer": "jenga",
+                "timestamp": 138.5
+            },
+            {
+                "video_id": "4cff84ac-1ef1-4cb7-ba6d-58288ae47b47",
+                "question_id": 13,
+                "question": "my opponent plays a red uno card, what should i do?",
+                "question_type": "gameplay",
+                "correct_answer": "play a red card or a card with the same number",
+                "timestamp": 141.3
+            },
+            {
+                "video_id": "5cdea21a-43b7-4d6d-8d5e-575bd81d07a7",
+                "question_id": 13,
+                "question": "which item on the table has the label \"jenga\"?",
+                "question_type": "gameplay",
+                "correct_answer": "the game box",
+                "timestamp": 132.5
+            },
+            {
+                "video_id": "705c80fb-19bf-4a6b-bea2-2656b0c503c3",
+                "question_id": 13,
+                "question": "what is the game?",
+                "question_type": "gameplay",
+                "correct_answer": "taxi!!",
+                "timestamp": 140.2
+            },
+            {
+                "video_id": "73c2710b-8165-469c-bcc9-4ed79eec687a",
+                "question_id": 13,
+                "question": "where can i find the \"strategeo\" game?",
+                "question_type": "gameplay",
+                "correct_answer": "near the grey hat on the desk",
+                "timestamp": 148.5
+            },
+            {
+                "video_id": "856e0121-d1a7-4cdc-874a-eb6547cab042",
+                "question_id": 13,
+                "question": "what are the starting positions for each color player?",
+                "question_type": "gameplay",
+                "correct_answer": "each player starts by placing their pieces in the \"start\" area of their respective color section",
+                "timestamp": 143.2
+            },
+            {
+                "video_id": "915d499b-84cf-4c1e-bbe7-a05241e93fb3",
+                "question_id": 13,
+                "question": "what is the game?",
+                "question_type": "gameplay",
+                "correct_answer": "catan",
+                "timestamp": 140.2
+            },
+            {
+                "video_id": "b81dfe21-7041-4631-9ad5-c64f6d5a76c0",
+                "question_id": 13,
+                "question": "what card did i draw from the pile?",
+                "question_type": "gameplay",
+                "correct_answer": "i drew a card with an \"uno\" logo",
+                "timestamp": 140.2
+            },
+            {
+                "video_id": "bb84e749-103d-44a6-9afb-d0e48e906b69",
+                "question_id": 13,
+                "question": "what game are we about to play?",
+                "question_type": "gameplay",
+                "correct_answer": "uno",
+                "timestamp": 140.2
+            },
+            {
+                "video_id": "d1095dbf-c235-4975-94a8-e125573bdb7d",
+                "question_id": 13,
+                "question": "what does the cover of the game box look like?",
+                "question_type": "gameplay",
+                "correct_answer": "it contains images of the characters and the word \"clue\"",
+                "timestamp": 142.2
+            },
+            {
+                "video_id": "d699d1b7-d990-4966-a155-22030d04eddd",
+                "question_id": 13,
+                "question": "what brand is on the shirt the man opposite is wearing?",
+                "question_type": "gameplay",
+                "correct_answer": "lrg",
+                "timestamp": 139.8
+            },
+            {
+                "video_id": "e3716438-fc07-407a-8429-fe7c757f36b5",
+                "question_id": 13,
+                "question": "what language is written on the shirt of the person i'm playing with, and what does it translate to in english?",
+                "question_type": "gameplay",
+                "correct_answer": "japanese, translating to \"dragon ball z\"",
+                "timestamp": 139.8
+            },
+            {
+                "video_id": "e43e9b53-a1be-4218-94b6-4839577a7725",
+                "question_id": 13,
+                "question": "which card game are we playing in addition to uno?",
+                "question_type": "gameplay",
+                "correct_answer": "the game is pac-man cards",
+                "timestamp": 132.3
+            },
+            {
+                "video_id": "167502d6-961b-4d31-bf40-cc8febecc1da",
+                "question_id": 14,
+                "question": "where can i find the yellow tokens for the connect 4 game?",
+                "question_type": "gameplay",
+                "correct_answer": "on the table near the game box",
+                "timestamp": 139.3
+            },
+            {
+                "video_id": "276e6832-5665-49e7-9cf8-c466b6d0ba5d",
+                "question_id": 14,
+                "question": "where do i find the beverages we have available?",
+                "question_type": "gameplay",
+                "correct_answer": "on the table",
+                "timestamp": 141.5
+            },
+            {
+                "video_id": "2a6680cf-05f4-47e8-9eed-bd46351bcb86",
+                "question_id": 14,
+                "question": "which card should i play next to make a pair with the three of diamonds?",
+                "question_type": "gameplay",
+                "correct_answer": "2",
+                "timestamp": 140.3
+            },
+            {
+                "video_id": "34f1d4e9-56c1-4c19-84bb-8c44fa9b2e58",
+                "question_id": 14,
+                "question": "how do i determine which player goes first?",
+                "question_type": "gameplay",
+                "correct_answer": "judging by age. the youngest or oldest player will play first",
+                "timestamp": 143.5
+            },
+            {
+                "video_id": "413f67ec-35c1-429a-8d8b-09ff7ad69541",
+                "question_id": 14,
+                "question": "which color should i change to after i play a \"wild\" card?",
+                "question_type": "gameplay",
+                "correct_answer": "the color that benefits my hand the most",
+                "timestamp": 140.2
+            },
+            {
+                "video_id": "4b2618eb-cda9-46a7-83e1-4997531f6371",
+                "question_id": 14,
+                "question": "which word can help me find the stacking game pieces on the table?",
+                "question_type": "gameplay",
+                "correct_answer": "jenga",
+                "timestamp": 138.5
+            },
+            {
+                "video_id": "5db8ead8-2530-4f60-8ac2-4bf2b4cabd8e",
+                "question_id": 14,
+                "question": "how do i use the \"home\" spot?",
+                "question_type": "gameplay",
+                "correct_answer": "move your game piece into \"home\" by exact count at the end of the \"safety zone\"",
+                "timestamp": 143.7
+            },
+            {
+                "video_id": "5dd40095-2978-4845-93c7-2abd2d97a4ec",
+                "question_id": 14,
+                "question": "how many red chips are placed on the game board?",
+                "question_type": "gameplay",
+                "correct_answer": "5",
+                "timestamp": 140.2
+            },
+            {
+                "video_id": "803d042f-1825-4e84-a8fa-a81f42149cf4",
+                "question_id": 14,
+                "question": "which card has the number \"12\" on it?",
+                "question_type": "gameplay",
+                "correct_answer": "my card",
+                "timestamp": 137.5
+            },
+            {
+                "video_id": "9247ab03-c532-4f3c-af9b-2e6801d582e7",
+                "question_id": 14,
+                "question": "which spaces can i place my next red token ?",
+                "question_type": "gameplay",
+                "correct_answer": "on a space adjacent to a blue chip sequence",
+                "timestamp": 140.2
+            },
+            {
+                "video_id": "93abda95-532c-4a12-b31b-d20bf668e335",
+                "question_id": 14,
+                "question": "which magazine article seems the most interesting, and why do i find it appealing?",
+                "question_type": "gameplay",
+                "correct_answer": "the pop magazine article about current events because it updates you on the latest trends",
+                "timestamp": 139.7
+            },
+            {
+                "video_id": "b1345ec8-f29a-417b-b40a-fb362942584d",
+                "question_id": 14,
+                "question": "which player is wearing the \"fedex\" shirt?",
+                "question_type": "gameplay",
+                "correct_answer": "the man sitting at the table",
+                "timestamp": 142.2
+            },
+            {
+                "video_id": "34f1d4e9-56c1-4c19-84bb-8c44fa9b2e58",
+                "question_id": 15,
+                "question": "which space allows me to send an opponent\u2019s piece back to their start position?",
+                "question_type": "gameplay",
+                "correct_answer": "the sorry space",
+                "timestamp": 143.5
+            },
+            {
+                "video_id": "455417d7-6200-4c2e-916f-b779cefec7bf",
+                "question_id": 15,
+                "question": "which player seems to be holding more cards in their hand ?",
+                "question_type": "gameplay",
+                "correct_answer": "the player across from me",
+                "timestamp": 140.2
+            },
+            {
+                "video_id": "5db8ead8-2530-4f60-8ac2-4bf2b4cabd8e",
+                "question_id": 15,
+                "question": "which card allows me to move forward more than one space?",
+                "question_type": "gameplay",
+                "correct_answer": "cards with more than 1 point",
+                "timestamp": 143.7
+            },
+            {
+                "video_id": "6abbaf21-1ae3-4b31-93ef-e94305a2a709",
+                "question_id": 15,
+                "question": "where should i place the discard card ?",
+                "question_type": "gameplay",
+                "correct_answer": "next to the draw pile",
+                "timestamp": 140.2
+            },
+            {
+                "video_id": "7ffe7952-a631-4e5b-8057-97c12f2b31ed",
+                "question_id": 15,
+                "question": "where is the nearest bottle that is labeled \"6-1\"?",
+                "question_type": "gameplay",
+                "correct_answer": "on the shelf, in the middle",
+                "timestamp": 131.3
+            },
+            {
+                "video_id": "803d042f-1825-4e84-a8fa-a81f42149cf4",
+                "question_id": 15,
+                "question": "which symbols appear on both the \"12\" card and the card with the knot symbol?",
+                "question_type": "gameplay",
+                "correct_answer": "the n symbol",
+                "timestamp": 137.5
+            },
+            {
+                "video_id": "87861220-b7d5-4c45-b1db-6ec199dba753",
+                "question_id": 15,
+                "question": "which items on the table are connected to \"brown\" ?",
+                "question_type": "gameplay",
+                "correct_answer": "the person\u2019s sweatshirt",
+                "timestamp": 140.2
+            },
+            {
+                "video_id": "915d499b-84cf-4c1e-bbe7-a05241e93fb3",
+                "question_id": 15,
+                "question": "what are the settlement and road pieces' colors ?",
+                "question_type": "gameplay",
+                "correct_answer": "blue, red",
+                "timestamp": 140.2
+            }
+        ]
+    }
+]

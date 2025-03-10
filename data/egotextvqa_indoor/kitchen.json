@@ -1,0 +1,2689 @@
+[
+    {
+        "dataset": "egotextqa",
+        "question_type": "kitchen",
+        "task_setting": "open-ended",
+        "data": [
+            {
+                "video_id": "03852f99-d3d1-4034-8140-1677e62420a1",
+                "question_id": 1,
+                "question": "what brand is the refrigerator, and how do i adjust the temperature settings?",
+                "question_type": "kitchen",
+                "correct_answer": "the brand is whirlpool, and you can adjust the temperature settings using the dials on the top panel",
+                "timestamp": 5.3
+            },
+            {
+                "video_id": "067618dc-1a01-4023-9a7b-aa26217eeed7",
+                "question_id": 1,
+                "question": "which brand of dish soap am i using to clean the dishes?",
+                "question_type": "kitchen",
+                "correct_answer": "dawn",
+                "timestamp": 12.5
+            },
+            {
+                "video_id": "0d173aa3-9a94-4ba4-84bc-949d3254a63d",
+                "question_id": 1,
+                "question": "what specific function does the \"softmec\" machine serve?",
+                "question_type": "kitchen",
+                "correct_answer": "the \"softmec\" machine is used for mixing ingredients",
+                "timestamp": 12.0
+            },
+            {
+                "video_id": "125021ea-4af4-4574-9bde-bd7ee753260b",
+                "question_id": 1,
+                "question": "what number should the hood exhaust or microwave be set to?",
+                "question_type": "kitchen",
+                "correct_answer": "2",
+                "timestamp": 56.7
+            },
+            {
+                "video_id": "15f31177-16fb-4a91-bb52-c8598d46d2f9",
+                "question_id": 1,
+                "question": "what cleaning product am i currently using in the kitchen?",
+                "question_type": "kitchen",
+                "correct_answer": "a bottle of fairy dish soap",
+                "timestamp": 20.3
+            },
+            {
+                "video_id": "1d37d8e5-82da-440b-8476-58dd71fea1a2",
+                "question_id": 1,
+                "question": "what brand of dishwashing liquid do i need to buy?",
+                "question_type": "kitchen",
+                "correct_answer": "you should buy fairy dishwashing liquid",
+                "timestamp": 14.5
+            },
+            {
+                "video_id": "1e99206e-c4f1-4d0e-8caf-d8795acdbda9",
+                "question_id": 1,
+                "question": "what brand of cleaning cloths or sponges\uff1f",
+                "question_type": "kitchen",
+                "correct_answer": "vileda",
+                "timestamp": 20.0
+            },
+            {
+                "video_id": "211b3099-3cba-4b1b-a7ca-b7ec5a4b34af",
+                "question_id": 1,
+                "question": "what is the current temperature of the furnace?",
+                "question_type": "kitchen",
+                "correct_answer": "41\u00b0c",
+                "timestamp": 24.8
+            },
+            {
+                "video_id": "22bd1d29-232f-496b-9fc0-206998f39426",
+                "question_id": 1,
+                "question": "what brand is the packaging on the top shelf from?",
+                "question_type": "kitchen",
+                "correct_answer": "coop",
+                "timestamp": 21.7
+            },
+            {
+                "video_id": "238eab06-175e-4cee-9be7-a32264876575",
+                "question_id": 1,
+                "question": "where should i place the fairy detergent?",
+                "question_type": "kitchen",
+                "correct_answer": "next to the sink with the other cleaning products",
+                "timestamp": 7.7
+            },
+            {
+                "video_id": "23b32979-9de5-4721-993a-c001a400f963",
+                "question_id": 1,
+                "question": "where should i place the vileda sponge\uff1f",
+                "question_type": "kitchen",
+                "correct_answer": "on the counter beside the sink",
+                "timestamp": 50.2
+            },
+            {
+                "video_id": "24a42871-2cf3-4906-81ff-0dd559cc745e",
+                "question_id": 1,
+                "question": "what brand is the appliance near the flour?",
+                "question_type": "kitchen",
+                "correct_answer": "geepas",
+                "timestamp": 22.5
+            },
+            {
+                "video_id": "2883ce56-a1a2-48d0-82c9-e4d6c0ed19a6",
+                "question_id": 1,
+                "question": "what drinks do i have in the refrigerator?",
+                "question_type": "kitchen",
+                "correct_answer": "alpro soya drink",
+                "timestamp": 18.8
+            },
+            {
+                "video_id": "2d4c64ed-f722-412f-9dec-e6f25d04d352",
+                "question_id": 1,
+                "question": "what brand is the green packet with the label \"bhindi okra\"?",
+                "question_type": "kitchen",
+                "correct_answer": "cofresh",
+                "timestamp": 10.7
+            },
+            {
+                "video_id": "3179da5d-0f44-4d0f-91d8-d404805f54c3",
+                "question_id": 1,
+                "question": "what cleaning product should i use to wash the dishes?",
+                "question_type": "kitchen",
+                "correct_answer": "the bottle labeled \"fairy\"",
+                "timestamp": 13.5
+            },
+            {
+                "video_id": "339fe26b-487b-4f1d-8755-e26cf7f2c58c",
+                "question_id": 1,
+                "question": "what time is it now?",
+                "question_type": "kitchen",
+                "correct_answer": "12:18:00",
+                "timestamp": 22.7
+            },
+            {
+                "video_id": "33e3c929-b289-4136-932f-012445bedfc2",
+                "question_id": 1,
+                "question": "what cleaning product brand am i using at the sink?",
+                "question_type": "kitchen",
+                "correct_answer": "ecover",
+                "timestamp": 9.7
+            },
+            {
+                "video_id": "39960e01-18a0-4081-8a66-106c8b4755bf",
+                "question_id": 1,
+                "question": "what type of dishwashing liquid am i using to clean the dishes?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy",
+                "timestamp": 21.7
+            },
+            {
+                "video_id": "46e1aee1-adea-4c9c-ac5b-9d933a3d3a43",
+                "question_id": 1,
+                "question": "what is the kind of dishwashing liquid?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy",
+                "timestamp": 57.2
+            },
+            {
+                "video_id": "47f4c828-f238-459f-91c3-6b221db54c5b",
+                "question_id": 1,
+                "question": "what brand of dishwashing liquid should i use to clean the dishes?",
+                "question_type": "kitchen",
+                "correct_answer": "use the fairy dishwashing liquid",
+                "timestamp": 28.2
+            },
+            {
+                "video_id": "4bd1cbed-07c1-444b-9a3f-783a159e4367",
+                "question_id": 1,
+                "question": "what brand is the sponge?",
+                "question_type": "kitchen",
+                "correct_answer": "vileda",
+                "timestamp": 11.7
+            },
+            {
+                "video_id": "4d645971-b161-4760-865d-11601904f28c",
+                "question_id": 1,
+                "question": "what is in the \"vasabi\" box next to the stove?",
+                "question_type": "kitchen",
+                "correct_answer": "multiple bottles",
+                "timestamp": 9.8
+            },
+            {
+                "video_id": "4e0b4961-1c21-4025-9ba6-0b526e3aaf3c",
+                "question_id": 1,
+                "question": "which dishwashing liquid am i using for cleaning the dishes?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy",
+                "timestamp": 20.8
+            },
+            {
+                "video_id": "51654269-ab9b-4d28-a07d-5e6316e73aba",
+                "question_id": 1,
+                "question": "where do i put the \"large shrimp\" package last time?",
+                "question_type": "kitchen",
+                "correct_answer": "on the middle shelf next to the frozen vegetables",
+                "timestamp": 17.8
+            },
+            {
+                "video_id": "5f9e5bde-5d7b-458f-a537-99a703396c4c",
+                "question_id": 1,
+                "question": "what brand is the minced meat that i'm about to use for cooking?",
+                "question_type": "kitchen",
+                "correct_answer": "co-op",
+                "timestamp": 21.7
+            },
+            {
+                "video_id": "6472e377-b65c-461a-a750-9b28a673dc86",
+                "question_id": 1,
+                "question": "what brand is the sponge i\u2019m using to wash the dishes?",
+                "question_type": "kitchen",
+                "correct_answer": "vileda",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": "6b4e9866-df2c-4b46-92b7-55e1496f0189",
+                "question_id": 1,
+                "question": "what is the brand of strawberries in the bag on the table?",
+                "question_type": "kitchen",
+                "correct_answer": "nice!",
+                "timestamp": 22.2
+            },
+            {
+                "video_id": "6c33655c-d349-401f-9839-fe1a4d8c5cf4",
+                "question_id": 1,
+                "question": "what do i wash next to fairy dish soap?",
+                "question_type": "kitchen",
+                "correct_answer": "chickpeas",
+                "timestamp": 21.0
+            },
+            {
+                "video_id": "6f2c6a3e-99d3-493c-9644-007bf4604874",
+                "question_id": 1,
+                "question": "what brand is the packaging above the red board from?",
+                "question_type": "kitchen",
+                "correct_answer": "co-op",
+                "timestamp": 21.7
+            },
+            {
+                "video_id": "6f705612-68c9-46c3-838d-5120cfc0c4e5",
+                "question_id": 1,
+                "question": "which cleaning product should i use to clean stubborn stains on the kitchen counter?",
+                "question_type": "kitchen",
+                "correct_answer": "use fairy cleaning solution",
+                "timestamp": 20.7
+            },
+            {
+                "video_id": "70769ed6-747f-42f8-badc-27dc2d783998",
+                "question_id": 1,
+                "question": "what is the brand of the blue dishwashing liquid that i am using?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy",
+                "timestamp": 20.7
+            },
+            {
+                "video_id": "71c7414e-62c6-40a2-9651-a786c5659d03",
+                "question_id": 1,
+                "question": "what brand of milk is in the refrigerator?",
+                "question_type": "kitchen",
+                "correct_answer": "lucerne",
+                "timestamp": 16.8
+            },
+            {
+                "video_id": "74688ee5-b594-4a52-9687-0d779c86605b",
+                "question_id": 1,
+                "question": "what do i need to wash the dishes with?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy dishwashing liquid",
+                "timestamp": 24.0
+            },
+            {
+                "video_id": "79bb1718-6165-4604-9364-fa0187a96098",
+                "question_id": 1,
+                "question": "what brand is the gas appliance that i am using?",
+                "question_type": "kitchen",
+                "correct_answer": "tokyo gas",
+                "timestamp": 29.3
+            },
+            {
+                "video_id": "80117169-7c89-4d89-9b52-d6c108d8da30",
+                "question_id": 1,
+                "question": "what brand of dishwashing detergent am i using to clean the dishes?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy",
+                "timestamp": 15.5
+            },
+            {
+                "video_id": "8b7c0c9a-49f0-4908-a5ea-4ef273aa0591",
+                "question_id": 1,
+                "question": "what material should i use to wrap the leftover food?",
+                "question_type": "kitchen",
+                "correct_answer": "aluminium foil",
+                "timestamp": 13.5
+            },
+            {
+                "video_id": "95688752-a39c-4863-b6f6-58847cc04640",
+                "question_id": 1,
+                "question": "where can i find the instructions for making a special birthday meal?",
+                "question_type": "kitchen",
+                "correct_answer": "on the sign that mentions prosecco and birthday",
+                "timestamp": 21.5
+            },
+            {
+                "video_id": "97b84f3c-0718-447b-b51b-756ac55889ff",
+                "question_id": 1,
+                "question": "what is the dishwashing liquid next to the sink?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy",
+                "timestamp": 24.0
+            },
+            {
+                "video_id": "9f636945-160e-4564-b823-b8f1d5cbccb2",
+                "question_id": 1,
+                "question": "what dish soap should i use to wash the dishes?",
+                "question_type": "kitchen",
+                "correct_answer": "ajax dish soap",
+                "timestamp": 21.0
+            },
+            {
+                "video_id": "a43e36bc-ec59-43af-92a3-53ae9e976215",
+                "question_id": 1,
+                "question": "what items are in the \"truly\" box on the counter?",
+                "question_type": "kitchen",
+                "correct_answer": "flavored drinks",
+                "timestamp": 21.3
+            },
+            {
+                "video_id": "a470c928-94ad-4b45-b774-ab428baaeddb",
+                "question_id": 1,
+                "question": "what is the brand of the dishwashing liquid i am using?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy",
+                "timestamp": 19.7
+            },
+            {
+                "video_id": "aa442257-9ddb-4393-870a-fbe140fa8c4d",
+                "question_id": 1,
+                "question": "what type of water should i grab for the picnic?",
+                "question_type": "kitchen",
+                "correct_answer": "bottled water labeled \"ice mountain\"",
+                "timestamp": 52.0
+            },
+            {
+                "video_id": "abb624f4-eca3-4606-94d2-c680da8de280",
+                "question_id": 1,
+                "question": "what brand of sponge should i use to clean up?",
+                "question_type": "kitchen",
+                "correct_answer": "vileda",
+                "timestamp": 20.2
+            },
+            {
+                "video_id": "b1a1280a-1f7f-4796-bca2-ba03f3fb9345",
+                "question_id": 1,
+                "question": "what brand of products am i using while cooking?",
+                "question_type": "kitchen",
+                "correct_answer": "co-op",
+                "timestamp": 27.8
+            },
+            {
+                "video_id": "b89cb4fb-ae70-47ed-9b6a-74b08f04ae8d",
+                "question_id": 1,
+                "question": "which brand of dish soap am i using to clean the dishes?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy",
+                "timestamp": 23.8
+            },
+            {
+                "video_id": "b94c944b-5c8a-488b-b757-4a68fdddaa80",
+                "question_id": 1,
+                "question": "which brand of box is stored on the counter?",
+                "question_type": "kitchen",
+                "correct_answer": "truly",
+                "timestamp": 21.3
+            },
+            {
+                "video_id": "bd02ae0b-55ac-4907-9ae5-a2a2b8b33579",
+                "question_id": 1,
+                "question": "what type of coffee is being used for brewing?",
+                "question_type": "kitchen",
+                "correct_answer": "half caff coffee",
+                "timestamp": 27.7
+            },
+            {
+                "video_id": "bdd542a6-41c1-4119-b89d-101405d581df",
+                "question_id": 1,
+                "question": "which brand of spread is in the refrigerator?",
+                "question_type": "kitchen",
+                "correct_answer": "flora",
+                "timestamp": 17.8
+            },
+            {
+                "video_id": "be93b1f8-3fcf-4ea8-867a-cd6cfe6874c5",
+                "question_id": 1,
+                "question": "what should i use to clean the dishes?",
+                "question_type": "kitchen",
+                "correct_answer": "ajax dishwashing liquid",
+                "timestamp": 19.8
+            },
+            {
+                "video_id": "c59863c7-ff3b-415c-b42e-9c44ccea3e56",
+                "question_id": 1,
+                "question": "what kind of snacks do i have available for my guests?",
+                "question_type": "kitchen",
+                "correct_answer": "doritos",
+                "timestamp": 23.3
+            },
+            {
+                "video_id": "cbf4aed9-99d3-4778-901a-563a52ed7d31",
+                "question_id": 1,
+                "question": "what brand name is visible on the red-and-white box on the shelf?",
+                "question_type": "kitchen",
+                "correct_answer": "coop",
+                "timestamp": 18.7
+            },
+            {
+                "video_id": "d1685c67-5a85-4d3a-9c7c-25a7055c318d",
+                "question_id": 1,
+                "question": "what brand is the box next to the green cutting board?",
+                "question_type": "kitchen",
+                "correct_answer": "viv era",
+                "timestamp": 23.0
+            },
+            {
+                "video_id": "dc60b3c1-37ad-419a-9c14-3e8b7971dd1f",
+                "question_id": 1,
+                "question": "which detergent should i use?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy",
+                "timestamp": 15.2
+            },
+            {
+                "video_id": "dfcbcf89-e268-4106-85ba-7875d19bd5e4",
+                "question_id": 1,
+                "question": "where is the vileda sponge?",
+                "question_type": "kitchen",
+                "correct_answer": "near the sink on the left",
+                "timestamp": 25.7
+            },
+            {
+                "video_id": "e1c7c4ef-c827-4c16-a5cd-3be1fdcb56ab",
+                "question_id": 1,
+                "question": "what temperature should i set the pot to for cooking this dish?",
+                "question_type": "kitchen",
+                "correct_answer": "150",
+                "timestamp": 60.3
+            },
+            {
+                "video_id": "e293f6f8-51be-4942-85fd-fdaf38b3e9c1",
+                "question_id": 1,
+                "question": "what is the brand of dishwashing liquid?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy",
+                "timestamp": 24.0
+            },
+            {
+                "video_id": "03852f99-d3d1-4034-8140-1677e62420a1",
+                "question_id": 2,
+                "question": "where can i find information about upcoming local events, and how can i contact the event organizers?",
+                "question_type": "kitchen",
+                "correct_answer": "on the poster titled \"local events\" on the fridge, contact details are likely provided on the poster",
+                "timestamp": 5.3
+            },
+            {
+                "video_id": "12b68e7a-f0b8-431c-98fd-758aa9206e2b",
+                "question_id": 2,
+                "question": "who is the mechanic working on the car?",
+                "question_type": "kitchen",
+                "correct_answer": "bob",
+                "timestamp": 4.7
+            },
+            {
+                "video_id": "1d37d8e5-82da-440b-8476-58dd71fea1a2",
+                "question_id": 2,
+                "question": "where do i place the fairy dishwashing liquid?",
+                "question_type": "kitchen",
+                "correct_answer": "the fairy dishwashing liquid is placed by the window",
+                "timestamp": 14.5
+            },
+            {
+                "video_id": "217c792c-0586-47ff-b6b9-031ecdc77bba",
+                "question_id": 2,
+                "question": "where can i find the dishwashing detergent in this kitchen setup?",
+                "question_type": "kitchen",
+                "correct_answer": "the dishwashing detergent is to the left of the stove",
+                "timestamp": 24.8
+            },
+            {
+                "video_id": "23b32979-9de5-4721-993a-c001a400f963",
+                "question_id": 2,
+                "question": "what kind of detergent should i use to clean the dishes\uff1f",
+                "question_type": "kitchen",
+                "correct_answer": "fairy detergent",
+                "timestamp": 50.2
+            },
+            {
+                "video_id": "267effd1-ad4b-4f85-be68-3e875b032430",
+                "question_id": 2,
+                "question": "which utensil should i use next?",
+                "question_type": "kitchen",
+                "correct_answer": "a perforated spoon",
+                "timestamp": 15.2
+            },
+            {
+                "video_id": "339fe26b-487b-4f1d-8755-e26cf7f2c58c",
+                "question_id": 2,
+                "question": "which knob should i turn to adjust the heat on the front-right burner?",
+                "question_type": "kitchen",
+                "correct_answer": "the top-right knob",
+                "timestamp": 22.7
+            },
+            {
+                "video_id": "344e50a2-802e-479d-9b89-ea7f9d927e06",
+                "question_id": 2,
+                "question": "where should i place the nutribullet rx?",
+                "question_type": "kitchen",
+                "correct_answer": "on the countertop near the chopping board",
+                "timestamp": 16.3
+            },
+            {
+                "video_id": "4e0b4961-1c21-4025-9ba6-0b526e3aaf3c",
+                "question_id": 2,
+                "question": "where is the dishwashing liquid located?",
+                "question_type": "kitchen",
+                "correct_answer": "to the right of the sink",
+                "timestamp": 20.8
+            },
+            {
+                "video_id": "5e43992d-adb3-4bf0-8d8e-221b895b7c9a",
+                "question_id": 2,
+                "question": "where do i place the package labeled 'mission'?",
+                "question_type": "kitchen",
+                "correct_answer": "on the kitchen counter near the food processor",
+                "timestamp": 17.3
+            },
+            {
+                "video_id": "6472e377-b65c-461a-a750-9b28a673dc86",
+                "question_id": 2,
+                "question": "where is  the \u201cfairy\u201d liquid detergent?",
+                "question_type": "kitchen",
+                "correct_answer": "on the right side of the sink",
+                "timestamp": 8.8
+            },
+            {
+                "video_id": "6c33655c-d349-401f-9839-fe1a4d8c5cf4",
+                "question_id": 2,
+                "question": "where should i put the washed chickpeas?",
+                "question_type": "kitchen",
+                "correct_answer": "in a strainer",
+                "timestamp": 21.0
+            },
+            {
+                "video_id": "70769ed6-747f-42f8-badc-27dc2d783998",
+                "question_id": 2,
+                "question": "which cleaning product should i use to clean the kitchen counter?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy",
+                "timestamp": 20.7
+            },
+            {
+                "video_id": "71c7414e-62c6-40a2-9651-a786c5659d03",
+                "question_id": 2,
+                "question": "where can i find the spinach in the refrigerator?",
+                "question_type": "kitchen",
+                "correct_answer": "second shelf",
+                "timestamp": 16.8
+            },
+            {
+                "video_id": "79dddbd8-a1fe-4331-85dc-a1cf4a5a61af",
+                "question_id": 2,
+                "question": "where should i place the \"fairy\" dishwashing liquid after using it?",
+                "question_type": "kitchen",
+                "correct_answer": "by the sink",
+                "timestamp": 25.0
+            },
+            {
+                "video_id": "7d0b145d-863c-4039-8c5c-732917dc1ed7",
+                "question_id": 2,
+                "question": "where are the cans of tomatoes placed?",
+                "question_type": "kitchen",
+                "correct_answer": "on the countertop next to the dish rack",
+                "timestamp": 23.8
+            },
+            {
+                "video_id": "86e531d7-89fe-4311-b09e-6c4bc36c8a87",
+                "question_id": 2,
+                "question": "where is the express coffee maker box placed on the counter?",
+                "question_type": "kitchen",
+                "correct_answer": "by the wall next to the jars",
+                "timestamp": 60.2
+            },
+            {
+                "video_id": "89ef10fe-0233-463e-bfcb-35e1d2d92f7f",
+                "question_id": 2,
+                "question": "where can i find the \"\u30ea\u30c3\u30c1\u30d6\u30ec\u30f3\u30c9\u30b3\u30fc\u30d2\u30fc\" (rich blend coffee) in the fridge?",
+                "question_type": "kitchen",
+                "correct_answer": "in the door shelf of the fridge",
+                "timestamp": 16.2
+            },
+            {
+                "video_id": "8e7ee3d9-3bb6-421c-be50-5b473b90673d",
+                "question_id": 2,
+                "question": "which store's product am i using?",
+                "question_type": "kitchen",
+                "correct_answer": "co-op",
+                "timestamp": 26.7
+            },
+            {
+                "video_id": "95688752-a39c-4863-b6f6-58847cc04640",
+                "question_id": 2,
+                "question": "which type of bread am i using for my meal preparation?",
+                "question_type": "kitchen",
+                "correct_answer": "hovis",
+                "timestamp": 21.5
+            },
+            {
+                "video_id": "a20b2903-2e28-4c49-8451-cf10e873d57d",
+                "question_id": 2,
+                "question": "which brand is the refrigerator?",
+                "question_type": "kitchen",
+                "correct_answer": "ariston",
+                "timestamp": 53.7
+            },
+            {
+                "video_id": "a43e36bc-ec59-43af-92a3-53ae9e976215",
+                "question_id": 2,
+                "question": "where can i find more information about the contents of the \"truly\" box?",
+                "question_type": "kitchen",
+                "correct_answer": "on the box label",
+                "timestamp": 21.3
+            },
+            {
+                "video_id": "aa442257-9ddb-4393-870a-fbe140fa8c4d",
+                "question_id": 2,
+                "question": "where is the organic cereal?",
+                "question_type": "kitchen",
+                "correct_answer": "on the middle shelf next to the \"organic\" labeled product",
+                "timestamp": 52.0
+            },
+            {
+                "video_id": "b39ab84c-a82e-4ac3-a635-3594e52f810e",
+                "question_id": 2,
+                "question": "where do i place the fairy detergent bottle?",
+                "question_type": "kitchen",
+                "correct_answer": "on the counter next to the microwave",
+                "timestamp": 2.7
+            },
+            {
+                "video_id": "b6176977-7f5c-4912-bd42-6d81f6cbe504",
+                "question_id": 2,
+                "question": "where is the orange juice, and what's its brand?",
+                "question_type": "kitchen",
+                "correct_answer": "orange juice is in the door compartment, brand \"rude health\"",
+                "timestamp": 18.8
+            },
+            {
+                "video_id": "b94c944b-5c8a-488b-b757-4a68fdddaa80",
+                "question_id": 2,
+                "question": "how many different flavors are indicated on the box?",
+                "question_type": "kitchen",
+                "correct_answer": "four",
+                "timestamp": 21.3
+            },
+            {
+                "video_id": "bac41453-4aae-4128-bad1-563a60c24efc",
+                "question_id": 2,
+                "question": "which seasoning mix do i pick up for this recipe?",
+                "question_type": "kitchen",
+                "correct_answer": "seasoning mix for chili",
+                "timestamp": 7.7
+            },
+            {
+                "video_id": "bb654961-bca6-4c86-92ae-2d842cec58da",
+                "question_id": 2,
+                "question": "which box contains the chocolate chip cookies on the table?",
+                "question_type": "kitchen",
+                "correct_answer": "chips ahoy!",
+                "timestamp": 5.5
+            },
+            {
+                "video_id": "bdd542a6-41c1-4119-b89d-101405d581df",
+                "question_id": 2,
+                "question": "which bread is located on the second shelf?",
+                "question_type": "kitchen",
+                "correct_answer": "hovis",
+                "timestamp": 17.8
+            },
+            {
+                "video_id": "be93b1f8-3fcf-4ea8-867a-cd6cfe6874c5",
+                "question_id": 2,
+                "question": "which cleaning product is on the countertop next to the sink?",
+                "question_type": "kitchen",
+                "correct_answer": "ajax dishwashing liquid",
+                "timestamp": 19.8
+            },
+            {
+                "video_id": "dfcbcf89-e268-4106-85ba-7875d19bd5e4",
+                "question_id": 2,
+                "question": "what is the brand of the cleaning cloth or sponge?",
+                "question_type": "kitchen",
+                "correct_answer": "vileda",
+                "timestamp": 25.7
+            },
+            {
+                "video_id": "e1b7dd94-23cd-4a26-89cd-e5d4f88f596d",
+                "question_id": 2,
+                "question": "where do i place the dish soap bottle after using it?",
+                "question_type": "kitchen",
+                "correct_answer": "on the countertop next to the sink",
+                "timestamp": 20.8
+            },
+            {
+                "video_id": "04a72cd8-e47c-4baf-9a50-b33ad2996a5e",
+                "question_id": 3,
+                "question": "what should i use to clean up the countertop spills?",
+                "question_type": "kitchen",
+                "correct_answer": "ecover dish soap",
+                "timestamp": 48.0
+            },
+            {
+                "video_id": "1b900e3d-76cb-4ea5-bc7c-6d61c10c6c91",
+                "question_id": 3,
+                "question": "where is the flour located on the counter?",
+                "question_type": "kitchen",
+                "correct_answer": "near the back, to the left of the other condiments",
+                "timestamp": 40.2
+            },
+            {
+                "video_id": "211b3099-3cba-4b1b-a7ca-b7ec5a4b34af",
+                "question_id": 3,
+                "question": "where is the cooking oil placed\uff1f",
+                "question_type": "kitchen",
+                "correct_answer": "the cooking oil is placed next to the red can",
+                "timestamp": 44.0
+            },
+            {
+                "video_id": "238eab06-175e-4cee-9be7-a32264876575",
+                "question_id": 3,
+                "question": "which items need to be cleaned first?",
+                "question_type": "kitchen",
+                "correct_answer": "the dishes and utensils",
+                "timestamp": 69.2
+            },
+            {
+                "video_id": "267effd1-ad4b-4f85-be68-3e875b032430",
+                "question_id": 3,
+                "question": "where do i place the finished food items once they\u2019re ready for the next step?",
+                "question_type": "kitchen",
+                "correct_answer": "in the silver tray",
+                "timestamp": 49.0
+            },
+            {
+                "video_id": "2883ce56-a1a2-48d0-82c9-e4d6c0ed19a6",
+                "question_id": 3,
+                "question": "which shelf in the refrigerator has the soya drink?",
+                "question_type": "kitchen",
+                "correct_answer": "on the door shelf",
+                "timestamp": 57.8
+            },
+            {
+                "video_id": "3179da5d-0f44-4d0f-91d8-d404805f54c3",
+                "question_id": 3,
+                "question": "where can i place the fairy dish soap\uff1f",
+                "question_type": "kitchen",
+                "correct_answer": "place the fairy dish soap back by the sink",
+                "timestamp": 47.7
+            },
+            {
+                "video_id": "431343ea-9147-4921-bb33-575c13a27369",
+                "question_id": 3,
+                "question": "how many mushrooms are left on the cutting board for me to chop?",
+                "question_type": "kitchen",
+                "correct_answer": "5",
+                "timestamp": 48.7
+            },
+            {
+                "video_id": "47f4c828-f238-459f-91c3-6b221db54c5b",
+                "question_id": 3,
+                "question": "i want to make a cup of tea after washing the dishes, which brand should i look for?",
+                "question_type": "kitchen",
+                "correct_answer": "lipton",
+                "timestamp": 82.2
+            },
+            {
+                "video_id": "546989c4-f954-431c-adab-53d62f54b584",
+                "question_id": 3,
+                "question": "at what time will the pressure cooker finish?",
+                "question_type": "kitchen",
+                "correct_answer": "16",
+                "timestamp": 53.8
+            },
+            {
+                "video_id": "6363a4df-2556-4a16-99d0-f700317ff33d",
+                "question_id": 3,
+                "question": "which dishwashing liquid brand do i have available?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy",
+                "timestamp": 53.0
+            },
+            {
+                "video_id": "6b4e9866-df2c-4b46-92b7-55e1496f0189",
+                "question_id": 3,
+                "question": "what brand of metal products are wrapped around paper towels on tables?",
+                "question_type": "kitchen",
+                "correct_answer": "skyy",
+                "timestamp": 48.7
+            },
+            {
+                "video_id": "6ccfb6b6-9dfa-4cae-9c35-b4bbe4be43da",
+                "question_id": 3,
+                "question": "where is the yellow edible oil bottle?",
+                "question_type": "kitchen",
+                "correct_answer": "to the left of the white salt container",
+                "timestamp": 48.5
+            },
+            {
+                "video_id": "71c7414e-62c6-40a2-9651-a786c5659d03",
+                "question_id": 3,
+                "question": "which shelf in the refrigerator has the container of \"coffee-mate\"?",
+                "question_type": "kitchen",
+                "correct_answer": "third shelf",
+                "timestamp": 55.3
+            },
+            {
+                "video_id": "80117169-7c89-4d89-9b52-d6c108d8da30",
+                "question_id": 3,
+                "question": "where should i put the detergent bottle?",
+                "question_type": "kitchen",
+                "correct_answer": "on the counter next to the sink",
+                "timestamp": 14.5
+            },
+            {
+                "video_id": "8b7c0c9a-49f0-4908-a5ea-4ef273aa0591",
+                "question_id": 3,
+                "question": "where can i find the roll of aluminum foil for wrapping the sandwiches?",
+                "question_type": "kitchen",
+                "correct_answer": "on the table near the kleenex box",
+                "timestamp": 48.0
+            },
+            {
+                "video_id": "94e7f24e-dc40-4387-8136-19ca50062f9a",
+                "question_id": 3,
+                "question": "what time is it?",
+                "question_type": "kitchen",
+                "correct_answer": "6",
+                "timestamp": 51.8
+            },
+            {
+                "video_id": "95688752-a39c-4863-b6f6-58847cc04640",
+                "question_id": 3,
+                "question": "how often should i drink prosecco?",
+                "question_type": "kitchen",
+                "correct_answer": "daily",
+                "timestamp": 54.5
+            },
+            {
+                "video_id": "a3879c05-9ecf-402d-b5a9-14e6960921cc",
+                "question_id": 3,
+                "question": "where is orange juice?",
+                "question_type": "kitchen",
+                "correct_answer": "next to the glass jug",
+                "timestamp": 71.5
+            },
+            {
+                "video_id": "be93b1f8-3fcf-4ea8-867a-cd6cfe6874c5",
+                "question_id": 3,
+                "question": "where can i find the dishwashing liquid in the kitchen area?",
+                "question_type": "kitchen",
+                "correct_answer": "on the countertop next to the sink",
+                "timestamp": 48.7
+            },
+            {
+                "video_id": "c95014eb-d54a-4e61-a213-386fc11379be",
+                "question_id": 3,
+                "question": "where is the bottle labeled \"ketchup\" located in the refrigerator?",
+                "question_type": "kitchen",
+                "correct_answer": "in the door shelf",
+                "timestamp": 42.8
+            },
+            {
+                "video_id": "dfcbcf89-e268-4106-85ba-7875d19bd5e4",
+                "question_id": 3,
+                "question": "which items on the countertop might be useful for cleaning the kitchen area?",
+                "question_type": "kitchen",
+                "correct_answer": "the vileda sponge",
+                "timestamp": 46.7
+            },
+            {
+                "video_id": "02580ac5-bfbf-4b54-9a72-56541bbcb27a",
+                "question_id": 4,
+                "question": "which room should i go to eat the pizza?",
+                "question_type": "kitchen",
+                "correct_answer": "the kitchen",
+                "timestamp": 56.7
+            },
+            {
+                "video_id": "03852f99-d3d1-4034-8140-1677e62420a1",
+                "question_id": 4,
+                "question": "where are the pizza boxes?",
+                "question_type": "kitchen",
+                "correct_answer": "in the middle section",
+                "timestamp": 120.0
+            },
+            {
+                "video_id": "067618dc-1a01-4023-9a7b-aa26217eeed7",
+                "question_id": 4,
+                "question": "what brand is kitchen appliances?",
+                "question_type": "kitchen",
+                "correct_answer": "whirlpool",
+                "timestamp": 56.0
+            },
+            {
+                "video_id": "15f31177-16fb-4a91-bb52-c8598d46d2f9",
+                "question_id": 4,
+                "question": "which brand is the dishwashing liquid?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy",
+                "timestamp": 53.8
+            },
+            {
+                "video_id": "1890428b-3eac-41c5-aaa8-4f955016d14d",
+                "question_id": 4,
+                "question": "where do i put the jar of marmite after taking it off the shelf?",
+                "question_type": "kitchen",
+                "correct_answer": "on the counter next to the blender",
+                "timestamp": 77.0
+            },
+            {
+                "video_id": "431343ea-9147-4921-bb33-575c13a27369",
+                "question_id": 4,
+                "question": "which brand of petit pois am i using?",
+                "question_type": "kitchen",
+                "correct_answer": "tesco",
+                "timestamp": 48.7
+            },
+            {
+                "video_id": "5429fdea-624c-49b2-9cb3-4f77c7223d74",
+                "question_id": 4,
+                "question": "what size are the eggs?",
+                "question_type": "kitchen",
+                "correct_answer": "grade a jumbo",
+                "timestamp": 75.3
+            },
+            {
+                "video_id": "6363a4df-2556-4a16-99d0-f700317ff33d",
+                "question_id": 4,
+                "question": "what should i use to clean the dishes?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy",
+                "timestamp": 53.0
+            },
+            {
+                "video_id": "6472e377-b65c-461a-a750-9b28a673dc86",
+                "question_id": 4,
+                "question": "what should i do to operate the kitchen appliance labeled \"ac\"?",
+                "question_type": "kitchen",
+                "correct_answer": "plug it in and turn it on",
+                "timestamp": 37.2
+            },
+            {
+                "video_id": "6bfdd4ee-0773-4a77-bac0-a80b70422885",
+                "question_id": 4,
+                "question": "what time is displayed on the oven?",
+                "question_type": "kitchen",
+                "correct_answer": "13.23",
+                "timestamp": 49.3
+            },
+            {
+                "video_id": "6ccfb6b6-9dfa-4cae-9c35-b4bbe4be43da",
+                "question_id": 4,
+                "question": "what type of cereal do i have on the counter?",
+                "question_type": "kitchen",
+                "correct_answer": "weetabix crunchy bran",
+                "timestamp": 48.5
+            },
+            {
+                "video_id": "71c7414e-62c6-40a2-9651-a786c5659d03",
+                "question_id": 4,
+                "question": "which brand of chips are these and what type are they?",
+                "question_type": "kitchen",
+                "correct_answer": "tostitos, original restaurant style",
+                "timestamp": 55.3
+            },
+            {
+                "video_id": "74688ee5-b594-4a52-9687-0d779c86605b",
+                "question_id": 4,
+                "question": "where is the bottle of fairy dishwashing liquid kept in the kitchen?",
+                "question_type": "kitchen",
+                "correct_answer": "next to the sink",
+                "timestamp": 47.0
+            },
+            {
+                "video_id": "9453d942-424a-4494-9e4d-e5e35ad1ac48",
+                "question_id": 4,
+                "question": "what is the brand of eggs?",
+                "question_type": "kitchen",
+                "correct_answer": "grade a jumbo eggs",
+                "timestamp": 75.3
+            },
+            {
+                "video_id": "9a5da3f9-6049-4a51-a6c8-18849b7809da",
+                "question_id": 4,
+                "question": "what type of bread am i using for my meal?",
+                "question_type": "kitchen",
+                "correct_answer": "hovis",
+                "timestamp": 37.3
+            },
+            {
+                "video_id": "a1a31094-8393-4615-9de0-ff7b00afb19e",
+                "question_id": 4,
+                "question": "what detergent am i using to wash the dishes?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy",
+                "timestamp": 49.0
+            },
+            {
+                "video_id": "a1b35140-09df-4284-87bb-db6454d85ca1",
+                "question_id": 4,
+                "question": "what type of soap should i use to wash the dishes?",
+                "question_type": "kitchen",
+                "correct_answer": "dawn",
+                "timestamp": 50.3
+            },
+            {
+                "video_id": "a3879c05-9ecf-402d-b5a9-14e6960921cc",
+                "question_id": 4,
+                "question": "what beverages are available on the table for breakfast?",
+                "question_type": "kitchen",
+                "correct_answer": "juice and soda cans",
+                "timestamp": 71.5
+            },
+            {
+                "video_id": "a47cf6f8-1335-4fa0-bbe1-2deeddc6693c",
+                "question_id": 4,
+                "question": "from which bag should i take supplies for the oven?",
+                "question_type": "kitchen",
+                "correct_answer": "the \"la spina\" bag",
+                "timestamp": 42.3
+            },
+            {
+                "video_id": "aa442257-9ddb-4393-870a-fbe140fa8c4d",
+                "question_id": 4,
+                "question": "which type of lentils is in stock?",
+                "question_type": "kitchen",
+                "correct_answer": "indian madras lentils",
+                "timestamp": 76.5
+            },
+            {
+                "video_id": "abb624f4-eca3-4606-94d2-c680da8de280",
+                "question_id": 4,
+                "question": "where do i place the yellow \"vileda\" sponge?",
+                "question_type": "kitchen",
+                "correct_answer": "placed to the right of the sink",
+                "timestamp": 41.0
+            },
+            {
+                "video_id": "b432d0b3-d6c6-4565-9733-3aa97b8812dd",
+                "question_id": 4,
+                "question": "where is the \"light salt\" food in the kitchen?",
+                "question_type": "kitchen",
+                "correct_answer": "in the cabinet with a wire basket",
+                "timestamp": 48.2
+            },
+            {
+                "video_id": "bd02ae0b-55ac-4907-9ae5-a2a2b8b33579",
+                "question_id": 4,
+                "question": "where do i put the gourmet coffee tin while preparing the mixture?",
+                "question_type": "kitchen",
+                "correct_answer": "next to the electronic device on the counter",
+                "timestamp": 44.0
+            },
+            {
+                "video_id": "c2697bb9-3f1e-491f-971e-d1d32b1d84cf",
+                "question_id": 4,
+                "question": "what is the red container?",
+                "question_type": "kitchen",
+                "correct_answer": "deepak",
+                "timestamp": 54.8
+            },
+            {
+                "video_id": "dbbcd94e-c005-4eb4-a426-edf0ef911ba4",
+                "question_id": 4,
+                "question": "what are the current cooking times?",
+                "question_type": "kitchen",
+                "correct_answer": "13:23:00",
+                "timestamp": 49.3
+            },
+            {
+                "video_id": "ddedf8b8-5123-46e6-a7ce-9d5b4514d226",
+                "question_id": 4,
+                "question": "what time is it right now?",
+                "question_type": "kitchen",
+                "correct_answer": "15:16:00",
+                "timestamp": 60.0
+            },
+            {
+                "video_id": "e0435dbf-81a5-4b1e-93ae-81cdc52ee7f1",
+                "question_id": 4,
+                "question": "what brand is the plastic bag i am using to store the ingredients?",
+                "question_type": "kitchen",
+                "correct_answer": "ziploc",
+                "timestamp": 43.0
+            },
+            {
+                "video_id": "02580ac5-bfbf-4b54-9a72-56541bbcb27a",
+                "question_id": 5,
+                "question": "what other items are near the \"sweet home\"?",
+                "question_type": "kitchen",
+                "correct_answer": "a large flower decor and a basket of hats",
+                "timestamp": 56.7
+            },
+            {
+                "video_id": "03852f99-d3d1-4034-8140-1677e62420a1",
+                "question_id": 5,
+                "question": "where are the drinks?",
+                "question_type": "kitchen",
+                "correct_answer": "an orange juice bottle is placed on the top right shelf, and a mcdonald's drink cup is on the middle shelf",
+                "timestamp": 120.0
+            },
+            {
+                "video_id": "067618dc-1a01-4023-9a7b-aa26217eeed7",
+                "question_id": 5,
+                "question": "how many different colored containers are in the kitchen cabinet?",
+                "question_type": "kitchen",
+                "correct_answer": "two red-capped containers and a green-capped container",
+                "timestamp": 56.0
+            },
+            {
+                "video_id": "086bc5e8-8279-43fa-b84f-3f208123521b",
+                "question_id": 5,
+                "question": "where is the list of ingredients and their quantities needed for making the tomato risotto?",
+                "question_type": "kitchen",
+                "correct_answer": "at the top of the left page in the recipe book",
+                "timestamp": 118.5
+            },
+            {
+                "video_id": "0a8b2c9d-b54c-4811-acf3-5977895d2445",
+                "question_id": 5,
+                "question": "where are the list of things i need to buy for groceries, as noted on the fridge?",
+                "question_type": "kitchen",
+                "correct_answer": "notepad on the fridge",
+                "timestamp": 51.7
+            },
+            {
+                "video_id": "0bbafd74-aa2f-4692-9f7d-7f6f6bf27187",
+                "question_id": 5,
+                "question": "where is the \"engev\" spice?",
+                "question_type": "kitchen",
+                "correct_answer": "on the counter with other spices",
+                "timestamp": 114.8
+            },
+            {
+                "video_id": "0f650b0f-beaf-4839-bfec-cdd2189687e2",
+                "question_id": 5,
+                "question": "where can i find the detergent?",
+                "question_type": "kitchen",
+                "correct_answer": "detergent can be found near the sink",
+                "timestamp": 37.7
+            },
+            {
+                "video_id": "29a90a91-999f-46fd-83d7-e3fc0d7ff231",
+                "question_id": 5,
+                "question": "how many bags of 'ds' brand vegetables are on the countertop?",
+                "question_type": "kitchen",
+                "correct_answer": "one",
+                "timestamp": 76.7
+            },
+            {
+                "video_id": "3edad137-d1f4-47b1-bfa3-d8892d768579",
+                "question_id": 5,
+                "question": "where are the instructions for using the item inside the orange packaging?",
+                "question_type": "kitchen",
+                "correct_answer": "on the back of the packaging",
+                "timestamp": 53.7
+            },
+            {
+                "video_id": "57b68f47-26f8-475f-9111-f395cab3faf1",
+                "question_id": 5,
+                "question": "where is the \"no hands\" mixing machine located?",
+                "question_type": "kitchen",
+                "correct_answer": "next to the sink area",
+                "timestamp": 115.8
+            },
+            {
+                "video_id": "5e43992d-adb3-4bf0-8d8e-221b895b7c9a",
+                "question_id": 5,
+                "question": "which item is labeled \"mission\" near the stove?",
+                "question_type": "kitchen",
+                "correct_answer": "package with yellow wrap next to the kettle",
+                "timestamp": 50.7
+            },
+            {
+                "video_id": "63649fc9-b233-45c6-bd52-e8fe2c3c23d5",
+                "question_id": 5,
+                "question": "where should i put the washed vegetables?",
+                "question_type": "kitchen",
+                "correct_answer": "on the cutting board",
+                "timestamp": 35.2
+            },
+            {
+                "video_id": "6472e377-b65c-461a-a750-9b28a673dc86",
+                "question_id": 5,
+                "question": "which device should i use to quickly reheat my meal?",
+                "question_type": "kitchen",
+                "correct_answer": "use the one labeled \"ac rohs\"",
+                "timestamp": 37.2
+            },
+            {
+                "video_id": "6b4e9866-df2c-4b46-92b7-55e1496f0189",
+                "question_id": 5,
+                "question": "where can i find the product that mentions \"nice!\" ?",
+                "question_type": "kitchen",
+                "correct_answer": "next to the sink",
+                "timestamp": 48.7
+            },
+            {
+                "video_id": "6ccfb6b6-9dfa-4cae-9c35-b4bbe4be43da",
+                "question_id": 5,
+                "question": "where can i find the nutritional information for the crunchy bran?",
+                "question_type": "kitchen",
+                "correct_answer": "on the weetabix cereal box",
+                "timestamp": 48.5
+            },
+            {
+                "video_id": "6cfb10a6-905f-43cd-aaf5-0cbe2862e2bb",
+                "question_id": 5,
+                "question": "where is the sign with the \"home sweet home\" located?",
+                "question_type": "kitchen",
+                "correct_answer": "on the wall above the counter",
+                "timestamp": 56.7
+            },
+            {
+                "video_id": "6f705612-68c9-46c3-838d-5120cfc0c4e5",
+                "question_id": 5,
+                "question": "where do i place the cleaner while washing the dishes?",
+                "question_type": "kitchen",
+                "correct_answer": "next to the sink",
+                "timestamp": 32.8
+            },
+            {
+                "video_id": "86e531d7-89fe-4311-b09e-6c4bc36c8a87",
+                "question_id": 5,
+                "question": "where are the coffee beans or grounds?",
+                "question_type": "kitchen",
+                "correct_answer": "in the jar next to the aeropress",
+                "timestamp": 82.8
+            },
+            {
+                "video_id": "92ca14f8-204b-4b7c-abb8-8646efe377a8",
+                "question_id": 5,
+                "question": "where should i adjust the temperature\uff1f",
+                "question_type": "kitchen",
+                "correct_answer": "use the button to the left of the display",
+                "timestamp": 49.8
+            },
+            {
+                "video_id": "94e3f7e8-a645-4c40-8e4c-ea8911a0e56f",
+                "question_id": 5,
+                "question": "where is the olive oil?",
+                "question_type": "kitchen",
+                "correct_answer": "on the counter near the stove",
+                "timestamp": 58.5
+            },
+            {
+                "video_id": "96335636-e705-4374-ad28-c447e4e0cab1",
+                "question_id": 5,
+                "question": "which postcard is from dubai?",
+                "question_type": "kitchen",
+                "correct_answer": "the one with the text \"the new look of dubai\"",
+                "timestamp": 66.3
+            },
+            {
+                "video_id": "aa442257-9ddb-4393-870a-fbe140fa8c4d",
+                "question_id": 5,
+                "question": "where is the sparkling water?",
+                "question_type": "kitchen",
+                "correct_answer": "on the top shelf",
+                "timestamp": 76.5
+            },
+            {
+                "video_id": "adc2dcfa-1a11-4e59-aaac-0934cafddad4",
+                "question_id": 5,
+                "question": "which cleaning product should i use to deal with tough grease on the pans?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy",
+                "timestamp": 88.0
+            },
+            {
+                "video_id": "b432d0b3-d6c6-4565-9733-3aa97b8812dd",
+                "question_id": 5,
+                "question": "which brand of snack is labeled \"probiotic cultures\"?",
+                "question_type": "kitchen",
+                "correct_answer": "kirkland",
+                "timestamp": 48.2
+            },
+            {
+                "video_id": "b53ce673-003f-415f-a6f7-9057dc6a5b2c",
+                "question_id": 5,
+                "question": "where is the information on bread ingredients written?",
+                "question_type": "kitchen",
+                "correct_answer": "on the packaging of the bread",
+                "timestamp": 37.3
+            },
+            {
+                "video_id": "dbbcd94e-c005-4eb4-a426-edf0ef911ba4",
+                "question_id": 5,
+                "question": "where is the list of tasks written in this area?",
+                "question_type": "kitchen",
+                "correct_answer": "the list of tasks or notes is written on the whiteboard",
+                "timestamp": 49.3
+            },
+            {
+                "video_id": "02580ac5-bfbf-4b54-9a72-56541bbcb27a",
+                "question_id": 6,
+                "question": "where is the pizza box in relation to the items on the counter?",
+                "question_type": "kitchen",
+                "correct_answer": "next to a loaf of bread",
+                "timestamp": 71.7
+            },
+            {
+                "video_id": "03852f99-d3d1-4034-8140-1677e62420a1",
+                "question_id": 6,
+                "question": "what's on the top shelf?",
+                "question_type": "kitchen",
+                "correct_answer": "a container of strawberries is on the top shelf, and a container of blueberries is on the middle shelf",
+                "timestamp": 144.7
+            },
+            {
+                "video_id": "067618dc-1a01-4023-9a7b-aa26217eeed7",
+                "question_id": 6,
+                "question": "where should items be placed next to the oven?",
+                "question_type": "kitchen",
+                "correct_answer": "on the right side of the stove",
+                "timestamp": 81.8
+            },
+            {
+                "video_id": "125021ea-4af4-4574-9bde-bd7ee753260b",
+                "question_id": 6,
+                "question": "how many lemons are placed near the sink?",
+                "question_type": "kitchen",
+                "correct_answer": "two",
+                "timestamp": 115.8
+            },
+            {
+                "video_id": "1d37d8e5-82da-440b-8476-58dd71fea1a2",
+                "question_id": 6,
+                "question": "where should the bottle be stored after the 'fairy' dishwashing liquid is used?",
+                "question_type": "kitchen",
+                "correct_answer": "keep it back next to the potted plant by the window",
+                "timestamp": 67.3
+            },
+            {
+                "video_id": "2d4c64ed-f722-412f-9dec-e6f25d04d352",
+                "question_id": 6,
+                "question": "which bottle labeled \"pataks\" should i use to season the dish?",
+                "question_type": "kitchen",
+                "correct_answer": "the bottle with the purple lid",
+                "timestamp": 89.2
+            },
+            {
+                "video_id": "3179da5d-0f44-4d0f-91d8-d404805f54c3",
+                "question_id": 6,
+                "question": "which cupboard is above the kitchen counter near the dishwashing liquid \"fairy\"?",
+                "question_type": "kitchen",
+                "correct_answer": "the wooden cupboard",
+                "timestamp": 86.3
+            },
+            {
+                "video_id": "4a5ce663-2c3b-4405-9128-34a743dbc7da",
+                "question_id": 6,
+                "question": "where is the detergent bottle with \"anti-bacterial\"?",
+                "question_type": "kitchen",
+                "correct_answer": "next to the kitchen sink",
+                "timestamp": 117.2
+            },
+            {
+                "video_id": "5f9e5bde-5d7b-458f-a537-99a703396c4c",
+                "question_id": 6,
+                "question": "which cooking utensil should i grab next from the coop box?",
+                "question_type": "kitchen",
+                "correct_answer": "the vegetable peeler",
+                "timestamp": 65.8
+            },
+            {
+                "video_id": "6b4e9866-df2c-4b46-92b7-55e1496f0189",
+                "question_id": 6,
+                "question": "which ingredient is in the packet labeled 'refrigerate after opening'?",
+                "question_type": "kitchen",
+                "correct_answer": "fresh strawberries",
+                "timestamp": 76.7
+            },
+            {
+                "video_id": "6c33655c-d349-401f-9839-fe1a4d8c5cf4",
+                "question_id": 6,
+                "question": "where should the clean dishes be stored after washing them with fairy dish soap?",
+                "question_type": "kitchen",
+                "correct_answer": "in the drying rack",
+                "timestamp": 81.3
+            },
+            {
+                "video_id": "aa442257-9ddb-4393-870a-fbe140fa8c4d",
+                "question_id": 6,
+                "question": "what is the brand of the marinara sauce?",
+                "question_type": "kitchen",
+                "correct_answer": "kirkland",
+                "timestamp": 110.2
+            },
+            {
+                "video_id": "ab90c1f3-716f-49a7-b0c2-24af62873c53",
+                "question_id": 6,
+                "question": "which food item is on the counter?",
+                "question_type": "kitchen",
+                "correct_answer": "oats",
+                "timestamp": 75.7
+            },
+            {
+                "video_id": "bd02ae0b-55ac-4907-9ae5-a2a2b8b33579",
+                "question_id": 6,
+                "question": "what key ingredient can add flavor to this dessert mixture?",
+                "question_type": "kitchen",
+                "correct_answer": "ground coffee from the can with \"caffeine gourmet ground coffee\" text",
+                "timestamp": 90.0
+            },
+            {
+                "video_id": "dbbcd94e-c005-4eb4-a426-edf0ef911ba4",
+                "question_id": 6,
+                "question": "which appliance shows the time?",
+                "question_type": "kitchen",
+                "correct_answer": "the oven",
+                "timestamp": 65.3
+            },
+            {
+                "video_id": "02580ac5-bfbf-4b54-9a72-56541bbcb27a",
+                "question_id": 7,
+                "question": "where is the butter located in the refrigerator?",
+                "question_type": "kitchen",
+                "correct_answer": "on the top shelf",
+                "timestamp": 71.7
+            },
+            {
+                "video_id": "03852f99-d3d1-4034-8140-1677e62420a1",
+                "question_id": 7,
+                "question": "what type of cheese do i have on the counter?",
+                "question_type": "kitchen",
+                "correct_answer": "crystal farms cheddar cheese",
+                "timestamp": 144.7
+            },
+            {
+                "video_id": "15f31177-16fb-4a91-bb52-c8598d46d2f9",
+                "question_id": 7,
+                "question": "where is the dishwashing liquid?",
+                "question_type": "kitchen",
+                "correct_answer": "on the window sill next to the plant",
+                "timestamp": 73.3
+            },
+            {
+                "video_id": "1d37d8e5-82da-440b-8476-58dd71fea1a2",
+                "question_id": 7,
+                "question": "what is the title of the book?",
+                "question_type": "kitchen",
+                "correct_answer": "molly and the storm",
+                "timestamp": 67.3
+            },
+            {
+                "video_id": "29a90a91-999f-46fd-83d7-e3fc0d7ff231",
+                "question_id": 7,
+                "question": "what ingredients from the fridge would be good to use when making a smoothie with the 'rude health' product?",
+                "question_type": "kitchen",
+                "correct_answer": "some vegetables and \"rude health\"",
+                "timestamp": 115.8
+            },
+            {
+                "video_id": "2db5bfed-8403-4670-9a5c-a54714c09de1",
+                "question_id": 7,
+                "question": "what type of blender is this?",
+                "question_type": "kitchen",
+                "correct_answer": "breville",
+                "timestamp": 76.8
+            },
+            {
+                "video_id": "445f69ab-5f4c-43a3-9197-ea33d5bb7721",
+                "question_id": 7,
+                "question": "what type of cheese is this?",
+                "question_type": "kitchen",
+                "correct_answer": "cathedral city mature",
+                "timestamp": 78.7
+            },
+            {
+                "video_id": "492da49a-9b7a-4d85-a152-15b9897d0550",
+                "question_id": 7,
+                "question": "which brand of coffee creamer do i have in the fridge?",
+                "question_type": "kitchen",
+                "correct_answer": "international delight",
+                "timestamp": 96.5
+            },
+            {
+                "video_id": "5f9e5bde-5d7b-458f-a537-99a703396c4c",
+                "question_id": 7,
+                "question": "what brand is the stove?",
+                "question_type": "kitchen",
+                "correct_answer": "lamona",
+                "timestamp": 65.8
+            },
+            {
+                "video_id": "689d796c-136e-4d2c-9e14-f2ead1c6e16b",
+                "question_id": 7,
+                "question": "what brand of hand soap does the kitchen have?",
+                "question_type": "kitchen",
+                "correct_answer": "lux",
+                "timestamp": 71.3
+            },
+            {
+                "video_id": "68f6ddfd-bf42-4bee-b1c9-a48db428e586",
+                "question_id": 7,
+                "question": "what condition is the \"co-op\" food container in?",
+                "question_type": "kitchen",
+                "correct_answer": "new and unused",
+                "timestamp": 84.5
+            },
+            {
+                "video_id": "6bfdd4ee-0773-4a77-bac0-a80b70422885",
+                "question_id": 7,
+                "question": "what is the brand of the cupcakes?",
+                "question_type": "kitchen",
+                "correct_answer": "lusine",
+                "timestamp": 65.3
+            },
+            {
+                "video_id": "71c7414e-62c6-40a2-9651-a786c5659d03",
+                "question_id": 7,
+                "question": "which brand of crackers should i serve with the coffee?",
+                "question_type": "kitchen",
+                "correct_answer": "triscuit",
+                "timestamp": 82.5
+            },
+            {
+                "video_id": "7a028a4d-6b88-4229-9aab-b19b4aaad022",
+                "question_id": 7,
+                "question": "which brand is the can i\u2019m holding?",
+                "question_type": "kitchen",
+                "correct_answer": "rainbow",
+                "timestamp": 83.7
+            },
+            {
+                "video_id": "8e30e2ce-7a8c-4163-82a9-dd28413278b2",
+                "question_id": 7,
+                "question": "which type of coffee am i using to make my drink?",
+                "question_type": "kitchen",
+                "correct_answer": "half caffeine ground coffee",
+                "timestamp": 85.5
+            },
+            {
+                "video_id": "9bbc5382-7faf-43a0-9a12-02c3458c6c89",
+                "question_id": 7,
+                "question": "what does the text on the brown bin say?",
+                "question_type": "kitchen",
+                "correct_answer": "food waste. no plastic bags",
+                "timestamp": 82.0
+            },
+            {
+                "video_id": "aa442257-9ddb-4393-870a-fbe140fa8c4d",
+                "question_id": 7,
+                "question": "which brand of cereal is on the kitchen counter?",
+                "question_type": "kitchen",
+                "correct_answer": "golden grahams",
+                "timestamp": 110.2
+            },
+            {
+                "video_id": "bd02ae0b-55ac-4907-9ae5-a2a2b8b33579",
+                "question_id": 7,
+                "question": "what type of coffee do i have, and does it contain caffeine?",
+                "question_type": "kitchen",
+                "correct_answer": "half caffeine ground coffee, contains some caffeine",
+                "timestamp": 90.0
+            },
+            {
+                "video_id": "c04da37a-b98f-4796-afe2-1b7d3af20911",
+                "question_id": 7,
+                "question": "where is the box of diamond biscuits?",
+                "question_type": "kitchen",
+                "correct_answer": "on the middle shelf",
+                "timestamp": 105.7
+            },
+            {
+                "video_id": "c59863c7-ff3b-415c-b42e-9c44ccea3e56",
+                "question_id": 7,
+                "question": "i'm looking for something crunchy and cheesy,which snack should i pick?",
+                "question_type": "kitchen",
+                "correct_answer": "pick the doritos chips",
+                "timestamp": 112.8
+            },
+            {
+                "video_id": "d7b78bfa-3e85-4f13-a428-d16dad1f0a79",
+                "question_id": 7,
+                "question": "what is written on my t-shirt?",
+                "question_type": "kitchen",
+                "correct_answer": "rise intl",
+                "timestamp": 78.7
+            },
+            {
+                "video_id": "dbbcd94e-c005-4eb4-a426-edf0ef911ba4",
+                "question_id": 7,
+                "question": "what flavor of cupcake is in the box labeled \"luisine\"?",
+                "question_type": "kitchen",
+                "correct_answer": "strawberry",
+                "timestamp": 65.3
+            },
+            {
+                "video_id": "e1c7c4ef-c827-4c16-a5cd-3be1fdcb56ab",
+                "question_id": 7,
+                "question": "what temperature does the appliance display while we are eating?",
+                "question_type": "kitchen",
+                "correct_answer": "149",
+                "timestamp": 117.7
+            },
+            {
+                "video_id": "04c51dba-1dcb-4b8f-a62c-efc363561d7b",
+                "question_id": 8,
+                "question": "where is more aluminum foil available for cooking?",
+                "question_type": "kitchen",
+                "correct_answer": "on the countertop next to the stove",
+                "timestamp": 77.0
+            },
+            {
+                "video_id": "0a8b2c9d-b54c-4811-acf3-5977895d2445",
+                "question_id": 8,
+                "question": "which brand is written on the can?",
+                "question_type": "kitchen",
+                "correct_answer": "rainbow",
+                "timestamp": 83.7
+            },
+            {
+                "video_id": "0d173aa3-9a94-4ba4-84bc-949d3254a63d",
+                "question_id": 8,
+                "question": "where is the la spiga guiseppe ingredient bag amongst the other bags?",
+                "question_type": "kitchen",
+                "correct_answer": "next to moirca",
+                "timestamp": 73.7
+            },
+            {
+                "video_id": "1260e051-abf8-4a77-82b9-dd8e5f5c792b",
+                "question_id": 8,
+                "question": "where is more information about the physics concepts available?",
+                "question_type": "kitchen",
+                "correct_answer": "check the contents of the books \"quantum physics,\" \"classical mechanics,\" and \"quantum field theory.\"",
+                "timestamp": 81.5
+            },
+            {
+                "video_id": "267effd1-ad4b-4f85-be68-3e875b032430",
+                "question_id": 8,
+                "question": "where is the serial number of the gas cylinder?",
+                "question_type": "kitchen",
+                "correct_answer": "on the body of the cylinder",
+                "timestamp": 81.2
+            },
+            {
+                "video_id": "29a90a91-999f-46fd-83d7-e3fc0d7ff231",
+                "question_id": 8,
+                "question": "which item that contains \"whole milk\" might be needed for my cereal tomorrow morning?",
+                "question_type": "kitchen",
+                "correct_answer": "the jug of milk",
+                "timestamp": 115.8
+            },
+            {
+                "video_id": "39960e01-18a0-4081-8a66-106c8b4755bf",
+                "question_id": 8,
+                "question": "where was the bottle of 'fairy' dishwashing liquid placed?",
+                "question_type": "kitchen",
+                "correct_answer": "next to the faucet",
+                "timestamp": 81.5
+            },
+            {
+                "video_id": "411f78d7-b717-49a5-909d-3c6910bbaad8",
+                "question_id": 8,
+                "question": "what should be used to slice the onions?",
+                "question_type": "kitchen",
+                "correct_answer": "mandoline slicer",
+                "timestamp": 75.2
+            },
+            {
+                "video_id": "49112a31-b220-453c-b061-64c821e59b06",
+                "question_id": 8,
+                "question": "where was the bottle of 'fairy' dishwashing liquid placed?",
+                "question_type": "kitchen",
+                "correct_answer": "on the sink counter",
+                "timestamp": 81.5
+            },
+            {
+                "video_id": "51654269-ab9b-4d28-a07d-5e6316e73aba",
+                "question_id": 8,
+                "question": "where is the package with the name \"panela\"?",
+                "question_type": "kitchen",
+                "correct_answer": "on the bottom right in a red package",
+                "timestamp": 73.0
+            },
+            {
+                "video_id": "53d3cd2d-22cd-481a-8fab-d6ce5424440e",
+                "question_id": 8,
+                "question": "how much longer do i need to wait before the food is ready?",
+                "question_type": "kitchen",
+                "correct_answer": "2 minutes",
+                "timestamp": 114.3
+            },
+            {
+                "video_id": "6bfdd4ee-0773-4a77-bac0-a80b70422885",
+                "question_id": 8,
+                "question": "which product should i move to make more space for the lusine cupcakes?",
+                "question_type": "kitchen",
+                "correct_answer": "move the snacks beside the lusine cupcake box",
+                "timestamp": 65.3
+            },
+            {
+                "video_id": "6c33655c-d349-401f-9839-fe1a4d8c5cf4",
+                "question_id": 8,
+                "question": "where is the chickpea bowl located in relation to the fairy dish soap?",
+                "question_type": "kitchen",
+                "correct_answer": "in front of the fairy dish soap",
+                "timestamp": 81.3
+            },
+            {
+                "video_id": "6e72ace9-3ea8-4928-b1b9-07cd2787bdbc",
+                "question_id": 8,
+                "question": "where is the container labeled \"half caffeine\" placed in relation to the laptop?",
+                "question_type": "kitchen",
+                "correct_answer": "to the right of the laptop",
+                "timestamp": 90.0
+            },
+            {
+                "video_id": "81ab2c1f-08dc-4c72-aca0-53d81e77cc0b",
+                "question_id": 8,
+                "question": "what is the number on the fridge",
+                "question_type": "kitchen",
+                "correct_answer": "36",
+                "timestamp": 75.3
+            },
+            {
+                "video_id": "89ef10fe-0233-463e-bfcb-35e1d2d92f7f",
+                "question_id": 8,
+                "question": "where are instructions of the instant noodles?",
+                "question_type": "kitchen",
+                "correct_answer": "on the back of the package",
+                "timestamp": 80.5
+            },
+            {
+                "video_id": "92ca14f8-204b-4b7c-abb8-8646efe377a8",
+                "question_id": 8,
+                "question": "which items on the kitchen counter can assist me in ensuring my meal is cooked properly?",
+                "question_type": "kitchen",
+                "correct_answer": "electric stove controls with temperature settings",
+                "timestamp": 87.5
+            },
+            {
+                "video_id": "94e3f7e8-a645-4c40-8e4c-ea8911a0e56f",
+                "question_id": 8,
+                "question": "where should i place this pan on the stove for medium heat?",
+                "question_type": "kitchen",
+                "correct_answer": "on the burner with the number 3 indicator",
+                "timestamp": 86.8
+            },
+            {
+                "video_id": "b39ab84c-a82e-4ac3-a635-3594e52f810e",
+                "question_id": 8,
+                "question": "which bottle labeled \"lux\" is closest to the sink?",
+                "question_type": "kitchen",
+                "correct_answer": "the green bottle",
+                "timestamp": 72.8
+            },
+            {
+                "video_id": "b6176977-7f5c-4912-bd42-6d81f6cbe504",
+                "question_id": 8,
+                "question": "which of my ingredients is labeled \"rude\"? what kind of product is it?",
+                "question_type": "kitchen",
+                "correct_answer": "the ingredient labeled \"rude\" is a dark-colored bottle",
+                "timestamp": 87.2
+            },
+            {
+                "video_id": "b89cb4fb-ae70-47ed-9b6a-74b08f04ae8d",
+                "question_id": 8,
+                "question": "which box do i need to open to start preparing my next meal's cereal?",
+                "question_type": "kitchen",
+                "correct_answer": "oats",
+                "timestamp": 77.7
+            },
+            {
+                "video_id": "b8f63497-621d-4e9a-8b35-c47f1d9b052c",
+                "question_id": 8,
+                "question": "how much does this red jar weigh?",
+                "question_type": "kitchen",
+                "correct_answer": "14.2 kg",
+                "timestamp": 68.3
+            },
+            {
+                "video_id": "c04da37a-b98f-4796-afe2-1b7d3af20911",
+                "question_id": 8,
+                "question": "what brand is the dishwashing liquid?",
+                "question_type": "kitchen",
+                "correct_answer": "afia",
+                "timestamp": 105.7
+            },
+            {
+                "video_id": "d1685c67-5a85-4d3a-9c7c-25a7055c318d",
+                "question_id": 8,
+                "question": "which seasoning should i use?",
+                "question_type": "kitchen",
+                "correct_answer": "all purpose seasoning",
+                "timestamp": 98.7
+            },
+            {
+                "video_id": "d6255083-1ee7-43b0-ab6c-8c4db7a36bc1",
+                "question_id": 8,
+                "question": "what is the wind rating of the kitchen hood?",
+                "question_type": "kitchen",
+                "correct_answer": "3",
+                "timestamp": 86.8
+            },
+            {
+                "video_id": "d7b78bfa-3e85-4f13-a428-d16dad1f0a79",
+                "question_id": 8,
+                "question": "where is the label with 'athlete'?",
+                "question_type": "kitchen",
+                "correct_answer": "on the t-shirt",
+                "timestamp": 78.7
+            },
+            {
+                "video_id": "dbbcd94e-c005-4eb4-a426-edf0ef911ba4",
+                "question_id": 8,
+                "question": "where are available more canned drinks like the ones labeled \"fanta\" and \"mirinda\"?",
+                "question_type": "kitchen",
+                "correct_answer": "on the right side of the shelf",
+                "timestamp": 65.3
+            },
+            {
+                "video_id": "e293f6f8-51be-4942-85fd-fdaf38b3e9c1",
+                "question_id": 8,
+                "question": "where do i place the bisto container after cleaning?",
+                "question_type": "kitchen",
+                "correct_answer": "back on the counter beside the kettle",
+                "timestamp": 77.3
+            },
+            {
+                "video_id": "03852f99-d3d1-4034-8140-1677e62420a1",
+                "question_id": 9,
+                "question": "where is the mcdonald's cup?",
+                "question_type": "kitchen",
+                "correct_answer": "in the fridge",
+                "timestamp": 143.7
+            },
+            {
+                "video_id": "052f980b-daaf-4d4b-99fb-a7f9143ba85a",
+                "question_id": 9,
+                "question": "which appliance should i check to find the model name?",
+                "question_type": "kitchen",
+                "correct_answer": "the stovetop",
+                "timestamp": 103.8
+            },
+            {
+                "video_id": "0bbafd74-aa2f-4692-9f7d-7f6f6bf27187",
+                "question_id": 9,
+                "question": "what kind of seasoning do you use?",
+                "question_type": "kitchen",
+                "correct_answer": "soy sauce and chili sauce",
+                "timestamp": 143.3
+            },
+            {
+                "video_id": "0d173aa3-9a94-4ba4-84bc-949d3254a63d",
+                "question_id": 9,
+                "question": "what is the ingredient brand next to moirca?",
+                "question_type": "kitchen",
+                "correct_answer": "la spiga guiseppe",
+                "timestamp": 96.0
+            },
+            {
+                "video_id": "12b68e7a-f0b8-431c-98fd-758aa9206e2b",
+                "question_id": 9,
+                "question": "which shop or company uniform am i wearing?",
+                "question_type": "kitchen",
+                "correct_answer": "krugh automotive",
+                "timestamp": 109.7
+            },
+            {
+                "video_id": "1d37d8e5-82da-440b-8476-58dd71fea1a2",
+                "question_id": 9,
+                "question": "which author wrote \"molly and the storm\"?",
+                "question_type": "kitchen",
+                "correct_answer": "charlotte lisson",
+                "timestamp": 150.5
+            },
+            {
+                "video_id": "211b3099-3cba-4b1b-a7ca-b7ec5a4b34af",
+                "question_id": 9,
+                "question": "where is the green-labeled product located in relation to the skillet?",
+                "question_type": "kitchen",
+                "correct_answer": "to the left of the skillet",
+                "timestamp": 75.0
+            },
+            {
+                "video_id": "29a90a91-999f-46fd-83d7-e3fc0d7ff231",
+                "question_id": 9,
+                "question": "where is the \"whole milk\" placed in relation to the vegetables in the fridge?",
+                "question_type": "kitchen",
+                "correct_answer": "next to the vegetables",
+                "timestamp": 137.8
+            },
+            {
+                "video_id": "3179da5d-0f44-4d0f-91d8-d404805f54c3",
+                "question_id": 9,
+                "question": "which items are located next to the potted plant near the window, and can they be used to clean dishes?",
+                "question_type": "kitchen",
+                "correct_answer": "a red bottle and a detergent bottle, yes",
+                "timestamp": 114.3
+            },
+            {
+                "video_id": "33e3c929-b289-4136-932f-012445bedfc2",
+                "question_id": 9,
+                "question": "where is the dish soap with an eco-friendly label?",
+                "question_type": "kitchen",
+                "correct_answer": "in the kitchen by the sink",
+                "timestamp": 138.2
+            },
+            {
+                "video_id": "344e50a2-802e-479d-9b89-ea7f9d927e06",
+                "question_id": 9,
+                "question": "where is the power outlet to plug in the nutribullet blender?",
+                "question_type": "kitchen",
+                "correct_answer": "next to the nutribullet blender",
+                "timestamp": 104.5
+            },
+            {
+                "video_id": "411f78d7-b717-49a5-909d-3c6910bbaad8",
+                "question_id": 9,
+                "question": "how many white containers are stored next to the window?",
+                "question_type": "kitchen",
+                "correct_answer": "five",
+                "timestamp": 105.0
+            },
+            {
+                "video_id": "49112a31-b220-453c-b061-64c821e59b06",
+                "question_id": 9,
+                "question": "where is the \"fairy\"?",
+                "question_type": "kitchen",
+                "correct_answer": "near the kitchen sink",
+                "timestamp": 110.8
+            },
+            {
+                "video_id": "4e8b9084-f3c4-4c94-9a65-65ceab9d2a92",
+                "question_id": 9,
+                "question": "where is more information about the proper usage instructions for the fairy dish soap available?",
+                "question_type": "kitchen",
+                "correct_answer": "check the label on the fairy dish soap bottle",
+                "timestamp": 139.8
+            },
+            {
+                "video_id": "5429fdea-624c-49b2-9cb3-4f77c7223d74",
+                "question_id": 9,
+                "question": "which type of eggs have i placed beside the bowl, and what other cooking ingredients are near them?",
+                "question_type": "kitchen",
+                "correct_answer": "large white, oil and pickles",
+                "timestamp": 148.2
+            },
+            {
+                "video_id": "5f9e5bde-5d7b-458f-a537-99a703396c4c",
+                "question_id": 9,
+                "question": "where is information about the type of fruit available?",
+                "question_type": "kitchen",
+                "correct_answer": "the plastic packaging",
+                "timestamp": 116.3
+            },
+            {
+                "video_id": "5fd03399-589f-487c-b893-7ddeb1c293e4",
+                "question_id": 9,
+                "question": "how can i use the contents of the \"pitiarell\" bags safely?",
+                "question_type": "kitchen",
+                "correct_answer": "spread the charcoal evenly in the grill",
+                "timestamp": 141.3
+            },
+            {
+                "video_id": "70769ed6-747f-42f8-badc-27dc2d783998",
+                "question_id": 9,
+                "question": "where is the instructions for using the cleaner labeled \"fairy\"?",
+                "question_type": "kitchen",
+                "correct_answer": "on the back label of the bottle",
+                "timestamp": 65.2
+            },
+            {
+                "video_id": "71c7414e-62c6-40a2-9651-a786c5659d03",
+                "question_id": 9,
+                "question": "what type of triscuit product is available here?",
+                "question_type": "kitchen",
+                "correct_answer": "original",
+                "timestamp": 101.3
+            },
+            {
+                "video_id": "7765c919-5e2c-428e-8b49-eac1e7a095d0",
+                "question_id": 9,
+                "question": "what brand is the bottle on the windowsill?",
+                "question_type": "kitchen",
+                "correct_answer": "rumalu",
+                "timestamp": 122.2
+            },
+            {
+                "video_id": "92ca14f8-204b-4b7c-abb8-8646efe377a8",
+                "question_id": 9,
+                "question": "where are instructions or indicators for the cleaning supplies?",
+                "question_type": "kitchen",
+                "correct_answer": "instruction label on the plastic bag next to the broom and dustpan",
+                "timestamp": 114.7
+            },
+            {
+                "video_id": "c04da37a-b98f-4796-afe2-1b7d3af20911",
+                "question_id": 9,
+                "question": "where is the afia cooking oil located in relation to the stove?",
+                "question_type": "kitchen",
+                "correct_answer": "to the right of the stove",
+                "timestamp": 145.2
+            },
+            {
+                "video_id": "04c51dba-1dcb-4b8f-a62c-efc363561d7b",
+                "question_id": 10,
+                "question": "what brand is the cling film?",
+                "question_type": "kitchen",
+                "correct_answer": "sanita club",
+                "timestamp": 115.5
+            },
+            {
+                "video_id": "0f650b0f-beaf-4839-bfec-cdd2189687e2",
+                "question_id": 10,
+                "question": "what is the brand and type of rice that i have stored?",
+                "question_type": "kitchen",
+                "correct_answer": "tilda super basmati extra long grains",
+                "timestamp": 95.8
+            },
+            {
+                "video_id": "125021ea-4af4-4574-9bde-bd7ee753260b",
+                "question_id": 10,
+                "question": "which detergent should i use to wash the dishes?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy",
+                "timestamp": 147.2
+            },
+            {
+                "video_id": "24a42871-2cf3-4906-81ff-0dd559cc745e",
+                "question_id": 10,
+                "question": "what type of flour do i use to mix with the egg in the yellow bowl?",
+                "question_type": "kitchen",
+                "correct_answer": "the flour bag reads \"flour\"",
+                "timestamp": 115.2
+            },
+            {
+                "video_id": "29a90a91-999f-46fd-83d7-e3fc0d7ff231",
+                "question_id": 10,
+                "question": "what brand is the appliance keeping the food cold?",
+                "question_type": "kitchen",
+                "correct_answer": "indesit",
+                "timestamp": 137.8
+            },
+            {
+                "video_id": "2fc0d274-1e9e-4b8a-9806-ed05326d2483",
+                "question_id": 10,
+                "question": "what is the detergent i am using to clean the dishes?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy",
+                "timestamp": 147.2
+            },
+            {
+                "video_id": "339fe26b-487b-4f1d-8755-e26cf7f2c58c",
+                "question_id": 10,
+                "question": "what is the brand of hand soap?",
+                "question_type": "kitchen",
+                "correct_answer": "lux",
+                "timestamp": 96.5
+            },
+            {
+                "video_id": "3bf4c831-b953-4507-8b26-7b638da8a3b0",
+                "question_id": 10,
+                "question": "the kids want something sweet to add to their pancakes,what should i do?",
+                "question_type": "kitchen",
+                "correct_answer": "use the maple syrup from the bottle on the table",
+                "timestamp": 112.0
+            },
+            {
+                "video_id": "3edad137-d1f4-47b1-bfa3-d8892d768579",
+                "question_id": 10,
+                "question": "what is the brand of the faucet?",
+                "question_type": "kitchen",
+                "correct_answer": "aiva",
+                "timestamp": 117.5
+            },
+            {
+                "video_id": "51654269-ab9b-4d28-a07d-5e6316e73aba",
+                "question_id": 10,
+                "question": "what brand is the box of cereal next to the oranges?",
+                "question_type": "kitchen",
+                "correct_answer": "servivita",
+                "timestamp": 118.3
+            },
+            {
+                "video_id": "5429fdea-624c-49b2-9cb3-4f77c7223d74",
+                "question_id": 10,
+                "question": "what temperature should i set the oven to for baking the mushrooms?",
+                "question_type": "kitchen",
+                "correct_answer": "350\u00b0f",
+                "timestamp": 148.2
+            },
+            {
+                "video_id": "6ccfb6b6-9dfa-4cae-9c35-b4bbe4be43da",
+                "question_id": 10,
+                "question": "what should i do to clean the pot after cooking?",
+                "question_type": "kitchen",
+                "correct_answer": "use the \"fairy\" dishwashing liquid and scrub the pot with a cloth",
+                "timestamp": 165.0
+            },
+            {
+                "video_id": "71c7414e-62c6-40a2-9651-a786c5659d03",
+                "question_id": 10,
+                "question": "where are the triscuit crackers?",
+                "question_type": "kitchen",
+                "correct_answer": "on the windowsill next to the white bowls",
+                "timestamp": 101.3
+            },
+            {
+                "video_id": "7cdc1d93-dc10-4f18-b2b4-caab23d9023d",
+                "question_id": 10,
+                "question": "i want something with chocolate, which snack should i choose?",
+                "question_type": "kitchen",
+                "correct_answer": "twix",
+                "timestamp": 112.0
+            },
+            {
+                "video_id": "8e7ee3d9-3bb6-421c-be50-5b473b90673d",
+                "question_id": 10,
+                "question": "what kind of sauce is stored in the cupboard?",
+                "question_type": "kitchen",
+                "correct_answer": "hp sauce",
+                "timestamp": 106.3
+            },
+            {
+                "video_id": "94e7f24e-dc40-4387-8136-19ca50062f9a",
+                "question_id": 10,
+                "question": "where is the microwave's start button?",
+                "question_type": "kitchen",
+                "correct_answer": "next to the display showing 6",
+                "timestamp": 108.0
+            },
+            {
+                "video_id": "a4789971-479a-40d2-886a-8b08f7d75f52",
+                "question_id": 10,
+                "question": "where is the ice cream?",
+                "question_type": "kitchen",
+                "correct_answer": "in the fridge labeled \"arun icecreams\"",
+                "timestamp": 117.3
+            },
+            {
+                "video_id": "ab90c1f3-716f-49a7-b0c2-24af62873c53",
+                "question_id": 10,
+                "question": "what type of cheese is?",
+                "question_type": "kitchen",
+                "correct_answer": "soft cheese",
+                "timestamp": 109.0
+            },
+            {
+                "video_id": "b432d0b3-d6c6-4565-9733-3aa97b8812dd",
+                "question_id": 10,
+                "question": "what brand are the diaper boxes on the top shelf?",
+                "question_type": "kitchen",
+                "correct_answer": "pampers",
+                "timestamp": 120.2
+            },
+            {
+                "video_id": "b6176977-7f5c-4912-bd42-6d81f6cbe504",
+                "question_id": 10,
+                "question": "what is written on the packaging of the greens?",
+                "question_type": "kitchen",
+                "correct_answer": "os",
+                "timestamp": 116.5
+            },
+            {
+                "video_id": "b8f63497-621d-4e9a-8b35-c47f1d9b052c",
+                "question_id": 10,
+                "question": "what's the brand name on the box?",
+                "question_type": "kitchen",
+                "correct_answer": "vijaya",
+                "timestamp": 98.0
+            },
+            {
+                "video_id": "b94c944b-5c8a-488b-b757-4a68fdddaa80",
+                "question_id": 10,
+                "question": "what cleaning product should i use to wash the dishes?",
+                "question_type": "kitchen",
+                "correct_answer": "dawn",
+                "timestamp": 106.0
+            },
+            {
+                "video_id": "bb654961-bca6-4c86-92ae-2d842cec58da",
+                "question_id": 10,
+                "question": "where are the choco chip cookies located on the table?",
+                "question_type": "kitchen",
+                "correct_answer": "next to the bowl of grapes",
+                "timestamp": 112.0
+            },
+            {
+                "video_id": "be6ecd91-1c5b-4732-b57d-3750d27a60a3",
+                "question_id": 10,
+                "question": "where do i put the real mayonnaise?",
+                "question_type": "kitchen",
+                "correct_answer": "on the top shelf, next to the pink jug",
+                "timestamp": 110.2
+            },
+            {
+                "video_id": "e293f6f8-51be-4942-85fd-fdaf38b3e9c1",
+                "question_id": 10,
+                "question": "what is the brand of the rice bag?",
+                "question_type": "kitchen",
+                "correct_answer": "tilda",
+                "timestamp": 95.8
+            },
+            {
+                "video_id": "02580ac5-bfbf-4b54-9a72-56541bbcb27a",
+                "question_id": 11,
+                "question": "where are the juices and drinks?",
+                "question_type": "kitchen",
+                "correct_answer": "on the shelf next to the other boxes",
+                "timestamp": 135.0
+            },
+            {
+                "video_id": "04a72cd8-e47c-4baf-9a50-b33ad2996a5e",
+                "question_id": 11,
+                "question": "where is the dish soap?",
+                "question_type": "kitchen",
+                "correct_answer": "near the sink",
+                "timestamp": 138.2
+            },
+            {
+                "video_id": "04c51dba-1dcb-4b8f-a62c-efc363561d7b",
+                "question_id": 11,
+                "question": "where is the current time on the oven can?",
+                "question_type": "kitchen",
+                "correct_answer": "on the top display panel",
+                "timestamp": 115.5
+            },
+            {
+                "video_id": "0d173aa3-9a94-4ba4-84bc-949d3254a63d",
+                "question_id": 11,
+                "question": "where are more bags of the \"maiorca\" flour available, and how many are stacked in pairs?",
+                "question_type": "kitchen",
+                "correct_answer": "on the left stacks, 2 pairs",
+                "timestamp": 96.0
+            },
+            {
+                "video_id": "1260e051-abf8-4a77-82b9-dd8e5f5c792b",
+                "question_id": 11,
+                "question": "which pieces have the label 'a' on them?",
+                "question_type": "kitchen",
+                "correct_answer": "one piece",
+                "timestamp": 116.2
+            },
+            {
+                "video_id": "236b985c-7515-4e36-a2dd-b65f62bc9ca7",
+                "question_id": 11,
+                "question": "where should i place the \"chicken\" food item after the timer on the oven reaches zero?",
+                "question_type": "kitchen",
+                "correct_answer": "on the table",
+                "timestamp": 108.7
+            },
+            {
+                "video_id": "4a5ce663-2c3b-4405-9128-34a743dbc7da",
+                "question_id": 11,
+                "question": "where is the lola nori packaging?",
+                "question_type": "kitchen",
+                "correct_answer": "next to the sink",
+                "timestamp": 125.5
+            },
+            {
+                "video_id": "6506c47b-f042-455c-bcc7-704caf9a0391",
+                "question_id": 11,
+                "question": "where is the information available regarding the nutritional content of the ingredients?",
+                "question_type": "kitchen",
+                "correct_answer": "near the ingredients list on the back of the bag",
+                "timestamp": 112.0
+            },
+            {
+                "video_id": "6ccfb6b6-9dfa-4cae-9c35-b4bbe4be43da",
+                "question_id": 11,
+                "question": "where are instructions to prepare the oats?",
+                "question_type": "kitchen",
+                "correct_answer": "on the oats container that says \"have you had yours?\"",
+                "timestamp": 119.0
+            },
+            {
+                "video_id": "7cdc1d93-dc10-4f18-b2b4-caab23d9023d",
+                "question_id": 11,
+                "question": "where is the \"fragole\"?",
+                "question_type": "kitchen",
+                "correct_answer": "on the tablecloth",
+                "timestamp": 112.0
+            },
+            {
+                "video_id": "82dc8b34-391e-4354-b1ce-b15265492ccc",
+                "question_id": 11,
+                "question": "where should i place the fairy dishwashing liquid to make it easier to reach?",
+                "question_type": "kitchen",
+                "correct_answer": "next to the sink",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "86e531d7-89fe-4311-b09e-6c4bc36c8a87",
+                "question_id": 11,
+                "question": "where are the instructions for preparing the coffee?",
+                "question_type": "kitchen",
+                "correct_answer": "on the label of the aeropress container",
+                "timestamp": 137.7
+            },
+            {
+                "video_id": "8e30e2ce-7a8c-4163-82a9-dd28413278b2",
+                "question_id": 11,
+                "question": "where is the quaker white oats container?",
+                "question_type": "kitchen",
+                "correct_answer": "on the counter near the laptop",
+                "timestamp": 111.2
+            },
+            {
+                "video_id": "9453d942-424a-4494-9e4d-e5e35ad1ac48",
+                "question_id": 11,
+                "question": "where do i place the carton of eggs that i need to use next?",
+                "question_type": "kitchen",
+                "correct_answer": "on the countertop",
+                "timestamp": 148.2
+            },
+            {
+                "video_id": "a4789971-479a-40d2-886a-8b08f7d75f52",
+                "question_id": 11,
+                "question": "which brand of ice cream is available in the fridge?",
+                "question_type": "kitchen",
+                "correct_answer": "arun icecreams",
+                "timestamp": 117.3
+            },
+            {
+                "video_id": "aa442257-9ddb-4393-870a-fbe140fa8c4d",
+                "question_id": 11,
+                "question": "which product on the shelf seems to be the baby wipes?",
+                "question_type": "kitchen",
+                "correct_answer": "aqua pure",
+                "timestamp": 138.2
+            },
+            {
+                "video_id": "ab90c1f3-716f-49a7-b0c2-24af62873c53",
+                "question_id": 11,
+                "question": "which item labeled \"soft cheese\" is among the ingredients on the table?",
+                "question_type": "kitchen",
+                "correct_answer": "the one near the edge next to the purple container",
+                "timestamp": 109.0
+            },
+            {
+                "video_id": "b224b904-1f61-455a-835b-9dd66b4309a3",
+                "question_id": 11,
+                "question": "where is more information about the organic certification of the ingredients available?",
+                "question_type": "kitchen",
+                "correct_answer": "the packaging with a label saying \"100% organic\"",
+                "timestamp": 101.3
+            },
+            {
+                "video_id": "b94c944b-5c8a-488b-b757-4a68fdddaa80",
+                "question_id": 11,
+                "question": "where do i place the \"dawn\" dish detergent after using it?",
+                "question_type": "kitchen",
+                "correct_answer": "near the faucet",
+                "timestamp": 106.0
+            },
+            {
+                "video_id": "c1be8c8e-906b-49c9-aaa2-8169e07956c5",
+                "question_id": 11,
+                "question": "i'm following a recipe with 'no salt added',which ingredient should i use next?",
+                "question_type": "kitchen",
+                "correct_answer": "nosalt",
+                "timestamp": 148.5
+            },
+            {
+                "video_id": "c59863c7-ff3b-415c-b42e-9c44ccea3e56",
+                "question_id": 11,
+                "question": "where is the pepsi in the fridge, and how many cans are there?",
+                "question_type": "kitchen",
+                "correct_answer": "in the door, eleven cans",
+                "timestamp": 144.3
+            },
+            {
+                "video_id": "cbf4aed9-99d3-4778-901a-563a52ed7d31",
+                "question_id": 11,
+                "question": "which brand of pasta is on the countertop?",
+                "question_type": "kitchen",
+                "correct_answer": "co-op",
+                "timestamp": 111.3
+            },
+            {
+                "video_id": "d4477ddc-7994-4b41-a7e5-8df369e903c0",
+                "question_id": 11,
+                "question": "where are the seasonings?",
+                "question_type": "kitchen",
+                "correct_answer": "next to the cutting board",
+                "timestamp": 117.5
+            },
+            {
+                "video_id": "02580ac5-bfbf-4b54-9a72-56541bbcb27a",
+                "question_id": 12,
+                "question": "where are these items placed?",
+                "question_type": "kitchen",
+                "correct_answer": "butter and cheese containers",
+                "timestamp": 134.0
+            },
+            {
+                "video_id": "04a72cd8-e47c-4baf-9a50-b33ad2996a5e",
+                "question_id": 12,
+                "question": "which cleaning product do i need to refill after this one runs out?",
+                "question_type": "kitchen",
+                "correct_answer": "ecover",
+                "timestamp": 145.2
+            },
+            {
+                "video_id": "0a8b2c9d-b54c-4811-acf3-5977895d2445",
+                "question_id": 12,
+                "question": "where is the \"phhids\" box?",
+                "question_type": "kitchen",
+                "correct_answer": "on the floor",
+                "timestamp": 148.5
+            },
+            {
+                "video_id": "18a07dbc-38bb-4a66-88d3-4a5404630458",
+                "question_id": 12,
+                "question": "where are the tools necessary to work on the section marked \"face\"?",
+                "question_type": "kitchen",
+                "correct_answer": "inside the blue toolbox",
+                "timestamp": 148.0
+            },
+            {
+                "video_id": "3bf4c831-b953-4507-8b26-7b638da8a3b0",
+                "question_id": 12,
+                "question": "where is the maple syrup?",
+                "question_type": "kitchen",
+                "correct_answer": "on the table next to the spoon and bowl",
+                "timestamp": 138.5
+            },
+            {
+                "video_id": "431343ea-9147-4921-bb33-575c13a27369",
+                "question_id": 12,
+                "question": "which vegetable am i chopping?",
+                "question_type": "kitchen",
+                "correct_answer": "bell peppers",
+                "timestamp": 129.2
+            },
+            {
+                "video_id": "63649fc9-b233-45c6-bd52-e8fe2c3c23d5",
+                "question_id": 12,
+                "question": "which items need to be washed, and do i have any detergent left to clean them with?",
+                "question_type": "kitchen",
+                "correct_answer": "a knife and a container, and yes, i have fairy detergent left",
+                "timestamp": 97.2
+            },
+            {
+                "video_id": "6472e377-b65c-461a-a750-9b28a673dc86",
+                "question_id": 12,
+                "question": "which sponges are on the counter beside the sink, and how many are there in total?",
+                "question_type": "kitchen",
+                "correct_answer": "two",
+                "timestamp": 139.8
+            },
+            {
+                "video_id": "6b4e9866-df2c-4b46-92b7-55e1496f0189",
+                "question_id": 12,
+                "question": "what type of snacks are stored on the middle shelf of the pantry?",
+                "question_type": "kitchen",
+                "correct_answer": "crackers and canned food",
+                "timestamp": 139.2
+            },
+            {
+                "video_id": "7cdc1d93-dc10-4f18-b2b4-caab23d9023d",
+                "question_id": 12,
+                "question": "what are the two labels on the table?",
+                "question_type": "kitchen",
+                "correct_answer": "twix and chips ahoy!",
+                "timestamp": 135.8
+            },
+            {
+                "video_id": "92ca14f8-204b-4b7c-abb8-8646efe377a8",
+                "question_id": 12,
+                "question": "which item on the table contains soup or food from lofoten?",
+                "question_type": "kitchen",
+                "correct_answer": "cooking pot",
+                "timestamp": 125.5
+            },
+            {
+                "video_id": "b432d0b3-d6c6-4565-9733-3aa97b8812dd",
+                "question_id": 12,
+                "question": "which product packaging has the word \"pure\" on it?",
+                "question_type": "kitchen",
+                "correct_answer": "diaper boxes",
+                "timestamp": 138.3
+            },
+            {
+                "video_id": "0a8b2c9d-b54c-4811-acf3-5977895d2445",
+                "question_id": 13,
+                "question": "what is the current time?",
+                "question_type": "kitchen",
+                "correct_answer": "23:42:00",
+                "timestamp": 148.5
+            },
+            {
+                "video_id": "2f258314-0325-45e8-8bf8-53594bfde802",
+                "question_id": 13,
+                "question": "what time does the clock on my phone show?",
+                "question_type": "kitchen",
+                "correct_answer": "23:42:00",
+                "timestamp": 148.5
+            },
+            {
+                "video_id": "5e43992d-adb3-4bf0-8d8e-221b895b7c9a",
+                "question_id": 13,
+                "question": "which spice jar is labeled \"paprika\"?",
+                "question_type": "kitchen",
+                "correct_answer": "the jar with orange label on the second shelf",
+                "timestamp": 134.7
+            },
+            {
+                "video_id": "6b4e9866-df2c-4b46-92b7-55e1496f0189",
+                "question_id": 13,
+                "question": "where should i store the nice! strawberries after i finish cutting them?",
+                "question_type": "kitchen",
+                "correct_answer": "put them back in the nice! bag",
+                "timestamp": 139.2
+            },
+            {
+                "video_id": "8e7ee3d9-3bb6-421c-be50-5b473b90673d",
+                "question_id": 13,
+                "question": "what brand is the red box on the counter from, and what might it contain?",
+                "question_type": "kitchen",
+                "correct_answer": "co-op ,some groceries or kitchen items",
+                "timestamp": 140.5
+            },
+            {
+                "video_id": "97b84f3c-0718-447b-b51b-756ac55889ff",
+                "question_id": 13,
+                "question": "what is the brand of the range hood?",
+                "question_type": "kitchen",
+                "correct_answer": "ariston",
+                "timestamp": 140.7
+            },
+            {
+                "video_id": "9bbc5382-7faf-43a0-9a12-02c3458c6c89",
+                "question_id": 13,
+                "question": "what is the brand of dish soap?",
+                "question_type": "kitchen",
+                "correct_answer": "fairy",
+                "timestamp": 143.3
+            },
+            {
+                "video_id": "ab90c1f3-716f-49a7-b0c2-24af62873c53",
+                "question_id": 13,
+                "question": "what is the product labeled \"miso\" used for, and where do i place it after taking it out of the fridge?",
+                "question_type": "kitchen",
+                "correct_answer": "it is used for soups and was placed back onto the top shelf",
+                "timestamp": 139.0
+            },
+            {
+                "video_id": "b432d0b3-d6c6-4565-9733-3aa97b8812dd",
+                "question_id": 13,
+                "question": "where are the pampers aqua pure wipes?",
+                "question_type": "kitchen",
+                "correct_answer": "on the shelf",
+                "timestamp": 138.3
+            },
+            {
+                "video_id": "d6255083-1ee7-43b0-ab6c-8c4db7a36bc1",
+                "question_id": 13,
+                "question": "what is the brand and model of the kitchen hood?",
+                "question_type": "kitchen",
+                "correct_answer": "kitchen hood cxt 18",
+                "timestamp": 143.3
+            },
+            {
+                "video_id": "dcfb28cd-7381-4241-9691-3197b2b539a4",
+                "question_id": 13,
+                "question": "what brand of bottle am i holding?",
+                "question_type": "kitchen",
+                "correct_answer": "heinz tomato ketchup",
+                "timestamp": 145.8
+            },
+            {
+                "video_id": "0a8b2c9d-b54c-4811-acf3-5977895d2445",
+                "question_id": 14,
+                "question": "which branded cleaning product is near the sink?",
+                "question_type": "kitchen",
+                "correct_answer": "lux",
+                "timestamp": 148.5
+            },
+            {
+                "video_id": "236b985c-7515-4e36-a2dd-b65f62bc9ca7",
+                "question_id": 14,
+                "question": "what is written on the sign hanging on the wall?",
+                "question_type": "kitchen",
+                "correct_answer": "friends",
+                "timestamp": 136.3
+            },
+            {
+                "video_id": "29bf513f-e6c3-4b89-b485-7820e9cb15f1",
+                "question_id": 14,
+                "question": "what is written on my t-shirt?",
+                "question_type": "kitchen",
+                "correct_answer": "athlete",
+                "timestamp": 141.5
+            },
+            {
+                "video_id": "2f258314-0325-45e8-8bf8-53594bfde802",
+                "question_id": 14,
+                "question": "which brand of dishwashing liquid is on the kitchen counter near the sink?",
+                "question_type": "kitchen",
+                "correct_answer": "lux",
+                "timestamp": 148.5
+            },
+            {
+                "video_id": "344e50a2-802e-479d-9b89-ea7f9d927e06",
+                "question_id": 14,
+                "question": "which brand of yogurt is on the middle shelf of the fridge on the right side?",
+                "question_type": "kitchen",
+                "correct_answer": "alpro",
+                "timestamp": 144.3
+            },
+            {
+                "video_id": "6b4e9866-df2c-4b46-92b7-55e1496f0189",
+                "question_id": 14,
+                "question": "which ingredients do i need to use with the perfect chai to make a complete drink?",
+                "question_type": "kitchen",
+                "correct_answer": "use hot water and milk",
+                "timestamp": 139.2
+            },
+            {
+                "video_id": "6ccfb6b6-9dfa-4cae-9c35-b4bbe4be43da",
+                "question_id": 14,
+                "question": "which cereal brand is stored on the counter and might be used for breakfast?",
+                "question_type": "kitchen",
+                "correct_answer": "weetabix crunchy bran",
+                "timestamp": 131.7
+            },
+            {
+                "video_id": "9bbc5382-7faf-43a0-9a12-02c3458c6c89",
+                "question_id": 14,
+                "question": "where is the \"fairy\"?",
+                "question_type": "kitchen",
+                "correct_answer": "on the right side of the sink",
+                "timestamp": 143.3
+            },
+            {
+                "video_id": "dcfb28cd-7381-4241-9691-3197b2b539a4",
+                "question_id": 14,
+                "question": "where is the \"sole\" product stored?",
+                "question_type": "kitchen",
+                "correct_answer": "in the refrigerator",
+                "timestamp": 145.8
+            },
+            {
+                "video_id": "7cdc1d93-dc10-4f18-b2b4-caab23d9023d",
+                "question_id": 15,
+                "question": "what snack options are available on the table?",
+                "question_type": "kitchen",
+                "correct_answer": "chips ahoy!",
+                "timestamp": 135.8
+            },
+            {
+                "video_id": "81ab2c1f-08dc-4c72-aca0-53d81e77cc0b",
+                "question_id": 15,
+                "question": "how many tomatoes are in the clear plastic container?",
+                "question_type": "kitchen",
+                "correct_answer": "one",
+                "timestamp": 148.0
+            },
+            {
+                "video_id": "89ef10fe-0233-463e-bfcb-35e1d2d92f7f",
+                "question_id": 15,
+                "question": "where are available the details about the nutritional information on the ready meal package?",
+                "question_type": "kitchen",
+                "correct_answer": "back side of the package",
+                "timestamp": 143.7
+            },
+            {
+                "video_id": "b1a1280a-1f7f-4796-bca2-ba03f3fb9345",
+                "question_id": 15,
+                "question": "where is the \"great value\" cereal pack?",
+                "question_type": "kitchen",
+                "correct_answer": "on the counter",
+                "timestamp": 147.3
+            }
+        ]
+    }
+]
