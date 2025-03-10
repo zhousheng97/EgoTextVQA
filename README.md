@@ -63,7 +63,7 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 
  ##  ✅ TODO List
  - [x] Release paper on arxiv.
-- [ ] Release dataset.
+- [x] Release dataset.
 - [ ] Release model QA and evaluation code.
 
 
