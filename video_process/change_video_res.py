@@ -48,8 +48,8 @@ def resize_video(input_video_path, output_video_path, scale_factor=0.5):
 
 
 # Define input and output video directories
-input_folder = '/mnt/data/sheng/EgoSTVidQA_Data/egostvidqa/roadtextvqa/fps6_video_high_res'
-output_folder = '/mnt/data/sheng/EgoSTVidQA_Data/egostvidqa/roadtextvqa/fps6_video_low_res'
+input_folder = '../egotextvqa/outdoor/fps6_video_high_res'
+output_folder = '../egotextvqa/outdoor/fps6_video_low_res'
 
 # Ensure the output folder exists
 os.makedirs(output_folder, exist_ok=True)
