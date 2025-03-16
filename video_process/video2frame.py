@@ -67,7 +67,7 @@ def process_videos(input_folder, output_folder, min_frames=1080):
         extract_frames(video_path, video_frame_folder, min_frames)
 
 if __name__ == "__main__":
-    INPUT_FOLDER = '/mnt/data/sheng/EgoSTVidQA_Data/egostvidqa/roadtextvqa/fps6_video_low_res'
-    OUTPUT_FOLDER = '/mnt/data/sheng/EgoSTVidQA_Data/egostvidqa/roadtextvqa/fps6_frame_low_res'
+    INPUT_FOLDER = '../egotextvqa/outdoor/fps6_video_low_res'
+    OUTPUT_FOLDER = '../egotextvqa/outdoor/fps6_frame_low_res'
     
     process_videos(INPUT_FOLDER, OUTPUT_FOLDER)
