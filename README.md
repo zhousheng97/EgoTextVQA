@@ -108,7 +108,7 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 
 5. MLLM QA Prompt: Please see ```mllm_prompt.json```.
 
-6. MLLM Evaluation: Please use ```gpt_eval.json```.
+6. MLLM Evaluation: Please use ```gpt_eval.py```.
 
 
 ## 📈 Experiment Results
