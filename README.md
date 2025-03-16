@@ -81,7 +81,7 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
    + *Obtian fps6_frame*. Then use ```video_process/video2frame.py``` to process the fps=6 video into video frames for model evaluation.
    + *Others*. More video process codes in the experiment can be found in ```video_process``` of the repo.
 
-    Repo structure as below:
+    Data structure as below:
     ```
     root
     ├── data
