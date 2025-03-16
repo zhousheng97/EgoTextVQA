@@ -180,7 +180,7 @@ def calculate_score(model_name, dataset):
 
     print(args.output_json)
     
-    if dataset == 'roadtextvqa':
+    if dataset == 'outdoor':
         score_data = {
             'location': {'score_sum': 0, 'count': 0, 'yes_count': 0, 'no_count': 0},
             'direction': {'score_sum': 0, 'count': 0, 'yes_count': 0, 'no_count': 0},
