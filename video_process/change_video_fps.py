@@ -71,8 +71,8 @@ def process_video_folder(input_folder, output_folder, target_fps=6):
         process_video(input_path, output_path, target_fps)
 
 if __name__ == "__main__":
-    RAW_FOLDER = '/mnt/data/sheng/EgoSTVidQA_Data/egostvidqa/ego4d/raw_video'
-    SAVE_FOLDER = '/mnt/data/sheng/EgoSTVidQA_Data/egostvidqa/ego4d/fps6_video'
+    RAW_FOLDER = '../egotextvqa/indoor/raw_video'
+    SAVE_FOLDER = '../egotextvqa/indoor/fps6_video'
     TARGET_FPS = 6
     
     process_video_folder(RAW_FOLDER, SAVE_FOLDER, TARGET_FPS)
