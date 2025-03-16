@@ -2,8 +2,8 @@ import cv2
 import os
 
 # Define input and output folder paths
-input_folder = '/mnt/data/sheng/EgoSTVidQA_Data/egostvidqa/ego4d/fps6_video'  # Folder containing video files
-output_folder = '/mnt/data/sheng/EgoSTVidQA_Data/egostvidqa/ego4d/fps1_frames'  # Folder to save extracted frames
+input_folder = '../egotextvqa/indoor/fps6_video'  # Folder containing video files
+output_folder = '../egotextvqa/indoor/fps1_frames'  # Folder to save extracted frames
 
 # Set video frame rate (FPS) and sampling interval
 fps = 6  # Assuming the video FPS is 6
