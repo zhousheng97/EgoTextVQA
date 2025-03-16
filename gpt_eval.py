@@ -102,7 +102,7 @@ def annotate(model_name, qa_set):
                         "Provide your eval_code only as a yes/no and score where the score is an integer value between 0 and 5, with 5 indicating the highest meaningful match. "
                         "Please generate the response in the form of a Python dictionary string with keys 'pred' and 'score', where value of 'pred' is a string of 'yes' or 'no' and value of 'score' is in INTEGER, not STRING. "
                         "DO NOT PROVIDE ANY OTHER OUTPUT TEXT OR EXPLANATION. Only provide the Python dictionary string. "
-                        "For example, your response should look like this: {'pred': 'yes', 'score': 4}."
+                        "For example, your response should look like this: {'pred': 'yes', 'score': 5}, {'pred': 'no', 'score': 1}."
                 }
             ],
             stream=False,
