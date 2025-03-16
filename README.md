@@ -22,6 +22,7 @@
 ---
 
 ## 🔥 Update
+- `2025.03.16` We have released our dataset and welcome researchers to use it for evaluation! (If you want to integrate it into a tool or repository for use, please feel free to let me know.)
 - `2025.02.27` Our paper has been accepted by **CVPR 2025**! 🎉 Thanks to all co-authors and dataset annotators.
 - `2025.02.11` We are very proud to launch ✨**EgoTextVQA**✨, a novel and rigorously constructed benchmark for egocentric QA assistance involving scene text! Our paper has been released on [arXiv](https://arxiv.org/abs/2502.07411).
 
@@ -64,8 +65,8 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 
  ##  ✅ TODO List
  - [x] Release paper on arxiv.
-- [x] Release dataset.
-- [ ] Release model QA and evaluation code.
+ - [x] Release dataset.
+ - [x] Release model QA and evaluation code.
 
 
 ## 📝 Evaluation Pipeline
@@ -80,6 +81,23 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
    + *Obtian fps6_frame*. Then use ```video_process/video2frame.py``` to process the fps=6 video into video frames for model evaluation.
    + *Others*. More video process codes in the experiment can be found in ```video_process``` of the repo.
 
+    Repo structure as below:
+    ```
+    root
+    ├── data
+    │   └──  indoor
+    │       ├── fps6_frames
+    │       ├── fps6_videos
+    │       ├── raw_videos
+    │   └──  outdoor
+    │       ├── fps6_frame_high_res
+    │       ├── fps6_frame_low_res
+    │       ├── fps6_video_high_res
+    │       ├── fps6_video_low_res
+    │       ├── raw_videos
+    ```
+
+
 3. **QA files**:
    
      Please clone our GitHub Repo.
@@ -88,10 +106,9 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
       cd data
       ```
 
-5. MLLM QA Prompt:
-   
+5. MLLM QA Prompt: Please see ```mllm_prompt.json```.
 
-6. MLLM Evaluation:
+6. MLLM Evaluation: Please use ```gpt_eval.json```.
 
 
 ## 📈 Experiment Results
