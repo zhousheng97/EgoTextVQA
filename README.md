@@ -75,6 +75,8 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
    + *Obtain raw_video*. Please download the EgoTextVQA-Outdoor videos from the [Google Drive](https://drive.google.com/drive/folders/1uGE-dObMFpmuhewHi9K_I8pdCbV8efm1?usp=drive_link) and the EgoTextVQA-Indoor videos from the [EgoSchema](https://github.com/egoschema/EgoSchema) GitHub by following their instructions.
    We provide the video IDs for our dataset in ```egotextvqa_outdoor_videoID.json``` (694 videos) and ```egotextvqa_indoor_videoID.json``` (813 videos).
 
+   + 📢 You can download EgoTextVQA videos directly on [Hugging Face](https://huggingface.co/datasets/ShengZhou97/EgoTextVQA/tree/main).
+
 2. **Video Process**:
    + *Obtain fps6_video*. After downloading the raw video, use ```video_process/change_video_fps.py``` to uniformly process the video to fps=6.
    + *Obtian fps6_video_high_res and fps6_video_low_res*. The EgoTextVQA outdoor video is processed into two versions, where the original video is a high-resolution version (1920×1080, 1280×720) and the low-resolution version (960×540, 640×360) is processed using ```video_process/change_video_res.py```. For EgoTextVQA-Indoor, we do not deal with video resolution.
