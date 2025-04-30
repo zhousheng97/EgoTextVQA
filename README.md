@@ -72,7 +72,7 @@ EgoTextVQA is a novel and rigorously constructed benchmark for egocentric QA ass
 ## 📝 Evaluation Pipeline
 1. **Download Videos**:
    
-   + *Obtain raw_video*. Please download the EgoTextVQA-Outdoor videos from the [Google Drive](https://drive.google.com/drive/folders/1uGE-dObMFpmuhewHi9K_I8pdCbV8efm1?usp=drive_link) and the EgoTextVQA-Indoor videos from the [EgoSchema](https://github.com/egoschema/EgoSchema) GitHub by following their instructions.
+   + *Obtain raw_video*. Please download the EgoTextVQA-Outdoor videos from the [EgoTextVQA-Outdoor Google Drive](https://drive.google.com/drive/folders/1uGE-dObMFpmuhewHi9K_I8pdCbV8efm1?usp=drive_link) and the EgoTextVQA-Indoor videos from the [EgoSchema](https://github.com/egoschema/EgoSchema) GitHub by following their instructions or download from [EgoTextVQA-Indoor Google Drive](https://drive.google.com/file/d/12TZyzoJVZ4GxPKMTZWZzIFnwetECPpI2/view?usp=drive_link).
    We provide the video IDs for our dataset in ```egotextvqa_outdoor_videoID.json``` (694 videos) and ```egotextvqa_indoor_videoID.json``` (813 videos).
 
    + 📢 You can download EgoTextVQA videos directly on [Hugging Face](https://huggingface.co/datasets/ShengZhou97/EgoTextVQA/tree/main).
