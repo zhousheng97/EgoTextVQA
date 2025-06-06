@@ -158,11 +158,13 @@ If you have any questions or suggestions about the dataset, please contact: hzgn
 ## ✨ Citation
 If this work is helpful to you, consider giving this repository a 🌟 and citing our papers as follows:
 ```
-@article{zhou2025egotextvqa,
-      title={EgoTextVQA: Towards Egocentric Scene-Text Aware Video Question Answering}, 
-      author={Sheng Zhou and Junbin Xiao and Qingyun Li and Yicong Li and Xun Yang and Dan Guo and Meng Wang and Tat-Seng Chua and Angela Yao},
-      journal={arXiv preprint arXiv:2502.07411},
-      year={2025}
+@InProceedings{Zhou_2025_CVPR,
+    author    = {Zhou, Sheng and Xiao, Junbin and Li, Qingyun and Li, Yicong and Yang, Xun and Guo, Dan and Wang, Meng and Chua, Tat-Seng and Yao, Angela},
+    title     = {EgoTextVQA: Towards Egocentric Scene-Text Aware Video Question Answering},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {3363-3373}
 }
 ```
 
